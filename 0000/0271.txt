@@ -1,8 +1,8 @@
-イッシュずかん
-ぜんこくずかん
-みつけたかず
-つかまえたかず
-けんさくけっか
+﻿Isshu Dex
+National Dex
+No. Seen
+No. Caught
+Search Result
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
 ？？？？？

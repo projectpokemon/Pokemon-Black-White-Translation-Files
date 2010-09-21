@@ -1,23 +1,23 @@
-せっていを　かえる
-はなしの　はやさ
-せんとうアニメ
-しあいの　ルール
-サウンド
-もじモード
-むせん
+﻿Options
+Text Speed
+Battle Scene
+Battle Style
+Sound
+Button Mode
+Frame
 ＩＲの　レポート
-けってい
-やめる
-おそい
-ふつう
-はやい
-みる
-みない
-いれかえ
-かちぬき
-ステレオ
-モノラル
-ひらがな
+Confirm
+Quit
+Slow
+Mid
+Fast
+On
+Off
+Shift
+Set
+Stereo
+Mono
+Normal
 かんじ
 オン
 オフ
