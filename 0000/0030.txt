@@ -3,7 +3,7 @@ Text Speed
 Battle Scene
 Battle Style
 Sound
-Button Mode
+Text Mode
 Frame
 ＩＲの　レポート
 Confirm
@@ -17,8 +17,8 @@ Shift
 Set
 Stereo
 Mono
-Normal
-かんじ
+English
+Kanji
 オン
 オフ
 かく

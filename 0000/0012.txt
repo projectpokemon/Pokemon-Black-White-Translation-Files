@@ -1,112 +1,112 @@
-\xf000ā\x0001\x0000
+﻿\xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
+Held item
+Personality
+Characteristic
 \xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
+Box 1
+Box 2
+Box 3
+Box 4
+Box 5
+Box 6
+Box 7
+Box 8
+Box 9
+Box 10
+Box 11
+Box 12
+Box 13
+Box 14
+Box 15
+Box 16
+Box 17
+Box 18
+Box 19
+Box 20
+Box 21
+Box 22
+Box 23
+Box 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
-だいすき１
-だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-レシラム
-ゼクロム
-モノクロ
-プラズマだん
-ムンナ
-ゾロアーク
-サブウェイ
-ミュージカル
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
-ボックスをきりかえる
-もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
-ねかせる
-けってい
-やめる
-いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+Jump
+Wallpaper
+Name
+Quit
+Scenery 1
+Scenery 2
+Scenery 3
+Etc.
+Loving 1
+Loving 2
+Woods
+City
+Desert
+Savanna
+Rocky mountain
+Volcano
+Snowy mountain
+Cave
+Beach
+Sea floor
+River
+Sky
+Pokemon center
+Metal
+Check
+Simple
+Special
+Reshiram
+Zekrom
+Monochrome
+Team Plasma
+Munna
+Zoroark
+Subway
+Musical
+Back
+Forward
+Next
+Belt
+Box list
+Battle box
+Switch box
+Organize bag
+View status
+Held item
+Marking
+Free
+Take
+Store
+Quit
+Move
+Move
+Sleep
+OK
+Quit
+Change
+Quit
+Quit
+Change\xfffe Box
+Change\xfffe Wallpaper
+Store\xfffe Pokemon
+To bag
+Hold
+Move
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+Personality
+Characteristic
+Held Item
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
+None
 ？？？
 Ｌｖ．
 Ｎｏ．
-もっているわざ
-はい
-いいえ
+Moves
+Yes
+No
