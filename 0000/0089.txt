@@ -1,117 +1,117 @@
 －－－－－－－－－－
-なぞのばしょ
-とおいばしょ
+Mysterious Place
+Distant Place
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-カノコタウン
-カラクサタウン
-サンヨウシティ
-シッポウシティ
-ヒウンシティ
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-１ばんどうろ
-２ばんどうろ
-３ばんどうろ
-４ばんどうろ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１０ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-１７ばんすいどう
-１８ばんどうろ
-ゆめのあとち
-ヤグルマのもり
-リゾートデザート
-こだいのしろ
-れいとうコンテナ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-チャンピオンロード
-カゴメタウン
-サザナミタウン
-カナワタウン
-ポケモンリーグ
-Ｎのしろ
-ロイヤルイッシュごう
-ギアステーション
-バトルサブウェイ
-ミュージカルホール
-ブラックシティ
-ホワイトフォレスト
-ユナイテッドタワー
-ちかすいみゃくのあな
-フキヨセのほらあな
-しさくのはら
-タワーオブヘブン
-セッカのしつげん
-ショッピングモール
-しゅぎょうのいわや
-シフトファクトリー
-ジャイアントホール
-リバティガーデンとう
-Ｐ２ラボ
-スカイアローブリッジ
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-ハイリンク
-ほうじょうのやしろ
-サザナミわん
-まよいのもり
-しれんのむろ
-しるべのま
-ハイリンクのもり
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-カノコタウン
-ホワイトフォレスト
-ブラックシティ
-れいとうコンテナ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-ジャイアントホール
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-カゴメタウン
-サザナミタウン
-カラクサゲート
-サザナミゲート
-シッポウゲート
-ヒウンゲート
-ライモンゲート
-ソウリュウゲート
-ブラックゲート
-ホワイトゲート
-ブリッジゲート
-ロードゲート
-かいていいせき
+Kanoto Town
+Karakusa Town
+Sanyou Town
+Shippou City
+Hiun City
+Raimon City
+Hobomoe City
+Fukiyose City
+Sekka City
+Souryuu City
+Route 1
+Route 2
+Route 3
+Route 4
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 10
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+Water Route 17
+Route 18
+Dream Ruins
+Yaguruma Forest
+Resort Desert
+Ancient Castle
+Cold Storage
+Thunder Stone Cave
+Mt. Neji
+Ryuurasen Tower
+Champion Road
+Kagome Town
+Sazanami Town
+Kanawa Town
+Pokemon League
+N's Castle
+Royal Isshu Route
+Gear Station
+Battle Subway
+Musical Hall
+Black City
+White Forest
+United Tower
+Groundwater Cave
+Fukiyose Cave
+Shisaku Plains
+Tower of Heaven
+Sekka Wetlands
+Shopping Mall
+Discipline Cavern
+Shift Factory
+Giant Hall
+Liberty Garden Route
+P2 Laboratory
+Sky Arrow Bridge
+Hobomoe Drawbridge
+Cylinder Bridge
+Village Bridge
+Wonder Bridge
+High Link
+Fertility Shrine
+Sazanami Bay
+Lost Forest
+Cellar of Trials
+Room of Conduct
+High Link Forest
+Raimon City
+Hobomoe City
+Fukiyose City
+Sekka City
+Souryuu City
+Kanoko City
+White Forest
+Black City
+Cold Storage
+Thunder Stone Cave
+Mt. Neji
+Ryuurasen Tower
+Giant Hall
+Hobomoe Drawbridge
+Cylinder Bridge
+Village Bridge
+Wonder Bridge
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+Kagome Town
+Sazanami Town
+Karakusa Gate
+Sazanami Gate
+Shippou Gate
+Hiun Gate
+Raimon Gate
+Souryuu Gate
+Black Gate
+White Gate
+Village Gate
+Road Gate
+Abyssal Ruins
