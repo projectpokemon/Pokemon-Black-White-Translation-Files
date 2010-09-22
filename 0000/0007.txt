@@ -1,16 +1,17 @@
-バトルたいかい　へ\xfffeようこそ！
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょうに\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
-デジタルせんしゅしょうを　みる
-せつめいを　きく
-やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x0000\xfffeとうろく　することで　たいかいに\xf000븀\x0000\xfffeさんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+Welcome to the Battle\xfffeTournament!
+At the Battle Tournament\xfffeusing Wi-Fi connection you\xf000븀\x0000\xfffecan participate in Wi-Fi\xf000븁\x0000\xfffetournaments or Live tournaments in\xfffethe event square.\xf000븁\x0000\xfffeThe pokemon that can\xfffeparticipate are the ones\xf000븀\x0000\xfffelocated in your battle box.\xf000븁\x0000\xfffePlease be aware that once\xfffea tournament has begun\xf000븀\x0000\xfffeyou cannot change the\xf000븀\x0000\xfffecontents of your battle\xf000븀\x0000\xfffebox.\xf000븁\x0000\xfffeOnce you participate in\xfffea tournament that\xf000븀\x0000\xfffeinformation is logged in\xf000븀\x0000\xfffeyour Digital player id.\xfffePlease check it.\xf000븁\x0000
+Wi-Fi battle
+Live battle
+Check your Digital player id
+Read the instructions
+Quit
+Participate
+By using your home PC and\xffferegistering on the Pokemon\xf000븀\x0000\xfffeGlobal Link home page\xf000븀\x0000\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeyou can participate in\xf000븀\x0000\xfffetournaments.\xf000븁\x0000\xfffeFor the time of the\xfffetournament and its rulesxf000븀\x0000\xfffeplease check the Pokemon\xf000븀\x0000\xfffeGlobal Link page.\xf000븁\x0000
+Do you want to participate\xfffein the Wi-Fi tournament?
+Do you want to quit\xfffesigning up?
+Yes
+No
+Cancel participation
+Do you want to participate\xfffein the Live tournament?
+You can find out more\xfffeabout the Live tournament\xf000븀\x0000\xfffetime period and information\xf000븀\x0000\xfffeat the official Pokemon site\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeFor the time of the\xfffetournament and its rules\xf000븀\x0000\xfffeplease check the official\xf000븀\x0000\xfffePokemon site.\xf000븁\x0000
+
