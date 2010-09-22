@@ -22,18 +22,18 @@ L\xf000Ȃ\x0001\x0000
 Switch
 ♂
 ♀
-Look at Stats
-Look at Moves
-Can't fight
-Is fighting
+Stats
+Moves
+Unable to Battle
+In Battle
 Standing by
 Partner
-Doesn't have anything
+No Item Held
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Ｌｖ．
 \xf000Ȃ\x0001\x0000
-Until next level
+To Next Level
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 ＨＰ
@@ -61,7 +61,7 @@ Power
 ―
 Accuracy
 \xf000Ȃ\x0001\x0000
-Class
+Category
 Physical
 Status
 Special

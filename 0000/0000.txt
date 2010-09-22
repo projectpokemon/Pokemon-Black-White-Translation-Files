@@ -1,10 +1,10 @@
-No Response
+N/A
 Black
 White
-Man
+Boy
 Girl
-Match
-Exchange
+Battle
+Trade
 City
 Country
 Smart
@@ -15,7 +15,7 @@ Looks
 Personality
 Cool
 Cute
-Weird
+Funny
 Pokabu
 Mijumaru
 Shita-ja
@@ -40,21 +40,21 @@ Interesting
 Cool
 Nice
 Rich
-Fight
+Battle
 Collect
-Talk
+Story
 Pokémon
 First Language
 Math
-Cooking
-Society
+Science
+Social Studies
 First Language
 Math
-Cooking
-Society
+Science
+Social Studies
 Trainer
-Pokémon Expert
-Plasma Gang
+Pokémon Professor
+Team Plasma
 Pokémon
 Play Outside
 Shop
@@ -101,20 +101,20 @@ Student
 Office Worker
 Creator
 Self-employed
-Govt. Employee
-House Wife
+Govt. Official
+Housewife
 Artist
-Job Hopper
-Pod
-Dent
-Cone
+Job-Hopper
+Podda
+Dento
+Koon
 Aloe
-Arty
-Camicelle
-Ya-kon
+Arti
+Kamitsure
+Yacon
 Fuuro
 Hachiku
-Eris
+Iris
 Shaga
 Normal
 Fire
@@ -125,7 +125,7 @@ Ice
 Fighting
 Poison
 Ground
-Flight
+Flying
 Psychic
 Bug
 Rock

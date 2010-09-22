@@ -3,9 +3,9 @@ Text Speed
 Battle Scene
 Battle Style
 Sound
-Text Mode
+Button Mode
 Frame
-ＩＲの　レポート
+IR Report
 Confirm
 Quit
 Slow
@@ -17,10 +17,10 @@ Shift
 Set
 Stereo
 Mono
-English
+Normal
 Kanji
-オン
-オフ
+Write
+Off
 かく
 かかない
 メッセージの　はやさを\xfffe３しゅるいから　えらべます
@@ -32,6 +32,6 @@ Kanji
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
 えらんだ　せっていに　かえますか？
-はい
-いいえ
+Yes
+No
 ダミーメッセージ

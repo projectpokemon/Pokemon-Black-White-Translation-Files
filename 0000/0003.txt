@@ -1,19 +1,19 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
-はい
-いいえ
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
-はい
-いいえ
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
-はい
-いいえ
-バトルビデオに　きろくちゅう　です！\xfffeしばらく　おまちください！
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
+Do you want to save \xfffethis match in your VS Recoder?
+Yes
+No
+Data will be lost forever\xfffeare you sure?
+Yes
+No
+You will be overwriting your previous battle video\xfffeis that OK?
+Yes
+No
+Your video is now saving.\xfffePlease wait!
+Your match has been saved.
+There was an error\xfffeVideo couldn't be saved.
 あいてを　まっています\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
+You cannot record a match with this opponent.
+You cannot record this match.
 ＳＥＬＥＣＴ　ＴＩＭＥ
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
