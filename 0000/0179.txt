@@ -2,9 +2,9 @@ Continue Game
 New Game
 Mystery Gift
 Wi-Fi Settings
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
+Global Link
+Register GL
+Transfer Machine
 Mic Test
 しゅじんこう
 Playtime　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
@@ -18,14 +18,14 @@ Badges　\xf000ȁ\x0001\x0000
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000むせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000オンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 ふしぎな　おくりもの\xfffeしょかい　じゅしん
-ちゅうい！
+Warning!
 つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
+Warning!
+There already is a save file.\xfffeStarting a new adventure now,\xfffewill not be able to save.\xfffeDo you want to start even\xfffethough you can't save?
+A Button: Continue
+B Button: Back to menu
+Enable the C-Gear?
+Do you realy want to\xfffedisable the C-Gear?
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
 Ｃギアの　スキンデータが\xfffeきえてしまった！
