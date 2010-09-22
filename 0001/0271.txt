@@ -1,8 +1,8 @@
-イッシュ図鑑
-全国図鑑
-みつけた数
-捕まえた数
-検索結果
+イッシュ図鑑 - Ish Encyclopedia(Dex?)
+全国図鑑 - National Encyclopedia(Dex?)
+みつけた数 - Number Seen
+捕まえた数 - Number Caught
+検索結果 - Search Results
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
 ？？？？？
