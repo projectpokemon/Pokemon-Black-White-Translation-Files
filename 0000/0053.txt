@@ -427,114 +427,114 @@ An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffe
 ー\xfffeー\xfffeー
 ー\xfffeー\xfffeー
 たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はいれる。
-たんこうで　てにいれた\xfffeたからものを　しまっておける\xfffeおおきくて　じょうぶな　ふくろ。
-たいせんの　ルールが　かかれている。\xfffeつうしんたいせん　するとき\xfffeルールを　えらぶことが　できる。
-くさむらに　かくれている　ポケモンを\xfffeさがしだせる　どうぐ。\xfffeあるくと　でんちが　たまる。
-かちとった　バトルポイントの　かずを\xfffeみることが　できる　カード。\xfffe
-これまでの　ぼうけんの　ようすが\xfffeきろく　されている　ノート。\xfffe
-ボールカプセルに　はりつけられる\xfffeシールが　はいった　いれもの。\xfffe
-ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる　きれいで　すてきなケース。
-シールが　１０まい　いれられる\xfffeちっちゃな　ふくろ。\xfffe
-ともだちを　とうろくしたり\xfffeあそんだ　ことを　きろくする\xfffeべんりな　てちょう。
-たにまのはつでんしょの　とびらを\xfffeあけしめする　おおきな　カギ。\xfffeなぜか　ギンガだんが　もっていた。
-カンナギタウンの　ちょうろうに\xfffeとどける　おおむかしの　おまもり。\xfffeポケモンの　ホネで　つくられている。
-ギンガだんアジトの　セキュリティを\xfffeかいじょ　するための　カードキー。\xfffeなくすと　おしおき　されるらしい。
-シンオウちほうを　うみだした\xfffeでんせつの　ポケモンを　つなぐと\xfffeいわれる　しんわの　どうぐ。
-いつでも　てがるに　みることが\xfffeできる　べんりな　ちず。\xfffeじぶんの　ばしょも　わかる。
-たたかいたい　トレーナーを\xfffeおしえてくれる　きかい。\xfffeあるくと　でんちが　たまる。
-ゲームコーナーで　てにいれた\xfffeコインを　５００００まい　まで\xfffeいれることが　できる　ケース。
-ふるくて　ボロい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-あたらしくて　いい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-さいしんの　すごい　つりざお。\xfffeみずの　ある　ばしょで　つかうと\xfffeポケモンが　つれる。
-みずを　かける　どうぐ。\xfffeふかふかのつちに　うめた　きのみを\xfffeすくすく　そだてる。
-おりょうりで　つくった　ポフィンを\xfffeほぞんする　いれもの。\xfffe
-ランニングシューズ　よりも\xfffeはやく　はしることが　できる\xfffeおりたたみしきの　じてんしゃ。
-みずうみの　ほとりにある\xfffeこうきゅうホテルの　ルームキー。\xfffeなぜか　よく　なくなってしまう。
-オーキドはかせ　からの　てがみ。\xfffeなかには　２２４ばんどうろに\xfffeきてほしいと　かかれている。
-つきのような　かがやきを　はなつ\xfffeはね。　あくむを　ふりはらう　ちからを\xfffeひめていると　つたえられている。
-ミオシティの　やどやに　はいれる\xfffeカード。　なぜか　５０ねんほどまえの\xfffeひづけが　きざまれている。
-このよの　ものとは　おもえない\xfffeねいろが　なりひびく　ふえ。　いつ\xfffeだれが　つくったのか　わからない。
-こうそくせん　アクアごうに　のるとき\xfffeひつような　ふねの　チケット。\xfffeふねの　えが　かかれている。
-もっていれば　ポケモンコンテストに\xfffeさんか　することが　できる。\xfffeきねんリボンが　かかれている。
-しゃくねつの　マグマの　ねつでとけた\xfffeがんせきが　かたまって　できたもの。\xfffeなかに　マグマが　のこっている。
-フタバタウンから　たびだった\xfffeおさななじみに　わたすように\xfffeたのまれた　おとどけもの。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-ポケモンウォッチ　ちぢめて\xfffeポケッチを　もらうために　ひつような\xfffeひきかえけん。　３まい　ひつよう。
-トバリシティの　はずれにある\xfffeギンガだんの　あやしい\xfffeそうこに　はいるための　カギ。
-タンバシティの　くすりやで　もらった\xfffeどんな　ポケモンでも　たちまち\xfffeげんきになる　すごい　くすり。
-ともだち　との　しょうぶや\xfffeとくしゅな　しせつでの　しょうぶを\xfffeきろくできる　かっこいい　きかい。
-たんじょうびや　きねんび　などに\xfffeかんしゃの　きもちを　つたえるため\xfffeブーケにして　おくることが　ある。
-きまった　ばしょで　つかうことで\xfffeとくしゅな　でんきしんごうを　だして\xfffeとびらを　あける　ハイテクな　カギ。
-ぼんぐりを　９９こ　ほぞん　できる\xfffeべんりな　いれもの。\xfffe
-みつけた　アンノーンの　ようすが\xfffeきろく　されている　ノート。\xfffe
-いつでも　てがるに　きのみを\xfffeそだてられる　けいたいしきの\xfffeさいばい　ようき。
-みえない　どうぐに　はんのうして\xfffeおとと　ひかりで　おしえてくれる\xfffeさいしんの　きかい。
-「アオイのあいことば」　ばんぐみの\xfffeポイントを　ためる　カード。\xfffe
-とても　おいしい　なにかの　しっぽ。\xfffeショップで　たかく　うれる。\xfffe
-こころ　やすまる　ねいろが　きける\xfffeとても　ふるめかしい　スズ。\xfffe
-ラジオきょくの　シャッターを　あける\xfffeカードしきの　カギ。\xfffe
-コガネちかどうに　ある　とびらを\xfffeあける　カギ。\xfffe
-みずを　かける　どうぐ。\xfffeきのみプランターの　きのみを\xfffeすくすく　そだてる。
-いかりのみずうみに　あらわれた\xfffeあかい　ギャラドスの　ウロコ。\xfffeほのおのように　あかく　かがやく。
-モノマネむすめが　なくした\xfffeマネネの　にんぎょう。\xfffe
-リニアカーに　のるときに　ひつような\xfffeチケット。　いつでも　のりほうだい。\xfffe
-はつでんしょから　ぬすまれた\xfffeはつでんきの　たいせつな　ぶひん。\xfffe
-ぎんいろに　ひかり　かがやく\xfffeふしぎな　はね。\xfffe
-にじいろに　ひかり　かがやく\xfffeふしぎな　はね。\xfffe
-ポケモンじいさんから　あずかった\xfffeふしぎな　もようの　タマゴ。\xfffeなんの　タマゴか　わからない。
-あかい　ぼんぐり。\xfffeつーんと　はなにくる　においがする。\xfffe
-あおい　ぼんぐり。\xfffeすこし　あおくさい　かおりがする。\xfffe
-きいろの　ぼんぐり。\xfffeさわやかな　かおりが　する。\xfffe
-みどりの　ぼんぐり。\xfffeふしぎと　こうばしい　かおりがする。\xfffe
-ももいろの　ぼんぐり。\xfffeあまそうな　いい　においがする。\xfffe
-しろい　ぼんぐり。\xfffeなんの　においも　しない。\xfffe
-くろい　ぼんぐり。\xfffeなんともいえない　においがする。\xfffe
-にげあしの　はやい　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-じぶんの　ポケモンより　レベルが\xfffeひくいほど　つかまえやすくなる\xfffeちょっと　かわった　ボール。　
-つりざおで　つりあげた　ポケモンだと\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-たいじゅうの　おもい　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-じぶんの　ポケモンと　せいべつが\xfffeちがうと　つかまえやすくなる\xfffeちょっと　かわった　ボール。　
-つかまえた　やせいポケモンが\xfffeすぐに　なついて　くれる\xfffeちょっと　かわった　ボール。　
-つきのいしで　しんかする　ポケモンが\xfffeつかまえやすくなる\xfffeちょっと　かわった　ボール。　
-むしとりたいかいの　なかで\xfffeつかう　とくべつな　ボール。　\xfffe
-パルパークの　なかで\xfffeつかう　とくべつな　ボール。　\xfffe
-ぼうけんちゅうに　さつえいした\xfffeきねんしゃしんを　かざる　アルバム。\xfffe
-なつかしい　きょくが　きける\xfffeおんがく　プレイヤー。\xfffeスイッチ　ひとつで　きりかえられる。
-こころ　やすまる　ねいろが　きける\xfffeとても　ふるめかしい　スズ。\xfffe
-チョウジめいぶつの　まんじゅう。\xfffeおみやげひん　として　ゆうめい。\xfffe
-ポケスロンの　きろくが　はいっている。\xfffeゆうしょう　かいすうが\xfffe
-ポケスロンの　きろくが　はいっている。\xfffeビリになった　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　ダッシュした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　ジャンプした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeダッシュハードル　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeチェンジリレー　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeスティールフラッグ　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeブレイクブロック　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeキャッチソーサー　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeシューティングスノー　１い\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　かくとく　ポイントが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　しっぱいした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　じめつした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　たいあたり　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　おちた　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeリングアウトファイト　１い\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeゲットトランポリン　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeプッシュサークル　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeつうしん　ポケスロンの　ゆうしょう\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeつうしん　ポケスロンの　ビリになった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeきょうぎで　１い　になった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeきょうぎで　ビリになった\xfffeかいすうが　きろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンの　こうたい　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeスマッシュゴール　１い　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeこじんしょう　かくとく　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケモンを　タッチした　かいすうが\xfffeきろくされた　カード。
-ポケスロンの　きろくが　はいっている。\xfffeポケスロンで　あそんだ　じかんが\xfffeきろくされた　カード。
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeみどりいろに　かがやく　たま。
-とくしゅな　カギで　あけられる\xfffeがんじょうな　カプセル。\xfffe
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeあかく　かがやく　たま。
-ホウエンちほうの　でんせつと\xfffeふかい　かかわりが　あると　いわれる\xfffeあおく　かがやく　たま。
-じめんから　ほりだされた\xfffeすいしょうだま。いわと　つちで\xfffeおおわれているが　とても　きれい。
+A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
+It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
+A tool that can search out Pokémon\xfffethat are hiding in grass. Its battery is\xffferecharged as you walk.
+A card that lists the Battle Points\xfffeyou have earned.\xfffe
+A notebook that keeps a day-to-day\xffferecord of your adventure so far.\xfffe
+A case for storing Seals that can be\xfffeapplied to the Capsule cases of\xfffePoké Balls.
+A fancy case for the tidy arrangement\xfffeand storage of whimsical Pokémon\xfffeAccessories.
+A tiny bag that can hold ten Seals for\xfffedecorating Poké Balls.
+A convenient notepad that is used for\xffferegistering your friends, Friend Codes,\xfffeand keeping a record of game play.
+A large key for operating the doors of\xfffethe Valley Windworks in the canyon.\xfffeIt was held by a Team Galactic Grunt.
+An ancient good-luck charm made of\xfffePokémon bones to be taken to the elder\xfffeof Celestic Town.
+A card key for disengaging security\xfffesystems in the Galactic HQ. Losing it\xfffecan result in punishment, apparently.
+A mythical chain that is said to link\xfffethe legendary Pokémon that created\xfffethe Sinnoh region.
+A very convenient map that can be\xfffeviewed anytime. It even shows your\xfffepresent location.
+A device that indicates Trainers who\xfffewant to battle. Its battery charges\xfffewhile you walk.
+A case for holding coins obtained at\xfffethe Game Corner.\xfffeIt holds up to 50,000 coins.
+An old and beat-up fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
+A new, good-quality fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
+An awesome, high-tech fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
+A watering can shaped like a PSYDUCK.\xfffeIt helps promote healthy growth of\xfffeBerries planted in soft soil.
+A case for storing Poffin cooked from\xfffeBerries.\xfffe
+A folding Bicycle that enables much\xfffefaster movement than the Running\xfffeShoes.
+A key to one of the suites at the\xfffeluxury hotel by a lake. For some odd\xfffereason, it often disappears.
+A letter from Prof. Oak.\xfffeWritten in it is a request for you to\xfffego to Rt. 224.
+A feather that glows like the moon.\xfffeIt is said to possess the power to\xfffedispel nightmares.
+A card needed for entering the inn in\xfffeCanalave City. Oddly, the last date\xfffemarked on it was 50 years ago.
+A flute that puts out echoing sounds\xfffethat do not seem to be of this world.\xfffeIt is unknown who made it.
+The ticket required for sailing on the\xfffeferry S.S. Aqua. It has a drawing of a\xfffeship on it.
+The pass required for entering Pokémon\xfffeContests. It has a drawing of an award\xffferibbon on it.
+A stone formed when boulders melted in\xfffeintensely hot magma, then hardened.\xfffeMagma remains sealed inside.
+A parcel entrusted in your care.\xfffeYou are supposed to deliver it to your\xfffechildhood friend who left Twinleaf Town.
+A coupon to be exchanged for a\xfffePokémon Watch (Pokétch for short).\xfffeThree coupons are needed.
+A coupon to be exchanged for a\xfffePokémon Watch (Pokétch for short).\xfffeThree coupons are needed.
+A coupon to be exchanged for a\xfffePokémon Watch (Pokétch for short).\xfffeThree coupons are needed.
+The key to Team Galactic’s sinister\xfffewarehouse located at the edge of\xfffeVeilstone City.
+A fantastic medicine dispensed by the\xfffepharmacy in Cianwood City. It fully\xfffeheals a Pokémon of any ailment.
+An amazing device that can record a\xfffebattle either between friends or at a\xfffespecial battle facility.
+A flower sometimes bundled in bouquets\xfffeto convey gratitude on special\xfffeoccasions like birthdays.
+A high-tech key that has to be used at\xfffea specific location. It emits a special\xfffeelectric signal to open a door.
+A handy box where you can store up to\xfffe99 Apricorns of each kind.
+A report of all the discovered kinds\xfffeof UNOWN.
+Handy containers for cultivating\xfffeBerries wherever you go.
+It checks for unseen items in the area\xfffeand makes noise and lights when it\xfffefinds something.
+A card to save points for the\xfffeBuena’s Password show.
+A very tasty tail of something.\xfffeIt sells for a high price.
+A very old-fashioned bell that makes a\xfffegentle ringing.
+A card key that opens a shutter in the\xfffeRadio Tower.
+A key that opens a door in the\xfffeGoldenrod Tunnel.
+A bottle used for watering plants in the\xfffeBerry Pots.
+A scale from the red GYARADOS. It glows\xfffered like a flame.
+The Poké Doll lost by the Copycat.
+A ticket required for riding the Magnet\xfffeTrain. It allows you to ride whenever\xfffeand however much you’d like.
+An important machine part for the\xfffePower Plant that was stolen.
+A strange, silvery feather\xfffethat sparkles.
+A mystical, rainbow feather\xfffethat sparkles.
+A mysterious Egg obtained from Mr.\xfffePokémon. What’s in the Egg is unknown.
+A red Apricorn.\xfffeIt assails your nostrils.
+A yellow Apricorn.\xfffeIt has an invigorating scent.
+A blue Apricorn.\xfffeIt smells a bit like grass.
+A green Apricorn.\xfffeIt has a mysterious, aromatic scent.
+A pink Apricorn.\xfffeIt has a nice, sweet scent.
+A white Apricorn.\xfffeIt doesn’t smell like anything.
+A black Apricorn\xfffeIt has an indescribable scent.
+A Poké Ball that makes it easier to\xfffecatch fast Pokémon.
+A Poké Ball for catching Pokémon that\xfffeare a lower level than your own.
+A Poké Ball for catching Pokémon hooked\xfffeby a Rod when fishing.
+A Poké Ball for catching very heavy\xfffePokémon.
+Poké Ball for catching Pokémon that are\xfffethe opposite gender of your Pokémon.
+A Poké Ball that makes caught Pokémon\xfffemore friendly.
+A Poké Ball for catching Pokémon that\xfffeevolve using the Moon Stone.
+A special Poké Ball for the\xfffeBug-Catching Contest.
+A special Poké Ball for the Pal Park.
+A nice photo album for storing all the\xfffephotos taken along your adventure.
+A music player that allows you to listen\xfffeto nostalgic songs. It’s operated with\xfffea single switch.
+An old-fashioned bell with a gentle,\xfffesoothing sound.
+A famous candy in Mahogany Town. Many\xfffetourists like to buy them to take home.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many victories\xfffeyou’ve had.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many\xfffelosses you’ve had.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon have dashed.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon have jumped.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon the Hurdle Dash.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon the Relay Run.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Pennant Capture.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Block Smash.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Disc Catch.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Snow Throw.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many points\xfffeyour Pokémon scored.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon have failed.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon impeded themselves.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon have tackled.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon have fallen down.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Ring Drop.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Lamp Jump.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Circle Push.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many \xfffeLink Pokéathlon wins you’ve had.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many\xfffeLink Pokéathlon losses you’ve had.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times\xfffeyou’ve won an event.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times \xfffeyou’ve lost an event.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffeswitched Pokémon.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Goal Roll.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon won individual prizes.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffeinstructed your Pokémon.
+It holds Pokéathlon records. It’s a\xfffecard that shows how much time you’ve\xfffespent in the Pokéathlon.
+A shiny green orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
+A sturdy Capsule that can only be\xfffeopened with a special key.
+A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
+A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
+A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
 ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　ウロコ。\xfffeにじいろに　かがやいている。
 しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
 とても　かるい　いし。\xfffeもたせると　ポケモンの\xfffeたいじゅうが　かるくなる。
