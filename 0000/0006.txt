@@ -110,31 +110,31 @@ Peeked into treasure bag!
 Took out \xf000ĉ\x0001\x0000!
 Put away \xf000ĉ\x0001\x0000\xfffe in \xf000ĉ\x0001\x0001.
 You took out everything!
-なかには　なにも\xfffeなかった……
-しかし　いっぱいで\xfffeとりだせ　なかった……
-バッテリー　が　たりない！\xfffeじゅうでん　かんりょうまで\xf000븀\x0000あと　\xf000ȁ\x0001\x0000ほ　
-くさむらは\xfffeしずか　だった……
-ポフィンのかず
-\xf000Ȃ\x0001\x0000／１００
-りょうりに　つかう　きのみを\xfffeバッグから　えらんで　ください！
-つれあるいている　ときは\xfffeつかえません！
-いまは　それどころじゃ　ない！
-どうぐ　ポケット\xfffeぼうけんに　やくだつ\xfffeべんりな　どうぐを　いれます
-かいふく　ポケット\xfffeポケモンの　ＨＰや　ＰＰを\xfffeかいふくさせる　どうぐを　いれます
-ボール　ポケット\xfffeさまざまな　しゅるいの\xfffeモンスターボールを　いれます
-わざマシン　ポケット\xfffeさまざまな　しゅるいの\xfffeわざマシンを　いれます
-きのみ　ポケット\xfffeたくさんの　きのみを\xfffeせいりして　いれます
-メール　ポケット\xfffeカラフルな　びんせんを\xfffeせいりして　いれます
-せんとうよう　ポケット\xfffeポケモンしょうぶで　やくだつ\xfffeどうぐを　いれます
-たいせつなもの　ポケット\xfffeぼうけんに　なくてはならない\xfffeどうぐを　いれます
-とめる
+There was nothing inside...
+However, you could not\xfffetake it out...
+Battery power low!\xfffePlease wait \xf000븀\x0000\xf000ȁ\x0001\x0000 steps until\xfffeit is charged!
+The grass lands\xfffewere quiet...
+Poffins:
+\xf000Ȃ\x0001\x0000／100
+Please pick a powder\xfffeto cook with!
+You can't use that\xfffewhile walking!
+Now's not the timefor that!
+Item Pocket\xfffeItems that will help with\xfffeyour adventure go here.
+Medicine Pocket\xfffeItems that restore\xfffeHP or PP go here.
+Poke Ball Pocket\xfffeVarious Poke Ball types\xfffego here.
+TM & HM Pocket\xfffeVarious TMs and HMs\xfffego here.
+Berry Pocket\xfffeSort and store tons\xfffeof powders here.
+Mail Pocket\xfffeSort various colorful\xfffepapers here.
+Battle Item Pocket\xfffeItems that will be useful\xfffein battle go here.
+Key Item Pocket\xfffeItems that are essential to\xfffeyour adventure go here.
+Stop
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-はい
-いいえ
+Yes
+No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-もっていません
-ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
-ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
-もちものを　せいり　しました！
+You don't have this.
+You used a Dark Stone\xfffebut nothing happened...
+You used a Light Stone\xfffebut nothing happened...
+Your items have been\xfffeorganized!
 \xf000Ē\x0001\x0000
