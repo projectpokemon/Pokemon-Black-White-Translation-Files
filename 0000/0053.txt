@@ -1,4 +1,4 @@
-???
+-\xfffe-\xfffe-
 The best Ball with the ultimate level\xfffeof performance. It will catch any\xfffewild Pokémon without fail.
 An ultra-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a Great Ball.
 A good, high-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a standard Poké Ball.
@@ -424,8 +424,8 @@ An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffe
 こんしんの　ちからで　こうげきする。\xfffeおもいいわを　おすことも　できる。\xfffe
 たきを　さかのぼるような　すさまじい\xfffeいきおいで　とっしん　こうげきする。\xfffeたきを　のぼることも　できる。
 １ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeなかに　もぐる　ことも　できる。
-ー\xfffeー\xfffeー
-ー\xfffeー\xfffeー
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はいれる。
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
