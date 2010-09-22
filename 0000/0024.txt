@@ -1,18 +1,18 @@
-ハイリンク
-ライブ\xfffe　　キャスター
-ユニオンルーム
-\xf000ȁ\x0001\x0000にん
-ワイヤレスはいしん
-あり
-なし
-はい
-いいえ
-もどる
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
-Ｃギア　キャッチ
-あり
-なし
-ハイリンク\xfffe　コネクト…
-ハイリンク\xfffe　ゲスト：\xf000Ȁ\x0001\x0000
-ハイリンク\xfffe　ミッション
+High Link
+Live\xfffe　　Caster
+Union Room
+\xf000ȁ\x0001\x0000 people
+Wireless Transmission
+Available
+Unavailable
+Yes
+No
+Back
+Would you like to make a\xfffePokemon report of your\xf000븀\x0000activity here?
+Saving data.\xfffePlease wait.
+C-Gear Catch
+Available
+Unavailable
+High Link\xfffe　Connecting...
+High Link\xfffe　Guest: \xf000Ȁ\x0001\x0000
+High Link\xfffe　Mission
