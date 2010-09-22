@@ -66,7 +66,7 @@ The effects of the last spray\xfffearen't finished yet!
 \xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Decreased Pokemon encounters!
 \xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Increased Pokemon encounters!
 The box is full!
-Amount of powder:　\xf000ȃ\x0001\x0000
+Powders:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
