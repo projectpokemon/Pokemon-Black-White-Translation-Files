@@ -1,22 +1,22 @@
-つかう
-すてる
-とうろく
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
+Use
+Throw away
+Record
+Give
+Look at tag
+Confirm
+Get off
+Go back
+Quit
+Show
+Dummy
+Cancel
+Inventory
+Mail
+Take
+Give
+Look
+Nothing
+Release
 ？？？
 ？？？？？
 ／
@@ -32,40 +32,40 @@
 →
 ＩＤＮｏ
 　
-カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Cursor
+Go back!
+What next?
+Give
 \xf000Ȃ\x0001\x0000
 ×
-のみ
-\xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000つかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000つかいどきが　あるのよ
-あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000ポケモンと\xfffeそうぐう　しやすくなった！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000ポケモンと\xfffeそうぐう　しにくくなった！
-ボックスが　いっぱい　です！
+Drink
+\xf000ȃ\x0001\x0000
+Close
+What about \xf000ĉ\x0001\x0000?
+You cannot write\xfffemail here！
+There's no Pokemon!
+Move \xf000ĉ\x0001\x0000.
+You can't give them\xfffe\xf000ĉ\x0001\x0000!
+You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
+Store how many\xfffe\xf000ĉ\x0001\x0000?
+You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+You can't store any more!
+This is an important item\xfffeso you can't throw it away！
+Throw away how many \xf000ĉ\x0001\x0000?
+You threw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+You can't get off here!
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Your coins:　\xf000Ȅ\x0001\x0000
+Booted up a TM!
+Booted up an HM!
+It contained\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000Teach \xf000ć\x0001\x000\xfffeto a Pokemon?
+\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!
+The effects of the last spray\xfffearen't finished yet!
+\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Decreased Pokemon encounters!
+\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Increased Pokemon encounters!
+The box is full!
 こなの　りょう　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
