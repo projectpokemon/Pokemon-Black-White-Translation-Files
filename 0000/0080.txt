@@ -1,84 +1,84 @@
 Welcome to Mystery Gift!
-How do you want to \xffferecieve a Mystery Gift?
-DS Comunications will be launched.
-Searching for a Mystery Gift.\xfffePlease wait a moment...
-Do you want to recieve \xfffethis Mystery Gift?
-ほかの　おくりものを　さがしますか？
-もうしこみを　しました\xfffeしばらく　おまち　ください……
-おくりものを　じゅしんちゅう　です\xfffeでんげんを　きらないで　ください……
-おくりものを　うけとりました！\xf000븁\x0000フレンドリィ　ショップ　で\xfffeはいたついん　から　うけとってね！
-この　おくりものは\xfffeほかの　ひとからの　おすそわけ　です\xf000븁\x0000この　おくりものを　うけとっても\xfffeともだちに　くばることは　できません\xf000븁\x0000この　おくりものを\xfffeうけとりますか？
+Please choose how you want to\xfffereceive your gift.
+DS Wireless Communications will\xfffebe launched.
+Searching for a gift.\xfffePlease wait...
+Receive this gift?
+Search for a different gift?
+Your request has been sent.\xfffePlease wait a moment...
+Receiving your gift.\xfffeDon’t turn off the power.
+The gift has been received!\xf000븁\x0000Please pick up your gift from the\xfffedeliveryman in any Poké Center.
+This gift is being shared by\xfffeanother person.\xf000븁\x0000You may accept this gift, but you\xfffewill not be able to distribute it\xf000븀\x0000to your friends.\xf000븁\x0000Will you accept this gift?
 ふしぎなカードが\xfffe１まいも　ありません
-ポケモンレンジャー\xfffeマナフィのタマゴ　じゅしん
-Recieve Gifts
-View Gifts
-Quit
-ともだちから　うけとる
-Via Wi-Fi Connection
-Back
+Pokémon Ranger\xfffeMANAPHY Egg Transfer
+Recieve Gift
+Check Card
+Exit
+Get from a Friend
+Get via Nintendo WFC
+Cancel
 Yes
 No
-Via DS Wireless
-はいたついんが　もっている\xfffeおくりものが　いっぱい　です！\xf000븁\x0000フレンドリィショップに　いって\xfffeおくりもの　を　うけとって　ください
-この　おくりもの　は\xfffeいちど　うけとったことが　あるので\xf000븀\x0000うけとることが　できません！
-おくりものが\xfffeみつかりません　でした
-もうしこみが　きょひ　されました
-ふしぎなカードが　いっぱい　です！\xf000븁\x0000おくりものを\xfffeうけとることが　できません！
-おくりものを　うけとるのに\xfffeしっぱい　しました\xf000븁\x0000Ａボタンを　おすと\xfffeタイトルに　もどります
-おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000うけとることが　できません\xf000븀\x0000Ａボタンで　メニューに　もどります
-おすそわけ　してくれる　ひと　との\xfffeつうしんが　せつだん　されました
+Get via Wireless
+Our deliveryman is overloaded with\xfffegifts for you!\xf000븁\x0000Please see him at any Poké Mart and\xfffepick up some of your gifts.
+You’ve already received this gift.\xfffeYou may not get another one.
+There were no gifts to be found.
+Your request was turned down.
+You are out of room for\xfffeWonder Cards.\xf000븁\x0000You may not accept another gift.
+There was a problem with\xfffereceiving the gift.\xf000븁\x0000Press the A Button to return to\xfffethe title screen.
+A gift has been found, but it cannot\xfffebe received using this version.\xf000븀\x0000Press the A Button to return to\xfffethe menu.
+The person sharing has\xfffebeen disconnected...
 ポケモンレンジャーと\xfffeせつぞく　しています
-Ａボタンを　おして　ください
+Press the A Button.
 レポートを　かいています\xfffeしばらく　おまち　ください
 タマゴを　てんそうちゅう　です
 タマゴの　じゅしんに\xfffeしっぱい　しました
-ポケモンレンジャーの　がめんを\xfffeタッチしてください
+Please touch Pokémon Ranger’s\xfffegame screen.
 ポケモンレンジャーの\xfffeじゅんび　まち　です
-ふしぎなカード
-フレンドリィショップ　に　いる\xfffeはいたついん　から　うけとってね
-この　おくりものは\xfffeすでに　うけとりました
-この　カードには\xfffeおくりものが　ありません
-もらったひづけ
-この　おくりものは　\xf000Ĵ\x0001\x0000かい\xfffeともだちに　くばることが　できます
-せつめいを　よむ
-おすそわけ
-すてる
-やめる
-おすそわけを　しますか？
-はい
-いいえ
+Wonder Card\xfffeWhat would you like to do?
+Please pick up your gift from the\xfffedeliveryman in any Poké Mart.
+You have already received\xfffethis gift before.
+This card does not have\xfffea gift attached.
+Date received
+This gift can be distributed　\xf000Ĵ\x0001\x0000 time(s).
+Info
+Share
+Trash
+Exit
+Would you like to share this gift?
+Yes
+No
 \xf000ĵ\x0001\x0000／\xf000ĳ\x0001\x0001／\xf000ĳ\x0001\x0002
 この　カードを　どうしますか？
-この　おくりものは　なんどでも\xfffeともだちに　くばることが　できます
-ともだちはいしん　うけつけちゅう
+This gift can be shared with as\xfffemany friends as you like.
+Pal Distribution Registration
 \xf000ă\x0001\x0000
-ＩＤＮｏ．\xf000Ķ\x0001\x0000
-げんざいの\xfffeエントリー
+ID No. \xf000Ķ\x0001\x0000
+Current\xfffeentries
 \xf000\xff00\x0001\x0001\xf000Ĳ\x0001\x0000\xf000\xff00\x0001\x0000／４
-くばる
-やめる
-おすそわけを　しています……\xfffeでんげんを　きらないで　ください
-おすそわけ　が　ぶじに\xfffeしゅうりょう　しました！
-この　カードを　すてますか？
-おくりものを　うけとってませんが\xfffeこの　カードを　すてますか？
-カードを　すてています……\xfffeでんげんを　きらないで　ください
-はい
-いいえ
+Send
+Cancel
+Gift distribution under way...\xfffeDon’t turn off the power.
+Your gift distribution\xfffewas successful.
+Throw this card away?
+You haven’t received your gift yet.\xfffeDo you want to discard this card?
+Discarding...\xfffeDon’t turn off the power.
+Yes
+No
 \xf000\xff00\x0001\x0003\xf000ă\x0001\x0000\xf000\xff00\x0001\x0002　\xf000\xff00\x0001\x0000ＩＤＮｏ．\xf000Ķ\x0001\x0001
 ＩＤＮｏ．\xf000Ķ\x0001\x0001
-もうしこみナンバー
+Application No.:
 \xf000ĵ\x0001\x0000ー\xf000ĵ\x0001\x0001
-ポケモンレンジャーの　もうしこみを\xfffeうけつけちゅう　です
-ポケモンレンジャー　からの\xfffeてんそうを　まっています
-マナフィのタマゴを　うけとっています\xfffeでんげんを　きらないで　ください
-てんそうが　しゅうりょう　しました\xfffeＡボタンで　タイトルに　もどります
-ポケモンレンジャーとの　つうしんが\xfffeせつだん　されました
+Receiving a Recruitment Message\xfffefrom a Pokémon Ranger.
+Awaiting transfer from Pokémon\xfffeRanger.
+Receiving the MANAPHY Egg...\xfffeDon’t turn off the power.
+The transfer has been completed.\xfffeA Button: title screen.
+The connection with Pokémon Ranger\xfffehas been lost... Press the A Button.
 フィオレちほう　から　おくられてきた\xfffeマナフィのタマゴ　だ！
 マナフィのタマゴ
-ＤＳワイヤレスつうしん　を\xfffeかいし　します
-Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　しますか？
-ふしぎな　おくりもの　へ　ようこそ！
-おくりものを　うけとる
+DS Wireless Communications\xfffewill be launched.
+Connect to Nintendo Wi-Fi Connection?
+The Lock Capsule is held in the\xfffestrictest safekeeping.
+The Lock Capsule was delivered safely!
 カードアルバムを　みる
 やめる
 ふしぎな　おくりものを　うけとるため\xfffeつうしんを　かいしします\xf000븀\x0000\xfffeよろしいですか？
