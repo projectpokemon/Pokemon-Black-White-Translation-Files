@@ -1,8 +1,8 @@
 『検索モード』 - [Search Mode]
-条件を　入れてください
+条件を　入れてください - Please include the same conditions.
 『検索の結果』 - [Search Results]
 みつかった数　\xf000Ȃ\x0001\x0000 - Number of Misses \xf000Ȃ\x0001\x0000
-ならび順を　入れてください
+ならび順を　入れてください - Please enter your rank/line/row(not sure which one)
 名前の　頭文字を　入れてください - Please enter your nickname(possibly initials) 
 タイプを　入れてください - Please enter the type of
 形を　入れてください - Please enter the form
