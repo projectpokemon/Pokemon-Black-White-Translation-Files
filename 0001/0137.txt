@@ -1,8 +1,8 @@
 10まんほると
 ……
-\x{c548}\x{b155}\x{d558}\x{c138}\x{c694}
+\x00008}\x00005}\x00008}\x00008}\x00004}
 bonjour
-C\x{ff0d}GEAR
+C\x0000d}GEAR
 ciao
 GTS
 hallo
@@ -20,4 +20,4 @@ PIC_たいすき
 PIC_たのしい
 PIC_はいはい
 PIC_はしめまして
-Wi\x{ff0d}Fi
+Wi\x0000d}Fi
