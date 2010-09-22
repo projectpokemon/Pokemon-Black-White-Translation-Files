@@ -1,68 +1,68 @@
-\xf000ȁ\x0001\x0000にん
-ごうけい\xf000Ȅ\x0001\x0000にん
-だれにおれいをする？
-\xf000Ā\x0001\x0000さんに\xfffeおれいを　しました！
-\xf000đ\x0001\x0001を\xfffeつかいますか？\xfffeひつよう　\xf000Ȃ\x0001\x0002こ／もってる　\xf000Ȃ\x0001\x0003こ
-\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000đ\x0001\x0001を\xfffeつかいますか？
-とくしゅデルパワー　はつどう！！\xfffe\xf000đ\x0001\x0001を\xfffeつかいますか？
-\xf000đ\x0001\x0001を\xfffeつかいました！
-デルパワーを　つかうには\xfffeデルダマが　たりません\xfffeひつよう　\xf000Ȃ\x0001\x0002こ／もってる\xf000Ȃ\x0001\x0003こ
-\xf000đ\x0001\x0001を\xfffeつかっています\xfffeのこり　\xf000ȁ\x0001\x0005びょう
-\xf000đ\x0001\x0001を\xfffeつかっています\xfffeのこり　\xf000Ȃ\x0001\x0004ふん\xf000ȁ\x0001\x0005びょう
-『\xf000Ĝ\x0001\x0000』と\xfffeはつげんしました！
-かくにん
-はい
-いいえ
-かくにん
-とじる
-げんき？
-『\xf000Ā\x0001\x0000』さんが\xfffeちかくに　います
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001を\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンを\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の\xfffeレベルが　あがりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　しんかして\xfffe\xf000ā\x0001\x0001に　なりました！
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeみつけました！
-\xf000Ā\x0001\x0000さんの\xfffeプレイじかんが　\xf000Ȃ\x0001\x0001じかんを\xfffeこえました！
-\xf000Ā\x0001\x0000さんの\xfffeポケモンずかんが　かんせい　しました！
-\xf000Ā\x0001\x0000さんの\xfffeおれいかいすうが　\xf000Ȃ\x0001\x0001かいを\xfffeこえました！
-\xf000Ā\x0001\x0000さんが\xfffeユニオンルームの　うけつけにいます
-\xf000Ā\x0001\x0000さんから\xfffeかんしゃ　されました！
-げんざい　\xf000ā\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　\xf000ĉ\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　ふしぎな　おくりものを\xfffeはいしんちゅう　です！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　こうげきが\xfffeきゅうしょに　あたりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　こうげきを\xfffeきゅうしょに　うけました！
-\xf000Ā\x0001\x0000さんは\xfffeせんとうから　にげだしました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＨＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＰＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeひんしの　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeじょうたいいじょうです！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんは\xfffeタマゴを　うけとりました
-\xf000Ā\x0001\x0000さんの　タマゴから\xfffe\xf000ā\x0001\x0001が　うまれました！
-\xf000Ā\x0001\x0000さんは\xfffeかいものちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffe\xf000Ȁ\x0001\x0001れんしょうちゅうです！
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffeトロフィーを　てにいれました！
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスに\xfffeちょうせんしました
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスで\xfffe\xf000ģ\x0001\x0001に　にんていされました！
-\xf000Ā\x0001\x0000さんは\xfffeかんらんしゃに　のりました
-\xf000Ā\x0001\x0000さんは\xfffeポケシフターに　はいりました
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002は　ミュージカルに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは　うけとった\xfffe\xf000đ\x0001\x0001を\xfffeつかいました！
-\xf000Ā\x0001\x0000さんが\xfffe『\xf000Ĝ\x0001\x0001』と\xfffeはつげんしました
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
+\ Xf000ȁ \ x0001 \ x0000'm in
+If you Uke \ xf000Ȅ \ x0001 \ x0000'm in
+Who make you Rei?
+\ Xf000Ā \ x0001 \ x0000 Friends \ xfffe to the Rei you!
+\ Xf000đ \ x0001 \ x0001 to \ xfffe Tsukaimasu you? \ Xfffe as Hitsu \ xf000Ȃ \ x0001 \ x0002 can / I have \ xf000Ȃ \ x0001 \ x0003 can
+\ Xf000Ā \ x0001 \ x0000 What's Hatsu \ xfffe \ xf000đ \ x0001 \ x0001 to \ xfffe Tsukaimasu you?
+Toku for the Dell Power Tsudou Chu! ! \ Xfffe \ xf000đ \ x0001 \ x0001 to \ xfffe Tsukaimasu you?
+\ Xf000đ \ x0001 \ x0001 to \ xfffe Tsukaimashita!
+Spending power in Dell \ xfffe Tarimasen the Derudama \ xfffe as Hitsu \ xf000Ȃ \ x0001 \ x0002 can / I have \ xf000Ȃ \ x0001 \ x0003 can
+\ Xf000đ \ x0001 \ x0001 to \ xfffe has Tsukatsu \ xfffe rest \ xf000ȁ \ x0001 \ x0005 disease
+\ Xf000đ \ x0001 \ x0001 to \ xfffe has Tsukatsu \ xfffe rest \ xf000Ȃ \ x0001 \ x0004 poop \ xf000ȁ \ x0001 \ x0005 disease
+[\ Xf000Ĝ \ x0001 \ x0000] and \ xfffe for atomic repellent!
+I scratch the
+Yes
+No
+I scratch the
+CLOSE
+Genki?
+[\ Xf000Ā \ x0001 \ x0000's] \ xfffe has a nearly
+\ Xf000Ā \ x0001 \ x0000's \ xfffe's not skinny \ xf000ā \ x0001 \ x0001 and \ xfffe Thank for the commencement not!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe's not skinny \ xf000ā \ x0001 \ x0001 and \ xfffe cane for indications not long ago!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special Pokemon \ xfffe Thank for the commencement not!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special Pokemon \ xfffe cane for indications not long ago!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ď \ x0001 \ x0001 in \ xf000Ā \ x0001 \ x0002 and \ xfffe do with the commencement Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ď \ x0001 \ x0001 in \ xf000Ā \ x0001 \ x0002 and \ xfffe with a cane I wonder Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Gym Leader and \ xfffe do with the commencement Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Gym Leader and \ xfffe with a cane I wonder Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special trainer \ xfffe do with the commencement Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special trainer \ xfffe with a cane I wonder Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special trainer \ xfffe do with the commencement Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe with such a special trainer \ xfffe with a cane I wonder Taise!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe's not skinny \ xf000ā \ x0001 \ x0001 to \ xfffe Tsukamaemashita!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe such a special Pokemon \ xfffe Tsukamaemashita!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 in \ xfffe levels were raised!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 or for the Shin \ xfffe \ xf000ā \ x0001 \ x0001 now!
+For the same action ID along with \ xfffe dummy messages
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000ĉ \ x0001 \ x0001 to \ xfffe I found!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe the dry Pureiji \ xf000Ȃ \ x0001 \ x0001 hours or a \ xfffe Koemashita!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe to speak because of the dry Pokemonzu!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe but you have my math \ xf000Ȃ \ x0001 \ x0001 paddles \ xfffe Koemashita!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Union has room to Uketsuke
+\ Xf000Ā \ x0001 \ x0000 from friends \ xfffe person was dry!
+Languages annoying \ xf000ā \ x0001 \ x0001 to \ xfffe brass is yes!
+Languages annoying \ xf000ĉ \ x0001 \ x0001 to \ xfffe brass is yes!
+Gift annoying things strange atomic \ xfffe brass is yes!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 Grief is the way \ xfffe cane Atarimashita to baseball!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 Grief This is a \ xfffe cane Ukemashita to baseball!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Nigedashimashita Toukara not!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002's and HP \ xfffe is Joutai Sukunai rest!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 but the PP \ xfffe is Joutai Sukunai rest!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 is \ xfffe situation A is on the verge!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 is \ xfffe Youtaiijoudesu same!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000ĉ \ x0001 \ x0001 to \ xfffe has Tsukatsu
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000ć \ x0001 \ x0001 to \ xfffe has Tsukatsu
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Uketorimashita an egg
+\ Xf000Ā \ x0001 \ x0000 from the egg's \ xfffe \ xf000ā \ x0001 \ x0001 that was born!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Yuudesu even after you
+\ Xf000Ā \ x0001 \ x0000's \ xfffe to Batorusabuuei \ xfffe Yousenchuudesu Chi
+\ Xf000Ā \ x0001 \ x0000's \ xfffe in Batorusabuuei \ xfffe \ xf000Ȁ \ x0001 \ x0001 Youchuudesu to Ren!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe in Batorusabuuei \ xfffe Iremashita on to the trophy!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe trial House \ xfffe not for the butterfly
+\ Xf000Ā \ x0001 \ x0000's \ xfffe trial House \ xfffe \ xf000ģ \ x0001 \ x0001 they were the offender!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe Norimashita a person peridotite
+\ Xf000Ā \ x0001 \ x0000's \ xfffe have entered the Pokeshifuta
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 is a musical \ xfffe Yousenchuudesu Chi
+\ Xf000Ā \ x0001 \ x0000's Uketotta \ xfffe \ xf000đ \ x0001 \ x0001 to \ xfffe Tsukaimashita!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe [\ xf000Ĝ \ x0001 \ x0001] and \ xfffe repellent for atomic
+For identical action ID along with \ xfffe dummy messages
