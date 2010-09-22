@@ -118,7 +118,7 @@ Poffins:
 \xf000Ȃ\x0001\x0000／100
 Please pick a powder\xfffeto cook with!
 You can't use that\xfffewhile walking!
-Now's not the timefor that!
+Now's not the time for that!
 Item Pocket\xfffeItems that will help with\xfffeyour adventure go here.
 Medicine Pocket\xfffeItems that restore\xfffeHP or PP go here.
 Poke Ball Pocket\xfffeVarious Poke Ball types\xfffego here.
