@@ -1,106 +1,106 @@
 None
 ON
 OFF
-ピンクのかみどめ
-ブルーのかみどめ
-まっかなかみどめ
-あおいはな
-あかいスカーフ
-あかいはな
-おおきなかみどめ
-カチューシャ
-しかくいメガネ
-しましまかみどめ
-ちいさなかみどめ
-リボンのかざり
-トートバッグ
-ネックレス
-はでなはな
-まるいボタン
-みどりのかみどめ
-むぎわらぼうし
-ゆきのけっしょう
-いちりんのはな
-えふで
-ベレーぼうし
-あわだてき
-おたま
-ケーキのもけい
-コックぼうし
-フライパン
-まえかけ
-あかいパラソル
-かぜマスク
-かなづち
-カラフルパラソル
-スパナ
-てもちランプ
-ネジ
-ヘルメット
-ドレスエプロン
-ドレスタイ
-ヘッドドレス
-あかいマント
-おもちゃのカタナ
-おもちゃのつるぎ
-かいぞくぼうし
-カウボーイハット
-かたいたて
-くろいつばさ
-ウィッチハット
-しろいつばさ
-ちゃいろバックル
-つのかぶと
-ほそいやり
-まほうのつえ
-あかはな
-カラフルぼうし
-ぐるぐるメガネ
-クラウン
-くろいネクタイ
-くろいマント
-ゴージャスメガネ
-シルクハット
-しろいかめん
-しろいマント
-しんしのぼうし
-ステッキ
-ナナメネクタイ
-ちいさなとけい
-ちょうネクタイ
-ティアラ
-バラのはな
-モノクル
-よこじまネクタイ
-アフロ
-スタンドマイク
-タンバリン
-ちいさなぼうし
-ハンドマイク
-マラカス
-ラッパ
-くさかんむり
-しろいぼんぼん
-フラッグ
-ボール
-ゆうしょうベルト
-ラケット
-エレキギター
-おもちゃつりざお
-にこにこおめん
-おへそボタン
-はかせのぼうし
-はっぱのスカート
-ぶあついほん
-ブーケ
-ほねのレプリカ
-まんまるきのこ
-しゅりけん
-あかいぼうし
-おおきなふくろ
-キャンディ
-ふさふさのひげ
-プレゼントばこ
+Pink Barrette
+Blue Barrette
+Red Barrette
+Blue Flower
+Red Scarf
+Red Flower
+Big Barrette
+Katyusha
+Square Glasses
+Striped Barrette
+Small Barrette
+Decorative Ribbon
+Tote Bag
+Necklace
+Guady Flower
+Round Button
+Green Barrette
+Straw Hat
+Ice Crystal
+Single Flower
+Paintbrush
+Beret
+Eggbeater
+Egg
+Cake Prop
+Chef's Hat
+Frying Pan
+Apron
+Red Parasol
+Wind Mask
+Hammer
+Colorful Parasol
+Wrench
+Latern
+Screw
+Helmet
+Dress Apron
+Dress Tie
+Red Dress
+Red Mantle
+Toy Katana
+Toy Sword
+Pirate Hat
+Cowboy Hat
+Sturdy Shield
+Black Wings
+Witch's Hat
+White Wings
+Brown Buckle
+Spiked Helmet
+Thin Spear
+Magical Staff
+Red Nose
+Colorful Hat
+Spiral Glasses
+Crown
+Black Necktie
+Black Mantle
+Gorgeous Glasses
+Silk Hat
+White Mask
+White Mantle
+Gentlemanly Glasses
+Steak
+Slanted Necktie
+Small Watch
+Bowtie
+Tiara
+Rose
+Monocle
+Striped Necktie
+Afro
+Microphone Stad
+Tambourine
+Small Hat
+Handheld Microphone
+Maracas
+Trumpet
+Grass Crown
+White Pom-pon
+Flag
+Ball
+Champion's Belt
+Racket
+Electric Guitar
+Toy Fishing Rod
+Smiling Mask
+Belly Button
+Professor's Hat
+Leaf Skirt
+Thick Book
+Bouquet
+Replica Bone
+Round Mushroom
+Shuriken
+Red Hat
+Big Bag
+Candy
+Flowing Beard
+Present Box
 
 
 
