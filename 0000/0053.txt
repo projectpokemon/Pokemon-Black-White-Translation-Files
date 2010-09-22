@@ -107,7 +107,7 @@ A fossil from a prehistoric Pokémon\xfffethat lived on the land. It appears\xff
 A bone that is extremely valuable for\xfffePokémon archaeology. It can be sold\xfffefor a high price to shops.
 A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt shines with a dazzling light.
 A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as dark as dark can be.
- peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt sparkles like eyes.
+A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt sparkles like eyes.
 A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is shaped like an egg.
 A vital item that is needed to keep a\xfffestone tower from collapsing. Voices\xfffecan be heard from it occasionally.
 A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- and Ghost-type moves.
