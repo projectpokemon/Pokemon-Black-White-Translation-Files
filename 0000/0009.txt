@@ -1,8 +1,8 @@
-しょていの　いちに　ついて\xfffeたいせんを　はじめてください
-しばらく　おまちください\xfffe……Ｂボタン　キャンセル
-それでは　さんかする　ポケモンを\xfffe３ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe４ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe６ひき　えらんで　ください\xf000븁\x0000
-たいせんを　しゅうりょう　しますが\xfffeよろしいですか？
-たいせんを　しゅうりょう　します\xfffeしばらく　おまちください
-\xf000Ā\x0001\x0000の　トレーナーケースを\xfffeみせてもらった！
+Tei Itino about cane \ xfffe Please do other Taise
+Please wait a moment \ xfffe ... ... B Button Cancel
+So what's your Pokemon \ xfffe3 Please sawn Eran \ xf000 븁 \ x0000
+So what's your Pokemon \ xfffe4 Please sawn Eran \ xf000 븁 \ x0000
+So what's your Pokemon \ xfffe6 Please sawn Eran \ xf000 븁 \ x0000
+But then I Yuuryou Taise \ xfffe you sure?
+I will then Yuuryou Taise \ xfffe Please wait a moment
+\ Xf000Ā \ x0001 \ x0000 trainer case \ xfffe got to show me!
