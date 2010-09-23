@@ -3,12 +3,34 @@ This is a project for translating the text of Pokémon Black/White.
 We are working with the 0000 directory. Feel free to fork and edit the 0001 directory with translations of other languages or other concepts (such as keeping Romaji names for all pokemon and items instead of some English and some Romaji)
 
 Credits:
-	Translation contributions:
-		Kazo:
-		Kaarosu:
-	Non-Translation contributions:
-		Codr: insight as to the structure of the characters
-		Eevee: first decrypting text
-		Kazo: idea for encryption
-		SCV: program for inserting text to the narc files
+Translation contributions in no particular order:
+	Kazo
+	Kaarosu
+	njt
+	Fishyfish
+	mattmagician
+	Guested
+	Alikhan
+	Glitch
+	Curisu
+	Rhea
+	Atoxic
+	jintrigger
+	Rykin122
+	Windslayer
+	deishido
+	Danniello 
+	Nigoli
+	Karire
+	SailorSpork
+	xxcoldh3artxx 
+	...and growing I'll update this as we go let me know if I missed you
+Non-Translation contributions:
+	Codr: insight as to the structure of the characters
+	Eevee: first decrypting text
+	Kazo: idea for encryption
+	SCV: program for inserting text to the narc files
+	Poryhack: menu graphics
+	Kosheh: status icon graphics
+	Kaphotics: save catalogue
 
