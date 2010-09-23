@@ -1,55 +1,55 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
-本当に　逃がしますか？
-\xf000Ă\x0001\x0000を　外に　逃がしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-手持ちが　一杯です！
-戦うポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　壁紙に　しますか？
-ボックス操作を　続けますか？
-このボックスは　一杯です！
-バッグが　一杯です！
-\xf000ĉ\x0001\x0000を　預かった！
-\xf000ĉ\x0001\x0000を　持たせた！
-ポケモンを　タッチ！
-どのボックスへ　預ける？
-もちものなし
+\ Xf000Ă \ x0001 \ x0000 to do?
+Please mark
+Relieve you sure?
+\ Xf000Ă \ x0001 \ x0000 gave it out to escape
+Frappr \ xf000Ă \ x0001 \ x0000!
+Hand is full!
+Pokemon are fighting is gone!
+What if this box?
+Which box \ xfffe Would you jump?
+How do the themes?
+How do the wallpaper?
+What box to continue?
+This box is full!
+Bag is full!
+\ Xf000ĉ \ x0001 \ x0000 entrusted to?
+\ Xf000ĉ \ x0001 \ x0000 which have to!
+Pokemon touch!
+How to check box?
+Nothing sticky
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　預かりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-道具を　持つことが　できます
-メールを　はずしてください！
-タマゴを　逃がすことは　できません！
-\xf000Ă\x0001\x0000が　戻ってきちゃった！
-心配だったのかな……
-タマゴは　道具を　持てません！
-マークを　タッチしよう！
-ボックスに　おけます！
-手持ちに　くわえることが　できます！
-このボックスは　一杯です！
-手持ちが　一杯です！
-ポケモンを　預ける
-ポケモンを　連れていく
-ボックスを　整理する
-持ち物を　整理する
-バトルボックス
-寝かすポケモンを選ぶ
-メールは　移動できません！
-\xf000ĉ\x0001\x0000を　持てない！
-メールを　持っています！
-戦うポケモンが　いなくなります！
-メールは　移動できません！
-ここでは　メールを　持たせられません
-タマゴは　選べません！
-\xf000Ă\x0001\x0000を　眠らせます\xfffeよろしいですか？
-このポケモンは\xfffe今は眠くないみたいです
-ポケモン選択を　続けますか？
-バトルボックスが　ロックされています\xfffeポケモンは　移動できません
-バトルボックスが　ロックされています\xfffeもちものは　変更できません
+\ Xf000ĉ \ x0001 \ x0000 or the 預Karimasu?
+E-mail that they can not!
+\ Xf000ĉ \ x0001 \ x0000 How do you do?
+\ Xf000ĉ \ x0001 \ x0000 or will the?
+\ Xf000ĉ \ x0001 \ x0000 brewed in the bag!
+Tools can have
+Please remove the mail!
+You can not miss the egg!
+\ Xf000Ă \ x0001 \ x0000 I'm getting back!
+I was worried that ...
+Eggs can not have the tools!
+To touch the mark!
+Okemasu box!
+You can go down to the hand!
+This box is full!
+Handheld is full!
+Pokemon deposit
+Take a pokemon
+Box Organize
+Organize your belongings
+Battle Box
+Select age Pokemon
+E-mail can not move!
+\ Xf000ĉ \ x0001 \ x0000 have trouble!
+You have mail!
+Pokemon are fighting is gone!
+E-mail can not move!
+We can not contain e-mail
+Eggs can not be selected!
+\ Xf000Ă \ x0001 \ x0000 sleep for a \ xfffe you sure?
+This Pokemon \ xfffe now seems sleepy
+Proceed to select Pokemon?
+Battle Box has locked \ xfffe Pokemon can not be moved
+Battle Box has locked \ xfffe what toys can not be changed
