@@ -199,6 +199,10 @@ Colosseum\xfffeSingle, No Restrictions
 Colosseum\xfffeSingle, Cup Match
 Colosseum\xfffeDouble, No Restrictions
 Colosseum\xfffeDouble, Cup Match
+
+
+
+
 1: Colosseum\xfffe    Single, No Restrictions
 2: Colosseum\xfffe    Single, Cup Match
 3: Colosseum\xfffe    Double, No Restrictions
@@ -230,6 +234,7 @@ This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with the\xfffeDress-Up Data.
 There appears to be a problem with the\xfffeProfile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
+
 
 User authentication error.\xfffePlease wait a while before reconnecting.
 There appears to be a problem with the\xfffechosen Pokémon.
@@ -267,9 +272,11 @@ User authentication error.\xfffePlease wait a while before reconnecting.
 There appears to be a problem with the\xfffesearch criteria.
 An error occurred.\xfffeTouch the Touch Screen to continue.
 
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
 An error occurred.\xfffeTouch the Touch Screen to continue.
+
 
 
 
