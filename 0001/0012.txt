@@ -1,112 +1,116 @@
-\xf000ā\x0001\x0000
-\xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
-\xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
-\xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
-だいすき１
-だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-レシラム
-ゼクロム
-モノクロ
-プラズマだん
-ムンナ
-ゾロアーク
-サブウェイ
-ミュージカル
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
-ボックスをきりかえる
-もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
-ねかせる
-けってい
-やめる
-いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+Type text or a website address or translate a document.
+Cancel
+Listen
+Japanese to English translation
+\ Xf000ā \ x0001 \ x0000
+\ Xf000Ă \ x0001 \ x0000
+The rice is also
+Because nuclear
+Because Toku
+\ Xf000ċ \ x0001 \ x0000
+Box 1
+Box 2
+Box 3
+Box 4
+Box 05
+Box 06
+Box 07
+Box 08
+Box 09
+Box 10
+Box 11
+Box 12
+Box 13
+Box 14
+Box 15
+Box 16
+Box 17
+Box 18
+Box 19
+Box 20
+Box 21
+Box 22
+Box 23
+Box 24
+\ Xf000ȁ \ x0001 \ x0000
+Jump to
+I found all
+Detail Page
+Quit
+Speak one way
+2 speak like
+3-way silicon
+Et cetera
+I love you 1
+I love you 2
+Mori
+City
+Judge
+Savanna
+Toyama said
+Volcanoes
+Yuki Toyama
+What shoes
+All sea
+Submarine
+I do
+Sora
+Pokesen
+My family speak
+Check
+Simple
+Special
+Reshiramu
+Zekuromu
+Monochrome
+I'm Plasma
+Munna
+Zorro arc
+SUBWAY
+Musical
+Back
+To before
+Next to
+Pokemon cakes
+Box list
+Battle Box
+Kirikaeru box
+Put roasted rice also
+Explore Yousu
+The rice is also
+Marking
+Nigasu
+She also takes
+Azukeru
+Quit
+If you do
+If you do
+Nekaseru
+Kettei
+Quit
+Irekae
+Quit
+Quit
+Box \ xfffe Kirikaeru
+I found all the \ xfffe Harikaeru
+Pokemon \ xfffe Azukeru
+To bag
+Motaseru
+If you do
 ♂
 ♀
-\xf000Ć\x0001\x0000
-\xf000Ĉ\x0001\x0000
-\xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
-\xf000Ȃ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
+\ Xf000Ć \ x0001 \ x0000
+\ Xf000Ĉ \ x0001 \ x0000
+\ Xf000ĉ \ x0001 \ x0000
+Because nuclear
+Because Toku
+The rice is also
+\ Xf000Ȃ \ x0001 \ x0000
+\ Xf000Ȃ \ x0001 \ x0000
+No
+? ? ?
+Lv.
+No.
+The works have
+Yes
+No
