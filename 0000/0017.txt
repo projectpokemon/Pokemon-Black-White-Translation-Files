@@ -1,14 +1,14 @@
 ●●
 A wild \xf000ā\x0001\x0000 appeared!
 A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-あっ！　やせいの\xfffe\xf000ā\x0001\x0000が　あらわれた！
-やせいの\xfffe\xf000ā\x0001\x0000が　あらわれた！
-ゆめで　であった\xfffe\xf000ā\x0001\x0000が　あらわれた！
-\xf000ā\x0001\x0000が　あらわれた！
+Ah！　A wild \xfffe\xf000ā\x0001\x0000　appeared！
+A wild \xfffe\xf000ā\x0001\x0000　appeared！
+ゆめで　であった\xfffe\xf000ā\x0001\x0000 appeared！
+\xf000ā\x0001\x0000 appeared！
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001が\xfffeしょうぶを　しかけてきた！\xf000븁\x0000
 \xf000Ā\x0001\x0000が\xfffeしょうぶを　しかけてきた！\xf000븁\x0000
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003が\xf000븀\x0000しょうぶを　しかけてきた！\xf000븁\x0000
-\xf000Ā\x0001\x0000と　\xf000Ā\x0001\x0001が\xfffeしょうぶを　しかけてきた！\xf000븁\x0000
+\xf000Ā\x0001\x0000 and　\xf000Ā\x0001\x0001が\xfffeしょうぶを　しかけてきた！\xf000븁\x0000
 Go!　\xf000Ă\x0001\x0000!
 Go!　\xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
 Go!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and\xf000Ă\x0001\x0002!
@@ -36,10 +36,10 @@ Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を　つかった！
 \xf000Ā\x0001\x0000が　\xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を　シュートした！！
 いまは　ミラクルシューターを\xfffeつかうことが　できない！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeひだりへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeみぎへ　ローテーション！
-\xf000Ā\x0001\x0000の　ポケモンが\xfffeみぎへ　ローテーション！
+\xf000Ā\x0001\x0000's Pokemon\xffferotated to the left！
+\xf000Ā\x0001\x0000's Pokemon\xffferotated to the left！
+\xf000Ā\x0001\x0000's Pokemon\xffferotated to the right！
+\xf000Ā\x0001\x0000's Pokemon\xffferotated to the right！
 \xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
 \xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001\xfffeとの　しょうぶに　かった！
@@ -73,9 +73,9 @@ What will \xf000Ā\x0001\x0000 do?
 Got away safely!
 にげられなかった！
 Can’t escape!
-やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
+The wild　\xf000Ă\x0001\x0000\xfffefled！
 No! There’s no running\xfffefrom a Trainer battle!
-しょうぶを　あきらめて\xfffeこうさん　しますか？
+Give up the battle？
 It’s super effective!
 It’s not very effective...
 It hurt itself in its\xfffeconfusion!
@@ -86,15 +86,15 @@ The sunlight turned harsh!
 It started to rain!
 A sandstorm brewed!
 It started to hail!
-きりが　ただよいはじめた！
-ひざしが　もとに　もどった！
-あめが　あがった！
+A deep fog set in！
+The sunlight returned to normal！
+It stopped raining！
 The sandstorm subsided.
-あられが　やんだ！
-きりが　はれた！
-てんこうの　えいきょうが　なくなった！
-すなあらしが　ふきあれる！
-あられが　ふきすさぶ！
+The hail is over！
+The fog cleared！
+The weather effects disappeared！
+The sandstorm rages！
+The hail rains down！
 It’s a one-hit KO!
 \xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょくを　よわめた！
 \xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001しか　だせない！
@@ -156,12 +156,12 @@ The poison spikes disappeared from\xfffearound your team’s feet!
 The poison spikes disappeared from\xfffearound the enemy team’s feet!
 Pointed stones float in the air\xfffearound your team!
 Pointed stones float in the air\xfffearound your foe’s team!
-みかたの　まわりの\xfffeステルスロックが　きえさった！
-あいての　まわりの\xfffeステルスロックが　きえさった！
-みかたの　まわりを\xfffeワイドガードが　まもっている！
-あいての　まわりを\xfffeワイドガードが　まもっている！
-みかたの　まわりを\xfffeファストガードが　まもっている！
-あいての　まわりを\xfffeファストガードが　まもっている！
+The pointed stones disappeared from around your team！
+The pointed stones disappeared from around your foe's team！
+みかたの　まわりを\xfffe wide guard が　まもっている！
+あいての　まわりを\xfffe wide guard が　まもっている！
+みかたの　まわりを\xfffe fast guard が　まもっている！
+あいての　まわりを\xfffe fast guardが　まもっている！
 みかたの　そらに　にじが　かかった！
 あいての　そらに　にじが　かかった！
 みかたの　そらから　にじが　きえた！
@@ -177,9 +177,9 @@ Pointed stones float in the air\xfffearound your foe’s team!
 みかたは　きんちょうして\xfffeきのみが　たべられなくなった！
 あいては　きんちょうして\xfffeきのみが　たべられなくなった！
 ぼうぎょと　とくぼうが　いれかわる\xfffeくうかんを　つくりだした！
-ワンダールームが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
+Wonder roomが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
 もたせた　どうぐの　こうかが\xfffeなくなる　くうかんを　つくりだした！
-マジックルームが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
+Magic roomが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
 \xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょくを　つよめた！
 せいげんじかんが　なくなりました！\xfffeたいせんを　しゅうりょう　します！
 しょうぶの　じかんが　ながすぎるため\xfffeさいせいを　ちゅうだん　します！
@@ -193,7 +193,7 @@ Pointed stones float in the air\xfffearound your foe’s team!
 \xf000Č\x0001\x0000 ignored orders!
 \xf000Č\x0001\x0000 began to nap!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-リセットムーブ！！
+Reset move！！
 しかし　この　どうぐを\xfffeつかえる　ばしょに　いなかった！
 \xf000Č\x0001\x0000は　フリーフォールで\xfffeじゆうに　ならない！
 こうさんが　えらばれました
