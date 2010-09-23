@@ -1669,12 +1669,12 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeBaakuauto!
 \xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
 The wild \xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
 The foe’s \xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
-\xf000ā\x0001\x0000 used\xfffevjenereeto!
-The wild \xf000ā\x0001\x0000 used\xfffevjenereeto!
-The foe’s \xf000ā\x0001\x0000 used\xfffevjenereeto!
+\xf000ā\x0001\x0000 used\xfffeVjenereeto!
+The wild \xf000ā\x0001\x0000 used\xfffeVjenereeto!
+The foe’s \xf000ā\x0001\x0000 used\xfffeVjenereeto!
 \xf000ā\x0001\x0000 used\xfffeKurosufureimu!
 The wild \xf000ā\x0001\x0000 used\xfffeKurosufureimu!
 The foe’s \xf000ā\x0001\x0000 used\xfffeKurosufureimu!
-\xf000ā\x0001\x0000 used\xfffeKkurosusandaa!
-The wild \xf000ā\x0001\x0000 used\xfffeKkurosusandaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKkurosusandaa!
+\xf000ā\x0001\x0000 used\xfffeKurosusandaa!
+The wild \xf000ā\x0001\x0000 used\xfffeKurosusandaa!
+The foe’s \xf000ā\x0001\x0000 used\xfffeKurosusandaa!
