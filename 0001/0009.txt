@@ -1,8 +1,8 @@
-所定の　位置に　ついて\xfffe対戦を　はじめてください
-しばらく　お待ちください\xfffe……Ｂボタン　キャンセル
-それでは　参加する　ポケモンを\xfffe３匹　選んでください\xf000븁\x0000
-それでは　参加する　ポケモンを\xfffe４匹　選んでください\xf000븁\x0000
-それでは　参加する　ポケモンを\xfffe６匹　選んでください\xf000븁\x0000
-対戦を　終了しますが\xfffeよろしいですか？
-対戦を　終了します\xfffeしばらく　お待ちください
-\xf000Ā\x0001\x0000の　トレーナーケースを\xfffeみせてもらった！
+About the place \ xfffe please play well
+Please wait \ xfffe ... ... B Button Cancel
+So join the Pokemon \ xfffe3 Please select animals \ xf000 븁 \ x0000
+So join the Pokemon \ xfffe4 Please select animals \ xf000 븁 \ x0000
+So join the Pokemon \ xfffe6 Please select animals \ xf000 븁 \ x0000
+Quit the game \ xfffe you sure?
+Quit the game \ xfffe Please wait
+\ Xf000Ā \ x0001 \ x0000 trainer case \ xfffe got to show me!
