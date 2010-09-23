@@ -1,9 +1,9 @@
-たいりょく
-こうげき
-ぼうぎょ
-すばやさ
-とくこう
-とくぼう
-めいちゅうりつ
-かいひりつ
-さいだいＨＰ
+Health
+Attack
+Defence
+Speed
+Special Attack
+Special Defense
+Accuracy
+Evasion
+Max HP

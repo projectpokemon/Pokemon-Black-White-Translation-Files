@@ -211,9 +211,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない�
 \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The wild \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
-\xf000Ă\x0001\x0000 \xfffemissed!
-The wild \xf000Ă\x0001\x0000 \xfffemissed!
-The foe's \xf000Ă\x0001\x0000 \xfffemissed!
+\xf000Ă\x0001\x0000 \xfffeavoided the attack!
+The wild \xf000Ă\x0001\x0000 \xfffeavoided the attack!
+The foe's \xf000Ă\x0001\x0000 \xfffeavoided the attack!
 \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
 The wild \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
 The foe's \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
@@ -334,9 +334,9 @@ The foe's \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a night
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
+\xf000Ă\x0001\x0000 \xfffe fell in love!
+The wild \xf000Ă\x0001\x0000 \xfffe fell in love!
+The foe's \xf000Ă\x0001\x0000 \xfffe fell in love!
 \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
 The wild \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
 The foe's \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！

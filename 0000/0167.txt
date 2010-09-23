@@ -1,6 +1,6 @@
-レベル５０
-せいげんなし
-スタンダード
-ランダムマッチ
-バトルサブウェイ
-フラット
+Level 50
+No limitations
+Standard
+Random Match
+Battle Subway
+Flat
