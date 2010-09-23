@@ -334,24 +334,24 @@ The foe's \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a night
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロで　わざが　だせなかった！
-\xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
+\xf000Ă\x0001\x0000 \xfffeis immobilized by love！
+The wild \xf000Ă\x0001\x0000 \xfffeis immobilized by love！
+The foe's \xf000Ă\x0001\x0000 \xfffeis immobilized by love！
+\xf000Ă\x0001\x0000 \xfffeis no longer infatuated！
+The wild \xf000Ă\x0001\x0000 \xfffeis no longer infatuated！
+The foe's \xf000Ă\x0001\x0000 \xfffeis no longer infatuated！
 \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
 The wild \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
 The foe's \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-\xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-\xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-\xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
+\xf000Ă\x0001\x0000 \xfffebecame confused！
+The wild \xf000Ă\x0001\x0000 \xfffebecame confused！
+The foe's \xf000Ă\x0001\x0000 \xfffebecame confused！
+\xf000Ă\x0001\x0000 \xfffeis confused！
+The wild \xf000Ă\x0001\x0000 \xfffeis confused！
+The foe's \xf000Ă\x0001\x0000 \xfffeis confused！
+\xf000Ă\x0001\x0000 \xfffesnapped out of confusion！
+The wild \xf000Ă\x0001\x0000 \xfffesnapped out of confusion！
+The foe's \xf000Ă\x0001\x0000 \xfffesnapped out of confusion！
 \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
 The wild \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
 The foe's \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
