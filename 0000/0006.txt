@@ -61,7 +61,7 @@ Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Th
 Your coins:　\xf000Ȅ\x0001\x0000
 Booted up a TM!
 Booted up an HM!
-It contained\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000Teach \xf000ć\x0001\x000\xfffeto a Pokemon?
+It contained\xfffe\xf000ć\x0001\x0000!\xf000븁\x0000Teach \xf000ć\x0001\x0000xfffeto a Pokemon?
 \xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!
 The effects of the last spray\xfffearen't finished yet!
 \xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Decreased Pokemon encounters!
@@ -84,7 +84,7 @@ Since a Repel’s effects still linger,\xfffeyou can’t use this now.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled.
 The box is full!
-Powders:　\xf000ȃ\x0001\x000
+Powders:　\xf000ȃ\x0001\x0000
 >>>>>>> rykin/master
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
@@ -138,66 +138,3 @@ You can assign items\xfffeto a "Key Item" button.
 You can only assign 2 items\xfffeto your "Key Item" button!
 GB Player turned on！
 GB Player turned off!
-You cannot use \xf000ĉ\x0001\x0000.
-=======
-Category
-\xf000ȁ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-Seals:　\xf000ȃ\x0001\x0000まい
-Accessories:　\xf000Ȃ\x0001\x0000こ\xfffeBackdrops:　　　　\xf000ȁ\x0001\x0001まい
-Close bag
-Bury
-Open
-Saved Battle Points:\xfffe\xf000ȃ\x0001\x0000 BP
-Type
-A Key Item in the Bag can be assigned\xfffeto this button for instant use.
-You can only register up to two items\xfffeto buttons!
-Turned on the power for\xfffeGB Sounds!
-Turned off the power for\xfffeGB Sounds!
-Can't use the \xf000ĉ\x0001\x0000.
->>>>>>> rykin/master
-Peeked into treasure bag!
-Took out \xf000ĉ\x0001\x0000!
-Put away \xf000ĉ\x0001\x0000\xfffe in \xf000ĉ\x0001\x0001.
-You took out everything!
-There was nothing inside...
-However, you could not\xfffetake it out...
-Battery power low!\xfffePlease wait \xf000븀\x0000\xf000ȁ\x0001\x0000 steps until\xfffeit is charged!
-The grass lands\xfffewere quiet...
-Poffins:
-\xf000Ȃ\x0001\x0000／100
-Please pick a powder\xfffeto cook with!
-<<<<<<< HEAD
-You can't use that\xfffewhile walking!
-Now's not the timefor that!
-Item Pocket\xfffeItems that will help with\xfffeyour adventure go here.
-Medicine Pocket\xfffeItems that restore\xfffeHP or PP go here.
-Poke Ball Pocket\xfffeVarious Poke Ball types\xfffego here.
-TM & HM Pocket\xfffeVarious TMs and HMs\xfffego here.
-Berry Pocket\xfffeSort and store tons\xfffeof powders here.
-Mail Pocket\xfffeSort various colorful\xfffepapers here.
-Battle Item Pocket\xfffeItems that will be useful\xfffein battle go here.
-Key Item Pocket\xfffeItems that are essential to\xfffeyour adventure go here.
-=======
-Can’t be used when you have someone\xfffewith you!
-You can’t be doing that now!
-Item Pocket\xfffeFor items that will be useful during your\xfffeadventure.
-Medicine Pocket\xfffeFor items to regain your Pokémon’s\xfffeHP and PP.
-Poké Ball Pocket\xfffeFor all different types of Poké Balls.
-TMs and HMs Pocket\xfffeFor all different types of TMs and HMs.
-Berry Pocket\xfffeFor sorting and storing different\xfffeBerries.
-Mail Pocket\xfffeFor sorting and storing vibrant\xfffestationery.
-Battle Items Pocket\xfffeFor items that are useful during battle.
-Key Items Pocket\xfffeFor items that are indispensable for\xfffeyour adventure.
->>>>>>> rykin/master
-Stop
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-Yes
-No
-\xf000봂\x0000\xf000ĉ\x0001\x0000
-You don't have this.
-You used a Dark Stone\xfffebut nothing happened...
-You used a Light Stone\xfffebut nothing happened...
-Your items have been\xfffeorganized!
-\xf000Ē\x0001\x0000
