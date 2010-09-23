@@ -1,55 +1,55 @@
-What will \xf000Ă\x0001\x0000 do?
-Please Mark
-Are you sure?
-\xf000Ă\x0001\x0000 released!
-Bye-bye, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000を　どうする？
+マーキング　してください
+ほんとうに　にがしますか？
+\xf000Ă\x0001\x0000を　そとに　にがしてあげた
+ばいばい　\xf000Ă\x0001\x0000！
 てもちが　いっぱいです！
 たたかうポケモンが　いなくなります！
-What will you do with this box?
-Jump to what \xfffebox?
+このボックスを　どうしますか？
+どのボックスに\xfffeジャンプしますか？
 どのテーマに　しますか？
 どの　かべがみに　しますか？
-Continue box search?
-This box is full!
-Bag is full!
-\xf000ĉ\x0001\x0000 received!
+ボックスそうさを　つづけますか？
+このボックスは　いっぱいです！
+バッグが　いっぱいです！
+\xf000ĉ\x0001\x0000を　あずかった！
 \xf000ĉ\x0001\x0000を　もたせた！
-Select Pokemon!
-Move to what Box?
-Not holding anything
+ポケモンを　タッチ！
+どのボックスへ　あずける？
+もちものなし
 ♂
 ♀
-Receive \xf000ĉ\x0001\x0000?
-Cannot send!
+\xf000ĉ\x0001\x0000を　あずかりますか？
+メールをしまうことは　できません！
 \xf000ĉ\x0001\x0000を　どうしますか？
 \xf000ĉ\x0001\x0000を　しまいますか？
 \xf000ĉ\x0001\x0000を　バッグに　いれた！
 どうぐを　もつことが　できます
-Please remove mail!
-Egg cannot be released!
-\xf000Ă\x0001\x0000 returned!
-Huh, It failed...
-Egg cannot hold items!
-Touch to Mark!
+メールを　はずしてください！
+タマゴを　にがすことは　できません！
+\xf000Ă\x0001\x0000が　もどってきちゃった！
+しんぱい　だったのかな……
+タマゴは　どうぐを　もてません！
+マークを　タッチしよう！
 ボックスに　おけます！
-Item can be eaten!
-This box is full!
-Already holding an item!
+てもちに　くわえることが　できます！
+このボックスは　いっぱいです！
+てもちが　いっぱいです！
 Deposit Pokémon
 Withdraw Pokémon
 Move Pokémon
 Move Items
 Battle Box
 ねかすポケモンをえらぶ
-Mail cannot be removed!
+メールは　いどうできません！
 \xf000ĉ\x0001\x0000を　もてない！
-Has Mail!
+メールを　もっています！
 たたかうポケモンが　いなくなります！
-Mail cannot be removed!
+メールは　いどうできません！
 ここでは　メールを　もたせられません
 タマゴは　えらべません！
 \xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
 このポケモンは\xfffeいまは　ねむくないみたいです
 ポケモンせんたくを　つづけますか？
-Battle Box has been locked \xfffe Pokemon cannot be removed
-Battle Box has been locked \xfffe Held item cannot be changed
+バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
+バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
