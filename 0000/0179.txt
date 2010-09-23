@@ -6,14 +6,14 @@ Global Link
 Register GL
 Transfer Machine
 Mic Test
-しゅじんこう
+Player
 Playtime　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-Pokedex　\xf000Ȃ\x0001\x0000ひき
-Badges　\xf000ȁ\x0001\x0000こ
+Pokedex　\xf000Ȃ\x0001\x0000
+Badges　\xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-\xf000Ȃ\x0001\x0000ひき
-\xf000ȁ\x0001\x0000こ
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000むせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000オンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
