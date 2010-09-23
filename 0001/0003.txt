@@ -1,61 +1,61 @@
-今の　勝負を\xfffeバトルビデオに　記録しますか？
-はい
-いいえ
-今の　勝負の記録は\xfffe残りませんが　よろしいですか？
-はい
-いいえ
-前回の　バトルビデオを　消して\xfffe上書きしても　よろしいですか？
-はい
-いいえ
-バトルビデオに　記録中です！\xfffeしばらく　お待ちください！
-戦いが　記録されました！
-不具合により\xfffe記録できませんでした
-相手を　待っています\xfffeしばらく　お待ちください！
-この相手とは　録画できません\xfffeしばらく　お待ちください！
-この相手とは　録画できません
-この勝負は　録画できません
-ＳＥＬＥＣＴ　ＴＩＭＥ
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-\xf000ȁ\x0001\x0001
-前回の記録
-コロシアム　シングル\xfffe制限なし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffe制限なし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffe制限なし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffe制限なし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffe制限なし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffe制限なし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffe制限なし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffe制限なし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffe制限なし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffe制限なし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-大会　シングル\xfffeシューターなし
-大会　シングル\xfffeシューターあり
-大会　ダブル\xfffeシューターなし
-大会　ダブル\xfffeシューターあり
-大会　トリプル\xfffeシューターなし
-大会　トリプル\xfffeシューターあり
-大会　ローテーション\xfffeシューターなし
-大会　ローテーション\xfffeシューターあり
+Now the game \ xfffe or video record the battle?
+Yes
+No
+Record of the game right now \ xfffe remain would you like?
+Yes
+No
+Erase the last battle video \ xfffe Do you want to overwrite it?
+Yes
+No
+Battle is being recorded on video! \ Xfffe Please wait!
+War has been recorded!
+Due to a bug \ xfffe could not be recorded
+Waiting for the other \ xfffe Please wait!
+This person is not recorded and \ xfffe Please wait!
+And can not be recorded against
+This game is not recorded
+SELECT TIME
+\ Xf000ȁ \ x0001 \ x0000: \ xf000ȁ \ x0001 \ x0001
+\ Xf000ȁ \ x0001 \ x0001
+Previous record
+Single Coliseum \ xfffe Unlimited
+Single Coliseum \ xfffe Flat
+Single Coliseum \ xfffe shooter has no limit
+Single Coliseum \ xfffe flat in Shooting
+Double Coliseum \ xfffe Unlimited
+Double Coliseum \ xfffe Flat
+Double Coliseum \ xfffe have unlimited Shooting
+Double Coliseum \ xfffe flat in Shooting
+Triple Coliseum \ xfffe Unlimited
+Triple Coliseum \ xfffe Flat
+Triple Coliseum \ xfffe shooter has no limit
+Triple Coliseum \ xfffe flat in Shooting
+Coliseum rotation \ xfffe Unlimited
+Coliseum rotation \ xfffe Flat
+Coliseum rotation \ xfffe has unlimited Shooting
+Coliseum rotation \ xfffe flat in Shooting
+Coliseum Multi \ xfffe Unlimited
+Coliseum Multi \ xfffe Flat
+Coliseum Multi \ xfffe shooter has no limit
+Coliseum Multi \ xfffe flat in Shooting
+Batorusabuuei \ xfffe Single
+Batorusabuuei \ xfffe double
+Batorusabuuei \ xfffe Multi
+Free random match \ xfffe Single
+Free random match \ xfffe double
+Free random match \ xfffe triple
+Free random match \ xfffe rotation
+Free random match \ xfffe Shutabatoru
+Random Match Rating \ xfffe Single
+Random Match Rating \ xfffe double
+Random Match Rating \ xfffe triple
+Random Match Rating \ xfffe rotation
+Random Match Rating \ xfffe Shutabatoru
+Single Games \ xfffe No Shooting
+Single Games \ xfffe in Shooting
+Double Games \ xfffe No Shooting
+Double Games \ xfffe in Shooting
+Triple Tournament \ xfffe No Shooting
+Triple Tournament \ xfffe in Shooting
+Tournament rotation \ xfffe No Shooting
+Tournament rotation \ xfffe in Shooting
