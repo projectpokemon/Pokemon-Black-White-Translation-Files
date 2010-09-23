@@ -1,3 +1,3 @@
-全ての　セーブデータエリアを\xfffe消去しますか？
-消去した　データは\xfffe元に　もどせません\xf000븁\x0000それでも　セーブデータエリアを\xfffe消去しますか？
-消去しています\xfffeしばらく　お待ちください
+All the Sebudetaeria \ xfffe Do you want to delete?
+Erased data \ xfffe based Modosemasen \ xf000 븁 \ x0000 still a Sebudetaeria \ xfffe or clear?
+Have been eliminated \ xfffe Please wait
