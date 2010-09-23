@@ -1,6 +1,6 @@
-What alphabet do you want to use?\xfffeKataka or Hiragana?\xf000븁\x0000
-Kat
-Hir
+What alphabet do you want to use?\xfffeEnglish or Kanji?\xf000븁\x0000
+English
+Kanji
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
 no data
 セーブデータを　さくせい　しています\xfffeしばらく　おまちください

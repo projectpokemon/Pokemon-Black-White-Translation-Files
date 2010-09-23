@@ -77,40 +77,40 @@ The connection with Pokémon Ranger\xfffehas been lost... Press the A Button.
 マナフィのタマゴ
 DS Wireless Communications\xfffewill be launched.
 Connect to Nintendo Wi-Fi Connection?
-The Lock Capsule is held in the\xfffestrictest safekeeping.
-The Lock Capsule was delivered safely!
-カードアルバムを　みる
-やめる
+Welcome to Mystery Gift!
+Receive Wonder Card
+View Wonder Cards
+Quit
 ふしぎな　おくりものを　うけとるため\xfffeつうしんを　かいしします\xf000븀\x0000\xfffeよろしいですか？
-はい
-いいえ
-おくりものの　うけとりかたを\xfffeえらんで　ください
-ワイヤレスで　うけとる
-Ｗｉ－Ｆｉで　うけとる
-せきがいせんで　うけとる
-もどる
+Yes
+No
+Please choose how you want\xfffeto receive your gift.
+Wireless
+Nintendo WFC
+InfraRed
+Back
 おくりものの　うけとりかたを\xfffeえらんで　ください
 いらないカードを　１まい　えらんで\xfffeすててください
 カードを　すてないと\xfffeおくりものを　もらえません\xf000븀\x0000\xfffeよろしいですか？
-はい
-いいえ
+Yes
+No
 ＤＳワイヤレスつうしん　を\xfffeかいし　します
-はい
-いいえ
+Yes
+No
 Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　しますか？
-はい
-いいえ
+Yes
+No
 せきがいせん　つうしんを\xfffeかいし　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-はい
-いいえ
+Yes
+No
 おくりものを　さがしています\xfffeしばらく　おまちください……
 うけとる　おくりものを\xfffeえらんで　ください
 おくりものの　うけとりを\xfffeやめますか？
-はい
-いいえ
+Yes
+No
 この　おくりものを\xfffeうけとりますか？
-はい
-いいえ
+Yes
+No
 おくりものを　うけとっています\xfffeでんげんを　きらないで　ください……
 おくりものを　うけとりました！\xf000븁\x0000\xfffeポケモンセンターにいる\xfffeはいたついん　から　うけとってね！\xf000븁\x0000
 アルバムを　ほぞん　しています……\xfffeでんげんを　きらないで　ください
@@ -140,8 +140,8 @@ More Information
 おくりもの　が\xfffeみつかりません　でした\xf000븁\x0000
 もうしこみ　が　きょひ　されました\xf000븁\x0000
 ふしぎなカードが　いっぱい　です！\xf000븁\x0000\xfffeおくりものを\xfffeうけとることが　できません！\xf000븁\x0000\xfffeふしぎなカードを\xfffeせいり　しますか？
-はい
-いいえ
+Yes
+No
 おくりものを　うけとるのに\xfffeしっぱい　しました\xf000븁\x0000
 おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
 ゲームを　はじめて　いないので\xfffeこれ　いじょうは　うけとれません\xf000븀\x0000\xfffeぼうけんを　スタートしましょう！\xf000븁\x0000

@@ -24,7 +24,7 @@ The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
 However, \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
 However, the wild \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-However, the foe's \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
+However, the foe's \xf000Ă\x0001\x0000 attack\xfffedidn't land well!
 \xf000Ă\x0001\x0000's\xfffeAttack rose!
 The wild \xf000Ă\x0001\x0000's\xfffeAttack rose!
 The foe's \xf000Ă\x0001\x0000's\xfffeAttack rose!
@@ -222,13 +222,13 @@ The foe's \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
 \xf000Ă\x0001\x0000 increased the foe's \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000's \xfffeform changed!
 The wild \xf000Ă\x0001\x0000's \xfffeform changed!
-The foe's \xf000Ă\x0001\x0000's \xfffeform changed!
+The foe's \xf000Ă\x0001\x0000 \xfffeform changed!
 \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 dropped\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
 The wild \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
-The foe's \xf000Ă\x0001\x0000's \xfffestatus returned to normal!
+The foe's \xf000Ă\x0001\x0000 \xfffestatus returned to normal!
 \xf000Ă\x0001\x0000 \xfffemoved to the middle!
 The wild \xf000Ă\x0001\x0000 \xfffemoved to the middle!
 The foe's \xf000Ă\x0001\x0000 \xfffemoved to the middle!
@@ -246,7 +246,7 @@ The wild \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
 The wild \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
-The foe's \xf000Ă\x0001\x0000's \xfffepoison was removed completely!
+The foe's \xf000Ă\x0001\x0000 \xfffepoison was removed completely!
 \xf000Ă\x0001\x0000 \xfffeis already poisoned!
 The wild \xf000Ă\x0001\x0000 \xfffeis already poisoned!
 The foe's \xf000Ă\x0001\x0000 \xfffeis already poisoned!
@@ -264,7 +264,7 @@ The wild \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
 \xf000Ă\x0001\x0000's \xfffeburn was healed!
 The wild \xf000Ă\x0001\x0000's \xfffeburn was healed!
-The foe's \xf000Ă\x0001\x0000's \xfffeburn was healed!
+The foe's \xf000Ă\x0001\x0000 \xfffeburn was healed!
 \xf000Ă\x0001\x0000is already burnt.
 The wild \xf000Ă\x0001\x0000is already burnt.
 The foe's \xf000Ă\x0001\x0000is already burnt.
@@ -337,81 +337,81 @@ The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001
 \xf000Ă\x0001\x0000 \xfffe fell in love!
 The wild \xf000Ă\x0001\x0000 \xfffe fell in love!
 The foe's \xf000Ă\x0001\x0000 \xfffe fell in love!
-\xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffeメロメロじょうたいが　なおった！
-\xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-The wild \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-The foe's \xf000Ă\x0001\x0000 \xfffeじょうたいが　もとに　もどった！
-\xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　した！
-\xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　している！
-\xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-The wild \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-The foe's \xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-\xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-The wild \xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-The foe's \xf000Ă\x0001\x0000 \xfffeこんらん　しない！
-\xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-The wild \xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-The foe's \xf000Ă\x0001\x0000 \xfffeつかれはてて　こんらん　した！
-\xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-The wild \xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-The foe's \xf000Ă\x0001\x0000 \xfffeひるんで　わざが　だせない！
-\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-The wild \xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-The foe's \xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-\xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-The wild \xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-The foe's \xf000Ă\x0001\x0000 \xfffeしょうたいを　みやぶった！
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-The wild \xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-The foe's \xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeダメージを　うけている
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001から　かいほうされた！
-\xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeはんどうによる　ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001　を　トレースした！
-\xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-The wild \xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-The foe's \xf000Ă\x0001\x0000 \xfffeきゅうしょに　あたった！
-\xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくが　かいふくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　ＰＰを　かいふくした！
-\xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeすべての　わざの　ＰＰを　かいふくした！
-すなあらしが\xfffe\xf000Ă\x0001\x0000を　おそう！
-すなあらしが\xfffeThe wild \xf000Ă\x0001\x0000を　おそう！
-すなあらしが\xfffeThe foe's \xf000Ă\x0001\x0000を　おそう！
-あられが\xfffe\xf000Ă\x0001\x0000を　おそう！
-あられが\xfffeThe wild \xf000Ă\x0001\x0000を　おそう！
-あられが\xfffeThe foe's \xf000Ă\x0001\x0000を　おそう！
-\xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001に　なった！
-\xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-The wild \xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-The foe's \xf000Ă\x0001\x0000 \xfffeふうせんで　ういている！
-\xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
-The wild \xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
-The foe's \xf000Ă\x0001\x0000 \xfffeふうせんが　われた！
+\xf000Ă\x0001\x0000 \xfffeis no longer in love!
+The wild \xf000Ă\x0001\x0000 \xfffeis no longer in love!
+The foe's \xf000Ă\x0001\x0000 \xfffeis no longer in love!
+\xf000Ă\x0001\x0000 \xfffeis back to normal!
+The wild \xf000Ă\x0001\x0000 \xfffeis back to normal!
+The foe's \xf000Ă\x0001\x0000 \xfffeis back to normal!
+\xf000Ă\x0001\x0000 \xfffebecame confused!
+The wild \xf000Ă\x0001\x0000 \xfffebecame confused!
+The foe's \xf000Ă\x0001\x0000 \xfffebecame confused!
+\xf000Ă\x0001\x0000 \xfffeis confused!
+The wild \xf000Ă\x0001\x0000 \xfffeis confused!
+The foe's \xf000Ă\x0001\x0000 \xfffeis confused!
+\xf000Ă\x0001\x0000 \xfffeis no longer confused!
+The wild \xf000Ă\x0001\x0000 \xfffeis no longer confused!
+The foe's \xf000Ă\x0001\x0000 \xfffeis no longer confused!
+\xf000Ă\x0001\x0000is \xfffealready confused!
+The wild \xf000Ă\x0001\x0000is \xfffealready confused!
+The foe's \xf000Ă\x0001\x0000is \xfffealready confused!
+\xf000Ă\x0001\x0000 \xfffecan't become confused!
+The wild \xf000Ă\x0001\x0000 \xfffecan't become confused!
+The foe's \xf000Ă\x0001\x0000 \xfffecan't become confused!
+\xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
+The wild \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
+The foe's \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
+\xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
+The wild \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
+The foe's \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
+\xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
+The wild \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
+The foe's \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
+\xf000Ă\x0001\x0000's \xfffeillusion wore off!
+The wild \xf000Ă\x0001\x0000's \xfffeillusion wore off!
+The foe's \xf000Ă\x0001\x0000 \xfffeillusion wore off!
+\xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffewas hit with recoil!
+The wild \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
+The foe's \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
+\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
+The wild \xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
+The foe's \xf000Ă\x0001\x0000  \xfffe\xf000Ć\x0001\x0001 was traced!
+\xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
+The wild \xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
+The foe's \xf000Ă\x0001\x0000 \xfffeattack was a critical hit!
+\xf000Ă\x0001\x0000's \xfffeHP was restored!
+The wild \xf000Ă\x0001\x0000's \xfffeHP was restored!
+The foe's \xf000Ă\x0001\x0000 \xfffeHP was restored!
+\xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
+The wild \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
+The foe's \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
+\xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
+The wild \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
+The foe's \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
+\xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
+The wild \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
+The foe \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
+\xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
+The wild \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
+The foe's \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
+\xf000Ă\x0001\x0000 \xfffetook damage!
+The wild \xf000Ă\x0001\x0000 \xfffetook damage!
+The foe's \xf000Ă\x0001\x0000 \xfffetook damage!
+\xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
+The wild \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
+The foe's \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
+\xf000Ă\x0001\x0000's \xfffeballoon popped!
+The wild \xf000Ă\x0001\x0000's \xfffeballoon popped!
+The foe's \xf000Ă\x0001\x0000 \xfffeballoon popped!
 \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
 The wild \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
 The foe's \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
@@ -933,9 +933,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfff
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeis no longer in love!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeAttack rose!
@@ -1036,9 +1036,9 @@ The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x00
 The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000ダメージを　うけた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
+\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
+The wild \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
+The foe's \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffetook damage!
 \xf000Ă\x0001\x0000 \xfffeはりきっている！
 The wild \xf000Ă\x0001\x0000 \xfffeはりきっている！
 The foe's \xf000Ă\x0001\x0000 \xfffeはりきっている！
