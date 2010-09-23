@@ -1,8 +1,8 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-Held item
-Personality
-Characteristic
+Held Item
+Nature
+Ability
 \xf000ċ\x0001\x0000
 Box 1
 Box 2
@@ -67,7 +67,7 @@ Musical
 Back
 Forward
 Next
-Belt
+Party
 Box list
 Battle box
 Switch box
@@ -98,15 +98,15 @@ Move
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Personality
-Characteristic
+Nature
+Ability
 Held Item
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 None
-？？？
-Ｌｖ．
-Ｎｏ．
+???
+Lv.
+No.
 Moves
 Yes
 No
