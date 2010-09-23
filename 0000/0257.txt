@@ -492,159 +492,159 @@ Seafaring Pokémon
 Pitch-Black Pokémon
 Gratitude Pokémon
 Alpha Pokémon
-しょうりポケモン
-くさへびポケモン
-くさへびポケモン
-ロイヤルポケモン
-ひぶたポケモン
-ひぶたポケモン
-おおひぶたポケモン
-ラッコポケモン
-しゅぎょうポケモン
-かんろくポケモン
-みはりポケモン
-けいかいポケモン
-こいぬポケモン
-ちゅうけんポケモン
-かんだいポケモン
-しょうわるポケモン
-れいこくポケモン
-くさざるポケモン
-とげざるポケモン
-こうおんポケモン
-ひのこポケモン
-みずかけポケモン
-ほうすいポケモン
-ゆめくいポケモン
-ゆめうつつポケモン
-こばとポケモン
-のばとポケモン
-プライドポケモン
-たいでんポケモン
-らいでんポケモン
-マントルポケモン
-こうせきポケモン
-こうあつポケモン
-こうもりポケモン
-きゅうあいポケモン
-もぐらポケモン
-ちていポケモン
-ヒヤリングポケモン
-きんこつポケモン
-きんこつポケモン
-きんこつポケモン
-おたまポケモン
-しんどうポケモン
-しんどうポケモン
-じゅうどうポケモン
-からてポケモン
-さいほうポケモン
-はごもりポケモン
-こそだてポケモン
-ムカデポケモン
-まゆムカデポケモン
-メガムカデポケモン
-わたたまポケモン
-かぜかくれポケモン
-ねっこポケモン
-はなかざりポケモン
-らんぼうポケモン
-さばくワニポケモン
-さばくワニポケモン
-いかくポケモン
-だるまポケモン
-えんじょうポケモン
-サボテンポケモン
-いしやどポケモン
-いわやどポケモン
-だっぴポケモン
-あくとうポケモン
-とりもどきポケモン
-たましいポケモン
-かんおけポケモン
-こだいがめポケモン
-こだいがめポケモン
-さいこどりポケモン
-さいこどりポケモン
-ゴミぶくろポケモン
-ゴミすてばポケモン
-わるぎつねポケモン
-ばけぎつねポケモン
-チンチラポケモン
-スカーフポケモン
-ぎょうしポケモン
-あやつりポケモン
-てんたいポケモン
-さいぼうポケモン
-ぶんかつポケモン
-ぞうふくポケモン
-みずどりポケモン
-しらとりポケモン
-しんせつポケモン
-ひょうせつポケモン
-ブリザードポケモン
-きせつポケモン
-きせつポケモン
-モモンガポケモン
-かぶりつきポケモン
-きへいポケモン
-きのこポケモン
-きのこポケモン
-ふゆうポケモン
-ふゆうポケモン
-かいほうポケモン
-くっつきポケモン
-でんきグモポケモン
-とげのみポケモン
-とげだまポケモン
-はぐるまポケモン
-はぐるまポケモン
-はぐるまポケモン
-でんきうおポケモン
-でんきうおポケモン
-でんきうおポケモン
-ブレインポケモン
-ブレインポケモン
-ろうそくポケモン
-ランプポケモン
-いざないポケモン
-キバポケモン
-あごオノポケモン
-あごオノポケモン
-ひょうけつポケモン
-とうけつポケモン
-けっしょうポケモン
-マイマイポケモン
-からぬけポケモン
-トラップポケモン
-ぶじゅつポケモン
-ぶじゅつポケモン
-ほらあなポケモン
-ゴーレムポケモン
-ゴーレムポケモン
-はものポケモン
-とうじんポケモン
-ずつきうしポケモン
-ヒナわしポケモン
-ゆうもうポケモン
-おむつポケモン
-ほねわしポケモン
-アリクイポケモン
-てつアリポケモン
-そぼうポケモン
-らんぼうポケモン
-きょうぼうポケモン
-たいまつポケモン
-たいようポケモン
-てっしんポケモン
-がんくつポケモン
-そうげんポケモン
-せんぷうポケモン
-らいげきポケモン
-はくようポケモン
-こくいんポケモン
-ほうじょうポケモン
-きょうかいポケモン
-わかごまポケモン
-せんりつポケモン
-こせいだいポケモン
+Victory Pokémon
+Grass Snake Pokémon
+Grass Snake Pokémon
+Royal Pokémon
+Fire Pig Pokémon
+Fire Pig Pokémon
+Big Fire Pig Pokémon
+Sea Otter Pokémon
+Training Pokémon
+Dignity Pokémon
+Lookout Pokémon
+Precaution Pokémon
+Puppy Pokémon
+Dog Pokémon
+Dog Pokémon
+Ill-Natured Pokémon
+れいこく Pokémon
+Grass Monkey Pokémon
+とげざる Pokémon
+Hight Temp Pokémon
+ひのこ Pokémon
+Water Throw Pokémon
+ほうすい Pokémon
+Dream Eater Pokémon
+Trance Pokémon
+Big Pigeon Pokémon
+のばと Pokémon
+プライド Pokémon
+Charged Pokémon
+らいでん Pokémon
+Mantle Pokémon
+こうせき Pokémon
+High Pressure Pokémon
+Bat Pokémon
+きゅうあい Pokémon
+Mole Pokémon
+Deep Earth Pokémon
+Healing Pokémon
+きんこつ Pokémon
+きんこつ Pokémon
+きんこつ Pokémon
+おたま Pokémon
+しんどう Pokémon
+しんどう Pokémon
+じゅうどう Pokémon
+Judo Pokémon
+Karate Pokémon
+Sewing Pokémon
+こそだて Pokémon
+ムカデ Pokémon
+まゆムカデ Pokémon
+メガムカデ Pokémon
+わたたま Pokémon
+Hiding Pokémon
+Cotton Ball Pokémon
+はなかざり Pokémon
+Boy Ran Pokémon
+さばくワニ Pokémon
+さばくワニ Pokémon
+いかく Pokémon
+だるま Pokémon
+えんじょう Pokémon
+サボテン Pokémon
+いしやど Pokémon
+いわやど Pokémon
+だっぴ Pokémon
+あくとう Pokémon
+とりもどき Pokémon
+たましい Pokémon
+かんおけ Pokémon
+こだいがめ Pokémon
+こだいがめ Pokémon
+さいこどり Pokémon
+さいこどり Pokémon
+ゴミぶくろ Pokémon
+ゴミすてば Pokémon
+わるぎつね Pokémon
+ばけぎつね Pokémon
+チンチラ Pokémon
+スカーフ Pokémon
+ぎょうし Pokémon
+あやつり Pokémon
+てんたい Pokémon
+さいぼう Pokémon
+ぶんかつ Pokémon
+ぞうふく Pokémon
+みずどり Pokémon
+しらとり Pokémon
+しんせつ Pokémon
+ひょうせつ Pokémon
+ブリザード Pokémon
+きせつ Pokémon
+きせつ Pokémon
+モモンガ Pokémon
+かぶりつき Pokémon
+きへい Pokémon
+きのこ Pokémon
+きのこ Pokémon
+ふゆう Pokémon
+ふゆう Pokémon
+かいほう Pokémon
+くっつき Pokémon
+でんきグモ Pokémon
+とげのみ Pokémon
+とげだま Pokémon
+はぐるま Pokémon
+はぐるま Pokémon
+はぐるま Pokémon
+でんきうお Pokémon
+でんきうお Pokémon
+でんきうお Pokémon
+ブレイン Pokémon
+ブレイン Pokémon
+ろうそく Pokémon
+ランプ Pokémon
+いざない Pokémon
+キバ Pokémon
+あごオノ Pokémon
+あごオノ Pokémon
+ひょうけつ Pokémon
+とうけつ Pokémon
+けっしょう Pokémon
+マイマイ Pokémon
+からぬけ Pokémon
+トラップ Pokémon
+ぶじゅつ Pokémon
+ぶじゅつ Pokémon
+ほらあな Pokémon
+ゴーレム Pokémon
+ゴーレム Pokémon
+はもの Pokémon
+とうじん Pokémon
+ずつきうし Pokémon
+ヒナわし Pokémon
+ゆうもう Pokémon
+おむつ Pokémon
+ほねわし Pokémon
+アリクイ Pokémon
+てつアリ Pokémon
+そぼう Pokémon
+らんぼう Pokémon
+きょうぼう Pokémon
+たいまつ Pokémon
+たいよう Pokémon
+てっしん Pokémon
+がんくつ Pokémon
+そうげん Pokémon
+せんぷう Pokémon
+らいげき Pokémon
+はくよう Pokémon
+こくいん Pokémon
+ほうじょう Pokémon
+きょうかい Pokémon
+わかごま Pokémon
+せんりつ Pokémon
+こせいだい Pokémon
