@@ -1,16 +1,16 @@
-バトル大会へ\xfffeようこそ！
-バトル大会には\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffe行われるＷｉ－Ｆｉ大会と\xf000븁\x0000\xfffeイベント会場で行われる\xfffeライブ大会が　あります\xf000븁\x0000\xfffe参加するポケモンは　バトルボックスに\xfffe登録している　ポケモンです\xf000븁\x0000\xfffe一度　大会に　登録すると\xfffe大会参加中は　バトルボックスを\xf000븀\x0000\xfffe変更できなくなるので　注意してください\xf000븁\x0000\xfffe大会に　参加すると　デジタル選手証に\xfffeデータが　登録されるので\xf000븀\x0000\xfffe確認してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉ大会　へ
-ライブ大会　へ
-デジタル選手証を　みる
-説明を　きく
-やめる
-参加する
-Ｗｉ－Ｆｉ大会は　お手元の　パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x0000\xfffe登録することで　大会に　参加できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffe大会のルールや　開催期間は\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　確認してください\xf000븁\x0000
-Ｗｉ－Ｆｉ大会に\xfffe参加しますか？
-大会へ　参加するのを\xfffeやめますか？
-はい
-いいえ
-参加を　解除する
-ライブ大会に\xfffe参加しますか？
-ライブ大会の　開催情報については\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffe確認する事が　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffe大会のルールや　開催期間は\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　確認してください\xf000븁\x0000
+Battle Convention \ xfffe Welcome!
+Battle Convention \ xfffeWi-Fi connections \ xf000 븀 \ x0000 \ xfffe done with Wi-Fi Games \ xf000 븁 \ x0000 \ xfffe be held at the venue \ xfffe tournament has live \ xf000 븁 \ x0000 \ xfffe participation Pokemon that is the Battle Box \ xfffe are Pokemon that have registered \ xf000 븁 \ x0000 \ xfffe Register with convention once \ xfffe participating in the tournament to the Battle Box \ xf000 븀 \ x0000 \ xfffe Please note no longer change \ xf000 븁 \ x0000 \ xfffe to participate in a convention card and digital player \ xfffe registration data so that \ xf000 븀 \ x0000 \ xfffe please check \ xf000 븁 \ x0000
+Wi-Fi Convention
+Live Convention
+Players explore digital certificate
+Kiku description
+Quit
+Join
+PC Games Wi-Fi is handy \ xfffe of Pokemongurobarurinku \ xf000 븀 \ x0000 \ xfffe homepage and \ xf000 븀 \ x0000 \ xfffe can join the tournament by registering \ xf000 븁 \ x0000 \ xfffehttp : / / www.pokemon-gl.com/ \ xf000 븁 \ x0000 \ xfffe contest rules and holding periods \ xfffe Pokemongurobarurinku \ xf000 븀 \ x0000 \ xfffe Please check the website \ xf000 븁 \ x0000
+Wi-Fi convention \ xfffe Going?
+To participate in a tournament \ xfffe I Stop?
+Yes
+No
+To unsubscribe from this group
+The live event \ xfffe Going?
+For more information about hosting a live event \ xfffe in Pokettomonsutaofisharusaito \ xf000 븀 \ x0000 \ xfffe you can see \ xf000 븁 \ x0000 \ xfffehttp: / / www.pokemon.co.jp/ \ xf000 븁 \ x0000 \ Dates of the tournament rules and xfffe \ xfffe Pokettomonsutaofisharusaito \ xf000 븀 \ x0000 \ xfffe Please check the website \ xf000 븁 \ x0000
