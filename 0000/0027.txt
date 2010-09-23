@@ -1,43 +1,43 @@
-Ｘボタン
+Ｘ Button
 ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
+Ｂ Button
+Use the stylus
+Turn off your picture
+Stop scribbling
+Change pen size
+Eye dropper tool
+Change to eraser
+Stop using the stylus
+Stamp
+Scribble Mode
 ＲＥＣ
-らくがき
+Scribble
 ＩＤ\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+Please choose a friend
+Call friend
+Join
+Calling friend！
+Calling friend・
+Calling friend・・
+Calling friend・・・
+Connecting！
+Connecting・
+Connecting・・
+Connecting・・・
+Looking for a friend！
+Looking for a friend・
+Looking for a friend・・
+Looking for a friend・・・
+End the live connection？
+If the leader quits do you want to leave too？
+Yes
+No
+The leader left, so the connection has ended
+Your partner left, so the connection has ended
+A member left
+The call failed
+The connection failed
+ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが　せいげん\xfffeされています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください [Something about parental controls configuration for sending and receiving　photos]
+Partner has quit
