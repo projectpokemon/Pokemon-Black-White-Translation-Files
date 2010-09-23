@@ -1,7 +1,7 @@
-ともだちコードを　いれてください
-トレインナンバーを\xfffeいれてください（０１－\xf000ȁ\x0001\x0000）
-ランクを　いれてください（０１－\xf000ȁ\x0001\x0000）
-けす
-おわり
-そのトレインナンバーは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
-そのランクは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
+Please input friend code
+Please input trainer number（０１－\xf000ȁ\x0001\x0000）
+Please input rank（０１－\xf000ȁ\x0001\x0000）
+Delete
+End
+That trainer number wasn't correct. \xfffe\xf000ȁ\x0001\x0000 Please try again.
+That rank wasn't correct. \xfffe\xf000ȁ\x0001\x0000 Please try again.
