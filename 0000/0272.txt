@@ -1,34 +1,34 @@
-『Search Mode』
-Please include the same conditions.
-『Search Results』
-Number of Misses:　\xf000Ȃ\x0001\x0000
-Please Enter your Rank
-Please Enter your Nickname
-Choose a Type
-Choose a Form
-Choose a Color
+Search Mode
+Please enter the search criteria.
+Search Results
+RESULTS:　\xf000Ȃ\x0001\x0000
+Select the Pokédex listing mode.
+List by the first letter in the name.
+List by type.
+List by body style.
+List by body color.
 Pokémon found!
-No Pokémon found...
+Not found...
 Searching...
-Rank
+Order
 Name
 Type
 Color
-Form
-Isshu Dex：Search Mode
-National Dex：Search Mode
-Clear
+Forme
+Isshu Dex: Search Mode
+National Dex: Search Mode
+Reset
 Start
-Quit
+Cancel
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-Choose
-Quit
-Numerical Order
-Alphabetical Order
-Heaviest (Weight)
-Lightest (Weight)
-Highest to Smallest
-Smallest to Highest
+Accept
+Cancel
+Numerical
+A to Z
+Heaviest
+Lightest
+Tallest
+Shortest
 Type
 Rock
 Psychic
@@ -94,14 +94,14 @@ Bug
 ロ
 ワ.
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Red
+Blue
+Yellow
+Green
+Black
+Brown
+Purple
+Gray
+White
+Pink
 ――――
