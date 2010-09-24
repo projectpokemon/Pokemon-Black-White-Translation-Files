@@ -3,7 +3,7 @@ Text Speed
 Battle Scene
 Battle Style
 Sound
-Button Mode
+Display text
 Frame
 IR Report
 Confirm
@@ -23,15 +23,14 @@ Write
 Off
 かく
 かかない
-メッセージの　はやさを\xfffe３しゅるいから　えらべます
-せんとうのとき　ポケモンの　わざの\xfffeアニメを　みるかどうか　えらべます
-しょうぶの　ルールを\xfffeえらぶことが　できます
-ゲームの　おとを\xfffeえらぶことが　できます
-もじの　ひょうじを\xfffeきりかえることが　できます
+The text speed can be set\xfffein three different speeds.
+Choose to display battle animations.
+Choose the standard rules\xfffeof shifting Pokémon in battle.
+Choose to put the sound\xfffein stereo or in mono mode.
+Choose how to display text.\fffeKanji is Japanese language.
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-えらんだ　せっていに　かえますか？
-Yes
+Do you want to continue?\xfffeIf you quit, changes will be lost.
 No
 ダミーメッセージ
