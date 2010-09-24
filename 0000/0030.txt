@@ -32,5 +32,6 @@ Choose how to display text.\fffeKanji is Japanese language.
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
 Do you want to continue?\xfffeIf you quit, changes will be lost.
+Yes
 No
 ダミーメッセージ
