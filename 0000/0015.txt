@@ -1402,279 +1402,279 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeOminous Wind!
 \xf000ā\x0001\x0000 used\xfffeShadow Force!
 The wild \xf000ā\x0001\x0000 used\xfffeShadow Force!
 The foe’s \xf000ā\x0001\x0000 used\xfffeShadow Force!
-\xf000ā\x0001\x0000 used\xfffeTsumetogi!
-The wild \xf000ā\x0001\x0000 used\xfffeTsumetogi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTsumetogi!
-\xf000ā\x0001\x0000 used\xfffeWaidogaado!
-The wild \xf000ā\x0001\x0000 used\xfffeWaidogaado!
-The foe’s \xf000ā\x0001\x0000 used\xfffeWaidogaado!
-\xf000ā\x0001\x0000 used\xfffeGaadoshea!
-The wild \xf000ā\x0001\x0000 used\xfffeGaadoshea!
-The foe’s \xf000ā\x0001\x0000 used\xfffeGaadoshea!
-\xf000ā\x0001\x0000 used\xfffePawaashea!
-The wild \xf000ā\x0001\x0000 used\xfffePawaashea!
-The foe’s \xf000ā\x0001\x0000 used\xfffePawaashea!
-\xf000ā\x0001\x0000 used\xfffeWandaaruumu!
-The wild \xf000ā\x0001\x0000 used\xfffeWandaaruumu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeWandaaruumu!
-\xf000ā\x0001\x0000 used\xfffeSaikoshokku!
-The wild \xf000ā\x0001\x0000 used\xfffeSaikoshokku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSaikoshokku!
-\xf000ā\x0001\x0000 used\xfffeBenomushokku!
-The wild \xf000ā\x0001\x0000 used\xfffeBenomushokku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeBenomushokku!
-\xf000ā\x0001\x0000 used\xfffeBodipaaji!
-The wild \xf000ā\x0001\x0000 used\xfffeBodipaaji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeBodipaaji!
-\xf000ā\x0001\x0000 used\xfffeIkarinokona!
-The wild \xf000ā\x0001\x0000 used\xfffeIkarinokona!
-The foe’s \xf000ā\x0001\x0000 used\xfffeIkarinokona!
-\xf000ā\x0001\x0000 used\xfffeTerekineshisu!
-The wild \xf000ā\x0001\x0000 used\xfffeTerekineshisu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTerekineshisu!
-\xf000ā\x0001\x0000 used\xfffeMajikkuruumu!
-The wild \xf000ā\x0001\x0000 used\xfffeMajikkuruumu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeMajikkuruumu!
-\xf000ā\x0001\x0000 used\xfffeUchiotosu!
-The wild \xf000ā\x0001\x0000 used\xfffeUchiotosu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeUchiotosu!
-\xf000ā\x0001\x0000 used\xfffeYamaarashi!
-The wild \xf000ā\x0001\x0000 used\xfffeYamaarashi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeYamaarashi!
-\xf000ā\x0001\x0000 used\xfffeHajikeruhonoo!
-The wild \xf000ā\x0001\x0000 used\xfffeHajikeruhonoo!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHajikeruhonoo!
-\xf000ā\x0001\x0000 used\xfffeHedoroweebu!
-The wild \xf000ā\x0001\x0000 used\xfffeHedoroweebu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHedoroweebu!
-\xf000ā\x0001\x0000 used\xfffeChounomai!
-The wild \xf000ā\x0001\x0000 used\xfffeChounomai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeChounomai!
-\xf000ā\x0001\x0000 used\xfffeHebiibonbaa!
-The wild \xf000ā\x0001\x0000 used\xfffeHebiibonbaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHebiibonbaa!
-\xf000ā\x0001\x0000 used\xfffeShinkuronoizu!
-The wild \xf000ā\x0001\x0000 used\xfffeShinkuronoizu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeShinkuronoizu!
-\xf000ā\x0001\x0000 used\xfffeErekibooru!
-The wild \xf000ā\x0001\x0000 used\xfffeErekibooru!
-The foe’s \xf000ā\x0001\x0000 used\xfffeErekibooru!
-\xf000ā\x0001\x0000 used\xfffeMizubitashi!
-The wild \xf000ā\x0001\x0000 used\xfffeMizubitashi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeMizubitashi!
-\xf000ā\x0001\x0000 used\xfffeNitorochaaji!
-The wild \xf000ā\x0001\x0000 used\xfffeNitorochaaji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNitorochaaji!
-\xf000ā\x0001\x0000 used\xfffeTogurowomaku!
-The wild \xf000ā\x0001\x0000 used\xfffeTogurowomaku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTogurowomaku!
-\xf000ā\x0001\x0000 used\xfffeRookikku!
-The wild \xf000ā\x0001\x0000 used\xfffeRookikku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeRookikku!
-\xf000ā\x0001\x0000 used\xfffeAshiddobomu!
-The wild \xf000ā\x0001\x0000 used\xfffeAshiddobomu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAshiddobomu!
-\xf000ā\x0001\x0000 used\xfffeIkasama!
-The wild \xf000ā\x0001\x0000 used\xfffeIkasama!
-The foe’s \xf000ā\x0001\x0000 used\xfffeIkasama!
-\xf000ā\x0001\x0000 used\xfffeShinpurubiimu!
-The wild \xf000ā\x0001\x0000 used\xfffeShinpurubiimu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeShinpurubiimu!
-\xf000ā\x0001\x0000 used\xfffeNakamadzukuri!
-The wild \xf000ā\x0001\x0000 used\xfffeNakamadzukuri!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNakamadzukuri!
-\xf000ā\x0001\x0000 used\xfffeOsakinidouzo!
-The wild \xf000ā\x0001\x0000 used\xfffeOsakinidouzo!
-The foe’s \xf000ā\x0001\x0000 used\xfffeOsakinidouzo!
-\xf000ā\x0001\x0000 used\xfffeRinshou!
-The wild \xf000ā\x0001\x0000 used\xfffeRinshou!
-The foe’s \xf000ā\x0001\x0000 used\xfffeRinshou!
-\xf000ā\x0001\x0000 used\xfffeEkooboisu!
-The wild \xf000ā\x0001\x0000 used\xfffeEkooboisu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeEkooboisu!
-\xf000ā\x0001\x0000 used\xfffeNashikuzushi!
-The wild \xf000ā\x0001\x0000 used\xfffeNashikuzushi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNashikuzushi!
-\xf000ā\x0001\x0000 used\xfffeKuriasumoggu!
-The wild \xf000ā\x0001\x0000 used\xfffeKuriasumoggu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKuriasumoggu!
-\xf000ā\x0001\x0000 used\xfffeAshisutopawaa!
-The wild \xf000ā\x0001\x0000 used\xfffeAshisutopawaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAshisutopawaa!
-\xf000ā\x0001\x0000 used\xfffeFasutogaado!
-The wild \xf000ā\x0001\x0000 used\xfffeFasutogaado!
-The foe’s \xf000ā\x0001\x0000 used\xfffeFasutogaado!
-\xf000ā\x0001\x0000 used\xfffeSaidochenji!
-The wild \xf000ā\x0001\x0000 used\xfffeSaidochenji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSaidochenji!
-\xf000ā\x0001\x0000 used\xfffeNettou!
-The wild \xf000ā\x0001\x0000 used\xfffeNettou!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNettou!
-\xf000ā\x0001\x0000 used\xfffeKarawoyaburu!
-The wild \xf000ā\x0001\x0000 used\xfffeKarawoyaburu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKarawoyaburu!
-\xf000ā\x0001\x0000 used\xfffeIyashinohadou!
-The wild \xf000ā\x0001\x0000 used\xfffeIyashinohadou!
-The foe’s \xf000ā\x0001\x0000 used\xfffeIyashinohadou!
-\xf000ā\x0001\x0000 used\xfffeTatarime!
-The wild \xf000ā\x0001\x0000 used\xfffeTatarime!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTatarime!
-\xf000ā\x0001\x0000 used\xfffeFuriifooru!
-The wild \xf000ā\x0001\x0000 used\xfffeFuriifooru!
-The foe’s \xf000ā\x0001\x0000 used\xfffeFuriifooru!
-\xf000ā\x0001\x0000 used\xfffeHiachenji!
-The wild \xf000ā\x0001\x0000 used\xfffeHiachenji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHiachenji!
-\xf000ā\x0001\x0000 used\xfffeTomoenage!
-The wild \xf000ā\x0001\x0000 used\xfffeTomoenage!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTomoenage!
-\xf000ā\x0001\x0000 used\xfffeYakitsukusu!
-The wild \xf000ā\x0001\x0000 used\xfffeYakitsukusu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeYakitsukusu!
-\xf000ā\x0001\x0000 used\xfffeSakiokuri!
-The wild \xf000ā\x0001\x0000 used\xfffeSakiokuri!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSakiokuri!
-\xf000ā\x0001\x0000 used\xfffeAkurobatto!
-The wild \xf000ā\x0001\x0000 used\xfffeAkurobatto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAkurobatto!
-\xf000ā\x0001\x0000 used\xfffeMiraataipu!
-The wild \xf000ā\x0001\x0000 used\xfffeMiraataipu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeMiraataipu!
-\xf000ā\x0001\x0000 used\xfffeKatakiuchi!
-The wild \xf000ā\x0001\x0000 used\xfffeKatakiuchi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKatakiuchi!
-\xf000ā\x0001\x0000 used\xfffeInochigake!
-The wild \xf000ā\x0001\x0000 used\xfffeInochigake!
-The foe’s \xf000ā\x0001\x0000 used\xfffeInochigake!
-\xf000ā\x0001\x0000 used\xfffeGifutopasu!
-The wild \xf000ā\x0001\x0000 used\xfffeGifutopasu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeGifutopasu!
-\xf000ā\x0001\x0000 used\xfffeRengoku!
-The wild \xf000ā\x0001\x0000 used\xfffeRengoku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeRengoku!
-\xf000ā\x0001\x0000 used\xfffeMizunochikai!
-The wild \xf000ā\x0001\x0000 used\xfffeMizunochikai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeMizunochikai!
-\xf000ā\x0001\x0000 used\xfffeHonoonochikai!
-The wild \xf000ā\x0001\x0000 used\xfffeHonoonochikai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHonoonochikai!
-\xf000ā\x0001\x0000 used\xfffeKusanochikai!
-The wild \xf000ā\x0001\x0000 used\xfffeKusanochikai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKusanochikai!
-\xf000ā\x0001\x0000 used\xfffeBorutochenji!
-The wild \xf000ā\x0001\x0000 used\xfffeBorutochenji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeBorutochenji!
-\xf000ā\x0001\x0000 used\xfffeMushinoteikou!
-The wild \xf000ā\x0001\x0000 used\xfffeMushinoteikou!
-The foe’s \xf000ā\x0001\x0000 used\xfffeMushinoteikou!
-\xf000ā\x0001\x0000 used\xfffeJinarashi!
-The wild \xf000ā\x0001\x0000 used\xfffeJinarashi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeJinarashi!
-\xf000ā\x0001\x0000 used\xfffeKoorinoibuki!
-The wild \xf000ā\x0001\x0000 used\xfffeKoorinoibuki!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKoorinoibuki!
-\xf000ā\x0001\x0000 used\xfffeDoragonteeru!
-The wild \xf000ā\x0001\x0000 used\xfffeDoragonteeru!
-The foe’s \xf000ā\x0001\x0000 used\xfffeDoragonteeru!
-\xf000ā\x0001\x0000 used\xfffeFuruitateru!
-The wild \xf000ā\x0001\x0000 used\xfffeFuruitateru!
-The foe’s \xf000ā\x0001\x0000 used\xfffeFuruitateru!
-\xf000ā\x0001\x0000 used\xfffeErekinetto!
-The wild \xf000ā\x0001\x0000 used\xfffeErekinetto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeErekinetto!
-\xf000ā\x0001\x0000 used\xfffeWairudoboruto!
-The wild \xf000ā\x0001\x0000 used\xfffeWairudoboruto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeWairudoboruto!
-\xf000ā\x0001\x0000 used\xfffeDorirurainaa!
-The wild \xf000ā\x0001\x0000 used\xfffeDorirurainaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeDorirurainaa!
-\xf000ā\x0001\x0000 used\xfffeDaburuchoppu!
-The wild \xf000ā\x0001\x0000 used\xfffeDaburuchoppu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeDaburuchoppu!
-\xf000ā\x0001\x0000 used\xfffeHaatosutanpu!
-The wild \xf000ā\x0001\x0000 used\xfffeHaatosutanpu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHaatosutanpu!
-\xf000ā\x0001\x0000 used\xfffeUddohoon!
-The wild \xf000ā\x0001\x0000 used\xfffeUddohoon!
-The foe’s \xf000ā\x0001\x0000 used\xfffeUddohoon!
-\xf000ā\x0001\x0000 used\xfffeSeinarutsurugi!
-The wild \xf000ā\x0001\x0000 used\xfffeSeinarutsurugi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSeinarutsurugi!
-\xf000ā\x0001\x0000 used\xfffeSherubureedo!
-The wild \xf000ā\x0001\x0000 used\xfffeSherubureedo!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSherubureedo!
-\xf000ā\x0001\x0000 used\xfffeHiitosutanpu!
-The wild \xf000ā\x0001\x0000 used\xfffeHiitosutanpu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHiitosutanpu!
-\xf000ā\x0001\x0000 used\xfffeGurasumikisaa!
-The wild \xf000ā\x0001\x0000 used\xfffeGurasumikisaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeGurasumikisaa!
-\xf000ā\x0001\x0000 used\xfffeHaadorooraa!
-The wild \xf000ā\x0001\x0000 used\xfffeHaadorooraa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHaadorooraa!
-\xf000ā\x0001\x0000 used\xfffeKottongaado!
-The wild \xf000ā\x0001\x0000 used\xfffeKottongaado!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKottongaado!
-\xf000ā\x0001\x0000 used\xfffeNaitobaasuto!
-The wild \xf000ā\x0001\x0000 used\xfffeNaitobaasuto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNaitobaasuto!
-\xf000ā\x0001\x0000 used\xfffeSaikobureiku!
-The wild \xf000ā\x0001\x0000 used\xfffeSaikobureiku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSaikobureiku!
-\xf000ā\x0001\x0000 used\xfffeSuiipubinta!
-The wild \xf000ā\x0001\x0000 used\xfffeSuiipubinta!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSuiipubinta!
-\xf000ā\x0001\x0000 used\xfffeBoufuu!
-The wild \xf000ā\x0001\x0000 used\xfffeBoufuu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeBoufuu!
-\xf000ā\x0001\x0000 used\xfffeAfurobureiku!
-The wild \xf000ā\x0001\x0000 used\xfffeAfurobureiku!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAfurobureiku!
-\xf000ā\x0001\x0000 used\xfffeGiasoosaa!
-The wild \xf000ā\x0001\x0000 used\xfffeGiasoosaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeGiasoosaa!
-\xf000ā\x0001\x0000 used\xfffeKaendan!
-The wild \xf000ā\x0001\x0000 used\xfffeKaendan!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKaendan!
-\xf000ā\x0001\x0000 used\xfffeTekunobasutaa!
-The wild \xf000ā\x0001\x0000 used\xfffeTekunobasutaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTekunobasutaa!
-\xf000ā\x0001\x0000 used\xfffeInishienouta!
-The wild \xf000ā\x0001\x0000 used\xfffeInishienouta!
-The foe’s \xf000ā\x0001\x0000 used\xfffeInishienouta!
-\xf000ā\x0001\x0000 used\xfffeShinpinotsurugi!
-The wild \xf000ā\x0001\x0000 used\xfffeShinpinotsurugi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeShinpinotsurugi!
-\xf000ā\x0001\x0000 used\xfffeKogoerusekai!
-The wild \xf000ā\x0001\x0000 used\xfffeKogoerusekai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKogoerusekai!
-\xf000ā\x0001\x0000 used\xfffeRaigeki!
-The wild \xf000ā\x0001\x0000 used\xfffeRaigeki!
-The foe’s \xf000ā\x0001\x0000 used\xfffeRaigeki!
-\xf000ā\x0001\x0000 used\xfffeAoihonoo!
-The wild \xf000ā\x0001\x0000 used\xfffeAoihonoo!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAoihonoo!
-\xf000ā\x0001\x0000 used\xfffeHonoonomai!
-The wild \xf000ā\x0001\x0000 used\xfffeHonoonomai!
-The foe’s \xf000ā\x0001\x0000 used\xfffeHonoonomai!
-\xf000ā\x0001\x0000 used\xfffeFuriizuboruto!
-The wild \xf000ā\x0001\x0000 used\xfffeFuriizuboruto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeFuriizuboruto!
-\xf000ā\x0001\x0000 used\xfffeKoorudofurea!
-The wild \xf000ā\x0001\x0000 used\xfffeKoorudofurea!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKoorudofurea!
-\xf000ā\x0001\x0000 used\xfffeBaakuauto!
-The wild \xf000ā\x0001\x0000 used\xfffeBaakuauto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeBaakuauto!
-\xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
-The wild \xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
-The foe’s \xf000ā\x0001\x0000 used\xfffeTsuraraotoshi!
-\xf000ā\x0001\x0000 used\xfffeVjenereeto!
-The wild \xf000ā\x0001\x0000 used\xfffeVjenereeto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeVjenereeto!
-\xf000ā\x0001\x0000 used\xfffeKurosufureimu!
-The wild \xf000ā\x0001\x0000 used\xfffeKurosufureimu!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKurosufureimu!
-\xf000ā\x0001\x0000 used\xfffeKurosusandaa!
-The wild \xf000ā\x0001\x0000 used\xfffeKurosusandaa!
-The foe’s \xf000ā\x0001\x0000 used\xfffeKurosusandaa!
+\xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
+The wild \xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
+The foe’s \xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
+\xf000ā\x0001\x0000 used\xfffeWide Guard!
+The wild \xf000ā\x0001\x0000 used\xfffeWide Guard!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWide Guard!
+\xf000ā\x0001\x0000 used\xfffeGuard Share!
+The wild \xf000ā\x0001\x0000 used\xfffeGuard Share!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGuard Share!
+\xf000ā\x0001\x0000 used\xfffePower Share!
+The wild \xf000ā\x0001\x0000 used\xfffePower Share!
+The foe’s \xf000ā\x0001\x0000 used\xfffePower Share!
+\xf000ā\x0001\x0000 used\xfffeWonder Room!
+The wild \xf000ā\x0001\x0000 used\xfffeWonder Room!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWonder Room!
+\xf000ā\x0001\x0000 used\xfffePsycho Shock!
+The wild \xf000ā\x0001\x0000 used\xfffePsycho Shock!
+The foe’s \xf000ā\x0001\x0000 used\xfffePsycho Shock!
+\xf000ā\x0001\x0000 used\xfffeVenom Shock!
+The wild \xf000ā\x0001\x0000 used\xfffeVenom Shock!
+The foe’s \xf000ā\x0001\x0000 used\xfffeVenom Shock!
+\xf000ā\x0001\x0000 used\xfffeBody Purge!
+The wild \xf000ā\x0001\x0000 used\xfffeBody Purge!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBody Purge!
+\xf000ā\x0001\x0000 used\xfffeSuper Powder!
+The wild \xf000ā\x0001\x0000 used\xfffeSuper Powder!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSuper Powder!
+\xf000ā\x0001\x0000 used\xfffeTelekinesis!
+The wild \xf000ā\x0001\x0000 used\xfffeTelekinesis!
+The foe’s \xf000ā\x0001\x0000 used\xfffeTelekinesis!
+\xf000ā\x0001\x0000 used\xfffeMagic Room!
+The wild \xf000ā\x0001\x0000 used\xfffeMagic Room!
+The foe’s \xf000ā\x0001\x0000 used\xfffeMagic Room!
+\xf000ā\x0001\x0000 used\xfffeKnock Down!
+The wild \xf000ā\x0001\x0000 used\xfffeKnock Down!
+The foe’s \xf000ā\x0001\x0000 used\xfffeKnock Down!
+\xf000ā\x0001\x0000 used\xfffeMountain Storm!
+The wild \xf000ā\x0001\x0000 used\xfffeMountain Storm!
+The foe’s \xf000ā\x0001\x0000 used\xfffeMountain Storm!
+\xf000ā\x0001\x0000 used\xfffeBursting Flame!
+The wild \xf000ā\x0001\x0000 used\xfffeBursting Flame!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBursting Flame!
+\xf000ā\x0001\x0000 used\xfffeSludge Wave!
+The wild \xf000ā\x0001\x0000 used\xfffeSludge Wave!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSludge Wave!
+\xf000ā\x0001\x0000 used\xfffeButterfly Dance!
+The wild \xf000ā\x0001\x0000 used\xfffeButterfly Dance!
+The foe’s \xf000ā\x0001\x0000 used\xfffeButterfly Dance!
+\xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
+The wild \xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
+The foe’s \xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
+\xf000ā\x0001\x0000 used\xfffeSynchronise!
+The wild \xf000ā\x0001\x0000 used\xfffeSynchronise!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSynchronise!
+\xf000ā\x0001\x0000 used\xfffeElectra Ball!
+The wild \xf000ā\x0001\x0000 used\xfffeElectra Ball!
+The foe’s \xf000ā\x0001\x0000 used\xfffeElectra Ball!
+\xf000ā\x0001\x0000 used\xfffeWater Soak!
+The wild \xf000ā\x0001\x0000 used\xfffeWater Soak!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWater Soak!
+\xf000ā\x0001\x0000 used\xfffeNitro Charge!
+The wild \xf000ā\x0001\x0000 used\xfffeNitro Charge!
+The foe’s \xf000ā\x0001\x0000 used\xfffeNitro Charge!
+\xf000ā\x0001\x0000 used\xfffeCoil!
+The wild \xf000ā\x0001\x0000 used\xfffeCoil!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCoil!
+\xf000ā\x0001\x0000 used\xfffeAnkle Kick!
+The wild \xf000ā\x0001\x0000 used\xfffeAnkle Kick!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAnkle Kick!
+\xf000ā\x0001\x0000 used\xfffeAcid Bomb!
+The wild \xf000ā\x0001\x0000 used\xfffeAcid Bomb!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAcid Bomb!
+\xf000ā\x0001\x0000 used\xfffeTrickery!
+The wild \xf000ā\x0001\x0000 used\xfffeTrickery!
+The foe’s \xf000ā\x0001\x0000 used\xfffeTrickery!
+\xf000ā\x0001\x0000 used\xfffeSimple Beam!
+The wild \xf000ā\x0001\x0000 used\xfffeSimple Beam!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSimple Beam!
+\xf000ā\x0001\x0000 used\xfffeMake Friends!
+The wild \xf000ā\x0001\x0000 used\xfffeMake Friends!
+The foe’s \xf000ā\x0001\x0000 used\xfffeMake Friends!
+\xf000ā\x0001\x0000 used\xfffeYou First!
+The wild \xf000ā\x0001\x0000 used\xfffeYou First!
+The foe’s \xf000ā\x0001\x0000 used\xfffeYou First!
+\xf000ā\x0001\x0000 used\xfffeSing A Round!
+The wild \xf000ā\x0001\x0000 used\xfffeSing A Round!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSing A Round!
+\xf000ā\x0001\x0000 used\xfffeEcho Voice!
+The wild \xf000ā\x0001\x0000 used\xfffeEcho Voice!
+The foe’s \xf000ā\x0001\x0000 used\xfffeEcho Voice!
+\xf000ā\x0001\x0000 used\xfffeLittle By Little!
+The wild \xf000ā\x0001\x0000 used\xfffeLittle By Little!
+The foe’s \xf000ā\x0001\x0000 used\xfffeLittle By Little!
+\xf000ā\x0001\x0000 used\xfffeClear Smog!
+The wild \xf000ā\x0001\x0000 used\xfffeClear Smog!
+The foe’s \xf000ā\x0001\x0000 used\xfffeClear Smog!
+\xf000ā\x0001\x0000 used\xfffeAssist Power!
+The wild \xf000ā\x0001\x0000 used\xfffeAssist Power!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAssist Power!
+\xf000ā\x0001\x0000 used\xfffeFast Guard!
+The wild \xf000ā\x0001\x0000 used\xfffeFast Guard!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFast Guard!
+\xf000ā\x0001\x0000 used\xfffeSide Change!
+The wild \xf000ā\x0001\x0000 used\xfffeSide Change!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSide Change!
+\xf000ā\x0001\x0000 used\xfffeBoiling Water!
+The wild \xf000ā\x0001\x0000 used\xfffeBoiling Water!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBoiling Water!
+\xf000ā\x0001\x0000 used\xfffeShell Break!
+The wild \xf000ā\x0001\x0000 used\xfffeShell Break!
+The foe’s \xf000ā\x0001\x0000 used\xfffeShell Break!
+\xf000ā\x0001\x0000 used\xfffeHealing Beam!
+The wild \xf000ā\x0001\x0000 used\xfffeHealing Beam!
+The foe’s \xf000ā\x0001\x0000 used\xfffeHealing Beam!
+\xf000ā\x0001\x0000 used\xfffeEvil Eye!
+The wild \xf000ā\x0001\x0000 used\xfffeEvil Eye!
+The foe’s \xf000ā\x0001\x0000 used\xfffeEvil Eye!
+\xf000ā\x0001\x0000 used\xfffeFree Fall!
+The wild \xf000ā\x0001\x0000 used\xfffeFree Fall!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFree Fall!
+\xf000ā\x0001\x0000 used\xfffeGear Change!
+The wild \xf000ā\x0001\x0000 used\xfffeGear Change!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGear Change!
+\xf000ā\x0001\x0000 used\xfffeOverhead Throw!
+The wild \xf000ā\x0001\x0000 used\xfffeOverhead Throw!
+The foe’s \xf000ā\x0001\x0000 used\xfffeOverhead Throw!
+\xf000ā\x0001\x0000 used\xfffeIncinerate!
+The wild \xf000ā\x0001\x0000 used\xfffeIncinerate!
+The foe’s \xf000ā\x0001\x0000 used\xfffeIncinerate!
+\xf000ā\x0001\x0000 used\xfffePostpone!
+The wild \xf000ā\x0001\x0000 used\xfffePostpone!
+The foe’s \xf000ā\x0001\x0000 used\xfffePostpone!
+\xf000ā\x0001\x0000 used\xfffeAcrobat!
+The wild \xf000ā\x0001\x0000 used\xfffeAcrobat!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAcrobat!
+\xf000ā\x0001\x0000 used\xfffeMirror Type!
+The wild \xf000ā\x0001\x0000 used\xfffeMirror Type!
+The foe’s \xf000ā\x0001\x0000 used\xfffeMirror Type!
+\xf000ā\x0001\x0000 used\xfffeVengeance!
+The wild \xf000ā\x0001\x0000 used\xfffeVengeance!
+The foe’s \xf000ā\x0001\x0000 used\xfffeVengeance!
+\xf000ā\x0001\x0000 used\xfffeLife Gamble!
+The wild \xf000ā\x0001\x0000 used\xfffeLife Gamble!
+The foe’s \xf000ā\x0001\x0000 used\xfffeLife Gamble!
+\xf000ā\x0001\x0000 used\xfffeGift Pass!
+The wild \xf000ā\x0001\x0000 used\xfffeGift Pass!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGift Pass!
+\xf000ā\x0001\x0000 used\xfffePurgatory!
+The wild \xf000ā\x0001\x0000 used\xfffePurgatory!
+The foe’s \xf000ā\x0001\x0000 used\xfffePurgatory!
+\xf000ā\x0001\x0000 used\xfffeWater Oath!
+The wild \xf000ā\x0001\x0000 used\xfffeWater Oath!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWater Oath!
+\xf000ā\x0001\x0000 used\xfffeFire Oath!
+The wild \xf000ā\x0001\x0000 used\xfffeFire Oath!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFire Oath!
+\xf000ā\x0001\x0000 used\xfffeGrass Oath!
+The wild \xf000ā\x0001\x0000 used\xfffeGrass Oath!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGrass Oath!
+\xf000ā\x0001\x0000 used\xfffeVolt Change!
+The wild \xf000ā\x0001\x0000 used\xfffeVolt Change!
+The foe’s \xf000ā\x0001\x0000 used\xfffeVolt Change!
+\xf000ā\x0001\x0000 used\xfffeBug Opposition!
+The wild \xf000ā\x0001\x0000 used\xfffeBug Opposition!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBug Opposition!
+\xf000ā\x0001\x0000 used\xfffeLevel Ground!
+The wild \xf000ā\x0001\x0000 used\xfffeLevel Ground!
+The foe’s \xf000ā\x0001\x0000 used\xfffeLevel Ground!
+\xf000ā\x0001\x0000 used\xfffeIce Breath!
+The wild \xf000ā\x0001\x0000 used\xfffeIce Breath!
+The foe’s \xf000ā\x0001\x0000 used\xfffeIce Breath!
+\xf000ā\x0001\x0000 used\xfffeDragon Tail!
+The wild \xf000ā\x0001\x0000 used\xfffeDragon Tail!
+The foe’s \xf000ā\x0001\x0000 used\xfffeDragon Tail!
+\xf000ā\x0001\x0000 used\xfffeCheer Up!
+The wild \xf000ā\x0001\x0000 used\xfffeCheer Up!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCheer Up!
+\xf000ā\x0001\x0000 used\xfffeElectra Net!
+The wild \xf000ā\x0001\x0000 used\xfffeElectra Net!
+The foe’s \xf000ā\x0001\x0000 used\xfffeElectra Net!
+\xf000ā\x0001\x0000 used\xfffeWild Bolt!
+The wild \xf000ā\x0001\x0000 used\xfffeWild Bolt!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWild Bolt!
+\xf000ā\x0001\x0000 used\xfffeDrill Liner!
+The wild \xf000ā\x0001\x0000 used\xfffeDrill Liner!
+The foe’s \xf000ā\x0001\x0000 used\xfffeDrill Liner!
+\xf000ā\x0001\x0000 used\xfffeDouble Chop!
+The wild \xf000ā\x0001\x0000 used\xfffeDouble Chop!
+The foe’s \xf000ā\x0001\x0000 used\xfffeDouble Chop!
+\xf000ā\x0001\x0000 used\xfffeHeart Stamp!
+The wild \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
+The foe’s \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
+\xf000ā\x0001\x0000 used\xfffeWood Horn!
+The wild \xf000ā\x0001\x0000 used\xfffeWood Horn!
+The foe’s \xf000ā\x0001\x0000 used\xfffeWood Horn!
+\xf000ā\x0001\x0000 used\xfffeSacred Sword!
+The wild \xf000ā\x0001\x0000 used\xfffeSacred Sword!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSacred Sword!
+\xf000ā\x0001\x0000 used\xfffeShell Blade!
+The wild \xf000ā\x0001\x0000 used\xfffeShell Blade!
+The foe’s \xf000ā\x0001\x0000 used\xfffeShell Blade!
+\xf000ā\x0001\x0000 used\xfffeHeat Stamp!
+The wild \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
+The foe’s \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
+\xf000ā\x0001\x0000 used\xfffeGrass Mixer!
+The wild \xf000ā\x0001\x0000 used\xfffeGrass Mixer!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGrass Mixer!
+\xf000ā\x0001\x0000 used\xfffeHard Roller!
+The wild \xf000ā\x0001\x0000 used\xfffeHard Roller!
+The foe’s \xf000ā\x0001\x0000 used\xfffeHard Roller!
+\xf000ā\x0001\x0000 used\xfffeCotton Guard!
+The wild \xf000ā\x0001\x0000 used\xfffeCotton Guard!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCotton Guard!
+\xf000ā\x0001\x0000 used\xfffeNight Burst!
+The wild \xf000ā\x0001\x0000 used\xfffeNight Burst!
+The foe’s \xf000ā\x0001\x0000 used\xfffeNight Burst!
+\xf000ā\x0001\x0000 used\xfffePsycho Break!
+The wild \xf000ā\x0001\x0000 used\xfffePsycho Break!
+The foe’s \xf000ā\x0001\x0000 used\xfffePsycho Break!
+\xf000ā\x0001\x0000 used\xfffeSweep Slap!
+The wild \xf000ā\x0001\x0000 used\xfffeSweep Slap!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSweep Slap!
+\xf000ā\x0001\x0000 used\xfffeGale!
+The wild \xf000ā\x0001\x0000 used\xfffeGale!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGale!
+\xf000ā\x0001\x0000 used\xfffeAfro Break!
+The wild \xf000ā\x0001\x0000 used\xfffeAfro Break!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAfro Break!
+\xf000ā\x0001\x0000 used\xfffeGear Saucer!
+The wild \xf000ā\x0001\x0000 used\xfffeGear Saucer!
+The foe’s \xf000ā\x0001\x0000 used\xfffeGear Saucer!
+\xf000ā\x0001\x0000 used\xfffeFlame Bomb!
+The wild \xf000ā\x0001\x0000 used\xfffeFlame Bomb!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFlame Bomb!
+\xf000ā\x0001\x0000 used\xfffeTechno Buster!
+The wild \xf000ā\x0001\x0000 used\xfffeTechno Buster!
+The foe’s \xf000ā\x0001\x0000 used\xfffeTechno Buster!
+\xf000ā\x0001\x0000 used\xfffeAncient Song!
+The wild \xf000ā\x0001\x0000 used\xfffeAncient Song!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAncient Song!
+\xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
+The wild \xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
+The foe’s \xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
+\xf000ā\x0001\x0000 used\xfffeFrozen World!
+The wild \xf000ā\x0001\x0000 used\xfffeFrozen World!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFrozen World!
+\xf000ā\x0001\x0000 used\xfffeLightning Strike!
+The wild \xf000ā\x0001\x0000 used\xfffeLightning Strike!
+The foe’s \xf000ā\x0001\x0000 used\xfffeLightning Strike!
+\xf000ā\x0001\x0000 used\xfffeBlue Fire!
+The wild \xf000ā\x0001\x0000 used\xfffeBlue Fire!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBlue Fire!
+\xf000ā\x0001\x0000 used\xfffeFire Dance!
+The wild \xf000ā\x0001\x0000 used\xfffeFire Dance!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFire Dance!
+\xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
+The wild \xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
+The foe’s \xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
+\xf000ā\x0001\x0000 used\xfffeCold Flare!
+The wild \xf000ā\x0001\x0000 used\xfffeCold Flare!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCold Flare!
+\xf000ā\x0001\x0000 used\xfffeBark Out!
+The wild \xf000ā\x0001\x0000 used\xfffeBark Out!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBark Out!
+\xf000ā\x0001\x0000 used\xfffeIcicle Throw!
+The wild \xf000ā\x0001\x0000 used\xfffeIcicle Throw!
+The foe’s \xf000ā\x0001\x0000 used\xfffeIcicle Throw!
+\xf000ā\x0001\x0000 used\xfffeV-Generate!
+The wild \xf000ā\x0001\x0000 used\xfffeV-Generate!
+The foe’s \xf000ā\x0001\x0000 used\xfffeV-Generate!
+\xf000ā\x0001\x0000 used\xfffeCross Flame!
+The wild \xf000ā\x0001\x0000 used\xfffeCross Flame!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCross Flame!
+\xf000ā\x0001\x0000 used\xfffeCross Thunder!
+The wild \xf000ā\x0001\x0000 used\xfffeCross Thunder!
+The foe’s \xf000ā\x0001\x0000 used\xfffeCross Thunder!

@@ -1,6 +1,6 @@
 -----
 Pound
-Karate Chop 
+Karate Chop
 DoubleSlap
 Comet Punch
 Mega Punch
@@ -20,7 +20,7 @@ Whirlwind
 Fly
 Bind
 Slam
-Vine Whip 
+Vine Whip
 Stomp
 Double Kick
 Mega Kick
