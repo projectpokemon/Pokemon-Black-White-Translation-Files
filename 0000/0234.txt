@@ -187,11 +187,11 @@ Different Forms:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
  
-\xf000ā\x0001\x0000の　ぶんぷ
-はる
-なつ
-あき
-ふゆ
+\xf000ā\x0001\x0000's location(s)
+Spring
+Summer
+Autumn
+Winter
 ???
 HT
 HAUT.
