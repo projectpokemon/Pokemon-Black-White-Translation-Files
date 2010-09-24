@@ -1,6 +1,6 @@
 -----
 Pound
-Karate Chop
+Karate Chop 
 DoubleSlap
 Comet Punch
 Mega Punch
@@ -20,7 +20,7 @@ Whirlwind
 Fly
 Bind
 Slam
-Vine Whip
+Vine Whip 
 Stomp
 Double Kick
 Mega Kick
@@ -466,95 +466,95 @@ Dark Void
 Seed Flare
 Ominous Wind
 Shadow Force
-Tsumetogi
-Waidogaado
-Gaadoshea
-Pawaashea
-Wandaaruumu
-Saikoshokku
-Benomushokku
-Bodipaaji
-Ikarinokona
-Terekineshisu
-Majikkuruumu
-Uchiotosu
-Yamaarashi
-Hajikeruhonoo
-Hedoroweebu
-Chounomai
-Hebiibonbaa
-Shinkuronoizu
-Erekibooru
-Mizubitashi
-Nitorochaaji
-Togurowomaku
-Rookikku
-Ashiddobomu
-Ikasama
-Shinpurubiimu
-Nakamadzukuri
-Osakinidouzo
-Rinshou
-Ekooboisu
-Nashikuzushi
-Kuriasumoggu
-Ashisutopawaa
-Fasutogaado
-Saidochenji
-Nettou
-Karawoyaburu
-Iyashinohadou
-Tatarime
-Furiifooru
-Hiachenji
-Tomoenage
-Yakitsukusu
-Sakiokuri
-Akurobatto
-Miraataipu
-Katakiuchi
-Inochigake
-Gifutopasu
-Rengoku
-Mizunochikai
-Honoonochikai
-Kusanochikai
-Borutochenji
-Mushinoteikou
-Jinarashi
-Koorinoibuki
-Doragonteeru
-Furuitateru
-Erekinetto
-Wairudoboruto
-Dorirurainaa
-Daburuchoppu
-Haatosutanpu
-Uddohoon
-Seinarutsurugi
-Sherubureedo
-Hiitosutanpu
-Gurasumikisaa
-Haadorooraa
-Kottongaado
-Naitobaasuto
-Saikobureiku
-Suiipubinta
-Boufuu
-Afurobureiku
-Giasoosaa
-Kaendan
-Tekunobasutaa
-Inishienouta
-Shinpinotsurugi
-Kogoerusekai
-Raigeki
-Aoihonoo
-Honoonomai
-Furiizuboruto
-Koorudofurea
-Baakuauto
-Tsuraraotoshi
-Vjenereeto
-Kurosufureimu
-Kurosusandaa
+Claw Sharpen
+Wide Guard
+Guard Share
+Power Share
+Wonder Room
+Psycho Shock
+Venom Shock
+Body Purge
+Super Powder
+Telekinesis
+Magic Room
+Knock Down
+Mountain Storm
+Bursting Flame
+Sludge Wave
+Butterfly Dance
+Heavy Bomber
+Synchronise
+Electra Ball
+Water Soak
+Nitro Charge
+Coil
+Ankle Kick
+Acid Bomb
+Trickery
+Simple Beam
+Make Friends
+You First
+Sing A Round
+Echo Voice
+Little By Little
+Clear Smog
+Assist Power
+Fast Guard
+Side Change
+Boiling Water
+Shell Break
+Healing Beam
+Evil Eye
+Free Fall
+Gear Change
+Overhead Throw
+Incinerate
+Postpone
+Acrobat
+Mirror Type
+Vengeance
+Life Gamble
+Gift Pass
+Purgatory
+Water Oath
+Fire Oath
+Grass Oath
+Volt Change
+Bug Opposition
+Level Ground
+Ice Breath
+Dragon Tail
+Cheer Up
+Electra Net
+Wild Bolt
+Drill Liner
+Double Chop
+Heart Stamp
+Wood Horn
+Sacred Sword
+Shell Blade
+Heat Stamp
+Grass Mixer
+Hard Roller
+Cotton Guard
+Night Burst
+Psycho Break
+Sweep Slap
+Gale
+Afro Break
+Gear Saucer
+Flame Bomb
+Techno Buster
+Ancient Song
+Sword Of Mystery
+Frozen World
+Lightning Strike
+Blue Fire
+Fire Dance
+Freeze Bolt
+Cold Flare
+Bark Out
+Icicle Throw
+V-Generate
+Cross Flame
+Cross Thunder
