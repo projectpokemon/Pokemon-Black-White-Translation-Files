@@ -1,5 +1,5 @@
-ポケモントレーナー
-ポケモントレーナー
+PKMN Trainer
+PKMN Trainer
 たんぱんこぞう
 ミニスカート
 じゅくがえり
@@ -8,22 +8,22 @@
 フットボーラー
 ウエーター
 ウエートレス
-ジムリーダー
-ジムリーダー
-ジムリーダー
+Leader
+Leader
+Leader
 ほいくし
 えんじ
 えんじ
 ふたごちゃん
-ポケモンブリーダー
-ポケモンブリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ポケモンレンジャー
-ポケモンレンジャー
+PKMN Trainer
+PKMN Trainer
+Leader
+Leader
+Leader
+Leader
+Leader
+PKMN Trainer
+PKMN Trainer
 さぎょういん
 バックパッカー
 バックパッカー
@@ -35,10 +35,10 @@
 ベーカリー
 サイキッカー
 サイキッカー
-ポケモントレーナー
-ポケモントレーナー
-プラズマだん
-ポケモントレーナー
+PKMN Trainer
+PKMN Trainer
+Team Plazma
+PKMN Trainer
 おぼっちゃま
 おじょうさま
 パイロット
@@ -76,10 +76,10 @@
 マダム
 ジェントルマン
 プラズマだん
-してんのう
-してんのう
-してんのう
-してんのう
+Elite Four
+Elite Four
+Elite Four
+Elite Four
 プラズマだん
 てつどういん
 かいパンやろう
@@ -98,8 +98,8 @@
 ゲームフリーク
 ブルジョワールけ
 ブルジョワールけ
-ポケモントレーナー
+PKMN Trainer
 プラズマだん
 サブウェイマスター
-ポケモントレーナー
-ポケモントレーナー
+PKMN Trainer
+PKMN Trainer
