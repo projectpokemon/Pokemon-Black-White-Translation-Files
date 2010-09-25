@@ -494,7 +494,7 @@ It uses the opponent’s strength. \xfffeThe higher the fighting opponent’s at
 It sends a puzzling idea to the opponent. \xfffeThe ability of opponents who receive this attack becomes Simple. 
 It dances with a mysterious rhythm. \xfffeIt makes the opponent copy and both of their abilities become the same. 
 It supports the opponent’s actions by making sure it attacks last. 
-It attacks the opponent with song. \xfffeIf everyone sings together you can use the move in successive turns and have its power increase. 
+It attacks the opponent with song. \xfffeIf everyone sings together you can use the \xfffemove in successive turns and have its power increase. 
 It attacks the opponent with an echoed voice. \xfffeIf it or one of its team mates uses it each turn, the power increases. 
 It looks for a gap and attacks soundly. \xfffeIt deals damage without regard to the opponent’s stat changes. 
 It attacks by throwing a clump of special mud at the opponent. \xfffeIt returns stat changes to their original level. 
@@ -508,7 +508,7 @@ An attack like being showered with questions. \xfffeAn opponent afflicted with a
 It attacks by raising the opponent skyward on the first turn, then dropping them on the second. \xfffeThe opponent that has been raised cannot move. 
 It spins the gears and not only raises its attack, but also sharply raises its speed. 
 It throws the opponent in the air and drags out the next Pokemon. \xfffeIn case of a wild battle, the battle ends. 
-It attacks the opponent with fire. \xfffeIt burns any berry the opponent is holding, rendering it unusable. 
+It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable. 
 It holds the opponent down and makes it attack last. 
 It lightly attacks the opponent. \xfffeThe damage is larger when it is not holding any item. 
 It reflects the opponent’s type and becomes the same type. 
