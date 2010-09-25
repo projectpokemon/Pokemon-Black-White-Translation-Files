@@ -25,7 +25,7 @@ There already is a save file.\xfffeStarting a new adventure now,\xfffewill not b
 A Button: Continue
 B Button: Back to menu
 Enable the C-Gear?\xfffePlease read the warning below.
-Are you sure you want to disable/xfffethe C-Gear? You may anable it later.
+Are you sure you want to disable \xfffethe C-Gear? You may anable it later.
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
 Ｃギアの　スキンデータが\xfffeきえてしまった！
