@@ -1,3 +1,4 @@
+;; Delete this after reading: The Japanese text isn't used. Except the date lines.;;
 \xf000Ă\x0001\x0000
 ♂
 ♀
