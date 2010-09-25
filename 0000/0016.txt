@@ -1123,27 +1123,27 @@ The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくう�
 The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
 The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を\xf000븀\x0000じょうくうに　つれさった！
-\xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffeフリーフォールから　かいほうされた！
-\xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-The wild \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-The foe's \xf000Ă\x0001\x0000 \xfffeうちおとされて　じめんに　おちた！
-\xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-The wild \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
-The foe's \xf000Ă\x0001\x0000 \xfffeじゅんばんを　さきおくりした！
+\xf000Ă\x0001\x0000 \xfffeis no longer bound!
+The wild \xf000Ă\x0001\x0000 \xfffeis no longer bound!
+The foe's \xf000Ă\x0001\x0000 \xfffeis no longer bound!
+\xf000Ă\x0001\x0000 \xfffeis covered in a water ring!
+The wild \xf000Ă\x0001\x0000 \xfffeis covered in a water ring!
+The foe's \xf000Ă\x0001\x0000 \xfffeis covered in a water ring!
+\xf000Ă\x0001\x0000 \xffferegains health from the water ring!
+The wild \xf000Ă\x0001\x0000 \xffferegains health from the water ring!
+The foe's \xf000Ă\x0001\x0000 \xffferegains health from the water ring!
 \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
 The wild \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
 The foe's \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
 \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
 The wild \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
 The foe's \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-The wild \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-The foe's \xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-\xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-The wild \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
-The foe's \xf000Ă\x0001\x0000 \xfffeテレキネシスから　かいほうされた！
+\xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!
+The wild \xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!
+The foe's \xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!
+\xf000Ă\x0001\x0000 \xfffeis increasing their concentration!
+The wild \xf000Ă\x0001\x0000 \xfffeis increasing their concentration!
+The foe's \xf000Ă\x0001\x0000 \xfffeis increasing their concentration!
 \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001を　まっている…
 \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001を　まっている…
 \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を　まっている…
@@ -1154,6 +1154,6 @@ The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001を　まっ�
 \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
 The wild \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
 The foe's \xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-\xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-The wild \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeひのうみの　ダメージをうけた！
+\xf000Ă\x0001\x0000 \xfffeis trying to force their opponent to go with them!
+The wild \xf000Ă\x0001\x0000 \xfffeis trying to force their opponent to go with them!
+The foe's \xf000Ă\x0001\x0000 \xfffeis trying to force their opponent to go with them!
