@@ -214,9 +214,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 \xf000Ă\x0001\x0000 \xfffeavoided the attack!
 The wild \xf000Ă\x0001\x0000 \xfffeavoided the attack!
 The foe's \xf000Ă\x0001\x0000 \xfffeavoided the attack!
-\xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-The wild \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
-The foe's \xf000Ă\x0001\x0000 \xfffeisn't phased by it!
+\xf000Ă\x0001\x0000 \xfffeisn't affected by it!
+The wild \xf000Ă\x0001\x0000 \xfffeisn't affected by it!
+The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it!
 \xf000Ă\x0001\x0000 increased the \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000 increased the wild \xfffe\xf000ĉ\x0001\x0001's Defense!
 \xf000Ă\x0001\x0000 increased the foe's \xfffe\xf000ĉ\x0001\x0001's Defense!
@@ -307,9 +307,9 @@ The foe's \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
 \xf000Ă\x0001\x0000 \xfffefell asleep!
 The wild \xf000Ă\x0001\x0000 \xfffefell asleep!
 The foe's \xf000Ă\x0001\x0000 \xfffefell asleep!
-\xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The wild \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The foe's \xf000Ă\x0001\x0000 \xfffeis sound asleep!
+\xf000Ă\x0001\x0000 \xfffeis fast asleep!
+The wild \xf000Ă\x0001\x0000 \xfffeis fast asleep!
+The foe's \xf000Ă\x0001\x0000 \xfffeis fast asleep!
 \xf000Ă\x0001\x0000 \xfffewoke up!
 The wild \xf000Ă\x0001\x0000 \xfffewoke up!
 The foe's \xf000Ă\x0001\x0000 \xfffewoke up!
