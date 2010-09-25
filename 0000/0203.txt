@@ -53,7 +53,7 @@ The foe is attacked with a spray of harsh acid. \xfffeIt may also lower the targ
 The foe is attacked with small flames. The target \xfffemay also be left with a burn. 
 The foe is scorched with an intense blast of fire. \xfffeThe target may also be left with a burn.
 The user cloaks its body with a white mist that \xfffeprevents any of its stats from being cut for five turns.
-The foe is blasted with a forceful shot of water.  
+The foe is blasted with a forceful shot of \xfffewater.  
 The foe is blasted by a huge volume of water \xfffelaunched under great pressure. 
 It swamps the entire battlefield with a giant wave. \xfffeIt can also be used for crossing water.
 The foe is struck with an icy-cold beam of energy.\xfffeIt may also freeze the target solid.
@@ -71,13 +71,13 @@ The foe is thrown using the power of gravity. \xfffeIt inflicts damage equal to 
 The foe is slugged with a punch thrown at maximum \xfffepower. It can also be used to move boulders.
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
-A seed is planted on the foe. It steals some HP \xfffefrom the foe to heal the user on every turn.
+A seed is planted on the foe. It steals some \xfffeHP from the foe to heal the user on every turn.
 The user’s body is forced to grow all at once. \xfffeIt raises the Sp. Atk stat. 
 Sharp-edged leaves are launched to \xfffeslash at the foe. It has a high critical-hit ratio.
 A two-turn attack. The user gathers light, then blasts \xfffea bundled beam on the second turn.
 A cloud of poisonous dust is scattered on the foe. \xfffeIt may poison the target.
 The user scatters a cloud of paralyzing powder. \xfffeIt may paralyze the target.
-The user scatters a big cloud of sleep-inducing \xfffedust around the foe. 
+The user scatters a big cloud of \xfffesleep-inducing dust around the foe. 
 The user attacks by scattering petals for two to three turns. \xfffeThe user then becomes confused.
 The foe is bound with silk blown from \xfffethe user’s mouth. It reduces the \xfffetarget’s Speed stat.
 The foe is stricken by a shock wave. \xfffeThis attack always inflicts 40 HP damage.
@@ -120,7 +120,7 @@ The user waggles a finger and stimulates the brain into \xffferandomly using nea
 The user counters the foe by mimicking the move last used by the foe.
 The user blows up to inflict damage on all Pokemon in battle. \xfffeThe user faints upon using this move.
 A large egg is hurled with maximum force at the foe to inflict damage. 
-The foe is licked with a long tongue, causing damage. \xfffeIt may also paralyze the target.
+The foe is licked with a long tongue, causing \xfffedamage. It may also paralyze the target.
 The foe is attacked with a discharge of filthy gases. \xfffeIt may also poison the target.
 Unsanitary sludge is hurled at the foe. \xfffeIt may also poison the target. 
 The user clubs the foe with a bone. \xfffeIt may also make the target flinch. 
@@ -138,7 +138,7 @@ The foe is attacked with a knee kick from a jump. \xfffeIf it misses, the user i
 The user intimidates the foe with the pattern on its belly to cause paralysis. 
 An attack that works only on a sleeping foe. \xfffeIt absorbs half the damage caused to heal the user’s HP.
 A cloud of poison gas is sprayed in the foe’s face. \xfffeIt may poison the target.
-Round objects are hurled at the foe to strike two to five times in a row. 
+Round objects are hurled at the foe to \xfffestrike two to five times in a row. 
 A blood-draining attack. The user’s HP is restored \xfffeby half the damage taken by the target.
 With a scary face, the user tries to force a kiss on the foe. \xfffeIf it succeeds, the target falls asleep.
 A second-turn attack move with a high critical-hit ratio. \xfffeIt may also make the target flinch.
@@ -147,7 +147,7 @@ A spray of countless bubbles is jetted at the foe. \xfffeIt may also lower the t
 The foe is hit with rhythmically launched punches \xfffethat may also leave it confused. 
 The user scatters bursts of spores that induce sleep.  
 The user flashes a light that cuts the foe’s accuracy. \xfffeIt can also be used to illuminate caves.
-The foe is attacked with an odd, hot energy wave. \xfffeThe attack varies in intensity.
+The foe is attacked with an odd, hot energy \xfffewave. The attack varies in intensity.
 The user just flops and splashes around to no effect at all...  
 The user alters its cellular structure to liquefy itself, sharply raising \xfffeits Defense stat.
 The foe is hammered with a large pincer. \xfffeThis move has a high critical-hit ratio. 
@@ -200,7 +200,7 @@ The user strikes at the foe with a hard bone two to five times in a row.
 The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fail to hit the target.
 The user rampages and attacks for two to three turns. \xfffeHowever, it then becomes confused.
 A five-turn sand- storm is summoned to hurt all combatant types \xfffeexcept Rock,  Ground, and Steel.
-A nutrient-draining attack. The user’s HP is restored by \xfffehalf the damage taken by the target.
+A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
 The user endures any attack with at least 1 HP. \xfffeIts chance of failing rises if it is used in succession.
 The user charmingly stares at the foe, making it less wary. \xfffeThe target’s Attack is sharply lowered.
 The user continually rolls into the foe over five turns. \xfffeIt becomes stronger each time it hits.
@@ -251,7 +251,7 @@ The user hits with a punch that may lower \xfffethe target’s Defense. It can a
 Traps the foe inside a whirlpool that lasts \xfffefor two to five turns. The user can pass \xfffethrough whirlpools.
 The user gets all the party Pokemon to attack the foe. \xfffeThe more party Pokemon, the more damage.
 An attack that hits first and makes the target flinch. \xfffeIt only works the first turn the user is in battle.
-The user attacks in an uproar for two to five turns. \xfffeOver that time, no one can fall asleep.
+The user attacks in an uproar for two to \xfffefive turns. Over that time, no one can fall asleep.
 The user charges up power, and raises both its Defense and Sp. Def. \xfffeThe move can be used three times.
 The power stored using the move Stockpile is released at once in an attack. 
 The power stored using the move Stockpile is absorbed by the user to heal its HP.
@@ -284,7 +284,7 @@ The user slaps down the foe’s held item, preventing the item from \xfffebeing 
 An attack move that cuts down the foe’s HP to equal the user’s HP. 
 The user attacks in an explosive fury. \xfffeThe lower the user’s HP, the less powerful this attack becomes.
 The user employs its psychic power to exchange abilities with the foe. 
-If the foe knows any move also known by the user, the foe \xfffeis prevented from using it.
+If the foe knows any move also known by the \xfffeuser, the foe is prevented from using it.
 The user rests to cure itself of a poisoning, burn, or paralysis. 
 If the user faints, the user’s grudge fully depletes the PP \xfffeof the foe’s move that knocked it out.
 The user steals the effects of any healing or stat- changing \xfffemove the foe attempts to use.
@@ -315,10 +315,10 @@ The user feigns crying to make the foe feel \xfffeflustered, sharply lowering it
 The user launches razorlike wind \xfffeto slash the foe. \xfffeIt has a high critical-hit ratio.
 The user attacks the foe at full power. The attack’s recoil \xfffesharply reduces the user’s Sp. Atk stat.
 Enables the user to hit a Ghost type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
-Boulders are hurled at the foe. It also lowers the foe’s Speed \xfffeby preventing its movement.
+Boulders are hurled at the foe. \xfffeIt also lowers the foe’s Speed by preventing \xfffeits movement.
 The foe is attacked with powdery scales blown by wind. \xfffeIt may also raise all the user’s stats.
 A horrible sound like scraping metal is emitted to sharply reduce \xfffethe foe’s Sp. Def stat.
-The user plays a pleasant melody that lulls the foe into a deep sleep. 
+The user plays a pleasant melody that lulls \xfffethe foe into a deep sleep. 
 The user tickles the foe into laughing, reducing its Attack and Defense stats. 
 The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
 The user spouts water to damage the foe. \xfffeThe lower the user’s HP, the less powerful it becomes.
@@ -343,7 +343,7 @@ The user attacks by hurling a blob of mud at the foe. \xfffeIt also reduces the 
 An attack with a high critical-hit ratio. \xfffeThis tail  attack may also  poison the foe.
 The user endearingly approaches the foe, then steals the item \xfffethe foe is holding. 
 The user electrifies itself, then charges at the foe. \xfffeIt causes considerable damage to the user as well.
-The user scatters curious leaves that chase the foe. \xfffeThis attack will not miss.
+The user scatters curious leaves that chase \xfffethe foe. This attack will not miss.
 The user soaks itself with water. The move weakens Fire-type moves \xfffewhile the user is in the battle.
 The user quietly focuses its mind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
 The foe is slashed with a sharp leaf. \xfffeIt has a high critical-hit ratio. 
@@ -363,7 +363,7 @@ The user faints. In return, the Pokemon taking its place will have its \xfffeHP 
 If the foe’s HP is down to about half, this attack will \xfffehit with double the power.
 The user draws power to attack by using its held Berry. \xfffeThe Berry determines its type and power.
 An attack that hits a foe using Protect or Detect. \xfffeIt also lifts the effects of those moves.
-The user pecks the foe. If the foe is holding a Berry, the user plucks it \xfffeand gains its effect.
+The user pecks the foe. If the foe is \xfffeholding a Berry, the user plucks it and gains its effect.
 The user whips up a turbulent whirlwind that ups the Speed of \xfffeall party Pokemon for three turns.
 The user applies pressure to stress points, sharply boosting one of its stats.
 The user retaliates against the foe that last inflicted damage on it \xfffewith much greater power.
@@ -379,7 +379,7 @@ The user prevents the foe from using any HP-recovery moves for five turns.
 The user powerfully wrings the foe. \xfffeThe more HP the foe has, the greater this attack’s power.
 The user employs its psychic power to switch its Attack with its Defense stat.
 The user hurls up its stomach acids on the foe. \xfffeThe fluid eliminates the effect of the foe’s ability.
-The user chants an incantation toward the sky, preventing the foe \xfffefrom landing critical hits.
+The user chants an incantation toward the \xfffesky, preventing the foe from landing critical hits.
 The user tries to cut ahead of the foe to steal and use the foe’s intended \xfffemove with greater power.
 The user mimics the move used immediately before it. \xfffeThe move fails if no other move has been used yet.
 The user employs its psychic power to switch changes to \xfffeits Attack and Sp. Atk with the foe.
@@ -451,7 +451,7 @@ The user releases countless shots of light. \xfffeIts type varies with the kind 
 The user bites the foe. If the foe is \xfffeholding a Berry, the user eats it and gains its effect.
 The user fires a concentrated bundle of electricity. \xfffeIt may also raise the user’s Sp. Atk stat.
 The user slams its rugged body into the foe to attack. \xfffeThe user also sustains serious damage.
-The user lunges at the foe at a speed that makes it almost invisible. \xfffeIt is sure to strike first.
+The user lunges at the foe at a speed that \xfffemakes it almost invisible. \xfffeIt is sure to strike first.
 The user calls out its underlings to pummel the foe. \xfffeIt has a high critical-hit ratio.
 The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
 The user calls out its underlings to heal it. \xfffeThe user regains up to half of its max HP.
@@ -502,7 +502,7 @@ It attacks the opponent with accumulated power. \xfffeThe higher your stats are 
 It protects itself and its team mates from the opponent’s priority moves. \xfffeMay fail if used in succession. 
 With a strange power it teleports and switches places with one of its teammates. 
 It attacks by shooting boiling hot water at the opponent. \xfffeIt will sometimes cause a burn. 
-It breaks its own shell and lowers its Defence and Special Defence, but its \xfffeAttack, Defence and Speed sharply rise. 
+It breaks its own shell and lowers its \xfffeDefence and Special Defence, but its Attack, Special attack \xfffeand Speed sharply rise. 
 It lets fly a Healing Beam that will restore half of its opponent’s maximum HP. 
 An attack like being showered with questions. \xfffeAn opponent afflicted with a status condition with receive much damage. 
 It attacks by raising the opponent skyward on the first turn, then dropping them on the second. \xfffeThe opponent that has been raised cannot move. 
@@ -555,6 +555,6 @@ It throws a clump of ice charged with electricity at the opponent on the second 
 It surrounds the opponent in a violent chill that freezes everything on the second turn. \xfffeIt may cause a burn.
 It yells at an opponent for a long time and lowers their Special Attack.
 It violently throws a large pillar of ice. \xfffeIt may cause the opponent to flinch.
-It creates an intensely hot flame from its forehead and tackles the opponent with all its might. \xfffeDefence, Special Defence and Speed are lowered.
+It creates an intensely hot flame from its \xfffeforehead and tackles the opponent with all its might. \xfffeDefence, Special Defence and Speed are lowered.
 It strikes with a huge flame. Its power will increase if \xfffestruck by a huge thunder bolt.
 It strikes with a huge thunder bolt. Its power will increase if \xfffestruck by a huge flame.
