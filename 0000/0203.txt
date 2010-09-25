@@ -277,7 +277,7 @@ The user lays roots that restore HP on every turn. \xfffeBecause it is rooted, i
 The user attacks the foe with great power. \xfffeHowever, it also lowers the user’s Attack and Defense.
 A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
 The user recycles a held item that has been used in battle \xfffeso it can be used again.
-An attack move that inflicts double the damage if the user has \xfffebeen hurt by the foe in the same turn.
+An attack move that inflicts double the \xfffedamage if the user has been hurt by the foe \xfffein the same turn.
 The user attacks with tough fists, etc. \xfffeIt can also break any barrier such as Light Screen and Reflect.
 The user lets loose a huge yawn that lulls the foe \xfffeinto falling asleep on the next turn.
 The user slaps down the foe’s held item, preventing the item from \xfffebeing used during the battle.
