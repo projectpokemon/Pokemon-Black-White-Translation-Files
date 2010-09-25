@@ -73,13 +73,13 @@ A nutrient-draining attack. The user’s HP is \xffferestored by half the damage
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
 A seed is planted on the foe. It steals some HP \xfffefrom the foe to heal the user on every turn.
 The user’s body is forced to grow all at once. \xfffeIt raises the Sp. Atk stat. 
-Sharp-edged leaves are launched to slash at the foe. \xfffeIt has a high critical-hit ratio.
+Sharp-edged leaves are launched to \xfffeslash at the foe. It has a high critical-hit ratio.
 A two-turn attack. The user gathers light, then blasts \xfffea bundled beam on the second turn.
 A cloud of poisonous dust is scattered on the foe. \xfffeIt may poison the target.
 The user scatters a cloud of paralyzing powder. \xfffeIt may paralyze the target.
 The user scatters a big cloud of sleep-inducing \xfffedust around the foe. 
 The user attacks by scattering petals for two to three turns. \xfffeThe user then becomes confused.
-The foe is bound with silk blown from the user’s mouth. \xfffeIt reduces the target’s Speed stat.
+The foe is bound with silk blown from \xfffethe user’s mouth. It reduces the \xfffetarget’s Speed stat.
 The foe is stricken by a shock wave. \xfffeThis attack always inflicts 40 HP damage.
 The foe becomes trapped within a fierce \xfffevortex of fire that rages \xfffefor two to five turns.
 A jolt of electricity is hurled at \xfffethe foe to inflict damage. \xfffeIt may also leave the foe paralyzed.
@@ -448,7 +448,7 @@ The user lays a trap of levitating stones around the foe. \xfffeThe trap hurts f
 The user snares the foe with grass and trips it. \xfffeThe heavier the foe, the greater the damage.
 The user attacks using a sound wave based on words it has learned. \xfffeIt may also confuse the foe.
 The user releases countless shots of light. \xfffeIts type varies with the kind of Plate the user is holding.
-The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+The user bites the foe. If the foe is \xfffeholding a Berry, the user eats it and gains its effect.
 The user fires a concentrated bundle of electricity. \xfffeIt may also raise the user’s Sp. Atk stat.
 The user slams its rugged body into the foe to attack. \xfffeThe user also sustains serious damage.
 The user lunges at the foe at a speed that makes it almost invisible. \xfffeIt is sure to strike first.
