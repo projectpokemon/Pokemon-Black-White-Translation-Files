@@ -1,18 +1,18 @@
-あなたの　なまえは？
-\xf000ā\x0001\x0000の　なまえは？
-ボックスの　なまえは？
-ライバルの　なまえは？
-ともだちの　なまえは？
-すれちがった　あいてへの　あいさつは？
-すれちがった　あいてへの　おれいは？
-すれちがった　あいてへ\xfffeつたえたい　メッセージは？
-なまえを　いれてください！
-にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
+What is your name?
+\xf000ā\x0001\x0000　Name?
+What is your box’s name?
+What is your rival’s name?
+What is your friend’s name?
+What would you like your display message to be when you connect with another person?
+What would you like your thank you message to be when you connect with another person?
+What would you like to tell a person you’ve connected to?
+Please enter your name!
+You may only enter up to\xfffe4 characters.
 　
 　
-よろしく！
-ありがとう！
-ホワイト．
-ブラック．
+Nice knowing you!
+Thank you!
+White.
+Black.
 ♂
 ♀

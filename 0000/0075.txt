@@ -7,5 +7,5 @@ Back
 ２：\xf000Ā\x0001\x0000
 ３：\xf000Ā\x0001\x0000
 ４：\xf000Ā\x0001\x0000
-Select this option to become\xfffeleader of the group.
-All members are ready\xfffePress start!
+Please choose whether you want to be a\xfffeleader or enter a group
+When you get all your members\xfffeSelect Start

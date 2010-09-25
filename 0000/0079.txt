@@ -1,7 +1,7 @@
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
-こんかいの　ミュージカルショットを\xfffeミュージカルホールに　かざりますか？
-はい
-いいえ
-ほかの　さんかしゃの\xfffeせんたくを まっています
+Would you like to post\xfffethis time’s musical pictures in the musical hall?
+Yes
+No
+Waiting for the choice of\xfffethe rest of the participants.
