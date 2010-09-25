@@ -24,10 +24,10 @@ The foe is struck with slender, whiplike \xfffevines to inflict damage.
 The foe is stomped with a big foot. \xfffeIt may also make the target flinch. 
 The foe is quickly kicked twice in \xfffesuccession using both feet. 
 The foe is attacked by a kick launched \xfffewith muscle-packed power. 
-The user jumps up high, then strikes with a kick. \xfffeIf the kick misses, the user hurts itself.
-The user lashes  out with a quick, spinning kick. \xfffeIt may also make the target flinch.
+The user jumps up high, then strikes \xfffewith a kick. If the kick misses, the \xfffeuser hurts itself.
+The user lashes  out with a quick, spinning \xfffekick. It may also make the \xfffetarget flinch.
 Sand is hurled in the foe’s \xfffeface, reducing its accuracy.  
-The user attacks with its head. \xfffeIt may make the foe flinch. To find Pokemon, hit trees.
+The user attacks with its head. \xfffeIt may make the foe flinch.
 The foe is jabbed with a sharply pointed \xfffehorn to inflict damage. 
 The foe is jabbed repeatedly with a horn \xfffeor beak two to five times in a row. 
 The foe is stabbed with a horn rotating like a drill. \xfffeThe foe instantly faints if it hits.
@@ -35,15 +35,15 @@ A physical attack in which the user charges \xfffeand slams into the foe with it
 The user drops onto the foe with its full body weight. \xfffeIt may leave the foe paralyzed.
 A long body or vines are used to wrap and \xfffesqueeze the foe for two to five turns. 
 A reckless, full-body charge attack for \xfffeslamming into the foe. It also damages the user a little.
-The user rampages and attacks for two to three turns. \xfffeIt then becomes confused, however.
-A reckless, life- risking tackle. It also \xfffedamages the user by a fairly large amount, however.
-The user wags its tail cutely, making the foe less wary. \xfffeThe target’s Defense stat is lowered.
-The foe is stabbed with a poisonous barb of some sort. \xfffeIt may also poison the target.
-The foe is stabbed twice by a pair of stingers. \xfffeIt may also poison the target.
-Sharp pins are shot at the foe in rapid succession. \xfffeThey hit two to five times in a row.
-The foe is given an intimidating leer with sharp eyes. \xfffeThe target’s Defense stat is reduced.
-The foe is bitten with viciously sharp fangs. \xfffeIt may make the target flinch. 
-The user growls in an endearing way, making the foe less wary. \xfffeThe target’s Attack stat is lowered.
+The user rampages and attacks for\xfffe two to three turns. It then \xfffebecomes confused, however.
+A reckless, life- risking tackle. \xfffeIt also damages the user by \xfffea fairly large amount, however.
+The user wags its tail cutely, making \xfffethe foe less wary. The target's \xfffeDefense stat is lowered.
+The foe is stabbed with a poisonous \xfffebarb of some sort. It may also poison \xfffethe target.
+The foe is stabbed twice by a pair \xfffeof stingers. It may also poison \xfffethe target.
+Sharp pins are shot at the foe in \xffferapid succession. They hit two to five \xfffetimes in a row.
+The foe is given an intimidating leer \xfffewith sharp eyes. The target’s Defense \xfffestat is reduced.
+The foe is bitten with viciously sharp \xfffefangs. It may make the target flinch. 
+The user growls in an endearing way, making \xfffethe foe less wary. The target’s \xfffeAttack stat is lowered.
 The foe is scared off, to be replaced by another \xfffePokemon in its party. In the wild, the battle ends.
 A soothing lullaby is sung in a calming voice \xfffethat puts the foe into a deep slumber.
 The user generates odd sound waves from its body. \xfffeIt may confuse the target.
@@ -65,8 +65,8 @@ The foe is attacked with a powerful beam. \xfffeThe user must rest on the next t
 The foe is jabbed with a sharply pointed beak or horn. 
 A corkscrewing attack with the sharp beak \xfffeacting as a drill. 
 The user grabs the foe and recklessly dives for the ground. \xfffeIt also hurts the user slightly.
-A powerful low kick that makes the foe fall over. \xfffeIt inflicts greater damage on heavier foes.
-A retaliation move that counters any physical attack, inflicting \xfffedouble the damage taken.
+A powerful low kick that makes \xfffethe foe fall over. It inflicts greater \xfffedamage on heavier foes.
+A retaliation move that counters \xfffeany physical attack, inflicting \xfffedouble the damage taken.
 The foe is thrown using the power of gravity. \xfffeIt inflicts damage equal to the user’s level.
 The foe is slugged with a punch thrown at maximum \xfffepower. It can also be used to move boulders.
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
@@ -81,22 +81,22 @@ The user scatters a big cloud of sleep-inducing \xfffedust around the foe.
 The user attacks by scattering petals for two to three turns. \xfffeThe user then becomes confused.
 The foe is bound with silk blown from the user’s mouth. \xfffeIt reduces the target’s Speed stat.
 The foe is stricken by a shock wave. \xfffeThis attack always inflicts 40 HP damage.
-The foe becomes trapped within a fierce vortex of fire \xfffethat rages for two to five turns.
-A jolt of electricity is hurled at the foe to inflict damage. \xfffeIt may also leave the foe paralyzed.
-A strong electric blast is loosed at the foe. \xfffeIt may also leave the foe paralyzed.
-A weak electric charge is launched at the foe. \xfffeIt causes paralysis if it hits.
-A wicked thunderbolt is dropped on the foe to inflict damage. \xfffeIt may also leave the target paralyzed.
-The user picks up and throws a small rock at the foe to attack. 
-The user sets off an earthquake that hits all the Pokemon in the battle. 
-The user opens up a fissure in the ground and drops the foe in. \xfffeThe target instantly faints if it hits.
+The foe becomes trapped within a fierce \xfffevortex of fire that rages \xfffefor two to five turns.
+A jolt of electricity is hurled at \xfffethe foe to inflict damage. \xfffeIt may also leave the foe paralyzed.
+A strong electric blast is loosed at \xfffethe foe. \xfffeIt may also leave the foe paralyzed.
+A weak electric charge is launched at \xfffethe foe. \xfffeIt causes paralysis if it hits.
+A wicked thunderbolt is dropped on \xfffethe foe to inflict damage. \xfffeIt may also leave the target paralyzed.
+The user picks up and throws a small \xffferock at the foe to attack. 
+The user sets off an earthquake \xfffethat hits all the Pokemon in the battle. 
+The user opens up a fissure in the \xfffeground and drops the foe in. \xfffeThe target instantly faints if it hits.
 The user burrows, then attacks on the second turn. \xfffeIt can also be used to exit dungeons.
 A move that leaves the target badly poisoned. \xfffeIts poison damage worsens every turn.
 The foe is hit by a weak telekinetic force. \xfffeIt may also leave the foe confused.
 The foe is hit by a strong telekinetic force. \xfffeIt may also reduce the foe’s Sp. Def stat.
-The user employs hypnotic suggestion to make the target \xfffefall into a deep sleep.
-The user meditates to awaken the power deep within its body \xfffeand raise its Attack stat.
-The user relaxes and lightens its body to move faster. \xfffeIt sharply boosts the Speed stat.
-The user lunges at the foe at a speed that makes it almost invisible.\xfffeIt is sure to strike first.
+The user employs hypnotic suggestion \xfffeto make the target \xfffefall into a deep sleep.
+The user meditates to awaken the power \xfffedeep within its body \xfffeand raise its Attack stat.
+The user relaxes and lightens its body \xfffeto move faster. \xfffeIt sharply boosts the Speed stat.
+The user lunges at the foe at a speed that \xfffemakes it almost invisible.\xfffeIt is sure to strike first.
 While this move is in use, it gains attack power each time \xfffethe user is hit in battle. 
 Use it to flee from any wild Pokemon. \xfffeIt can also warp to the last Pokemon Center visited.
 The user makes the foe see a mirage. \xfffeIt inflicts damage matching the user’s level.
@@ -246,9 +246,9 @@ The user hypnotizes itself into copying any stat change made by the foe.
 The user charges the foe at blinding speed. \xfffeThis attack always goes before any other move.
 The user attacks with a prehistoric power. \xfffeIt may also raise all the user’s stats at once.
 The user hurls a shadowy blob at the foe. \xfffeIt may also lower the foe’s Sp. Def stat.
-Two turns after this move is used, the foe is attacked \xfffewith a hunk of psychic energy.
-The user hits with a punch that may lower the target’s Defense. \xfffeIt can also smash cracked boulders.
-Traps the foe inside a whirlpool that lasts for two to five turns. \xfffeThe user can pass through whirlpools.
+Two turns after this move is used, the foe \xfffeis attacked with a hunk of psychic energy.
+The user hits with a punch that may lower \xfffethe target’s Defense. It can also smash \xfffecracked boulders.
+Traps the foe inside a whirlpool that lasts \xfffefor two to five turns. The user can pass \xfffethrough whirlpools.
 The user gets all the party Pokemon to attack the foe. \xfffeThe more party Pokemon, the more damage.
 An attack that hits first and makes the target flinch. \xfffeIt only works the first turn the user is in battle.
 The user attacks in an uproar for two to five turns. \xfffeOver that time, no one can fall asleep.
@@ -261,7 +261,7 @@ The user torments and enrages the foe, making it incapable of \xfffeusing the sa
 Flattery is used to confuse the foe. \xfffeHowever, it also raises the target’s Sp. Atk stat.
 The user shoots a sinister, bluish white flame at the foe to inflict a burn. 
 The user faints upon using this move. \xfffeIn return, it sharply lowers the target’s Attack and Sp. Atk.
-An attack move that doubles its power if the user \xfffeis poisoned, paralyzed, or has a burn.
+An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paralyzed, or has a burn.
 The user focuses its mind before launching a punch. \xfffeIt will fail if the user is hit before it is used.
 This attack inflicts double damage on a paralyzed foe. \xfffeIt also cures the foe’s paralysis, however.
 The user draws attention to itself, making all foes take aim only at the user. 
@@ -312,7 +312,7 @@ The user attacks the foe while shouting in a startling fashion. \xfffeIt may als
 An attack move that varies in power and type depending on the weather. 
 The user releases a soothing scent that heals all status \xfffeproblems affecting the user’s party.
 The user feigns crying to make the foe feel \xfffeflustered, sharply lowering its Sp. Def stat.
-The user launches razorlike wind to slash the foe. \xfffeIt has a high critical-hit ratio.
+The user launches razorlike wind \xfffeto slash the foe. \xfffeIt has a high critical-hit ratio.
 The user attacks the foe at full power. The attack’s recoil \xfffesharply reduces the user’s Sp. Atk stat.
 Enables the user to hit a Ghost type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
 Boulders are hurled at the foe. It also lowers the foe’s Speed \xfffeby preventing its movement.
@@ -347,13 +347,13 @@ The user scatters curious leaves that chase the foe. \xfffeThis attack will not 
 The user soaks itself with water. The move weakens Fire-type moves \xfffewhile the user is in the battle.
 The user quietly focuses its mind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
 The foe is slashed with a sharp leaf. \xfffeIt has a high critical-hit ratio. 
-The user vigorously performs a mystic, powerful dance that \xfffeboosts its Attack and Speed stats.
+The user vigorously performs a \xfffemystic, powerful dance that boosts its Attack and Speed stats.
 The user hurls hard rocks at the foe. \xfffeTwo to five rocks are launched in quick succession.
-The user strikes the foe with a quick jolt of electricity. \xfffeThis attack cannot be evaded.
-The user attacks the foe with a pulsing blast of water. \xfffeIt may also confuse the foe.
+The user strikes the foe with a quick jolt \xfffeof electricity. This attack cannot be evaded.
+The user attacks the foe with a pulsing \xfffeblast of water. It may also confuse the foe.
 Two turns after this move is used, the user blasts the foe with a \xfffeconcentrated bundle of light.
-The user attacks the foe at full power. \xfffeThe attack’s recoil sharply reduces the user’s Sp. Atk stat.
-The user lands and rests its body. \xfffeIt restores the user’s HP by up to half of its max HP.
+The user attacks the foe at full power. \xfffeThe attack’s recoil sharply \xfffereduces the user’s Sp. Atk stat.
+The user lands and rests its body. \xfffeIt restores the user’s HP \xfffeby up to half of its max HP.
 Gravity is intensified for five turns, making moves involving \xfffeflying unusable and negating Levitation.
 Enables the user to hit a Dark type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
 This attack inflicts high damage on a sleeping foe. \xfffeIt also wakes the foe up, however.
@@ -420,9 +420,9 @@ The user strikes with a tough punch as fast as a bullet. \xfffeThis move always 
 An attack move that inflicts double the damage if the user has been \xfffehurt by the foe in the same turn.
 The user flash freezes chunks of ice and hurls them. \xfffeThis move always goes first.
 The user slashes with a sharp claw made from shadows. \xfffeIt has a high critical-hit ratio.
-The user bites with electrified fangs. \xfffeIt may also make the foe flinch or become paralyzed.
-The user bites with cold-infused fangs. \xfffeIt may also make the foe flinch or freeze. 
-The user bites with flame-cloaked fangs. \xfffeIt may also make the foe flinch or sustain a burn.
+The user bites with electrified fangs. \xfffeIt may also make the foe flinch \xfffeor become paralyzed.
+The user bites with cold-infused fangs. \xfffeIt may also make the foe flinch \xfffeor freeze. 
+The user bites with flame-cloaked fangs. \xfffeIt may also make the foe flinch \xfffeor sustain a burn.
 The user extends its shadow and attacks the foe from behind. \xfffeThis move always goes first.
 The user launches a hard-packed mud ball to attack. \xfffeIt may also lower the target’s accuracy.
 The user tears at the foe with blades formed by psychic power. \xfffeIt has a high critical-hit ratio.
@@ -532,9 +532,9 @@ It strikes the opponent with a hard part of its body. \xfffeIt gives damage by s
 It tricks the opponent with its cute behaviour before bathing them in this violent attack. \xfffeMay cause the opponent to flinch. 
 It pierces the opponent with its horn and sucks nutrients. \xfffeIt will restore the HP of the attack by half of the damage dealt. 
 It slashes at the opponent with long horns. \xfffeIt deals damage without regard to the opponent’s stat changes. 
-It slashes with a sharp shell. It may lower the opponent’s Defence. 
-It slams into the opponent with a flaming body. \xfffeThe more heavy than the opponent it is, the stronger the power. 
-It surrounds the opponent with sharp leaves. \xfffeIt may lower the opponents Accuracy. 
+It slashes with a sharp shell. \xfffeIt may lower the opponent’s Defence. 
+It slams into the opponent with \xfffea flaming body. The more heavy than the \xfffeopponent it is, the stronger the power. 
+It surrounds the opponent with \xfffesharp leaves. It may lower the \xfffeopponents Accuracy. 
 It flattens the opponent by rolling its curled up body. \xfffeIt may cause the opponent to flinch. 
 It surrounds its body with fluffy wool to protect itself. \xfffeIt sharply raises its Defence. 
 It sends shockwaves of darkness flying. \xfffeIt may lower the opponents Accuracy. 
