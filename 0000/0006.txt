@@ -133,7 +133,7 @@ Stop
 Yes
 No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-You don't have this.
+Empty!
 You used a Dark Stone\xfffebut nothing happened...
 You used a Light Stone\xfffebut nothing happened...
 Your items have been\xfffeorganized!
