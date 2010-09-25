@@ -265,9 +265,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the burn!
 \xf000Ă\x0001\x0000's \xfffeburn was healed!
 The wild \xf000Ă\x0001\x0000's \xfffeburn was healed!
 The foe's \xf000Ă\x0001\x0000 \xfffeburn was healed!
-\xf000Ă\x0001\x0000is already burnt.
-The wild \xf000Ă\x0001\x0000is already burnt.
-The foe's \xf000Ă\x0001\x0000is already burnt.
+\xf000Ă\x0001\x0000\xfffeis already burnt.
+The wild \xf000Ă\x0001\x0000\xfffeis already burnt.
+The foe's \xf000Ă\x0001\x0000\xfffeis already burnt.
 \xf000Ă\x0001\x0000 \xfffecannot be burned!
 The wild \xf000Ă\x0001\x0000 \xfffecannot be burned!
 The foe's \xf000Ă\x0001\x0000 \xfffecannot be burned!
@@ -388,9 +388,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeattack was a critical hit!
 \xf000Ă\x0001\x0000's \xfffeHP was restored!
 The wild \xf000Ă\x0001\x0000's \xfffeHP was restored!
 The foe's \xf000Ă\x0001\x0000 \xfffeHP was restored!
-\xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-The wild \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
-The foe's \xf000Ă\x0001\x0000 restored \xf000ć\x0001\x0001's PP!
+\xf000Ă\x0001\x0000\xfffe restored \xf000ć\x0001\x0001's PP!
+The wild \xf000Ă\x0001\x0000\xfffe restored \xf000ć\x0001\x0001's PP!
+The foe's \xf000Ă\x0001\x0000\xfffe restored \xf000ć\x0001\x0001's PP!
 \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
 The wild \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
 The foe's \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
