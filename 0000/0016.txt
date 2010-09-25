@@ -1062,25 +1062,25 @@ The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf
 The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた！
-The wild \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-The wild \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The wild \xf000Ă\x0001\x0001に　のろいを　かけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xf000Ă\x0001\x0001に　のろいを　かけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000The foe's \xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000 \xfffeのろわれている！
-The wild \xf000Ă\x0001\x0000 \xfffeのろわれている！
-The foe's \xf000Ă\x0001\x0000 \xfffeのろわれている！
-\xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-The wild \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-The foe's \xf000Ă\x0001\x0000 \xfffeみらいに　こうげきを　よちした！
-\xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-The wild \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-The foe's \xf000Ă\x0001\x0000 \xfffeはめつのねがいを　みらいに　たくした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
+\xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the wild \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the foe's \xf000Ă\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the wild \xf000Ă\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the foe's \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffeis afflicted by the curse!
+The wild \xf000Ă\x0001\x0000 \xfffeis afflicted by the curse!
+The foe's \xf000Ă\x0001\x0000 \xfffeis afflicted by the curse!
+\xf000Ă\x0001\x0000 \xfffeforesaw an attack!
+The wild \xf000Ă\x0001\x0000 \xfffeforesaw an attack!
+The foe's \xf000Ă\x0001\x0000 \xfffeforesaw an attack!
+\xf000Ă\x0001\x0000 \xfffechose Doom Desire as its destiny!
+The wild \xf000Ă\x0001\x0000 \xfffechose Doom Desire as its destiny!
+The foe's \xf000Ă\x0001\x0000 \xfffechose Doom Desire as its destiny!
+\xf000Ă\x0001\x0000 \xfffetook the\xf000ć\x0001\x0001attack!
+The wild \xf000Ă\x0001\x0000 \xfffetook the\xf000ć\x0001\x0001attack!
+The foe's \xf000Ă\x0001\x0000 \xfffetook the\xf000ć\x0001\x0001attack!
 \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
 The wild \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
 The foe's \xf000Ă\x0001\x0000 \xfffeじゅうりょくの　えいきょうで\xf000븀\x0000くうちゅうに　いられなくなった！
