@@ -196,18 +196,18 @@ The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
 \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 The wild \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 The foe's \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-\xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeのうりょくは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeぼうぎょは　さがらない！
-\xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeめいちゅうりつは　さがらない！
+\xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
+The wild \xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
+The foe's \xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
+\xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
+The wild \xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
+The foe's \xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
+\xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
+The wild \xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
+The foe's \xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
+\xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
+The wild \xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
+The foe's \xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
 \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The wild \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
