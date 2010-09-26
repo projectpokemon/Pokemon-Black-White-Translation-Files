@@ -114,7 +114,7 @@ The user throws up a sturdy wall that sharply raises \xfffeits Defense stat.
 A wondrous wall of light is put up to suppress damage \xfffefrom special attacks for five turns.
 The user creates a haze that eliminates every stat change \xfffeamong all the Pokemon engaged in battle.
 A wondrous wall of light is put up to suppress damage \xfffefrom physical attacks for five turns.
-The user takes a deep breath and focuses to raise the \xfffecritical-hit ratio of its attacks.
+The user takes a deep breath and focuses \xfffeto raise the critical-hit ratio of its attacks.
 The user endures attacks for two turns, then strikes back \xfffeto cause double the damage taken.
 The user waggles a finger and stimulates the brain into \xffferandomly using nearly any move.
 The user counters the foe by mimicking the move last used by the foe.
@@ -183,7 +183,7 @@ The user attacks with a chilling gust of powdery snow. \xfffeIt may also freeze 
 It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in succession.
 The user throws a punch at blinding speed. \xfffeIt is certain to strike first.
 The user frightens the foe with a scary face to \xfffesharply reduce its Speed stat.
-The user draws up to the foe disarmingly, then throws a sucker punch. \xfffeIt hits without fail.
+The user draws up to the foe disarmingly, \xfffethen throws a sucker punch. It hits without fail.
 The user kisses the foe with a sweet, angelic cuteness \xfffethat causes confusion. 
 The user maximizes its Attack stat in exchange \xfffefor HP equal to half its max HP.
 The user attacks by hurling filthy sludge at the foe. \xfffeIt may also poison the target.
@@ -205,7 +205,7 @@ The user endures any attack with at least 1 HP. \xfffeIts chance of failing rise
 The user charmingly stares at the foe, making it less wary. \xfffeThe target’s Attack is sharply lowered.
 The user continually rolls into the foe over five turns. \xfffeIt becomes stronger each time it hits.
 A restrained attack that prevents the foe from fainting. \xfffeThe target is left with at least 1 HP.
-The user enrages the foe into confusion. \xfffeHowever, it also sharply raises the foe’s Attack stat.
+The user enrages the foe into confusion. \xfffeHowever, it also sharply raises the \xfffefoe’s Attack stat.
 The user restores its own HP by up to half of its maximum HP. \xfffeIt may also be used to heal an ally’s HP.
 The user throws an electrically charged tackle at the foe. \xfffeIt may also leave the target paralyzed.
 The foe is slashed with scythes or claws. \xfffeIts power increases if it hits in succession.
@@ -266,7 +266,7 @@ The user focuses its mind before launching a punch. \xfffeIt will fail if the us
 This attack inflicts double damage on a paralyzed foe. \xfffeIt also cures the foe’s paralysis, however.
 The user draws attention to itself, making all foes take aim only at the user. 
 An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s environment.
-The user boosts the power of the Electric move it uses next. \xfffeIt also raises the user’s Sp. Def stat.
+The user boosts the power of the Electric \xfffemove it uses next. It also raises the user’s \xfffeSp. Def stat.
 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
 A move that boosts the power of the ally’s attack in a Double Battle. 
 The user catches the foe off guard and swaps the foe’s held item with its own. 
@@ -278,7 +278,7 @@ The user attacks the foe with great power. \xfffeHowever, it also lowers the use
 A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
 The user recycles a held item that has been used in battle \xfffeso it can be used again.
 An attack move that inflicts double the \xfffedamage if the user has been hurt by the foe \xfffein the same turn.
-The user attacks with tough fists, etc. \xfffeIt can also break any barrier such as Light Screen and Reflect.
+The user attacks with tough fists, etc. \xfffeIt can also break any barrier such as \xfffeLight Screen and Reflect.
 The user lets loose a huge yawn that lulls the foe \xfffeinto falling asleep on the next turn.
 The user slaps down the foe’s held item, preventing the item from \xfffebeing used during the battle.
 An attack move that cuts down the foe’s HP to equal the user’s HP. 
@@ -519,7 +519,7 @@ It surrounds the opponent with a violent flame and burns the opponent.
 It attacks with a pillar of water. \xfffeIf you combine it with fire, its power increases and a rainbow appears in the sky. 
 It attacks with a pillar of fire. \xfffeIf you combine it with grass its power increases and the surrounds become a sea of flames. 
 It attacks with a pillar of grass. \xfffeIf you combine it with water its power increases and the surrounds becomes a moor. 
-After it has attacked the opponent, it returns and \xfffeswitches places with a waiting Pokemon. 
+After it has attacked the opponent, it \xfffereturns and switches places with a waiting Pokemon. 
 It opposes the opponent by attacking. \xfffeIt lowers the opponents Special Attack. 
 It stamps the ground and attacks anything nearby. \xfffeIt lowers the opponent’s speed. 
 It attacks by blowing a cool breath on the opponent. \xfffeIt will always result in a critical hit. 
