@@ -1,16 +1,16 @@
-Welcome\xfffeto the Battle Tournament!
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょうに\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
+Welcome to the Global Link\xfffeBattle Tournament!
+By connecting to Wi-Fi, you\xfffecan battle other players\xf000븀\x0000\xfffefrom all over the world.\xf000븁\x0000\xfffeIt doesn't matter where the Trainers\xfffecome from, you can always battle!\xf000븁\x0000\xfffeYou can battle infinitly against\xfffeplayers via Wi-Fi.\xf000븁\x0000\xfffeThere is also a mode where\xfffecan battle players short-by.\xf000븁\x0000\xfffeJust remember: If you want\xfffebattle a random player,\xf000븀\x0000\xfffecome to the Battle Tournament!\xf000븀\x0000\xfffeThere always players to battle.\xf000븁\x0000
+Connect through Wi-Fi
+Connect through Wireless
 デジタルせんしゅしょうを　みる
-せつめいを　きく
-やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x0000\xfffeとうろく　することで　たいかいに\xf000븀\x0000\xfffeさんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
+Information
+Exit
+Find a random Trainer
+You can't battle yet, you\xfffefirst have to register to\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, select "Register GL"\xf000븀\x0000\xfffein the main menu.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
+Do what through Wi-Fi?
 たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
+Yes
+No
 さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+Do what through Wireless?
+You can't battle yet, you\xfffefirst have to register to\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, select "Register GL"\xf000븀\x0000\xfffein the main menu.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
