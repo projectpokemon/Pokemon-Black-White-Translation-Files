@@ -132,7 +132,7 @@ Furiizukasetto
 ???
 ???
 ???
-Haatosuiitsu
+Heart Suites
 Adamant Orb
 Lustrous Orb
 Grass Mail
@@ -426,7 +426,7 @@ HM05
 HM06
 ???
 ???
-Tankensetto
+Explorer Kit
 Loot Sack
 Rule Book
 Poké Radar
@@ -535,34 +535,34 @@ Lock Capsule
 Red Orb
 Blue Orb
 Enigma Stone
-kireinauroko
+Clean Scales
 Shinkanokiseki
-Karuishi
-Gotsugotsumetto
-Fuusen
-Reddokaado
+Magic Stone
+Lumpy Met
+Balloon
+Red Card
 Nerainomato
-Shimetsukebando
-Kyuukon
+Tight Band
+Baseball Today
 Juudenchi
-Dasshutsubotan
-Honoonojueru
-Mizunojueru
-Denkinojueru
-Kusanojueru
-Koorinojueru
-Kakutoujueru
-Dokunojueru
-Jimennojueru
-HikounojuerU
-Esupaajueru
-Mushinojueru
-Iwanojueru
-Goosutojueru
-Doragonjueru
-Akunojueru
-Haganenojueru
-Noomarujueru
+Dash Button
+Fire Jewel
+Water Jewel
+Elec Jewel
+Grass Jewel
+Ice Jewel
+Fight Jewel
+Poison Jewel
+Ground Jewel
+Fly Jewel
+Psychic Jewel
+Bug Jewel
+Rock Jewel
+Ghost Jewel
+Dragon Jewel
+Dark Jewel
+Steel Jewel
+Normal Jewel
 Tairyokunohane
 Kinryokunohane
 Teikounohane
@@ -572,10 +572,10 @@ Shunpatsunohane
 Kireinahane
 Futanokaseki
 Hanenokaseki
-Ribatichiketto
+Liberty Ticket
 Derudama
-Doriimubooru
-Pokejarashi
+Dream Ball
+Poke Jarashi
 Guzzukeesu
 Doragonnohone
 Kaorukinoko
@@ -589,39 +589,39 @@ Kodainotsubo
 Kodainoudewa
 Kodainosekizou
 Kodainooukan
-Hiun'aisu
-Kuritikatto2
-Supiidaa2
-SPappu2
-SPgaado2
-Difendaa2
-Purasupawaa2
+Hiun Ice
+Critical Cut 2
+Speeder 2
+SP Up 2
+SP Guard 2
+Defender 2
+Plus Power 2
 Yokuataaru2
-Supiidaa3
-SPappu3
-SPgaado3
-Difendaa3
-Purasupawaa3
+Speeder 3
+SP Up 3
+SP Guard 3
+Defender 3
+Plus Power 3
 Yokuataaru3
-Supiidaa6
-SPappu6
-SPgaado6
-Difendaa6
-Purasupawaa6
+Speeder 6
+SP Up 6
+SP Guard 6
+Defender 6
+Plus Power 6
 Yokuataaru6
-Sukirukooru
-Aitemudoroppu
-Aitemukooru
-Furattokooru
-Kuritikatto3
-Raitosutoon
-Daakusutoon
+Skill Call
+Item Drop
+Item Call
+Flat Call
+Critical Cut 3
+Light Stone
+Dark Stone
 TM93
 TM94
 TM95
-Raibukyasutaa
-Goddosutoon
+Live Caster
+God Stone
 Haitatsubutsu1
 Haitatsubutsu2
 Haitatsubutsu3
-Raibukyasutaa
+Live Caster
