@@ -471,7 +471,7 @@ It protects all its teammates from attacks for one turn. \xfffeMay fail if used 
 With psychic abilities it adds together the Defence and Special Defence of it \xfffeand the opponent and then divides them in half. 
 With psychic abilities it adds together the Attack and Special Attack of it \xfffeand the opponent and then divides them in half. 
 It creates a mysterious atmosphere. \xfffeAll Pokemon have their defence and special attack switched for 5 Turns. 
-It makes its mysterious brain waves real and attacks the opponents. \xfffeIt deals Physical damage. 
+It makes its mysterious brain waves real and \xfffeattacks the opponents. It deals Physical damage. 
 It hurls a special poison. Its power doubles if it hits an opponent with Poison status. 
 It cuts off useless parts of its body. \xfffeIt sharply raises its speed and makes its weight lighter. 
 It sprinkles itself with a powder that causes frustration to call attention to itself. \xfffeAll the opponent’s attacks aim towards it. 
@@ -536,18 +536,18 @@ It slashes with a sharp shell. \xfffeIt may lower the opponent’s Defence.
 It slams into the opponent with \xfffea flaming body. The more heavy than the \xfffeopponent it is, the stronger the power. 
 It surrounds the opponent with \xfffesharp leaves. It may lower the \xfffeopponents Accuracy. 
 It flattens the opponent by rolling its curled up body. \xfffeIt may cause the opponent to flinch. 
-It surrounds its body with fluffy wool to protect itself. \xfffeIt sharply raises its Defence. 
+It surrounds its body with fluffy wool to \xfffeprotect itself. It sharply raises its \xfffeDefence. 
 It sends shockwaves of darkness flying. \xfffeIt may lower the opponents Accuracy. 
 It makes its mysterious brain waves real and attacks the opponents. \xfffeIt deals Physical damage.
 It strikes the opponent with its hard tail. \xfffeIt will strike for 2-5 turns.
-It surrounds the opponent with a monstrous wind. \xfffeIt may confuse the opponent.
-It charges at the opponent with a great afro’d head. \xfffeIt deals recoil damage.
+It surrounds the opponent with a monstrous \xfffewind. It may confuse the opponent.
+It charges at the opponent with a great \xfffeafro’d head. It deals recoil damage.
 It throws a steel gear at the opponent. \xfffeIt deals damage twice in a row.
 It attacks all around it with a crimson flame. \xfffeIt may cause a burn.
-It shoots a Photon Blaster at the opponent. \xfffeThe type of the move varies depending on the held Cassette.
-It makes the opponent listen to an ancient song and appeals to its heart. \xfffeIt may cause the opponent to sleep.
-It slashes at the opponent with its long horn. \xfffeThe mysterious power of the horn deals physical damage.
-It blows a cold chill like being frozen over the opponent. \xfffeThe opponents speed is lowered.
+It shoots a Photon Blaster at the opponent. \xfffeThe type of the move varies depending on the \xfffeheld Cassette.
+It makes the opponent listen to an ancient \xfffesong and appeals to its heart. It may \xffecause the opponent to sleep.
+It slashes at the opponent with its long \xfffehorn. The mysterious power of the horn deals \xfffephysical damage.
+It blows a cold chill like being frozen over \xffethe opponent. The opponents speed is lowered.
 It covers itself in extensive amounts of \xfffeelectricity and charges at the opponent. \xfffeIt may cause paralysis.
 It surrounds the opponent in a beautiful \xfffeand violent blue flame. It may cause a burn.
 It covers its wings in fire and flaps them. \xfffeIt raises your Special Attack.
