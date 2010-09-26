@@ -4,21 +4,21 @@ The foe is attacked with a sharp chop. \xfffeIt has a high critical-hit ratio.
 The foe is slapped repeatedly, back and \xfffeforth, two to five times in a row. 
 The foe is hit with a flurry of punches \xfffethat strike two to five times in a row. 
 The foe is slugged by a punch thrown \xfffewith muscle-packed power. 
-Numerous coins are hurled at the foe \xfffeto inflict damage. Money is earned after battle.
+Numerous coins are hurled at the foe \xfffeto inflict damage. Money is earned after \xfffebattle.
 The foe is punched with a fiery fist. \xfffeIt may leave the target with a burn. 
 The foe is punched with an icy fist. \xfffeIt may leave the target frozen. 
 The foe is punched with an electrified fist. \xfffeIt may leave the target with paralysis.
 Hard, pointed, and sharp claws \xffferake the foe to inflict damage.  
 Huge, impressive pincers grip and \xfffesqueeze the foe.  
 A vicious, tearing attack with pincers. \xfffeThe foe will faint instantly if this attack hits.
-A two-turn attack. Blades of wind hit the \xfffefoe on the second turn. It has a high critical-hit ratio.
+A two-turn attack. Blades of wind hit the \xfffefoe on the second turn. It has a high \xfffecritical-hit ratio.
 A frenetic dance to uplift the fighting spirit. \xfffeIt sharply raises the user’s Attack stat.
 The foe is cut with a scythe or a claw. \xfffeIt can also be used to cut down thin trees.
 A gust of wind is whipped up by wings \xfffeand launched at the foe to inflict damage. 
 The foe is struck with large, imposing wings \xfffespread wide to inflict damage. 
-The foe is blown away, to be replaced by \xfffeanother Pokemon in its party. In the wild, the battle ends.
+The foe is blown away, to be replaced by \xfffeanother Pokemon in its party. In the wild, \xfffethe battle ends.
 The user soars, then strikes on the second turn. \xfffeIt can also be used for flying to any familiar town.
-A long body or tentacles are used to \xfffebind and squeeze the foe for two to five turns.
+A long body or tentacles are used to \xfffebind and squeeze the foe for two to \xfffefive turns.
 The foe is slammed with a long tail, \xfffevines, etc., to inflict damage. 
 The foe is struck with slender, whiplike \xfffevines to inflict damage. 
 The foe is stomped with a big foot. \xfffeIt may also make the target flinch. 
@@ -30,11 +30,11 @@ Sand is hurled in the foe’s \xfffeface, reducing its accuracy.
 The user attacks with its head. \xfffeIt may make the foe flinch.
 The foe is jabbed with a sharply pointed \xfffehorn to inflict damage. 
 The foe is jabbed repeatedly with a horn \xfffeor beak two to five times in a row. 
-The foe is stabbed with a horn rotating like a drill. \xfffeThe foe instantly faints if it hits.
+The foe is stabbed with a horn rotating like \xfffea drill. The foe instantly faints if it hits.
 A physical attack in which the user charges \xfffeand slams into the foe with its whole body.
-The user drops onto the foe with its full body weight. \xfffeIt may leave the foe paralyzed.
+The user drops onto the foe with its full \xfffebody weight. It may leave the foe paralyzed.
 A long body or vines are used to wrap and \xfffesqueeze the foe for two to five turns. 
-A reckless, full-body charge attack for \xfffeslamming into the foe. It also damages the user a little.
+A reckless, full-body charge attack for \xfffeslamming into the foe. It also damages the \xfffeuser a little.
 The user rampages and attacks for\xfffe two to three turns. It then \xfffebecomes confused, however.
 A reckless, life- risking tackle. \xfffeIt also damages the user by \xfffea fairly large amount, however.
 The user wags its tail cutely, making \xfffethe foe less wary. The target's \xfffeDefense stat is lowered.
@@ -44,19 +44,19 @@ Sharp pins are shot at the foe in \xffferapid succession. They hit two to five \
 The foe is given an intimidating leer \xfffewith sharp eyes. The target’s Defense \xfffestat is reduced.
 The foe is bitten with viciously sharp \xfffefangs. It may make the target flinch. 
 The user growls in an endearing way, making \xfffethe foe less wary. The target’s \xfffeAttack stat is lowered.
-The foe is scared off, to be replaced by another \xfffePokemon in its party. In the wild, the battle ends.
+The foe is scared off, to be replaced by \xfffeanother Pokemon in its party. In the wild, \xfffethe battle ends.
 A soothing lullaby is sung in a calming voice \xfffethat puts the foe into a deep slumber.
-The user generates odd sound waves from its body. \xfffeIt may confuse the target.
+The user generates odd sound waves from its \xfffebody. It may confuse the target.
 The foe is hit with a destructive shock wave \xfffethat always inflicts 20 HP damage. 
-For several turns, this move prevents the foe \xfffefrom using the move it last used.
-The foe is attacked with a spray of harsh acid. \xfffeIt may also lower the target’s Sp. Def stat.
-The foe is attacked with small flames. The target \xfffemay also be left with a burn. 
-The foe is scorched with an intense blast of fire. \xfffeThe target may also be left with a burn.
-The user cloaks its body with a white mist that \xfffeprevents any of its stats from being cut for five turns.
+For several turns, this move prevents the \xfffefoe from using the move it last used.
+The foe is attacked with a spray of harsh \xfffeacid. It may also lower the target’s Sp. Def stat.
+The foe is attacked with small flames. \xfffeThe target may also be left with a burn. 
+The foe is scorched with an intense blast of \xfffefire. The target may also be left with a burn.
+The user cloaks its body with a white mist \xfffethat prevents any of its stats from being \xfffecut for five turns.
 The foe is blasted with a forceful shot of \xfffewater.  
 The foe is blasted by a huge volume of water \xfffelaunched under great pressure. 
-It swamps the entire battlefield with a giant wave. \xfffeIt can also be used for crossing water.
-The foe is struck with an icy-cold beam of energy.\xfffeIt may also freeze the target solid.
+It swamps the entire battlefield with a giant \xfffewave. It can also be used for crossing water.
+The foe is struck with an icy-cold beam of \xfffeenergy.It may also freeze the target solid.
 A howling blizzard is summoned to strike the foe. \xfffeIt may also freeze the target solid.
 The foe is attacked with a peculiar ray. \xfffeIt may also leave the target confused. 
 A spray of bubbles is forcefully ejected at the foe. \xfffeIt may also lower the target’s Speed stat.
