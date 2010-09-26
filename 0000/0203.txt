@@ -523,19 +523,19 @@ After it has attacked the opponent, it \xfffereturns and switches places with a 
 It opposes the opponent by attacking. \xfffeIt lowers the opponents Special Attack. 
 It stamps the ground and attacks anything nearby. \xfffeIt lowers the opponent’s speed. 
 It attacks by blowing a cool breath on the opponent. \xfffeIt will always result in a critical hit. 
-It sends the opponent flying and causes the opponent to switch out. \xfffeIn a wild battle, the battle ends. 
+It sends the opponent flying and \xfffecauses the opponent to switch out. \xfffeIn a wild battle, the battle ends. 
 It musters its courage and raises its Attack and Special Attack. 
-It attacks by catching the opponent in an electric net. \xfffeIt lowers the opponents speed. 
-It covers itself in electricity and crashes into the opponent. \xfffeIt also takes a little damage. 
-It strikes the opponents body while rotating its own like a drill. \xfffeIt will often result in a critical hit. 
-It strikes the opponent with a hard part of its body. \xfffeIt gives damage by striking twice in succession. 
-It tricks the opponent with its cute behaviour before bathing them in this violent attack. \xfffeMay cause the opponent to flinch. 
-It pierces the opponent with its horn and sucks nutrients. \xfffeIt will restore the HP of the attack by half of the damage dealt. 
-It slashes at the opponent with long horns. \xfffeIt deals damage without regard to the opponent’s stat changes. 
+It attacks by catching the opponent in an \xfffeelectric net. It lowers the \xfffeopponents speed. 
+It covers itself in electricity and crashes \xfffeinto the opponent. It also takes a \xfffelittle damage. 
+It strikes the opponents body while rotating \xfffeits own like a drill. It will often \xffferesult in a critical hit. 
+It strikes the opponent with a hard part of \xfffeits body. It gives damage by \xfffestriking twice in succession. 
+It tricks the opponent with its cute \xfffe behavior before bathing them in this violent attack. \xfffeMay cause the opponent to flinch. 
+It pierces the opponent with its horn and \xfffesucks nutrients. It will restore the \xfffeHP of the attack by half of the damage dealt. 
+It slashes at the opponent with long horns. \xfffeIt deals damage without regard to the \xfffeopponent’s stat changes. 
 It slashes with a sharp shell. \xfffeIt may lower the opponent’s Defence. 
 It slams into the opponent with \xfffea flaming body. The more heavy than the \xfffeopponent it is, the stronger the power. 
 It surrounds the opponent with \xfffesharp leaves. It may lower the \xfffeopponents Accuracy. 
-It flattens the opponent by rolling its curled up body. \xfffeIt may cause the opponent to flinch. 
+It flattens the opponent by rolling its \xfffecurled up body. It may cause the opponent \xfffeto flinch. 
 It surrounds its body with fluffy wool to \xfffeprotect itself. It sharply raises its \xfffeDefence. 
 It sends shockwaves of darkness flying. \xfffeIt may lower the opponents Accuracy. 
 It makes its mysterious brain waves real and attacks the opponents. \xfffeIt deals Physical damage.
