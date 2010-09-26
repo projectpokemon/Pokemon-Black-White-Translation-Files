@@ -325,12 +325,12 @@ The foe's \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
 \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The wild \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The foe's \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-\xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-\xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The wild \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The foe's \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
+\xf000Ă\x0001\x0000 \xfffefell in love!
+The wild \xf000Ă\x0001\x0000 \xfffefell in love!
+The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
+\xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to \xfffebecome infatuated!	
+\xf000ĉ\x0001\x0001 caused the wild \xf000Ă\x0001\x0000 to \xfffebecome infatuated!	
+\xf000ĉ\x0001\x0001 caused the foe's \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
