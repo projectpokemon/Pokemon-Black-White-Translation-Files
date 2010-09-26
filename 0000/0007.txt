@@ -4,7 +4,7 @@ Welcome\xfffeto the Battle Tournament!
 ライブたいかい　へ
 デジタルせんしゅしょうを　みる
 せつめいを　きく
-やめる
+Quit
 さんかする
 Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븀\x0000\xfffeとうろく　することで　たいかいに\xf000븀\x0000\xfffeさんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
 Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
