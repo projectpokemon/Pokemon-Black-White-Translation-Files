@@ -17,7 +17,7 @@ Stop searching?
 Thade Pokémon with the Trainer?
 Choose the Pokémon you are trading.
 Do what with this \xf000Ă\x0001\x0000?
-すでに　こうかん　されちゃった……
+You seem to have already exchanged it...
 していのポケモンと　ちがいますよ！
 Choose the Pokémon you want to offer.
 Offer \xf000Ă\x0001\x0000?
@@ -55,65 +55,65 @@ GTS check failed.
 \xf000ĉ\x0001\x0003
 Offerer
 \xf000Ā\x0001\x0004
-ほしいポケモン
+Desired Pokémon
 \xf000ā\x0001\x0005
 Ｌｖ.\xf000Ȃ\x0001\x0006いじょう
-Ｌｖ.していなし
+No Lv. Preference
 ひきとる
-そのまま
-はい
-いいえ
-なまえ
+As Is
+Yes
+No
+Name
 Take back
 Leave as is
 \xf000ā\x0001\x0000
-せいべつ
+Gender
 \xf000Ĩ\x0001\x0001
-レベル
+Level
 \xf000ĩ\x0001\x0002
-さがす
+Search
 \xf000봂\x0000もどる
-えらぶ
+Choose
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
-Ｌｖ．\xf000Ȃ\x0001\x0002
+Lv.\xf000Ȃ\x0001\x0002
 もちもの
 \xf000ĉ\x0001\x0003
 あずけたひと
 \xf000Ā\x0001\x0004
-ほしいポケモン
+Desired Pokémon
 \xf000ā\x0001\x0005
 \xf000Ĩ\x0001\x0006
 \xf000ĩ\x0001\x0007
-すんでいるばしょ
+Area
 \xf000Ĥ\x0001\x0008
 \xf000ĥ\x0001\x0009
-てもち\xfffeポケモン
-やめる
+Holding\xfffePokémon
+End
 \xf000ċ\x0001\x0000
-ようすを　みる
-こうかんする
-やめる
-はい
-いいえ
-てもち
-なまえ
-ポケモンを　あずける
+Preview
+Exchange
+End
+Yes
+No
+Holding
+Name
+Entrust Pokémon
 \xf000ċ\x0001\x0000
-てもち\xfffeポケモン
-やめる
-ようすを　みる
-あずける
-やめる
-ほしいポケモン
+Holding\xfffePokémon
+End
+Preview
+Entrust
+End
+Desired Pokémon
 \xf000ā\x0001\x0000
 \xf000ĩ\x0001\x0001
 あずけるポケモン
 \xf000Ă\x0001\x0002
-Ｌｖ．
+Lv.
 \xf000Ȃ\x0001\x0003
-Ｌｖ．\xf000Ȃ\x0001\x0003
-もどる
+Lv.\xf000Ȃ\x0001\x0003
+Return
 ア
 カ
 サ
@@ -124,23 +124,23 @@ Leave as is
 ヤ
 ラ
 ワ
-きにしない
+Any
 ♂
 ♀
 \xf000봂\x0000もどる
-きにしない
-Ｌｖ．１０みまん
-Ｌｖ．１０いじょう
-Ｌｖ．２０いじょう
-Ｌｖ．３０いじょう
-Ｌｖ．４０いじょう
-Ｌｖ．５０いじょう
-Ｌｖ．６０いじょう
-Ｌｖ．７０いじょう
-Ｌｖ．８０いじょう
-Ｌｖ．９０いじょう
-Ｌｖ．１００
-\xf000봂\x0000もどる
+Any
+Under Lv. 10
+Lv.10 and over
+Lv.20 and over
+Lv.30 and over
+Lv.40 and over
+Lv.50 and over
+Lv.60 and over
+Lv.70 and over
+Lv.80 and over
+Lv.90 and over
+Lv.100
+\xf000봂\x0000Return
 ポケモンを　ＧＴＳに\xfffeおくりだして　います
 ＧＴＳに　ポケモンが\xfffeとうろく　されました！\xf000븁\x0000
 ポケモンを　ＧＴＳから\xfffeうけとっています
@@ -167,17 +167,17 @@ Leave as is
 ＧＴＳとの　つうしんが\xfffeせつだん　されました（１３２７４）\xf000븁\x0000
 つうしんが　せつだん　されました
 もういちど　せつぞくを　かいしします
-きにしない
-Ｌｖ．１から１０
-Ｌｖ．１１から２０
-Ｌｖ．２１から３０
-Ｌｖ．３１から４０
-Ｌｖ．４１から５０
-Ｌｖ．５１から６０
-Ｌｖ．６１から７０
-Ｌｖ．７１から８０
-Ｌｖ．８１から９０
-Ｌｖ．９１から１００
+Any
+Lv. 1-10
+Lv. 11-20
+Lv. 21-30
+Lv. 31-40
+Lv. 41-50
+Lv. 51-60
+Lv. 61-70
+Lv. 71-80
+Lv. 81-90
+Lv. 91-100
 \xf000봂\x0000もどる
 すんでいるばしょ
 \xf000Ĥ\x0001\x0000

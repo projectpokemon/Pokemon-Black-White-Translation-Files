@@ -238,9 +238,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffegot covered in poison!
 \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 The wild \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 The foe's \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-\xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-The wild \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
-The foe's \xf000Ă\x0001\x0000 got covered in poison from the \xfffe\xf000ĉ\x0001\x0001\xf000\x0000
+\xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
+The wild \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
+The foe's \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
 \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 The wild \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
@@ -274,9 +274,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffecannot be burned!
 \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
 The wild \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
 The foe's \xf000Ă\x0001\x0000 is paralyzed\xfffeand can't move!
-\xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-The wild \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
-The foe's \xf000Ă\x0001\x0000 \xfffeis paralyzed and cannot move!
+\xf000Ă\x0001\x0000 \xfffeis paralyzed! It may be unable to move!
+The wild \xf000Ă\x0001\x0000 \xfffeis paralyzed! It may be unable to move!
+The foe's \xf000Ă\x0001\x0000 \xfffeis paralyzed! It may be unable to move!
 \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
 The wild \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
 The foe's \xf000Ă\x0001\x0000 \xfffeis no longer paralyzed!
@@ -307,9 +307,9 @@ The foe's \xf000Ă\x0001\x0000 used \xf000ć\x0001\x0001\xfffeand thawed out!
 \xf000Ă\x0001\x0000 \xfffefell asleep!
 The wild \xf000Ă\x0001\x0000 \xfffefell asleep!
 The foe's \xf000Ă\x0001\x0000 \xfffefell asleep!
-\xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The wild \xf000Ă\x0001\x0000 \xfffeis sound asleep!
-The foe's \xf000Ă\x0001\x0000 \xfffeis sound asleep!
+\xf000Ă\x0001\x0000 \xfffeis fast asleep!
+The wild \xf000Ă\x0001\x0000 \xfffeis fast asleep!
+The foe's \xf000Ă\x0001\x0000 \xfffeis fast asleep!
 \xf000Ă\x0001\x0000 \xfffewoke up!
 The wild \xf000Ă\x0001\x0000 \xfffewoke up!
 The foe's \xf000Ă\x0001\x0000 \xfffewoke up!
@@ -325,12 +325,12 @@ The foe's \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
 \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The wild \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The foe's \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
-\xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
-\xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The wild \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
-The foe's \xf000Ă\x0001\x0000 and \xf000ĉ\x0001\x0001 are \xfffehaving a nightmare!
+\xf000Ă\x0001\x0000 \xfffefell in love!
+The wild \xf000Ă\x0001\x0000 \xfffefell in love!
+The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
+\xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to \xfffebecome infatuated!  
+\xf000ĉ\x0001\x0001 caused the wild \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
+\xf000ĉ\x0001\x0001 caused the foe's \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
