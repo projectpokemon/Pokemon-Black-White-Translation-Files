@@ -563,20 +563,20 @@ A crystal ball that was excavated from\xfffethe ground. A very beautiful stone t
 あくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　あくの\xfffeわざの　いりょくが　つよまる。
 はがねの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　はがねの\xfffeわざの　いりょくが　つよまる。
 ノーマルの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ノーマルの\xfffeわざの　いりょくが　つよまる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ちょっと　あげる。
-ポケモンに　つかう　どうぐ。\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ちょっと　あげる。
+An item to be held by a Pokémon.\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ちょっと　あげる。
 きれいなだけで　なんの　こうかもない\xfffeごくごく　ふつうの　ハネ。\xfffe
 おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　らしい。
 とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
-リバティガーデンとうに　いくための\xfffeとくべつな　チケット。\xfffeヒウンシティから　ふねに　のれる。
+A ticket needed to get\xfffeto Liberty Garden Route.\xfffeBoat location: Hiun City.
 デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
 ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　ポケモンも　つかまえられる。
 ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。
-ミュージカルで　ポケモンに　つける\xfffeいろとりどりの　グッズを　たくさん\xfffeしまえる　きれいで　すてきなケース。
+A pink fashion case required\xfffeto participate in\xfffethe PokéTheater.
 あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモンの　あたまの　ホネ。
 あたりいったいに　いい　かおりが\xfffeひろがる　めずらしい　キノコ。\xfffeマニアが　たかく　かってくれる。
 キラキラと　きんいろに　ひかる\xfffeじゅんきんせいの　おおきな　たま。\xfffeマニアが　たかく　かってくれる。
@@ -614,14 +614,14 @@ A crystal ball that was excavated from\xfffethe ground. A very beautiful stone t
 つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　すぐつかう。\xfffe
 つかうと　みかたの　ポケモンの\xfffeのうりょく　へんかが　もとにもどる。\xfffe
 きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-レシラムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
-ゼクロムの　にくたいが　ほろび\xfffeへんかした　すがた。えいゆうの\xfffeとうじょうを　まっていると　される。
+A white, light ball\xfffeof some kind.\xfffeWhat it is is unknown.
+A black, heavy ball\xfffeof some kind.\xfffeWhat it is is unknown.
 でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　うける。
 いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
 まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
 さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
-まぼろしの　いし。\xfffe\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-キャモメが　はいたつ　している\xfffeたいせつな　てがみ。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
+An Illusion Stone.\xfffe\xfffe
+A pass to let you enter\xfffea kind of event or place.\xfffe
+A pass to let you enter\xfffea kind of event or place.\xfffe
+A pass to let you enter\xfffea kind of event or place.\xfffe
+You can video-chat with\xfffe4 people at the same time.\xfffe
