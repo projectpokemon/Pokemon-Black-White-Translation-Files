@@ -496,7 +496,7 @@ It dances with a mysterious rhythm. \xfffeIt makes the opponent copy and both of
 It supports the opponent’s actions by making sure it attacks last. 
 It attacks the opponent with song. \xfffeIf everyone sings together you can use the \xfffemove in successive turns and have its power increase. 
 It attacks the opponent with an echoed voice. \xfffeIf it or one of its team mates uses it each turn, the power increases. 
-It looks for a gap and attacks soundly. \xfffeIt deals damage without regard to the opponent’s stat changes. 
+It looks for a gap and attacks soundly. \xfffeIt deals damage without regard to the \xfffeopponent’s stat changes. 
 It attacks by throwing a clump of special mud at the opponent. \xfffeIt returns stat changes to their original level. 
 It attacks the opponent with accumulated power. \xfffeThe higher your stats are raised, the more powerful this attack. 
 It protects itself and its team mates from the opponent’s priority moves. \xfffeMay fail if used in succession. 
