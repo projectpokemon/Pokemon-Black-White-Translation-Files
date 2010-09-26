@@ -535,9 +535,9 @@ A sturdy Capsule that can only be\xfffeopened with a special key.
 A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-ある　とくていの　ポケモンを\xfffeしんかさせる　ふしぎな　ウロコ。\xfffeにじいろに　かがやいている。
+Scales that are washed clean\xfffeby the moveing of the sea.\xfffe
 しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
-とても　かるい　いし。\xfffeもたせると　ポケモンの\xfffeたいじゅうが　かるくなる。
+A odd-feeling stone.\xfffeIt has been filled full\xfffewith magic by a Pokémon.
 ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
 ポケモンに　もたせると\xfffeポケモンが　ちゅうに　うく。\xfffeこうげきを　うけると　われてしまう。
 ふしぎな　ちからのある　カード。\xfffeもたせると　わざをうけた　あいてを\xfffeたいじょう　させることが　できる。
@@ -546,23 +546,23 @@ A crystal ball that was excavated from\xfffethe ground. A very beautiful stone t
 つかいすての　きゅうこん。\xfffeもたせて　みずの　わざを　うけると\xfffeとくこうが　あがる。
 つかいすての　じゅうでんち。\xfffeもたせて　でんきの　わざを　うけると\xfffeこうげきが　あがる。
 もたせて　わざを　うけると\xfffeせんとうから　だっしゅつして\xfffeてもちと　いれかわる　ことができる。
-ほのおの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ほのおの\xfffeわざの　いりょくが　つよまる。
-みずの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　みずの\xfffeわざの　いりょくが　つよまる。
-でんきの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　でんきの\xfffeわざの　いりょくが　つよまる。
-くさの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　くさの\xfffeわざの　いりょくが　つよまる。
-こおりの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　こおりの\xfffeわざの　いりょくが　つよまる。
-かくとうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　かくとうの\xfffeわざの　いりょくが　つよまる。
-どくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　どくの\xfffeわざの　いりょくが　つよまる。
-じめんの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　じめんの\xfffeわざの　いりょくが　つよまる。
-ひこうの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ひこうの\xfffeわざの　いりょくが　つよまる。
-エスパーの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　エスパーの\xfffeわざの　いりょくが　つよまる。
-むしの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　むしの\xfffeわざの　いりょくが　つよまる。
-いわの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　いわの\xfffeわざの　いりょくが　つよまる。
-ゴーストの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ゴーストの\xfffeわざの　いりょくが　つよまる。
-ドラゴンの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ドラゴンの\xfffeわざの　いりょくが　つよまる。
-あくの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　あくの\xfffeわざの　いりょくが　つよまる。
-はがねの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　はがねの\xfffeわざの　いりょくが　つよまる。
-ノーマルの　タイプの　ジュエル。\xfffeもたせると　いちどだけ　ノーマルの\xfffeわざの　いりょくが　つよまる。
+A very flamy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fire-type moves.
+A refreshing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Water-type moves.
+A static, shocking gem.\xfffeIf held by a Pokémon,\xfffeit boosts Electric-type moves.
+A green, soft gem.\xfffeIf held by a Pokémon,\xfffeit boosts Grass-type moves.
+A ice-cold gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ice-type moves.
+A though gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fight-type moves.
+A poisoned gem.\xfffeIf held by a Pokémon,\xfffeit boosts Poison-type moves.
+A dirty mud gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ground-type moves.
+A light gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fly-type moves.
+A hypnotizing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Psychic-type moves.
+A buggy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Bug-type moves.
+A gem hard as rock.\xfffeIf held by a Pokémon,\xfffeit boosts Rock-type moves.
+A black, creepy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dark-type moves.
+A very dragon-like gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dragon-type moves.
+A dark, scary gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ghost-type moves.
+A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves.
+A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves.
 An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
 An item to be held by a Pokémon.\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
 An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
@@ -619,7 +619,7 @@ A black, heavy ball\xfffeof some kind.\xfffeWhat it is is unknown.
 でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　うける。
 いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
 まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
-さいだい　４にんで　つうわができる\xfffeテレビカメラきのうつきの\xfffeさいしんがた　トランシーバー。
+You can video-chat with\xfffe4 people at the same time.\xfffe
 An Illusion Stone.\xfffe\xfffe
 A pass to let you enter\xfffea kind of event or place.\xfffe
 A pass to let you enter\xfffea kind of event or place.\xfffe
