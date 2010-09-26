@@ -400,7 +400,7 @@ The foe is stabbed with a tentacle or arm steeped in poison. \xfffeIt may also p
 The user releases a horrible aura imbued with dark thoughts. \xfffeIt may also make the target flinch.
 The user slashes the foe the instant an opportunity arises. \xfffeIt has a high critical-hit ratio.
 The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
-The user slams a barrage of hard- shelled seeds down on the foe from above.
+The user slams a barrage of hard-shelled \xfffeseeds down on the foe from above.
 The user attacks with a blade of air that slices even the sky. \xfffeIt may also make the target flinch.
 The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
 The user vibrates its wings to generate a damaging sound wave. \xfffeIt may also lower the foe’s Sp. Def stat.
