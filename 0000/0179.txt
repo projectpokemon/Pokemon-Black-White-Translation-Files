@@ -19,13 +19,13 @@ Badges　\xf000ȁ\x0001\x0000
 ペアレンタルコントロールの\xfffeつうしんせいげん
 ふしぎな　おくりもの\xfffeしょかい　じゅしん
 Power warning!
-When the C-Gear is enabled,\xfffethe Nintendo DS will continue\xfffeto drain Power from the\xfffebattery, which means\xfffethat your battery may run dry.\xfffeThis will continue while\xfffethe Lid of the DS\xfffeis closed.
+When the C-Gear is enabled, the\xfffeNintendo DS will continue to drain\xfffpower from the battery, which means\xfffethat your battery may run dry.\xfffe \xfffeThis may continue when the lid\xfffeof your Nintendo DS system is closed.
 Saving warning!
-There already is a save file.\xfffeStarting a new adventure now,\xfffewill not be able to save.\xfffeDo you want to start even\xfffethough you can't save?
+There already is a saved game file.\xfffeIt is impossible to save.\xfffePlease refer to the Instruction\xfffeBooklet for more details.\xfffeWill you continue anyway?
 A Button: Continue
 B Button: Back to menu
 Enable the C-Gear?\xfffePlease read the warning below.
-Are you sure you want to disable \xfffethe C-Gear? You may anable it later.
+Are you sure you want to disable \xfffethe C-Gear? You may enable it later.
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
 Ｃギアの　スキンデータが\xfffeきえてしまった！
