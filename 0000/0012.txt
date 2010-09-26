@@ -75,7 +75,7 @@ Organize bag
 View status
 Held item
 Marking
-Free
+Release
 Take
 Store
 Quit

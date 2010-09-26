@@ -17,8 +17,8 @@ Give
 Check
 Nothing
 Deselect
-？？？
-？？？？？
+???
+?????
 ／
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 ―
@@ -26,11 +26,11 @@ Deselect
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+Lv.
+No
 ＋
 →
-ＩＤＮｏ
+IDNo
 　
 Cursor
 Go back!
