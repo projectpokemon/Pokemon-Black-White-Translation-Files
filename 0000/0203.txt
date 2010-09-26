@@ -369,7 +369,7 @@ The user applies pressure to stress points, sharply boosting one of its stats.
 The user retaliates against the foe that last inflicted damage on it \xfffewith much greater power.
 After making its attack, the user rushes back to switch places \xfffewith a party Pokemon in waiting.
 The user fights the foe up close without guarding itself. \xfffeIt also cuts the user’s Defense and Sp. Def.
-If the user can use this attack after the foe attacks, its power is doubled. 
+If the user can use this attack after \xfffethe foe attacks, its power is doubled. 
 If the foe has already taken some damage in the \xfffesame turn, this attack’s power is doubled.
 It prevents the foe from using its held item. \xfffeIts Trainer is also prevented from using items on it.
 The user flings its held item at the foe to attack. \xfffeIts power and effects depend on the item.
@@ -548,13 +548,13 @@ It shoots a Photon Blaster at the opponent. \xfffeThe type of the move varies de
 It makes the opponent listen to an ancient song and appeals to its heart. \xfffeIt may cause the opponent to sleep.
 It slashes at the opponent with its long horn. \xfffeThe mysterious power of the horn deals physical damage.
 It blows a cold chill like being frozen over the opponent. \xfffeThe opponents speed is lowered.
-It covers itself in extensive amounts of electricity and charges at the opponent. \xfffeIt may cause paralysis.
-It surrounds the opponent in a beautiful and violent blue flame. \xfffeIt may cause a burn.
+It covers itself in extensive amounts of \xfffeelectricity and charges at the opponent. \xfffeIt may cause paralysis.
+It surrounds the opponent in a beautiful \xfffeand violent blue flame. It may cause a burn.
 It covers its wings in fire and flaps them. \xfffeIt raises your Special Attack.
-It throws a clump of ice charged with electricity at the opponent on the second turn. \xfffeIt may cause paralysis.
-It surrounds the opponent in a violent chill that freezes everything on the second turn. \xfffeIt may cause a burn.
-It yells at an opponent for a long time and lowers their Special Attack.
+It throws a clump of ice charged with \xfffeelectricity at the opponent on the second turn. \xfffeIt may cause paralysis.
+It surrounds the opponent in a violent chill \xfffethat freezes everything on the second turn. \xfffeIt may cause a burn.
+It yells at an opponent for a long time \xfffeand lowers their Special Attack.
 It violently throws a large pillar of ice. \xfffeIt may cause the opponent to flinch.
 It creates an intensely hot flame from its \xfffeforehead and tackles the opponent with all its might. \xfffeDefence, Special Defence and Speed are lowered.
-It strikes with a huge flame. Its power will increase if \xfffestruck by a huge thunder bolt.
-It strikes with a huge thunder bolt. Its power will increase if \xfffestruck by a huge flame.
+It strikes with a huge flame. Its power will \xfffeincrease if struck by a huge thunder bolt.
+It strikes with a huge thunder bolt. Its \xfffepower will increase if struck by a huge flame.
