@@ -57,28 +57,28 @@ The foe is blasted with a forceful shot of \xfffewater.
 The foe is blasted by a huge volume of water \xfffelaunched under great pressure. 
 It swamps the entire battlefield with a giant \xfffewave. It can also be used for crossing water.
 The foe is struck with an icy-cold beam of \xfffeenergy.It may also freeze the target solid.
-A howling blizzard is summoned to strike the foe. \xfffeIt may also freeze the target solid.
+A howling blizzard is summoned to strike \xfffethe foe. It may also freeze the target solid.
 The foe is attacked with a peculiar ray. \xfffeIt may also leave the target confused. 
-A spray of bubbles is forcefully ejected at the foe. \xfffeIt may also lower the target’s Speed stat.
+A spray of bubbles is forcefully ejected at \xfffethe foe. It may also lower the target’s \xfffeSpeed stat.
 The foe is hit with a rainbow-colored beam. \xfffeIt may also lower the target’s Attack stat.
-The foe is attacked with a powerful beam. \xfffeThe user must rest on the next turn to regain its energy.
-The foe is jabbed with a sharply pointed beak or horn. 
+The foe is attacked with a powerful beam. \xfffeThe user must rest on the next turn to \xffferegain its energy.
+The foe is jabbed with a sharply pointed \xfffebeak or horn. 
 A corkscrewing attack with the sharp beak \xfffeacting as a drill. 
 The user grabs the foe and recklessly dives for the ground. \xfffeIt also hurts the user slightly.
 A powerful low kick that makes \xfffethe foe fall over. It inflicts greater \xfffedamage on heavier foes.
 A retaliation move that counters \xfffeany physical attack, inflicting \xfffedouble the damage taken.
 The foe is thrown using the power of gravity. \xfffeIt inflicts damage equal to the user’s level.
-The foe is slugged with a punch thrown at maximum \xfffepower. It can also be used to move boulders.
-A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
-A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
+The foe is slugged with a punch thrown at \xfffemaximum power. It can also be used to move boulders.
+A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken \xfffeby the target.
+A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken \xfffeby the target.
 A seed is planted on the foe. It steals some \xfffeHP from the foe to heal the user on every turn.
-The user’s body is forced to grow all at once. \xfffeIt raises the Sp. Atk stat. 
+The user’s body is forced to grow all at \xfffeonce. It raises the Sp. Atk stat. 
 Sharp-edged leaves are launched to \xfffeslash at the foe. It has a high critical-hit ratio.
-A two-turn attack. The user gathers light, then blasts \xfffea bundled beam on the second turn.
-A cloud of poisonous dust is scattered on the foe. \xfffeIt may poison the target.
-The user scatters a cloud of paralyzing powder. \xfffeIt may paralyze the target.
+A two-turn attack. The user gathers light, \xfffethen blasts a bundled beam on the second turn.
+A cloud of poisonous dust is scattered on \xfffethe foe. It may poison the target.
+The user scatters a cloud of paralyzing \xfffepowder. It may paralyze the target.
 The user scatters a big cloud of \xfffesleep-inducing dust around the foe. 
-The user attacks by scattering petals for two to three turns. \xfffeThe user then becomes confused.
+The user attacks by scattering petals for \xfffetwo to three turns. The user then \xfffebecomes confused.
 The foe is bound with silk blown from \xfffethe user’s mouth. It reduces the \xfffetarget’s Speed stat.
 The foe is stricken by a shock wave. \xfffeThis attack always inflicts 40 HP damage.
 The foe becomes trapped within a fierce \xfffevortex of fire that rages \xfffefor two to five turns.
@@ -89,21 +89,21 @@ A wicked thunderbolt is dropped on \xfffethe foe to inflict damage. \xfffeIt may
 The user picks up and throws a small \xffferock at the foe to attack. 
 The user sets off an earthquake \xfffethat hits all the Pokemon in the battle. 
 The user opens up a fissure in the \xfffeground and drops the foe in. \xfffeThe target instantly faints if it hits.
-The user burrows, then attacks on the second turn. \xfffeIt can also be used to exit dungeons.
-A move that leaves the target badly poisoned. \xfffeIts poison damage worsens every turn.
+The user burrows, then attacks on the \xfffesecond turn. It can also be used to exit dungeons.
+A move that leaves the target badly \xfffepoisoned. Its poison damage worsens every turn.
 The foe is hit by a weak telekinetic force. \xfffeIt may also leave the foe confused.
 The foe is hit by a strong telekinetic force. \xfffeIt may also reduce the foe’s Sp. Def stat.
 The user employs hypnotic suggestion \xfffeto make the target \xfffefall into a deep sleep.
 The user meditates to awaken the power \xfffedeep within its body \xfffeand raise its Attack stat.
 The user relaxes and lightens its body \xfffeto move faster. \xfffeIt sharply boosts the Speed stat.
 The user lunges at the foe at a speed that \xfffemakes it almost invisible.\xfffeIt is sure to strike first.
-While this move is in use, it gains attack power each time \xfffethe user is hit in battle. 
+While this move is in use, it gains attack \xfffepower each time the user is hit in battle. 
 Use it to flee from any wild Pokemon. \xfffeIt can also warp to the last Pokemon Center visited.
 The user makes the foe see a mirage. \xfffeIt inflicts damage matching the user’s level.
-The user copies the move last used by the foe. \xfffeThe move can be used for the rest of the battle.
-An earsplitting screech is emitted to sharply reduce \xfffethe foe’s Defense stat. 
-By moving rapidly, the user makes illusory copies of itself \xfffeto raise its evasiveness. 
-A self-healing move. The user restores its own HP \xfffeby up to half of its max HP. 
+The user copies the move last used by the \xfffefoe. The move can be used for the rest \xfffeof the battle.
+An earsplitting screech is emitted to \xfffesharply reduce the foe’s Defense stat. 
+By moving rapidly, the user makes illusory \xfffecopies of itself to raise its evasiveness. 
+A self-healing move. The user restores its \xfffeown HP by up to half of its max HP. 
 The user stiffens all the muscles in its body \xfffeto raise its Defense stat. 
 The user compresses its body to make itself look smaller. \xfffeThe user’s evasion stat is boosted.
 The user releases an obscuring cloud of smoke or ink. \xfffeIt reduces the foe’s accuracy.
@@ -161,7 +161,7 @@ The user reduces its polygon count to make itself \xfffemore jagged, raising the
 The user changes its type to become the same type as one of its moves. 
 The user strikes with a simultaneous three- beam attack. \xfffeMay also paralyze, burn, or freeze the target.
 The user chomps hard on the foe with its sharp front fangs. \xfffeIt cuts the target’s HP to half.
-The foe is attacked with a slash of claws, etc. \xfffeIt has a high critical-hit ratio.
+The foe is attacked with a slash of \xfffeclaws, etc. It has a high critical-hit ratio.
 The user makes a copy of itself using some of its HP. \xfffeThe copy serves as the user’s decoy.
 An attack that is used in desperation only if the user has no PP. \xfffeIt also hurts the user slightly.
 It enables the user to permanently learn the move last used by the foe. \xfffeOnce used, Sketch disappears.
