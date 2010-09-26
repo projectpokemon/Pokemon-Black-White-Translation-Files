@@ -492,39 +492,39 @@ With speedy movements it aims at the opponents’ feet
 It spits out a liquid to melt the opponent. \xfffeIt sharply lowers the opponents Special Defence. 
 It uses the opponent’s strength. \xfffeThe higher the fighting opponent’s attack is, the greater the damage. 
 It sends a puzzling idea to the opponent. \xfffeThe ability of opponents who receive this attack becomes Simple. 
-It dances with a mysterious rhythm. \xfffeIt makes the opponent copy and both of their abilities become the same. 
-It supports the opponent’s actions by making sure it attacks last. 
+It dances with a mysterious rhythm. \xfffeIt makes the opponent copy and both of \xfffetheir abilities become the same. 
+It supports the opponent’s actions by \xfffemaking sure it attacks last. 
 It attacks the opponent with song. \xfffeIf everyone sings together you can use the \xfffemove in successive turns and have its power increase. 
-It attacks the opponent with an echoed voice. \xfffeIf it or one of its team mates uses it each turn, the power increases. 
+It attacks the opponent with an echoed \xfffevoice. If it or one of its team \xfffemates uses it each turn, the power increases. 
 It looks for a gap and attacks soundly. \xfffeIt deals damage without regard to the \xfffeopponent’s stat changes. 
-It attacks by throwing a clump of special mud at the opponent. \xfffeIt returns stat changes to their original level. 
-It attacks the opponent with accumulated power. \xfffeThe higher your stats are raised, the more powerful this attack. 
-It protects itself and its team mates from the opponent’s priority moves. \xfffeMay fail if used in succession. 
-With a strange power it teleports and switches places with one of its teammates. 
-It attacks by shooting boiling hot water at the opponent. \xfffeIt will sometimes cause a burn. 
+It attacks by throwing a clump of special \xfffemud at the opponent. It returns stat \xfffechanges to their original level. 
+It attacks the opponent with accumulated \xfffepower. The higher your stats are \xffferaised, the more powerful this attack. 
+It protects itself and its team mates from \xfffethe opponent’s priority moves. May \xfffefail if used in succession. 
+With a strange power it teleports and \xfffeswitches places with one of its teammates. 
+It attacks by shooting boiling hot water at \xfffethe opponent. It will sometimes \xfffecause a burn. 
 It breaks its own shell and lowers its \xfffeDefence and Special Defence, but its Attack, Special attack \xfffeand Speed sharply rise. 
-It lets fly a Healing Beam that will restore half of its opponent’s maximum HP. 
-An attack like being showered with questions. \xfffeAn opponent afflicted with a status condition with receive much damage. 
-It attacks by raising the opponent skyward on the first turn, then dropping them on the second. \xfffeThe opponent that has been raised cannot move. 
-It spins the gears and not only raises its attack, but also sharply raises its speed. 
-It throws the opponent in the air and drags out the next Pokemon. \xfffeIn case of a wild battle, the battle ends. 
+It lets fly a Healing Beam that will restore \xfffehalf of its opponent’s maximum HP. 
+An attack like being showered with questions. \xfffeAn opponent afflicted with a status \xfffecondition with receive much damage. 
+It attacks by raising the opponent skyward \xfffeon the first turn, then dropping them \xfffeon the second. The opponent that has been raised cannot move. 
+It spins the gears and not only raises its \xfffeattack, but also sharply raises its \xfffespeed. 
+It throws the opponent in the air and drags \xfffeout the next Pokemon. In case of a \xfffewild battle, the battle ends. 
 It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable. 
-It holds the opponent down and makes it attack last. 
-It lightly attacks the opponent. \xfffeThe damage is larger when it is not holding any item. 
-It reflects the opponent’s type and becomes the same type. 
-It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn the attacks power increases. 
-It risks its life to attack the opponent. \xfffeIt verges on fainting afterwards, but damages a chunk of the opponents HP. 
-When the opponent is not holding an item, you give them your item. 
-It surrounds the opponent with a violent flame and burns the opponent. 
-It attacks with a pillar of water. \xfffeIf you combine it with fire, its power increases and a rainbow appears in the sky. 
-It attacks with a pillar of fire. \xfffeIf you combine it with grass its power increases and the surrounds become a sea of flames. 
-It attacks with a pillar of grass. \xfffeIf you combine it with water its power increases and the surrounds becomes a moor. 
-After it has attacked the opponent, it \xfffereturns and switches places with a waiting Pokemon. 
+It holds the opponent down and makes it \xfffeattack last. 
+It lightly attacks the opponent. \xfffeThe damage is larger when it is not holding \xfffeany item. 
+It reflects the opponent’s type and becomes \xfffethe same type. 
+It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn the \xfffeattacks power increases. 
+It risks its life to attack the opponent. \xfffeIt verges on fainting afterwards, but \xfffedamages a chunk of the opponents HP. 
+When the opponent is not holding an item, \xfffeyou give them your item. 
+It surrounds the opponent with a violent \xfffeflame and burns the opponent. 
+It attacks with a pillar of water. \xfffeIf you combine it with fire, its power \xfffeincreases and a rainbow appears in \xfffethe sky. 
+It attacks with a pillar of fire. \xfffeIf you combine it with grass its power \xfffeincreases and the surrounds become a \xfffesea of flames. 
+It attacks with a pillar of grass. \xfffeIf you combine it with water its power \xfffeincreases and the surrounds becomes a moor. 
+After it has attacked the opponent, it \xfffereturns and switches places with a \xfffewaiting Pokemon. 
 It opposes the opponent by attacking. \xfffeIt lowers the opponents Special Attack. 
-It stamps the ground and attacks anything nearby. \xfffeIt lowers the opponent’s speed. 
-It attacks by blowing a cool breath on the opponent. \xfffeIt will always result in a critical hit. 
+It stamps the ground and attacks anything \xfffenearby. It lowers the opponent’s speed. 
+It attacks by blowing a cool breath on the \xfffeopponent. It will always result in a critical hit. 
 It sends the opponent flying and \xfffecauses the opponent to switch out. \xfffeIn a wild battle, the battle ends. 
-It musters its courage and raises its Attack and Special Attack. 
+It musters its courage and raises its \xfffeAttack and Special Attack. 
 It attacks by catching the opponent in an \xfffeelectric net. It lowers the \xfffeopponents speed. 
 It covers itself in electricity and crashes \xfffeinto the opponent. It also takes a \xfffelittle damage. 
 It strikes the opponents body while rotating \xfffeits own like a drill. It will often \xffferesult in a critical hit. 
