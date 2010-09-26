@@ -358,12 +358,12 @@ The foe's \xf000Ă\x0001\x0000is \xfffealready confused!
 \xf000Ă\x0001\x0000 \xfffecan't become confused!
 The wild \xf000Ă\x0001\x0000 \xfffecan't become confused!
 The foe's \xf000Ă\x0001\x0000 \xfffecan't become confused!
-\xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-The wild \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-The foe's \xf000Ă\x0001\x0000 \xfffeis so tired it become confused!
-\xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
-The wild \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
-The foe's \xf000Ă\x0001\x0000 \xfffeis afraid and won't listen!
+\xf000Ă\x0001\x0000 \xfffeis so tired and it became confused!
+The wild \xf000Ă\x0001\x0000 \xfffeis so tired and it became confused!
+The foe's \xf000Ă\x0001\x0000 \xfffeis so tired and it became confused!
+\xf000Ă\x0001\x0000 \xfffeflinched!
+The wild \xf000Ă\x0001\x0000 \xfffeflinched!
+The foe's \xf000Ă\x0001\x0000 \xfffeflinched!
 \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
 The wild \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
 The foe's \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
