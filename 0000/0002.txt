@@ -24,7 +24,7 @@ Switch
 ♀
 Stats
 Moves
-Unable to Battle
+Fainted
 In Battle
 Standing by
 Partner
