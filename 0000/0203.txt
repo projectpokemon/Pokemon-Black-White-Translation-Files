@@ -146,29 +146,29 @@ The user transforms into a copy of the foe \xffferight down to having the same m
 A spray of countless bubbles is jetted at \xfffethe foe. It may also lower the \xfffetarget’s Speed stat.
 The foe is hit with rhythmically launched \xfffepunches that may also leave it \xfffeconfused. 
 The user scatters bursts of spores that \xfffeinduce sleep.  
-The user flashes a light that cuts the foe’s accuracy. \xfffeIt can also be used to illuminate caves.
+The user flashes a light that cuts the foe’s \xfffeaccuracy. It can also be used to \xfffeilluminate caves.
 The foe is attacked with an odd, hot energy \xfffewave. The attack varies in intensity.
-The user just flops and splashes around to no effect at all...  
-The user alters its cellular structure to liquefy itself, sharply raising \xfffeits Defense stat.
+The user just flops and splashes around to \xfffeno effect at all...  
+The user alters its cellular structure to \xfffeliquefy itself, sharply raising its \xfffeDefense stat.
 The foe is hammered with a large pincer. \xfffeThis move has a high critical-hit ratio. 
-The user explodes to inflict damage on all Pokemon in battle. \xfffeThe user faints upon using this move.
+The user explodes to inflict damage on all \xfffePokemon in battle. The user faints \xfffeupon using this move.
 The foe is raked with sharp claws or scythes for two to five times \xfffein quick succession.
-The user throws the bone it holds. \xfffeThe bone loops to hit the foe twice, coming and going.
-The user goes to sleep for two turns. \xfffeIt fully restores the user’s HP and heals any status problem.
-Large boulders are hurled at the foe to inflict damage. \xfffeIt may also make the target flinch.
-The user bites hard on the foe with its sharp front fangs. \xfffeIt may also make the target flinch.
-The user reduces its polygon count to make itself \xfffemore jagged, raising the Attack stat.
-The user changes its type to become the same type as one of its moves. 
-The user strikes with a simultaneous three- beam attack. \xfffeMay also paralyze, burn, or freeze the target.
-The user chomps hard on the foe with its sharp front fangs. \xfffeIt cuts the target’s HP to half.
-The foe is attacked with a slash of \xfffeclaws, etc. It has a high critical-hit ratio.
-The user makes a copy of itself using some of its HP. \xfffeThe copy serves as the user’s decoy.
-An attack that is used in desperation only if the user has no PP. \xfffeIt also hurts the user slightly.
-It enables the user to permanently learn the move last used by the foe. \xfffeOnce used, Sketch disappears.
-A consecutive three- kick attack that becomes more powerful with \xfffeeach successive hit.
-The user attacks and steals the foe’s held item simultaneously. \xfffeIt can’t steal if the user holds an item.
+The user throws the bone it holds. \xfffeThe bone loops to hit the foe twice, coming \xfffeand going.
+The user goes to sleep for two turns. \xfffeIt fully restores the user’s HP and heals \xfffeany status problem.
+Large boulders are hurled at the foe to \xfffeinflict damage. It may also make the \xfffetarget flinch.
+The user bites hard on the foe with its sharp \xfffefront fangs. It may also make the \xfffetarget flinch.
+The user reduces its polygon count to make \xfffeitself more jagged, raising the \xfffeAttack stat.
+The user changes its type to become the \xfffesame type as one of its moves. 
+The user strikes with a simultaneous \xfffethree-beam attack. May also \xfffeparalyze, burn, or freeze the target.
+The user chomps hard on the foe with its \xfffesharp front fangs. It cuts the \xfffetarget’s HP to half.
+The foe is attacked with a slash of \xfffeclaws, etc. It has a high \xfffecritical-hit ratio.
+The user makes a copy of itself using some of \xfffeits HP. The copy serves as the \xfffeuser’s decoy.
+An attack that is used in desperation only if \xfffethe user has no PP. It also hurts \xfffethe user slightly.
+It enables the user to permanently learn \xfffethe move last used by the foe. Once \xfffeused, Sketch disappears.
+A consecutive three-kick attack that \xfffebecomes more powerful with each \xfffesuccessive hit.
+The user attacks and steals the foe’s held \xfffeitem simultaneously. It can’t steal \xfffeif the user holds an item.
 The user ensnares the foe with a thin, gooey silk \xfffeso it can’t flee from battle. 
-The user senses the foe’s movements with its mind to ensure \xfffeits next attack does not miss.
+The user senses the foe’s movements with its \xfffemind to ensure its next attack does \xfffenot miss.
 A sleeping foe is shown a nightmare that inflicts \xfffesome damage every turn. 
 The user cloaks itself in fire and charges at the foe. \xfffeIt may also leave the target with a burn.
 An attack that can be used only if the user is asleep. \xfffeThe harsh noise may also make the foe flinch.
@@ -176,7 +176,7 @@ A move that works differently for the Ghost type than for all the other types.
 The user flails about aimlessly to attack. \xfffeIt becomes more powerful the less HP the user has.
 The user changes its type to make itself resistant \xfffeto the type of the attack it last took.
 A vortex of air is shot at the foe to inflict damage. \xfffeIt has a high critical-hit ratio.
-The user releases cottonlike spores that cling to \xfffethe foe, sharply reducing its Speed stat.
+The user releases cotton-like spores \xfffethat cling to the foe, sharply \xfffereducing its Speed stat.
 An all-out attack that becomes more powerful the less HP the user has. 
 The user looses its grudge on the move last used by \xfffethe foe by cutting 4 PP from it.
 The user attacks with a chilling gust of powdery snow. \xfffeIt may also freeze the target.
@@ -264,7 +264,7 @@ The user faints upon using this move. \xfffeIn return, it sharply lowers the tar
 An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paralyzed, or has a burn.
 The user focuses its mind before launching a punch. \xfffeIt will fail if the user is hit before it is used.
 This attack inflicts double damage on a paralyzed foe. \xfffeIt also cures the foe’s paralysis, however.
-The user draws attention to itself, making all foes take aim only at the user. 
+The user draws attention to itself, \xfffemaking all foes take aim only at the user. 
 An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s environment.
 The user boosts the power of the Electric \xfffemove it uses next. It also raises the user’s \xfffeSp. Def stat.
 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
@@ -413,7 +413,7 @@ The user heightens its mental focus and unleashes its power. \xfffeIt may also l
 The user draws power from nature and fires it at the foe. \xfffeIt may also lower the target’s Sp. Def.
 The user tucks in its wings and charges from a low altitude. \xfffeThe user also takes serious damage.
 The user makes the ground under the foe erupt with power. \xfffeIt may also lower the target’s Sp. Def.
-The user trades held items with the foe faster than the eye can follow. 
+The user trades held items with the \xfffefoe faster than the eye can follow. 
 The user charges at the foe using every bit of its power. \xfffeThe user must rest on the next turn.
 The user stimulates its brain by thinking bad thoughts. \xfffeIt sharply raises the user’s Sp. Atk.
 The user strikes with a tough punch as fast as a bullet. \xfffeThis move always goes first.
