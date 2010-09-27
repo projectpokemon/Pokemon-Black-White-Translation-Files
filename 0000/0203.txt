@@ -214,11 +214,11 @@ The user affixes the foe with a dark, \xfffearresting look. The target becomes \
 If it is the opposite gender of the user, \xfffethe foe becomes infatuated and less \xfffelikely to attack.
 While it is asleep, the user randomly uses \xfffeone of the moves it knows. 
 The user makes a soothing bell chime to heal the status \xfffeproblems of all the party Pokemon.
-A full-power attack that grows more powerful the more the user likes its Trainer.
-The user attacks by giving the foe a booby-trapped gift. \xfffeIt restores HP sometimes, however.
-A full-power attack that grows more powerful the less the user likes its Trainer.
-The user creates a protective field that prevents status problems for five turns.
-The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.
+A full-power attack that grows more \xfffepowerful the more the user likes its Trainer.
+The user attacks by giving the foe a \xfffebooby-trapped gift. It restores HP \xfffesometimes, however.
+A full-power attack that grows more \xfffepowerful the less the user likes its Trainer.
+The user creates a protective field that \xfffeprevents status problems for five turns.
+The user adds its HP to the foe’s HP, \xfffethen equally shares the combined HP \xfffewith the foe.
 The foe is razed with a mystical fire of great intensity. \xfffeIt may also leave the target with a burn.
 The user looses a ground-shaking quake affecting everyone in battle. \xfffeIts power varies.
 The foe is punched with the user’s full, concentrated power. \xfffeIt confuses the foe if it hits.
