@@ -142,9 +142,9 @@ Round objects are hurled at the foe to \xfffestrike two to five times in a row.
 A blood-draining attack. The user’s HP is \xffferestored by half the damage taken by \xfffethe target.
 With a scary face, the user tries to force a \xfffekiss on the foe. If it succeeds, the \xfffetarget falls asleep.
 A second-turn attack move with a high \xfffecritical-hit ratio. It may also make \xfffethe target flinch.
-The user transforms into a copy of the foe right down \xfffeto having the same move set.
-A spray of countless bubbles is jetted at the foe. \xfffeIt may also lower the target’s Speed stat.
-The foe is hit with rhythmically launched punches \xfffethat may also leave it confused. 
+The user transforms into a copy of the foe \xffferight down to having the same move \xfffeset.
+A spray of countless bubbles is jetted at \xfffethe foe. It may also lower the \xfffetarget’s Speed stat.
+The foe is hit with rhythmically launched \xfffepunches that may also leave it \xfffeconfused. 
 The user scatters bursts of spores that induce sleep.  
 The user flashes a light that cuts the foe’s accuracy. \xfffeIt can also be used to illuminate caves.
 The foe is attacked with an odd, hot energy \xfffewave. The attack varies in intensity.
