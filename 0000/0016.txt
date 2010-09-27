@@ -4,15 +4,15 @@ The foe's \xf000Ă\x0001\x0000 fainted!
 \xf000Ă\x0001\x0000 \xffferegained health!
 The wild \xf000Ă\x0001\x0000 \xffferegained health!
 The foe's \xf000Ă\x0001\x0000 \xffferegained health!
-It's super effective against \xf000Ă\x0001\x0000!
-It's super effective against the wild \xf000Ă\x0001\x0000!
-It's super effective against the foe's \xf000Ă\x0001\x0000
-It's super effective against \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-It's super effective against the wild \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-It's super effective against the foe's \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
+It's super effective against \xf000Ă\x0001\x0000! \xfffe
+It's super effective against the wild \xf000Ă\x0001\x0000! \xfffe
+It's super effective against the foe's \xf000Ă\x0001\x0000 \xfffe
+It's super effective against \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
+It's super effective against the wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
+It's super effective against the foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffe
+It's super effective against \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
+It's super effective against the wild \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
+It's super effective against the foe's \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
 \xf000Ă\x0001\x0000 \xfffeis not very effective...
 The wild \xf000Ă\x0001\x0000 \xfffeis not very effective...
 The foe's \xf000Ă\x0001\x0000 \xfffeis not very effective...

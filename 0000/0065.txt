@@ -1,3 +1,3 @@
-Microphone Test
-ほんたいの　マイクに　むかって\xfffeこえを　だしてください\xfffeただしく　うごいていれば\xfffeポケモンが　うたい　はじめます
-\xf000봂\x0000もどる
+Mic Test
+To test the microphone,\xfffespeak into the microphone.\xfffeThe Pokémon will let\xfffeyou know if it's OK.
+\xf000봂\x0000Quit
