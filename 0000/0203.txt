@@ -480,18 +480,18 @@ It creates a strange atmosphere. No Pokemon’s items have an effect for 5 turns
 It attacks by throwing rocks or bullets at a flying opponent. \xfffeThe opponent is knocked down and falls to the ground. 
 It strikes the opponent with one mighty blow. \xfffeThis attack allows results in a critical hit. 
 If it hits it attacks the opponent with a bursting flame. \xfffeThe burst flame will fall onto those nearby the hit Pokemon. 
-It attacks those near it with a wave of sludge. \xfffeIt will sometimes cause poisoning. 
-It lightly dances a mysterious dance. \xfffeIt raises its own Special Attack, Special Defence, and Speed. 
-It attacks by striking the opponent with its heavy body. \xfffeThe heavier it is than its opponent, the greater the power. 
-With a strange electric wave it damages itself and other Pokemon who have the same type. 
-It slams an electric cluster into the opponent. \xfffeThe faster it is than its opponent, the greater the power. 
-It bathes the opponent in lots of water and makes their type Water. 
+It attacks those near it with a wave of \xfffesludge. It will sometimes cause poisoning. 
+It lightly dances a mysterious dance. \xfffeIt raises its own Special Attack, Special \xfffeDefence, and Speed. 
+It attacks by striking the opponent with its \xfffeheavy body. The heavier it is than \xfffeits opponent, the greater the power. 
+With a strange electric wave it damages \xfffeitself and other Pokemon who have \xfffethe same type. 
+It slams an electric cluster into the \xfffeopponent. The faster it is than its \xfffeopponent, the greater the power. 
+It bathes the opponent in lots of water and \xfffemakes their type Water. 
 It puts on flame and attacks the opponent. \xfffeIt stores strength and its speed rises. 
 It coils up and concentrates. \xfffeIt raises its Attack, Defence and Accuracy. 
-With speedy movements it aims at the opponents’ feet 
-It spits out a liquid to melt the opponent. \xfffeIt sharply lowers the opponents Special Defence. 
-It uses the opponent’s strength. \xfffeThe higher the fighting opponent’s attack is, the greater the damage. 
-It sends a puzzling idea to the opponent. \xfffeThe ability of opponents who receive this attack becomes Simple. 
+With speedy movements it aims at the \xfffeopponents’ feet 
+It spits out a liquid to melt the opponent. \xfffeIt sharply lowers the opponents Special \xfffeDefence. 
+It uses the opponent’s strength. \xfffeThe higher the fighting opponent’s attack \xfffeis, the greater the damage. 
+It sends a puzzling idea to the opponent. \xfffeThe ability of opponents who receive this \xfffeattack becomes Simple. 
 It dances with a mysterious rhythm. \xfffeIt makes the opponent copy and both of \xfffetheir abilities become the same. 
 It supports the opponent’s actions by \xfffemaking sure it attacks last. 
 It attacks the opponent with song. \xfffeIf everyone sings together you can use the \xfffemove in successive turns and have its power increase. 
