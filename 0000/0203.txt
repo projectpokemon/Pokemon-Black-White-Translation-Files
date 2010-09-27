@@ -105,11 +105,11 @@ An earsplitting screech is emitted to \xfffesharply reduce the foe’s Defense s
 By moving rapidly, the user makes illusory \xfffecopies of itself to raise its evasiveness. 
 A self-healing move. The user restores its \xfffeown HP by up to half of its max HP. 
 The user stiffens all the muscles in its body \xfffeto raise its Defense stat. 
-The user compresses its body to make itself look smaller. \xfffeThe user’s evasion stat is boosted.
-The user releases an obscuring cloud of smoke or ink. \xfffeIt reduces the foe’s accuracy.
-The foe is exposed to a sinister ray that triggers confusion. 
-The user withdraws its body into its hard shell, raising \xfffeits Defense stat. 
-The user curls up to conceal weak spots and raise \xfffeits Defense stat. 
+The user compresses its body to make itself \xfffelook smaller. The user’s evasion \xfffestat is boosted.
+The user releases an obscuring cloud of \xfffesmoke or ink. It reduces the foe’s \xfffeaccuracy.
+The foe is exposed to a sinister ray that \xfffetriggers confusion. 
+The user withdraws its body into its hard \xfffeshell, raising its Defense stat. 
+The user curls up to conceal weak spots and \xffferaise its Defense stat. 
 The user throws up a sturdy wall that sharply raises \xfffeits Defense stat. 
 A wondrous wall of light is put up to suppress damage \xfffefrom special attacks for five turns.
 The user creates a haze that eliminates every stat change \xfffeamong all the Pokemon engaged in battle.
