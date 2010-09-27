@@ -363,7 +363,7 @@ The user faints. In return, the Pokemon taking its place will have its \xfffeHP 
 If the foe’s HP is down to about half, this attack will \xfffehit with double the power.
 The user draws power to attack by using its held Berry. \xfffeThe Berry determines its type and power.
 An attack that hits a foe using Protect or Detect. \xfffeIt also lifts the effects of those moves.
-The user pecks the foe. If the foe is \xfffeholding a Berry, the user plucks it and gains its effect.
+The user pecks the foe. If the foe is \xfffeholding a Berry, the user plucks it \xfffeand gains its effect.
 The user whips up a turbulent whirlwind that ups the Speed of \xfffeall party Pokemon for three turns.
 The user applies pressure to stress points, sharply boosting one of its stats.
 The user retaliates against the foe that last inflicted damage on it \xfffewith much greater power.
@@ -446,17 +446,17 @@ The user stabs the foe with a sharpened \xfffestone. It has a high critical-hit 
 If it is the opposite gender of the user, the \xfffefoe is charmed into sharply lowering \xfffeits Sp. Atk stat.
 The user lays a trap of levitating stones \xfffearound the foe. The trap hurts foes \xfffethat switch into battle.
 The user snares the foe with grass and trips it. \xfffeThe heavier the foe, the greater the damage.
-The user attacks using a sound wave based on words it has learned. \xfffeIt may also confuse the foe.
-The user releases countless shots of light. \xfffeIts type varies with the kind of Plate the user is holding.
+The user attacks using a sound wave based \xfffeon words it has learned. It may also \xfffeconfuse the foe.
+The user releases countless shots of light. \xfffeIts type varies with the kind of Plate the \xffferuser is holding.
 The user bites the foe. If the foe is \xfffeholding a Berry, the user eats it and gains its effect.
-The user fires a concentrated bundle of electricity. \xfffeIt may also raise the user’s Sp. Atk stat.
-The user slams its rugged body into the foe to attack. \xfffeThe user also sustains serious damage.
+The user fires a concentrated bundle of \xfffeelectricity. It may also raise the \xfffeuser’s Sp. Atk stat.
+The user slams its rugged body into the foe \xfffeto attack. The user also sustains \xfffeserious damage.
 The user lunges at the foe at a speed that \xfffemakes it almost invisible. \xfffeIt is sure to strike first.
-The user calls out its underlings to pummel the foe. \xfffeIt has a high critical-hit ratio.
-The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+The user calls out its underlings to pummel \xfffethe foe. It has a high critical-hit \xffferatio.
+The user calls out its underlings to shield \xfffeits body, raising its Defense and \xfffeSp. Def stats.
 The user calls out its underlings to heal it. \xfffeThe user regains up to half of its max HP.
-The user delivers a life-endangering attack at full power. The user also takes terrible damage.
-The user slams the foe with a long tail, vines, etc. \xfffeThe target is hit twice in a row.
+The user delivers a life-endangering attack \xfffeat full power. The user also takes \xfffeterrible damage.
+The user slams the foe with a long tail, \xfffevines, etc. The target is hit twice \xfffein a row.
 The user blasts the foe with power that \xfffedistorts even time. The user must \xffferest on the next turn.
 The user tears the foe along with the space \xfffearound it. This move has a high \xfffecritical-hit ratio.
 The user faints. In return, the Pokemon \xfffetaking its place will have its \xfffestatus and HP fully restored.
