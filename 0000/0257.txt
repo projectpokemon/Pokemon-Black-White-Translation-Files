@@ -505,146 +505,146 @@ Dignity Pokémon
 Lookout Pokémon
 Precaution Pokémon
 Puppy Pokémon
-Dog Pokémon
-Dog Pokémon
+Loyal Dog Pokémon
+Lineancy Pokémon
 Ill-Natured Pokémon
-れいこく Pokémon
+Ruthless Pokémon
 Grass Monkey Pokémon
-とげざる Pokémon
-Hight Temp Pokémon
-ひのこ Pokémon
-Water Throw Pokémon
-ほうすい Pokémon
+Thorn Monkey Pokémon
+High Temp Pokémon
+Sparks Pokémon
+Water Splash Pokémon
+High Water Throw Pokémon
 Dream Eater Pokémon
 Trance Pokémon
-Big Pigeon Pokémon
-のばと Pokémon
-プライド Pokémon
-Charged Pokémon
-らいでん Pokémon
+Baby Pigeon Pokémon
+Pigeon Pokémon
+Pride Pokémon
+Electrification Pokémon
+Thunder & Lightning Pokémon
 Mantle Pokémon
-こうせき Pokémon
+Ore Pokémon
 High Pressure Pokémon
 Bat Pokémon
-きゅうあい Pokémon
+Courtship Pokémon
 Mole Pokémon
 Deep Earth Pokémon
 Healing Pokémon
-きんこつ Pokémon
-きんこつ Pokémon
-きんこつ Pokémon
-おたま Pokémon
-しんどう Pokémon
-しんどう Pokémon
-じゅうどう Pokémon
+Muscle Pokémon
+Muscle Pokémon
+Muscle Pokémon
+Tadpole Pokémon
+Vibration Pokémon
+Vibration Pokémon
 Judo Pokémon
 Karate Pokémon
 Sewing Pokémon
-こそだて Pokémon
-ムカデ Pokémon
-まゆムカデ Pokémon
-メガムカデ Pokémon
-わたたま Pokémon
-Hiding Pokémon
+Forest Cloak Pokémon
+Parental Pokémon
+Centipede Pokémon
+Cocoon Centipede Pokémon
+Mega Centipede Pokémon
 Cotton Ball Pokémon
-はなかざり Pokémon
-Boy Ran Pokémon
-さばくワニ Pokémon
-さばくワニ Pokémon
-いかく Pokémon
-だるま Pokémon
-えんじょう Pokémon
-サボテン Pokémon
-いしやど Pokémon
-いわやど Pokémon
-だっぴ Pokémon
-あくとう Pokémon
-とりもどき Pokémon
-たましい Pokémon
-かんおけ Pokémon
-こだいがめ Pokémon
-こだいがめ Pokémon
-さいこどり Pokémon
-さいこどり Pokémon
-ゴミぶくろ Pokémon
-ゴミすてば Pokémon
-わるぎつね Pokémon
-ばけぎつね Pokémon
-チンチラ Pokémon
-スカーフ Pokémon
-ぎょうし Pokémon
-あやつり Pokémon
-てんたい Pokémon
-さいぼう Pokémon
-ぶんかつ Pokémon
-ぞうふく Pokémon
-みずどり Pokémon
-しらとり Pokémon
-しんせつ Pokémon
-ひょうせつ Pokémon
-ブリザード Pokémon
-きせつ Pokémon
-きせつ Pokémon
-モモンガ Pokémon
-かぶりつき Pokémon
-きへい Pokémon
-きのこ Pokémon
-きのこ Pokémon
-ふゆう Pokémon
-ふゆう Pokémon
-かいほう Pokémon
-くっつき Pokémon
-でんきグモ Pokémon
-とげのみ Pokémon
-とげだま Pokémon
-はぐるま Pokémon
-はぐるま Pokémon
-はぐるま Pokémon
-でんきうお Pokémon
-でんきうお Pokémon
-でんきうお Pokémon
-ブレイン Pokémon
-ブレイン Pokémon
-ろうそく Pokémon
-ランプ Pokémon
-いざない Pokémon
-キバ Pokémon
-あごオノ Pokémon
-あごオノ Pokémon
-ひょうけつ Pokémon
-とうけつ Pokémon
-けっしょう Pokémon
-マイマイ Pokémon
-からぬけ Pokémon
-トラップ Pokémon
-ぶじゅつ Pokémon
-ぶじゅつ Pokémon
-ほらあな Pokémon
-ゴーレム Pokémon
-ゴーレム Pokémon
-はもの Pokémon
-とうじん Pokémon
-ずつきうし Pokémon
-ヒナわし Pokémon
-ゆうもう Pokémon
-おむつ Pokémon
-ほねわし Pokémon
-アリクイ Pokémon
-てつアリ Pokémon
-そぼう Pokémon
-らんぼう Pokémon
-きょうぼう Pokémon
-たいまつ Pokémon
-たいよう Pokémon
-てっしん Pokémon
-がんくつ Pokémon
-そうげん Pokémon
-せんぷう Pokémon
-らいげき Pokémon
-はくよう Pokémon
-こくいん Pokémon
-ほうじょう Pokémon
-きょうかい Pokémon
-わかごま Pokémon
-せんりつ Pokémon
-こせいだい Pokémon
+Whirlwind Pokémon
+Stump Pokémon
+Decorative Flower Pokémon
+Violent Pokémon
+Desert Crocodile Pokémon
+Desert Crocodile Pokémon
+Menace Pokémon
+Daruma Pokémon
+Blaze Pokémon
+Cactus Pokémon
+Stone Hermit Pokémon
+Rock Hermit Pokémon
+Molting Pokémon
+Scoundrel Pokémon
+Pseudo-Bird Pokémon
+Spirit Pokémon
+Coffin Pokémon
+Ancient Turtle Pokémon
+Ancient Turtle Pokémon
+Old Bird Pokémon
+Old Bird Pokémon
+Garbage Bag Pokémon
+Garbage Dump Pokémon
+Dark Fox Pokémon
+Illusory Fox Pokémon
+Chinchilla Pokémon
+Scarf Pokémon
+Gaze Pokémon
+Manipulation Pokémon
+Celestial Body Pokémon
+Cell Pokémon
+Mitosis Pokémon
+Amplification Pokémon
+Waterfowl Pokémon
+Swan Pokémon
+Fresh Snow Pokémon
+Ice and Snow Pokémon
+Blizzard Pokémon
+Seasonal Pokémon
+Seasonal Pokémon
+Flying Squirrel Pokémon
+Ringside Pokémon
+Cavalry Pokémon
+Mushroom Pokémon
+Mushroom Pokémon
+Floating Pokémon
+Floating Pokémon
+Nursing Pokémon
+Clinging Pokémon
+Electric Spider Pokémon
+Thorny Leech Pokémon
+Thorny Ball Pokémon
+Gear Pokémon
+Gear Pokémon
+Gear Pokémon
+Electric Eel Pokémon
+Electric Fish Pokémon
+Electric Fish Pokémon
+Brain Pokémon
+Brain Pokémon
+Candle Pokémon
+Lamp Pokémon
+Temptation Pokémon
+Tusk Pokémon
+Jaw Horn Pokémon
+Jaw Horn Pokémon
+Freezing Pokémon
+Freeze Pokémon
+Crystal Pokémon
+Snail Pokémon
+Deshelled Pokémon
+Trap Pokémon
+Martial Arts Pokémon
+Martial Arts Pokémon
+Cave Pokémon
+Golem Pokémon
+Golem Pokémon
+Sharp Edge Pokémon
+Blade Pokémon
+Headbutt Bull Pokémon
+Baby Eagle Pokémon
+Valor Pokémon
+Diaper Pokémon
+Bone Eagle Pokémon
+Anteater Pokémon
+Iron Ant Pokémon
+Wild Pokémon
+Violent Pokémon
+Brutal Pokémon
+Torchlight Pokémon
+Sun Pokémon
+Iron Will Pokémon
+Cavern Pokémon
+Grassland Pokémon
+Whirlwind Pokémon
+Lightning Strike Pokémon
+White Yang Pokémon
+Black Yin Pokémon
+Fertility Pokémon
+Feelings Pokémon
+Foal Pokémon
+Melody Pokémon
+Paleozoic Pokémon

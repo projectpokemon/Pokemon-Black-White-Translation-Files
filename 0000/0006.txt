@@ -77,12 +77,12 @@ The Pokemon heard the\xfffeflute and woke up.
 Move
 You cannot buy\xfffe\xf000ĉ\x0001\x0000.
 Sell how many\xfffe\xf000ĉ\x0001\x0000?
-I can pay　¥\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
-Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved ¥\xf000Ȇ\x0001\x0001.
+I can pay　\xf000Ȇ\x0001\x0000円.\xfffeWould that be OK?
+Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved \xf000Ȇ\x0001\x0001円.
 Money
-¥\xf000Ȇ\x0001\x0000
-x\xf000ȁ\x0001\x0000
-+¥\xf000Ȇ\x0001\x0000
+\xf000Ȇ\x0001\x0000円
+×\xf000ȁ\x0001\x0000
+＋\xf000Ȇ\x0001\x0000円
 Yes
 No
 Sell
