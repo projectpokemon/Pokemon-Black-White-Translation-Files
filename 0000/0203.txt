@@ -201,12 +201,12 @@ The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fa
 The user rampages and attacks for two to \xfffethree turns. However, it then \xfffebecomes confused.
 A five-turn sand-storm is summoned to hurt \xfffeall combatant types except Rock, \xfffeGround, and Steel.
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
-The user endures any attack with at least 1 HP. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
-The user charmingly stares at the foe, making it less wary. \xfffeThe target’s Attack is sharply lowered.
-The user continually rolls into the foe over five turns. \xfffeIt becomes stronger each time it hits.
-A restrained attack that prevents the foe from fainting. \xfffeThe target is left with at least 1 HP.
+The user endures any attack with at least \xfffe1 HP. Its chance of failing rises \xfffeif it is used in succession.
+The user charmingly stares at the foe, \xfffemaking it less wary. The target’s \xfffeAttack is sharply lowered.
+The user continually rolls into the foe over \xfffefive turns. It becomes stronger each \xfffetime it hits.
+A restrained attack that prevents the foe \xfffefrom fainting. The target is left \xfffewith at least 1 HP.
 The user enrages the foe into confusion. \xfffeHowever, it also sharply raises the \xfffefoe’s Attack stat.
-The user restores its own HP by up to half of its maximum HP. \xfffeIt may also be used to heal an ally’s HP.
+The user restores its own HP by up to half \xfffeof its maximum HP. It may also be \xfffeused to heal an ally’s HP.
 The user throws an electrically charged tackle at the foe. \xfffeIt may also leave the target paralyzed.
 The foe is slashed with scythes or claws. \xfffeIts power increases if it hits in succession.
 The foe is hit with wings of steel. \xfffeIt may also raise the user’s Defense stat. 
