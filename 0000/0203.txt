@@ -182,20 +182,20 @@ The user looses its grudge on the move last used by \xfffethe foe by cutting 4 P
 The user attacks with a chilling gust of powdery snow. \xfffeIt may also freeze the target.
 It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in succession.
 The user throws a punch at blinding speed. \xfffeIt is certain to strike first.
-The user frightens the foe with a scary face to \xfffesharply reduce its Speed stat.
-The user draws up to the foe disarmingly, \xfffethen throws a sucker punch. It hits without fail.
-The user kisses the foe with a sweet, angelic cuteness \xfffethat causes confusion. 
-The user maximizes its Attack stat in exchange \xfffefor HP equal to half its max HP.
-The user attacks by hurling filthy sludge at the foe. \xfffeIt may also poison the target.
-The user hurls mud in the foe’s face to inflict \xfffedamage and lower its accuracy. 
-The user attacks by spraying ink in the foe’s face or eyes. \xfffeIt may also lower the target’s accuracy.
-The user lays a trap of spikes at the foe’s feet. \xfffeThe trap hurts foes that switch into battle.
-The user fires an electric blast like a cannon to \xfffeinflict damage and cause paralysis.
-Enables the user to hit a Ghost type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
+The user frightens the foe with a scary face \xfffeto sharply reduce its Speed stat.
+The user draws up to the foe disarmingly, \xfffethen throws a sucker punch. It hits \xfffewithout fail.
+The user kisses the foe with a sweet, angelic \xfffecuteness that causes confusion.
+The user maximizes its Attack stat in \xfffeexchange for HP equal to half its \xfffemax HP.
+The user attacks by hurling filthy sludge at \xfffethe foe. It may also poison the \xfffetarget.
+The user hurls mud in the foe’s face to \xfffeinflict damage and lower its accuracy. 
+The user attacks by spraying ink in the \xfffefoe’s face or eyes. It may also lower \xfffethe target’s accuracy.
+The user lays a trap of spikes at the foe’s \xfffefeet. The trap hurts foes that \xfffeswitch into battle.
+The user fires an electric blast like a \xfffecannon to inflict damage and cause \xfffeparalysis.
+Enables the user to hit a Ghost type with \xfffeany type of move. It also enables \xfffethe user to hit an evasive foe.
 When this move is used, if the user faints, the foe that \xfffelanded the knockout hit also faints.
 Any Pokemon that hears this song faints in \xfffethree turns, unless it switches out of battle.
 The user attacks with a gust of chilled air. \xfffeIt also lowers the target’s Speed stat. 
-It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in succession.
+It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
 The user strikes at the foe with a hard bone two to five times in a row. 
 The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fail to hit the target.
 The user rampages and attacks for two to three turns. \xfffeHowever, it then becomes confused.
