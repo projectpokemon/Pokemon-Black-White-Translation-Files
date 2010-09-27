@@ -376,7 +376,7 @@ The user flings its held item at the foe to attack. \xfffeIts power and effects 
 Using its psychic power of suggestion, the user transfers \xfffeits status problems to the target.
 The fewer PP this move has, the more power it has for attack. 
 The user prevents the foe from using any HP-recovery moves for five turns. 
-The user powerfully wrings the foe. \xfffeThe more HP the foe has, the greater this attack’s power.
+The user powerfully wrings the foe. \xfffeThe more HP the foe has, the greater \xfffethis attack’s power.
 The user employs its psychic power to switch its Attack with its Defense stat.
 The user hurls up its stomach acids on the foe. \xfffeThe fluid eliminates the effect of the foe’s ability.
 The user chants an incantation toward the \xfffesky, preventing the foe from landing critical hits.
@@ -457,29 +457,29 @@ The user calls out its underlings to shield its body, raising its Defense and Sp
 The user calls out its underlings to heal it. \xfffeThe user regains up to half of its max HP.
 The user delivers a life-endangering attack at full power. The user also takes terrible damage.
 The user slams the foe with a long tail, vines, etc. \xfffeThe target is hit twice in a row.
-The user blasts the foe with power that distorts even time. \xfffeThe user must rest on the next turn.
-The user tears the foe along with the space around it. \xfffeThis move has a high critical-hit ratio.
-The user faints. In return, the Pokemon taking \xfffeits place will have its status and HP fully restored.
+The user blasts the foe with power that \xfffedistorts even time. The user must \xffferest on the next turn.
+The user tears the foe along with the space \xfffearound it. This move has a high \xfffecritical-hit ratio.
+The user faints. In return, the Pokemon \xfffetaking its place will have its \xfffestatus and HP fully restored.
 The foe is crushed with great force. \xfffeThe attack is more powerful the more HP the foe has left.
-The foe becomes trapped within a maelstrom of fire that rages for two to five turns.
-The foe is dragged into a world of total darkness that puts it to sleep. 
-The user generates a shock wave from within its body. \xfffeIt may also lower the target’s Sp. Def.
-The user creates a gust of repulsive wind. \xfffeIt may also raise all the user’s stats at once.
-The user disappears, then strikes the foe on the second turn. \xfffeIt hits even if the foe protects itself.
-It sharpens its claws. Increases your Accuracy and Attack. 
-It protects all its teammates from attacks for one turn. \xfffeMay fail if used in succession. 
-With psychic abilities it adds together the Defence and Special Defence of it \xfffeand the opponent and then divides them in half. 
-With psychic abilities it adds together the Attack and Special Attack of it \xfffeand the opponent and then divides them in half. 
-It creates a mysterious atmosphere. \xfffeAll Pokemon have their defence and special attack switched for 5 Turns. 
+The foe becomes trapped within a maelstrom \xfffeof fire that rages for two to five turns.
+The foe is dragged into a world of total \xfffedarkness that puts it to sleep. 
+The user generates a shock wave from within \xfffeits body. It may also lower the \xfffetarget’s Sp. Def.
+The user creates a gust of repulsive wind. \xfffeIt may also raise all the user’s stats at \xfffeonce.
+The user disappears, then strikes the foe \xfffeon the second turn. It hits even if \xfffethe foe protects itself.
+It sharpens its claws. Increases your \xfffeAccuracy and Attack. 
+It protects all its teammates from attacks \xfffefor one turn. May fail if used in \xfffesuccession. 
+With psychic abilities it adds together the \xfffeDefence and Special Defence of it \xfffeand the opponent and then divides them in half. 
+With psychic abilities it adds together the \xfffeAttack and Special Attack of it and \xfffethe opponent and then divides them in half. 
+It creates a mysterious atmosphere. \xfffeAll Pokemon have their defence and \xfffespecial attack switched for 5 Turns. 
 It makes its mysterious brain waves real and \xfffeattacks the opponents. It deals Physical damage. 
-It hurls a special poison. Its power doubles if it hits an opponent with Poison status. 
-It cuts off useless parts of its body. \xfffeIt sharply raises its speed and makes its weight lighter. 
-It sprinkles itself with a powder that causes frustration to call attention to itself. \xfffeAll the opponent’s attacks aim towards it. 
-It raises the opponent in the air with its psychic abilities. Attacks \xfffehit the opponent more easily for 3 turns. 
-It creates a strange atmosphere. No Pokemon’s items have an effect for 5 turns. 
-It attacks by throwing rocks or bullets at a flying opponent. \xfffeThe opponent is knocked down and falls to the ground. 
-It strikes the opponent with one mighty blow. \xfffeThis attack allows results in a critical hit. 
-If it hits it attacks the opponent with a bursting flame. \xfffeThe burst flame will fall onto those nearby the hit Pokemon. 
+It hurls a special poison. Its power doubles \xfffeif it hits an opponent with Poison status. 
+It cuts off useless parts of its body. \xfffeIt sharply raises its speed and makes its \xfffeweight lighter. 
+It sprinkles itself with a powder that \xfffecauses frustration to call attention \xfffeto itself. All the opponent’s attacks aim towards it. 
+It raises the opponent in the air with its \xfffepsychic abilities. Attacks hit the \xfffeopponent more easily for 3 turns. 
+It creates a strange atmosphere. \xfffeNo Pokemon’s items have an effect \xfffefor 5 turns. 
+It attacks by throwing rocks or bullets at a \xfffeflying opponent. The opponent is \xfffeknocked down and falls to the ground. 
+It strikes the opponent with one mighty \xfffeblow. This attack allows results in \xfffea critical hit. 
+If it hits it attacks the opponent with a \xfffebursting flame. The burst flame will \xfffefall onto those nearby the hit Pokemon. 
 It attacks those near it with a wave of \xfffesludge. It will sometimes cause poisoning. 
 It lightly dances a mysterious dance. \xfffeIt raises its own Special Attack, Special \xfffeDefence, and Speed. 
 It attacks by striking the opponent with its \xfffeheavy body. The heavier it is than \xfffeits opponent, the greater the power. 
@@ -538,7 +538,7 @@ It surrounds the opponent with \xfffesharp leaves. It may lower the \xfffeoppone
 It flattens the opponent by rolling its \xfffecurled up body. It may cause the opponent \xfffeto flinch. 
 It surrounds its body with fluffy wool to \xfffeprotect itself. It sharply raises its \xfffeDefence. 
 It sends shockwaves of darkness flying. \xfffeIt may lower the opponents Accuracy. 
-It makes its mysterious brain waves real and attacks the opponents. \xfffeIt deals Physical damage.
+It makes its mysterious brain waves real and \xfffeattacks the opponents. It deals Physical damage.
 It strikes the opponent with its hard tail. \xfffeIt will strike for 2-5 turns.
 It surrounds the opponent with a monstrous \xfffewind. It may confuse the opponent.
 It charges at the opponent with a great \xfffeafro’d head. It deals recoil damage.
