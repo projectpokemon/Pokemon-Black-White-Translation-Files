@@ -169,7 +169,7 @@ A consecutive three-kick attack that \xfffebecomes more powerful with each \xfff
 The user attacks and steals the foe’s held \xfffeitem simultaneously. It can’t steal \xfffeif the user holds an item.
 The user ensnares the foe with a thin, gooey silk \xfffeso it can’t flee from battle. 
 The user senses the foe’s movements with its \xfffemind to ensure its next attack does \xfffenot miss.
-A sleeping foe is shown a nightmare that inflicts \xfffesome damage every turn. 
+A sleeping foe is shown a nightmare that \xfffeinflicts some damage every turn.
 The user cloaks itself in fire and \xfffecharges at the foe. It may also \xfffeleave the target with a burn.
 An attack that can be used only if the user \xfffeis asleep. The harsh noise may also \xfffemake the foe flinch.
 A move that works differently for the Ghost type than for all the other types. 
@@ -180,7 +180,7 @@ The user releases cotton-like spores \xfffethat cling to the foe, sharply \xfffe
 An all-out attack that becomes more \xfffepowerful the less HP the user has. 
 The user looses its grudge on the move last used by \xfffethe foe by cutting 4 PP from it.
 The user attacks with a chilling gust of \xfffepowdery snow. It may also freeze the \xfffetarget.
-It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in succession.
+It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
 The user throws a punch at blinding speed. \xfffeIt is certain to strike first.
 The user frightens the foe with a scary face \xfffeto sharply reduce its Speed stat.
 The user draws up to the foe disarmingly, \xfffethen throws a sucker punch. It hits \xfffewithout fail.
@@ -192,16 +192,16 @@ The user attacks by spraying ink in the \xfffefoe’s face or eyes. It may also 
 The user lays a trap of spikes at the foe’s \xfffefeet. The trap hurts foes that \xfffeswitch into battle.
 The user fires an electric blast like a \xfffecannon to inflict damage and cause \xfffeparalysis.
 Enables the user to hit a Ghost type with \xfffeany type of move. It also enables \xfffethe user to hit an evasive foe.
-When this move is used, if the user faints, the foe that \xfffelanded the knockout hit also faints.
-Any Pokemon that hears this song faints in \xfffethree turns, unless it switches out of battle.
+When this move is used, if the user faints, \xfffethe foe that landed the knockout hit \xfffealso faints.
+Any Pokemon that hears this song faints in \xfffethree turns, unless it switches out of \xfffebattle.
 The user attacks with a gust of chilled air. \xfffeIt also lowers the target’s Speed stat. 
 It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
 The user strikes at the foe with a hard bone two to five times in a row. 
-The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fail to hit the target.
-The user rampages and attacks for two to three turns. \xfffeHowever, it then becomes confused.
-A five-turn sand- storm is summoned to hurt all combatant types \xfffeexcept Rock,  Ground, and Steel.
+The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fail to \xfffehit the target.
+The user rampages and attacks for two to \xfffethree turns. However, it then \xfffebecomes confused.
+A five-turn sand-storm is summoned to hurt \xfffeall combatant types except Rock, \xfffeGround, and Steel.
 A nutrient-draining attack. The user’s HP is \xffferestored by half the damage taken by the target.
-The user endures any attack with at least 1 HP. \xfffeIts chance of failing rises if it is used in succession.
+The user endures any attack with at least 1 HP. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
 The user charmingly stares at the foe, making it less wary. \xfffeThe target’s Attack is sharply lowered.
 The user continually rolls into the foe over five turns. \xfffeIt becomes stronger each time it hits.
 A restrained attack that prevents the foe from fainting. \xfffeThe target is left with at least 1 HP.
