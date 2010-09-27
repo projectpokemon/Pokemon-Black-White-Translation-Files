@@ -1,63 +1,63 @@
-どこへ　とびますか？
-ダミー
-ここちよい　しおかぜが　ふきぬけ\xfffeなにかを　よかんさせる　いなかまち
-ポケモンけんきゅうじょ
-こうていさが　ある　おかげで\xfffeみはらしが　いいのが　とくちょう
-ポケモンセンター
-ゆきよけの　かいだんは　すみついた\xfffeひとが　ふるさとをおもい　つけたもの
-サンヨウシティジム
-ポケモンセンター
-トレーナーズスクール
-マコモのけんきゅうしつ
-１００ねんほどまえの　そうこが\xfffeさいりようされ　かっきづく　まち
-シッポウシティジム
-ポケモンセンター
-シッポウはくぶつかん
-カフェ　ソーコ
-じょうくうの　くもを　つらぬくような\xfffeこうそうビルが　そびえる　だいとし
-ヒウンシティジム
-ポケモンセンター
-ちょうさたいほんぶ
-せいめいはんだん
-ポケモンマッサージ
-ロイヤルイッシュごう
-テーマパークが　たちならび\xfffeかっき　あふれる　ごらくとし
-ライモンシティジム
-ポケモンセンター
-ミュージカルホール
-バトルサブウェイ
-ビッグスタジアム
-リトルコート
-イッシュの　げんかんと　よばれ\xfffeしなものが　いきかう　みなとまち
-ホドモエシティジム
-ポケモンセンター
-ホドモエマーケット
-わざおしえの　いえ
-かっそうろの　そばで　さいばいし\xfffeとれた　やさいを　かもつきで　はこぶ
-フキヨセシティジム
-ポケモンセンター
-わざかぞくの　いえ
-カーゴサービス
-ふゆは　ふりつもる　ゆきにおおわれ\xfffeいちめん　ぎんせかいとなる　まち
-セッカシティジム
-ポケモンセンター
-ポケモンだいすきクラブ
-れきしを　おもんじ　むかしからの\xfffeものを　たいせつに　している　まち
-べんりさを　ついきゅうして　むかしの\xfffeなごりを　のこさず　へんかした　まち
-ソウリュウシティジム
-ポケモンセンター
-バトルのやかた
-すべての　ポケモンジムを　せいはした\xfffeトレーナーだけが　いどむことができる
-ポケモンセンター
+Fly to where?
+Dummy
+A small countryside town with\xfffea soft, pleasent blow.
+Pokémon Lab
+A small, calm town that has\xfffethe looks and feels of a city.
+Pokécenter
+A little city that gives a\xfffehome to many famous people.
+Gym
+Pokécenter
+Trainer School
+Transfer House
+This 100-year old city has\xfffethe looks of a plain city.
+Gym
+Pokécenter
+Shippou Diner
+Museum
+A city with high buildings.\xfffeThis city is quite young.
+Gym
+Pokécenter
+Harbor
+Global Tower
+Poké Massage
+Middle Square
+A very amusing city.\xfffeThere is a funfair here.
+Gym
+Pokécenter
+Theater
+Soccer
+Tennis
+Ferry's wheel
+An everyday city.\xfffeThere is much to do here.
+Gym
+Pokécenter
+Market
+Warehouse
+A little airport.\xfffeThey also grow vegetables here.
+Gym
+Pokécenter
+Airport
+Move Deleter
+In winter, this town is\xfffeused as a rink.
+Gym
+Pokécenter
+Evolve checker
+This city has ancient looks.\xfffeIt is over 1,000 years old!
+This city has ancient looks.\xfffeIt is over 1,000 years old!
+Gym
+Pokécenter
+Trio Battle House
+Many Trainers come here to\xfffelook at their skills.
+Pokécenter
 むかしからの　ふうしゅうを　まもり\xfffeきそくただしく　くらす　ひとの　まち
-ポケモンセンター
+Pokécenter
 なつは　バカンスの　ひとが　つどい\xfffeにぎわう　すなはまの　ひしょち
-ポケモンセンター
+Pokécenter
 てつどうしゃりょうが　せいびされたり\xfffeていはくする　しゃりょうきちの　まち
 ひとがつどい　はってんを　つづける\xfffeきんだいてきな　ふんいきの　まち
-ポケモンセンター
+Pokécenter
 ゆたかな　しぜんに　あこがれた\xfffeひとが　かくちから　あつまる　ばしょ
-ポケモンセンター
+Pokécenter
 せかい　かっこくの　ひとびとと\xfffeこうりゅうできる　ちょうこうそうビル
 とおく　はなれた　べつちほうの\xfffeポケモンを　けんきゅうする　しせつ
 こどもや　ポケモンの　あそびばとして\xfffeつかわれている　こうじょうの　あとち
@@ -88,7 +88,7 @@
 ながい　くさむらに　はいらなくても\xfffeすすめるよう　いっぽんばしが　ある
 あめが　おおく　ぬかるんだ\xfffeしっちのなかには　ポケモンが　ひそむ
 ほそうされた　どうろが　はしりやすく\xfffeバイクを　あいするものが　あつまる
-ショッピングモール
+Department store
 うでじまんが　つどい　きそいあう\xfffeバッジチェックのもんに　つづく　みち
 せいりゅうが　どうろないを　めぐり\xfffeうつくしい　けしきが　うまれた　みち
 あるくだけで　たのしくなってしまう\xfffeなだらかな　おかが　つらなる　ばしょ

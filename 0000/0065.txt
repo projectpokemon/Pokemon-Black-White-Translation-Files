@@ -1,3 +1,3 @@
 Mic Test
-Talk into the microphone\xfffeこえを　だしてください\xfffeただしく　うごいていれば\xfffeThe Pokemon starts to sing
-\xf000봂\x0000Return
+To test the microphone,\xfffespeak into the microphone.\xfffeThe Pokémon will let\xfffeyou know if it's OK.
+\xf000봂\x0000Quit
