@@ -1,7 +1,7 @@
 PKMN Trainer
 PKMN Trainer
-たんぱんこぞう
-ミニスカート
+Youngster
+Lass
 じゅくがえり
 じゅくがえり
 テニスプレイヤー
@@ -24,9 +24,9 @@ Leader
 Leader
 PKMN Trainer
 PKMN Trainer
-さぎょういん
-バックパッカー
-バックパッカー
+Worker
+Hiker
+Hiker
 つりびと
 ミュージシャン
 ダンサー
@@ -42,7 +42,7 @@ PKMN Trainer
 おぼっちゃま
 おじょうさま
 パイロット
-さぎょういん
+Worker
 バスケせんしゅ
 けんきゅういん
 プラズマだん
@@ -63,7 +63,7 @@ PKMN Trainer
 ナース
 バッドチーム
 バトルガール
-パラソルおねえさん
+Umberella Lass
 ビジネスマン
 ビジネスマン
 ファンクラブ
