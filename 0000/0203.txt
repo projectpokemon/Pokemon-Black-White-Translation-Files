@@ -110,25 +110,25 @@ The user releases an obscuring cloud of \xfffesmoke or ink. It reduces the foe�
 The foe is exposed to a sinister ray that \xfffetriggers confusion. 
 The user withdraws its body into its hard \xfffeshell, raising its Defense stat. 
 The user curls up to conceal weak spots and \xffferaise its Defense stat. 
-The user throws up a sturdy wall that sharply raises \xfffeits Defense stat. 
-A wondrous wall of light is put up to suppress damage \xfffefrom special attacks for five turns.
-The user creates a haze that eliminates every stat change \xfffeamong all the Pokemon engaged in battle.
-A wondrous wall of light is put up to suppress damage \xfffefrom physical attacks for five turns.
+The user throws up a sturdy wall that \xfffesharply raises its Defense stat. 
+A wondrous wall of light is put up to \xfffesuppress damage from special attacks for five turns.
+The user creates a haze that eliminates \xfffeevery stat change among all the \xfffePokemon engaged in battle.
+A wondrous wall of light is put up to \xfffesuppress damage from physical \xfffeattacks for five turns.
 The user takes a deep breath and focuses \xfffeto raise the critical-hit ratio of its attacks.
-The user endures attacks for two turns, then strikes back \xfffeto cause double the damage taken.
-The user waggles a finger and stimulates the brain into \xffferandomly using nearly any move.
-The user counters the foe by mimicking the move last used by the foe.
-The user blows up to inflict damage on all Pokemon in battle. \xfffeThe user faints upon using this move.
-A large egg is hurled with maximum force at the foe to inflict damage. 
+The user endures attacks for two turns, \xfffethen strikes back to cause double \xfffethe damage taken.
+The user waggles a finger and stimulates the \xfffebrain into randomly using nearly any \xfffemove.
+The user counters the foe by mimicking the \xfffemove last used by the foe.
+The user blows up to inflict damage on all \xfffePokemon in battle. The user faints \xfffeupon using this move.
+A large egg is hurled with maximum force at \xfffethe foe to inflict damage. 
 The foe is licked with a long tongue, causing \xfffedamage. It may also paralyze the target.
-The foe is attacked with a discharge of filthy gases. \xfffeIt may also poison the target.
+The foe is attacked with a discharge of \xfffefilthy gases. It may also poison the target.
 Unsanitary sludge is hurled at the foe. \xfffeIt may also poison the target. 
 The user clubs the foe with a bone. \xfffeIt may also make the target flinch. 
-The foe is attacked with an intense blast of all-consuming fire. \xfffeIt may also leave the target with a burn.
-The user charges at the foe rapidly, and may make it flinch. \xfffeIt can also be used to climb a waterfall.
-The foe is clamped and squeezed by the user’s very thick and \xfffesturdy shell for two to five turns.
+The foe is attacked with an intense blast of \xfffeall-consuming fire. It may also \xfffeleave the target with a burn.
+The user charges at the foe rapidly, and may \xfffemake it flinch. It can also be used \xfffeto climb a waterfall.
+The foe is clamped and squeezed by the \xfffeuser’s very thick and sturdy shell \xfffefor two to five turns.
 Star-shaped rays are shot at the foe. \xfffeThis attack never misses. 
-The user tucks in its head to raise its Defense in the \xfffefirst turn, then rams the foe on the next turn.
+The user tucks in its head to raise its \xfffeDefense in the first turn, then rams \xfffethe foe on the next turn.
 Sharp spikes are fired at the foe to strike two to five times \xfffein rapid succession.
 The foe is attacked with long, creeping tentacles or vines. \xfffeIt may also lower the target’s Speed.
 The user temporarily empties its mind to forget its concerns. \xfffeIt sharply raises the user’s Sp. Def stat.
