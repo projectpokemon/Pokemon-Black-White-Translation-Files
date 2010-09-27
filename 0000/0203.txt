@@ -129,19 +129,19 @@ The user charges at the foe rapidly, and may \xfffemake it flinch. It can also b
 The foe is clamped and squeezed by the \xfffeuser’s very thick and sturdy shell \xfffefor two to five turns.
 Star-shaped rays are shot at the foe. \xfffeThis attack never misses. 
 The user tucks in its head to raise its \xfffeDefense in the first turn, then rams \xfffethe foe on the next turn.
-Sharp spikes are fired at the foe to strike two to five times \xfffein rapid succession.
-The foe is attacked with long, creeping tentacles or vines. \xfffeIt may also lower the target’s Speed.
-The user temporarily empties its mind to forget its concerns. \xfffeIt sharply raises the user’s Sp. Def stat.
-The user distracts the foe by bending a spoon. \xfffeIt may lower the target’s accuracy.
-The user restores its own HP by up to half of its maximum HP. \xfffeIt may also be used to heal an ally’s HP.
-The foe is attacked with a knee kick from a jump. \xfffeIf it misses, the user is hurt instead.
-The user intimidates the foe with the pattern on its belly to cause paralysis. 
-An attack that works only on a sleeping foe. \xfffeIt absorbs half the damage caused to heal the user’s HP.
+Sharp spikes are fired at the foe to \xfffestrike two to five times in rapid \xfffesuccession.
+The foe is attacked with long, creeping \xfffetentacles or vines. It may also \xfffelower the target’s Speed.
+The user temporarily empties its mind to \xfffeforget its concerns. It sharply \xffferaises the user’s Sp. Def stat.
+The user distracts the foe by bending a \xfffespoon. It may lower the target’s \xfffeaccuracy.
+The user restores its own HP by up to half \xfffeof its maximum HP. It may also be \xfffeused to heal an ally’s HP.
+The foe is attacked with a knee kick from a \xfffejump. If it misses, the user is hurt \xfffeinstead.
+The user intimidates the foe with the \xfffepattern on its belly to cause paralysis. 
+An attack that works only on a sleeping foe. \xfffeIt absorbs half the damage caused to heal \xfffethe user’s HP.
 A cloud of poison gas is sprayed in the foe’s face. \xfffeIt may poison the target.
 Round objects are hurled at the foe to \xfffestrike two to five times in a row. 
-A blood-draining attack. The user’s HP is restored \xfffeby half the damage taken by the target.
-With a scary face, the user tries to force a kiss on the foe. \xfffeIf it succeeds, the target falls asleep.
-A second-turn attack move with a high critical-hit ratio. \xfffeIt may also make the target flinch.
+A blood-draining attack. The user’s HP is \xffferestored by half the damage taken by \xfffethe target.
+With a scary face, the user tries to force a \xfffekiss on the foe. If it succeeds, the \xfffetarget falls asleep.
+A second-turn attack move with a high \xfffecritical-hit ratio. It may also make \xfffethe target flinch.
 The user transforms into a copy of the foe right down \xfffeto having the same move set.
 A spray of countless bubbles is jetted at the foe. \xfffeIt may also lower the target’s Speed stat.
 The foe is hit with rhythmically launched punches \xfffethat may also leave it confused. 
