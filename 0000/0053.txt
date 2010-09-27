@@ -535,7 +535,7 @@ A sturdy Capsule that can only be\xfffeopened with a special key.
 A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-Scales that are washed clean\xfffeby the moveing of the sea.\xfffe
+Scales that are washed clean\xfffeby the moving of the sea.\xfffe
 しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
 A odd-feeling stone.\xfffeIt has been filled full\xfffewith magic by a Pokémon.
 ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
