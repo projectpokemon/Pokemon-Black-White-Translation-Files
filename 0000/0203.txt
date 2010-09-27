@@ -207,18 +207,18 @@ The user continually rolls into the foe over \xfffefive turns. It becomes strong
 A restrained attack that prevents the foe \xfffefrom fainting. The target is left \xfffewith at least 1 HP.
 The user enrages the foe into confusion. \xfffeHowever, it also sharply raises the \xfffefoe’s Attack stat.
 The user restores its own HP by up to half \xfffeof its maximum HP. It may also be \xfffeused to heal an ally’s HP.
-The user throws an electrically charged tackle at the foe. \xfffeIt may also leave the target paralyzed.
+The user throws an electrically charged \xfffetackle at the foe. It may also leave \xfffethe target paralyzed.
 The foe is slashed with scythes or claws. \xfffeIts power increases if it hits in succession.
 The foe is hit with wings of steel. \xfffeIt may also raise the user’s Defense stat. 
-The user affixes the foe with a dark, arresting look. \xfffeThe target becomes unable to flee.
-If it is the opposite gender of the user, the foe becomes \xfffeinfatuated and less likely to attack.
-While it is asleep, the user randomly uses one of the moves it knows. 
+The user affixes the foe with a dark, \xfffearresting look. The target becomes \xfffeunable to flee.
+If it is the opposite gender of the user, \xfffethe foe becomes infatuated and less \xfffelikely to attack.
+While it is asleep, the user randomly uses \xfffeone of the moves it knows. 
 The user makes a soothing bell chime to heal the status \xfffeproblems of all the party Pokemon.
-A full-power attack that grows more powerful the more the user likes its Trainer.
-The user attacks by giving the foe a booby-trapped gift. \xfffeIt restores HP sometimes, however.
-A full-power attack that grows more powerful the less the user likes its Trainer.
-The user creates a protective field that prevents status problems for five turns.
-The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.
+A full-power attack that grows more \xfffepowerful the more the user likes its Trainer.
+The user attacks by giving the foe a \xfffebooby-trapped gift. It restores HP \xfffesometimes, however.
+A full-power attack that grows more \xfffepowerful the less the user likes its Trainer.
+The user creates a protective field that \xfffeprevents status problems for five turns.
+The user adds its HP to the foe’s HP, \xfffethen equally shares the combined HP \xfffewith the foe.
 The foe is razed with a mystical fire of great intensity. \xfffeIt may also leave the target with a burn.
 The user looses a ground-shaking quake affecting everyone in battle. \xfffeIts power varies.
 The foe is punched with the user’s full, concentrated power. \xfffeIt confuses the foe if it hits.
@@ -347,8 +347,8 @@ The user scatters curious leaves that chase \xfffethe foe. This attack will not 
 The user soaks itself with water. The move weakens Fire-type moves \xfffewhile the user is in the battle.
 The user quietly focuses its mind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
 The foe is slashed with a sharp leaf. \xfffeIt has a high critical-hit ratio. 
-The user vigorously performs a \xfffemystic, powerful dance that boosts its Attack and Speed stats.
-The user hurls hard rocks at the foe. \xfffeTwo to five rocks are launched in quick succession.
+The user vigorously performs a \xfffemystic, powerful dance that boosts its \xfffeAttack and Speed stats.
+The user hurls hard rocks at the foe. \xfffeTwo to five rocks are launched in quick \xfffesuccession.
 The user strikes the foe with a quick jolt \xfffeof electricity. This attack cannot be evaded.
 The user attacks the foe with a pulsing \xfffeblast of water. It may also confuse the foe.
 Two turns after this move is used, the user blasts the foe with a \xfffeconcentrated bundle of light.
@@ -439,7 +439,7 @@ A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the
 The user violently whirls its vines or tentacles to harshly lash the foe. 
 The user launches a huge boulder at the foe to attack. \xfffeIt must rest on the next turn, however.
 A slashing attack that may also leave the target poisoned. \xfffeIt has a high critical-hit ratio.
-The user shoots filthy garbage at the foe to attack. \xfffeIt may also poison the target.
+The user shoots filthy garbage at the foe \xfffeto attack. It may also poison the \xfffetarget.
 The foe slams the target with its steel-hard \xfffehead. It may also make the target flinch.
 The user launches a steel bomb that sticks \xfffeto the target. This attack will not miss.
 The user stabs the foe with a sharpened \xfffestone. It has a high critical-hit ratio. 
