@@ -145,7 +145,7 @@ A second-turn attack move with a high \xfffecritical-hit ratio. It may also make
 The user transforms into a copy of the foe \xffferight down to having the same move \xfffeset.
 A spray of countless bubbles is jetted at \xfffethe foe. It may also lower the \xfffetarget’s Speed stat.
 The foe is hit with rhythmically launched \xfffepunches that may also leave it \xfffeconfused. 
-The user scatters bursts of spores that induce sleep.  
+The user scatters bursts of spores that \xfffeinduce sleep.  
 The user flashes a light that cuts the foe’s accuracy. \xfffeIt can also be used to illuminate caves.
 The foe is attacked with an odd, hot energy \xfffewave. The attack varies in intensity.
 The user just flops and splashes around to no effect at all...  
