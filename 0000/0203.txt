@@ -440,11 +440,11 @@ The user violently whirls its vines or tentacles to harshly lash the foe.
 The user launches a huge boulder at the foe to attack. \xfffeIt must rest on the next turn, however.
 A slashing attack that may also leave the target poisoned. \xfffeIt has a high critical-hit ratio.
 The user shoots filthy garbage at the foe to attack. \xfffeIt may also poison the target.
-The foe slams the target with its steel-hard head. \xfffeIt may also make the target flinch.
-The user launches a steel bomb that sticks to the target. \xfffeThis attack will not miss.
-The user stabs the foe with a sharpened stone. \xfffeIt has a high critical-hit ratio. 
-If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.
-The user lays a trap of levitating stones around the foe. \xfffeThe trap hurts foes that switch into battle.
+The foe slams the target with its steel-hard \xfffehead. It may also make the target flinch.
+The user launches a steel bomb that sticks \xfffeto the target. This attack will not miss.
+The user stabs the foe with a sharpened \xfffestone. It has a high critical-hit ratio. 
+If it is the opposite gender of the user, the \xfffefoe is charmed into sharply lowering \xfffeits Sp. Atk stat.
+The user lays a trap of levitating stones \xfffearound the foe. The trap hurts foes \xfffethat switch into battle.
 The user snares the foe with grass and trips it. \xfffeThe heavier the foe, the greater the damage.
 The user attacks using a sound wave based on words it has learned. \xfffeIt may also confuse the foe.
 The user releases countless shots of light. \xfffeIts type varies with the kind of Plate the user is holding.
