@@ -1,5 +1,5 @@
-どうぐ
-かいふく
-わざマシン
-きのみ
-たいせつなもの
+Items
+Medicine
+TMs and HMs
+Berrys
+Key Items

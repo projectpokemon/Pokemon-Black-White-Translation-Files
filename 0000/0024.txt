@@ -8,7 +8,7 @@
 Yes
 No
 もどる
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
+Would you like to record your\xfffeactivity up to this point?
 セーブしています\xfffeしばらく　おまちください
 Ｃギア　キャッチ
 あり
