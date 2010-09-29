@@ -127,8 +127,8 @@ Take
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
+Not Entered
 Banned
-Not entered
 First
 Second
 Third
