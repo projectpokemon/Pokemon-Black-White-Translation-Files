@@ -545,9 +545,9 @@ It charges at the opponent with a great \xfffeafro’d head. It deals recoil dam
 It throws a steel gear at the opponent. \xfffeIt deals damage twice in a row.
 It attacks all around it with a crimson flame. \xfffeIt may cause a burn.
 It shoots a Photon Blaster at the opponent. \xfffeThe type of the move varies depending on the \xfffeheld Cassette.
-It makes the opponent listen to an ancient \xfffesong and appeals to its heart. It may \xffecause the opponent to sleep.
+It makes the opponent listen to an ancient \xfffesong and appeals to its heart. It may \xfffecause the opponent to sleep.
 It slashes at the opponent with its long \xfffehorn. The mysterious power of the horn deals \xfffephysical damage.
-It blows a cold chill like being frozen over \xffethe opponent. The opponents speed is lowered.
+It blows a cold chill like being frozen over \xfffethe opponent. The opponents speed is lowered.
 It covers itself in extensive amounts of \xfffeelectricity and charges at the opponent. \xfffeIt may cause paralysis.
 It surrounds the opponent in a beautiful \xfffeand violent blue flame. It may cause a burn.
 It covers its wings in fire and flaps them. \xfffeIt raises your Special Attack.
