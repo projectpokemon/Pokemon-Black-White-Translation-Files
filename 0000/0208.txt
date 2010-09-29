@@ -241,11 +241,11 @@ Lv. 91-100
 ロ
 ワ
 　
-ＧＴＳ
-ＧＴＳ\xfffeTrade Pokémon
-ＧＴＳ\xfffeSummary
-ＧＴＳ\xfffeDeposit Pokémon
-ＧＴＳ\xfffeSeek Pokémon
+GTS
+GTS\xfffeTrade Pokémon
+GTS\xfffeSummary
+GTS\xfffeDeposit Pokémon
+GTS\xfffeSeek Pokémon
 Cancel
 \xf000Ȁ\x0001\x0000
 /

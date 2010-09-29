@@ -572,7 +572,7 @@ An item to be held by a Pokémon.\xfffeポケモン　１ひきの　すばや�
 きれいなだけで　なんの　こうかもない\xfffeごくごく　ふつうの　ハネ。\xfffe
 おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　らしい。
 とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
-A ticket needed to get\xfffeto Liberty Garden Route.\xfffeBoat location: Hiun City.
+A ticket needed to get\xfffeto Liberty Garden Island.\xfffeBoat location: Hiun City.
 デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
 ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　ポケモンも　つかまえられる。
 ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。

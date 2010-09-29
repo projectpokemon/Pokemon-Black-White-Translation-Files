@@ -367,9 +367,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeflinched and couldn't move!
 \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
 The wild \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
 The foe's \xf000Ă\x0001\x0000can't concentrate \xfffeand won't listen!
-\xf000Ă\x0001\x0000's \xfffeillusion wore off!
-The wild \xf000Ă\x0001\x0000's \xfffeillusion wore off!
-The foe's \xf000Ă\x0001\x0000 \xfffeillusion wore off!
+\xf000Ă\x0001\x0000's \xfffeidentified the opponent!
+The wild \xf000Ă\x0001\x0000's \xfffeidentified the opponent!
+The foe's \xf000Ă\x0001\x0000 \xfffeidentified the opponent!
 \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 took damage \xfffefrom \xf000ć\x0001\x0001!
