@@ -1,23 +1,23 @@
-なし
-ブレーキンゲ
-ダーラナ
-イェヴレボリ
-ゴットランド
-ハランド
-イェムトランド
-ヨンショーピング
-カルマル
-クロノベリ
-ノルボッテン
-エーランド
-エーレブルー
-エステルイェートランド
-スコーネ
-セーデルマンランド
-ストックホルム
-ウプサラ
-ベームランド
-ベステルポッテン
-ヴェステルノールランド
-ベストマンランド
-ヴェストラ・イェータランド
+None
+Angermanland
+Blekinge
+Bohuslan
+Dalarna
+Dalsland
+Gastrikland
+Gotland
+Halland
+Halsingland
+Jamtland
+North Lapland
+South Lapland
+Medelpad
+Narke
+Norrbotten
+Oland
+Ostergotland / Vastergotland
+Skane
+Smaland
+Sodermanland
+Uppland
+Varmland
