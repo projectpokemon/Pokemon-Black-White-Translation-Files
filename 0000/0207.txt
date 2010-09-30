@@ -1,17 +1,17 @@
-ハイテク　ちきゅうぎ\xfffeジオネット　へ　ようこそ！\xf000븁\x0000
-なにを　しますか？
-ここでは　あなたが　じっさいに\xfffeすんでいる　ばしょを\xf000븀\x0000とうろく　することが　できます\xf000븁\x0000あなたが　とうろくした　ばしょは\xfffeＤＳワイヤレスつうしん　や\xf000븀\x0000Ｗｉ－Ｆｉコネクション　で\xf000븀\x0000ともだちや　しらない　だれかに\xf000븀\x0000おくられる　ことが　あります\xf000븁\x0000あなたが　すんでいる　ばしょを\xfffeとうろく　しますか？
-あなたが　すんでいる　ばしょを\xfffeえらんでください
-あなたが　すんでいる　ちいきを\xfffeえらんでください
-すんでいる　ばしょを\xfffeいちど　とうろく　すると\xf000븀\x0000へんこう　することは　できません\xf000븁\x0000ほんとうに　この　ばしょを\xfffeとうろく　しますか？
+Welcome to Geonet,\xfffethe high-tech globe!\xf000븁\x0000
+What would you like to do?
+Here, you may register the location\xfffeof where you live.\xf000븀\x0000That information may be provided to\xf000븁\x0000friends and strangers through\xfffeDS Wireless Communications or over\xf000븀\x0000Nintendo WFC.\xf000븀\x0000\xf000븀\x0000\xf000븁\x0000あなたWould you like to register your\xfffehome’s location area?
+Please select the location in which\xfffeyou live.
+Please select the area in which\xfffeyou live.
+Once registered, you may not change\xfffeyour registered location data.\xf000븀\x0000Should this location be registered\xf000븁\x0000ほ\xfffeas where you live?
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 Yes
 No
-いちらんを　みる
-とうろくを　する
+See List
+Register
 Quit
-\xf000ȅ\x0000みる
-あなたが　とうろくした　ばしょ\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-ポイントのうえで　Ｘボタンを　おすと\xfffeちめいを　ひょうじ　します
-\xf000ȅ\x0000やめる
+\xf000ȅ\x0000View
+Your registered location:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+To display registered locations, line up\xfffethe cursor, and press the X Button.
+\xf000ȅ\x0000Quit
