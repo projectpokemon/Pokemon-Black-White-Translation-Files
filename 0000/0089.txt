@@ -8,7 +8,7 @@ Sanyou Town
 Shippou City
 Hiun City
 Raimon City
-Hobomoe City
+Hodomoe City
 Fukiyose City
 Sekka City
 Souryuu City
@@ -38,11 +38,11 @@ Cold Storage
 Thunder Stone Cave
 Mt. Neji
 Ryuurasen Tower
-Champion Road
+Victory Road
 Kagome Town
 Sazanami Town
 Kanawa Town
-Pokemon League
+Pokémon League
 N's Castle
 Royal Isshu Route
 Gear Station
@@ -59,11 +59,11 @@ Sekka Wetlands
 Shopping Mall
 Discipline Cavern
 Shift Factory
-Giant Hall
+Great Hall
 Liberty Garden Route
 P2 Laboratory
 Sky Arrow Bridge
-Hobomoe Drawbridge
+Hodomoe Drawbridge
 Cylinder Bridge
 Village Bridge
 Wonder Bridge
@@ -75,7 +75,7 @@ Cellar of Trials
 Room of Conduct
 High Link Forest
 Raimon City
-Hobomoe City
+Hodomoe City
 Fukiyose City
 Sekka City
 Souryuu City
@@ -86,7 +86,7 @@ Cold Storage
 Thunder Stone Cave
 Mt. Neji
 Ryuurasen Tower
-Giant Hall
+Great Hall
 Hobomoe Drawbridge
 Cylinder Bridge
 Village Bridge
