@@ -3,7 +3,7 @@ PKMN Trainer
 Youngster
 Lass
 School Boy
-School Boy
+School Girl
 Tennis Player
 Foot-Baller
 Waiter
@@ -32,7 +32,7 @@ Musician
 Dancer
 Clown
 Artist
-Bakery
+Baker
 Psychic
 Psychic
 Pokemon Trainer

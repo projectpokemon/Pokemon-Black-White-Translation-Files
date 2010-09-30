@@ -41,5 +41,5 @@ Transfer Machine　きどうちゅう！\xfffeしばらく　おまちくださ�
 てんそうできる　ものが　\xfffeありませんでした\xf000븁\x0000
 ただしいソフトが　\xfffeセットされていません\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
 てんそうマシンを　ちゅうししますか？
-DS Wireless Connection\xfffetransmitting
+Initialize\xfffeDS Wireless Connection?
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000てんそうマシンを　しゅうりょうします\xf000븁\x0000

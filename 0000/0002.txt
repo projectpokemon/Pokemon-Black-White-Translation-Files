@@ -39,7 +39,7 @@ To Next Level
 HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
+/
 Attack
 \xf000Ȃ\x0001\x0000
 Defense

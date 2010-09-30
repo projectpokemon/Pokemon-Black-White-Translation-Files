@@ -1,6 +1,6 @@
 Mailbox
 \xf000Ȁ\x0001\x0000
-／
+/
 Cancel
 Close
 Read
