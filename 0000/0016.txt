@@ -328,7 +328,7 @@ The foe's \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 \xf000Ă\x0001\x0000 \xfffefell in love!
 The wild \xf000Ă\x0001\x0000 \xfffefell in love!
 The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
-\xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to \xfffebecome infatuated!  
+\xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the wild \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the foe's \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
@@ -379,9 +379,9 @@ The foe's \xf000Ă\x0001\x0000 has broken free \xfffefrom \xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
 The wild \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
 The foe's \xf000Ă\x0001\x0000 \xfffewas hit with recoil!
-\xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
-The wild \xf000Ă\x0001\x0000's  \xfffe\xf000Ć\x0001\x0001 was traced!
-The foe's \xf000Ă\x0001\x0000  \xfffe\xf000Ć\x0001\x0001 was traced!
+\xf000Ă\x0001\x0000's \xfffe\xf000Ć\x0001\x0001 was traced!
+The wild \xf000Ă\x0001\x0000's \xfffe\xf000Ć\x0001\x0001 was traced!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ć\x0001\x0001 was traced!
 \xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
 The wild \xf000Ă\x0001\x0000's \xfffeattack was a critical hit!
 The foe's \xf000Ă\x0001\x0000 \xfffeattack was a critical hit!
@@ -412,9 +412,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis using a balloon to float!
 \xf000Ă\x0001\x0000's \xfffeballoon popped!
 The wild \xf000Ă\x0001\x0000's \xfffeballoon popped!
 The foe's \xf000Ă\x0001\x0000 \xfffeballoon popped!
-\xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-The wild \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffeだっしゅつボタンで　もどっていく！
+\xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
+The wild \xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
+The foe's \xf000Ă\x0001\x0000 \xfffereturned by using Escape Button!
 \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
 \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた！
 \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた！
@@ -422,123 +422,123 @@ The wild \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x00
 The wild \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe wild \xf000Ă\x0001\x0001に　たたきつけた！
 The foe's \xf000Ă\x0001\x0000は　レッドカードを\xfffe\xf000Ă\x0001\x0001に　たたきつけた！
 The foe's \xf000Ă\x0001\x0000は　レッドカードを\xfffeThe foe's \xf000Ă\x0001\x0001に　たたきつけた！
-\xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-The wild \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeゴツゴツメットで　ダメージを　うけた！
-\xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-The wild \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeほのおの　いりょくが　あがった！
-\xf000Ă\x0001\x0000 \xfffeきずついた！
-The wild \xf000Ă\x0001\x0000 \xfffeきずついた！
-The foe's \xf000Ă\x0001\x0000 \xfffeきずついた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001　を　よみとった！
+\xf000Ă\x0001\x0000 \xfffe's fire burns hotter!
+The wild \xf000Ă\x0001\x0000 \xfffe's fire burns hotter!
+The foe's \xf000Ă\x0001\x0000 \xfffe's fire burns hotter!
+\xf000Ă\x0001\x0000 \xfffeis hurt!
+The wild \xf000Ă\x0001\x0000 \xfffeis hurt!
+The foe's \xf000Ă\x0001\x0000 \xfffeis hurt!
+\xf000Ă\x0001\x0000 \xfffewas scanned!
+The wild \xf000Ă\x0001\x0000 \xfffewas scanned!
+The foe's \xf000Ă\x0001\x0000 \xfffewas scanned!
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 shivered!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 shivered!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 shivered!
 \xf000Ă\x0001\x0000 \xfffeみぶるいした！
 The wild \xf000Ă\x0001\x0000 \xfffeみぶるいした！
 The foe's \xf000Ă\x0001\x0000 \xfffeみぶるいした！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　を　おみとおしだ！
-\xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-The wild \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-The foe's \xf000Ă\x0001\x0000 \xfffeかたやぶりだ！
-\xf000Ă\x0001\x0000 \xfffeなまけている
-The wild \xf000Ă\x0001\x0000 \xfffeなまけている
-The foe's \xf000Ă\x0001\x0000 \xfffeなまけている
-\xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきを　ひきよせた！
-\xf000Ă\x0001\x0000は　ねむらない！
-The wild \xf000Ă\x0001\x0000は　ねむらない！
-The foe's \xf000Ă\x0001\x0000は　ねむらない！
-\xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-The wild \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-The foe's \xf000Ă\x0001\x0000 \xfffeきゅうばんで　はりついている！
-\xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-The wild \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeヘドロえきを　すいとった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばった！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
+\xf000Ă\x0001\x0000 \xfffe is being lazy.
+The wild \xf000Ă\x0001\x0000 \xfffe is being lazy.
+The foe's \xf000Ă\x0001\x0000 \xfffe is being lazy.
+\xf000Ă\x0001\x0000 \xfffe increased their attack!
+The wild \xf000Ă\x0001\x0000 \xfffe increased their attack!
+The foe's \xf000Ă\x0001\x0000 \xfffe increased their attack!
+\xf000Ă\x0001\x0000 \xfffe can't sleep!
+The wild \xf000Ă\x0001\x0000 \xfffe can't sleep!
+The foe's \xf000Ă\x0001\x0000 \xfffe can't sleep!
+\xf000Ă\x0001\x0000is clinging with suction cups!
+The wild \xf000Ă\x0001\x0000is clinging with suction cups!
+The foe's \xf000Ă\x0001\x0000is clinging with suction cups!
+\xf000Ă\x0001\x0000 \xfffe sucked up sludge!
+The wild \xf000Ă\x0001\x0000 \xfffe sucked up sludge!
+The foe's \xf000Ă\x0001\x0000 \xfffe sucked up sludge!
+\xf000Ă\x0001\x0000 \xfffe was stolen!
+The wild \xf000Ă\x0001\x0000 \xfffe was stolen!
+The foe's \xf000Ă\x0001\x0000 \xfffe was stolen!
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
 \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
 The wild \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
 The foe's \xf000Ă\x0001\x0000 \xfffeとくせいが　ミイラになっちゃった！
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえした！
+\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 won't take a hit from a friend!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 won't take a hit from a friend!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001 won't take a hit from a friend!
 \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
 The wild \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
 The foe's \xf000Ă\x0001\x0000 \xfffeみかたからの　こうげきを　うけない！
 \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
 The wild \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
 The foe's \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　しゅうかくした！
-\xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeイリュージョンが　とけた！
-\xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきが　さいだいまで　あがった！
-\xf000Ă\x0001\x0000 \xfffeうなされている！
-The wild \xf000Ă\x0001\x0000 \xfffeうなされている！
-The foe's \xf000Ă\x0001\x0000 \xfffeうなされている！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's illusion wore off!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's illusion wore off!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's illusion wore off!
+\xf000Ă\x0001\x0000 \xfffe raised their attack to its max!
+The wild \xf000Ă\x0001\x0000 \xfffe raised their attack to its max!
+The foe's \xf000Ă\x0001\x0000 \xfffe raised their attack to its max!
+\xf000Ă\x0001\x0000 \xfffeis having a nightmare!
+The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
+The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
+\xf000Ă\x0001\x0000 \xfffeis relieving some pressure!
+The wild \xf000Ă\x0001\x0000 \xfffeis relieving some pressure!
+The foe's \xf000Ă\x0001\x0000 \xfffeis relieving some pressure!
 \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
 The wild \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
 The foe's \xf000Ă\x0001\x0000 \xfffeプレッシャーを　はなっている！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-\xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-The wild \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-The foe's \xf000Ă\x0001\x0000 \xfffeどうぐを　うばえない！
-\xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうしが　あがらない！
-\xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうしを　とりもどした！
-\xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-The wild \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeはじける　オーラを　はなっている！
-\xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-The wild \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-The foe's \xf000Ă\x0001\x0000 \xfffeもえさかる　オーラを　はなっている！
-\xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-The wild \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-The foe's \xf000Ă\x0001\x0000 \xfffeおたがいの　とくせいを　いれかえた！
-\xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-The wild \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこらえる　たいせいに　はいった！
-\xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきを　こらえた！
-\xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-The wild \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-The foe's \xf000Ă\x0001\x0000 \xfffeまもりの　たいせいに　はいった！
-\xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-The wild \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-The foe's \xf000Ă\x0001\x0000 \xfffeまもりを　うちやぶった！
-\xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-The wild \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-The foe's \xf000Ă\x0001\x0000 \xfffeこうげきから　みを　まもった！
-\xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-The wild \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-The foe's \xf000Ă\x0001\x0000 \xfffeフェイントに　ひっかかった！
-\xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-The wild \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-The foe's \xf000Ă\x0001\x0000 \xfffeそらたかく　とびあがった！
-\xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-The wild \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffeいかりのボルテージが　あがっていく！
-\xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-The wild \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeすいちゅうに　みをひそめた！
-\xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-The wild \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
-The foe's \xf000Ă\x0001\x0000 \xfffeじめんに　もぐった！
+\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's tools can't be stolen!
+The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's tools can't be stolen!
+The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's tools can't be stolen!
+\xf000Ă\x0001\x0000 \xfffecontinues to feel bad!
+The wild \xf000Ă\x0001\x0000 \xfffecontinues to feel bad!
+The foe's \xf000Ă\x0001\x0000 \xfffecontinues to feel bad!
+\xf000Ă\x0001\x0000 \xfffefeels better!
+The wild \xf000Ă\x0001\x0000 \xfffefeels better!
+The foe's \xf000Ă\x0001\x0000 \xfffefeels better!
+\xf000Ă\x0001\x0000 \xfffeis giving off a bursting aura!
+The wild \xf000Ă\x0001\x0000 \xfffeis giving off a bursting aura!
+The foe's \xf000Ă\x0001\x0000 \xfffeis giving off a bursting aura!
+\xf000Ă\x0001\x0000 \xfffeis giving off a blazing aura!
+The wild \xf000Ă\x0001\x0000 \xfffeis giving off a blazing aura!
+The foe's \xf000Ă\x0001\x0000 \xfffeis giving off a blazing aura!
+\xf000Ă\x0001\x0000 \xfffeswitched each other's special characteristics!
+The wild \xf000Ă\x0001\x0000 \xfffeswitched each other's special characteristics!
+The foe's \xf000Ă\x0001\x0000 \xfffeswitched each other's special characteristics!
+\xf000Ă\x0001\x0000 \xfffegot into a surpressive stance!
+The wild \xf000Ă\x0001\x0000 \xfffegot into a surpressive stance!
+The foe's \xf000Ă\x0001\x0000 \xfffegot into a surpressive stance!
+\xf000Ă\x0001\x0000 \xfffetook a hit!
+The wild \xf000Ă\x0001\x0000 \xfffetook a hit!
+The foe's \xf000Ă\x0001\x0000 \xfffetook a hit!
+\xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
+The wild \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
+The foe's \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
+\xf000Ă\x0001\x0000 \xfffe's defense was broken!
+The wild \xf000Ă\x0001\x0000 \xfffe's defense was broken!
+The foe's \xf000Ă\x0001\x0000 \xfffe's defense was broken!
+\xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
+The wild \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
+The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
+\xf000Ă\x0001\x0000 \xfffefell for the feint!
+The wild \xf000Ă\x0001\x0000 \xfffefell for the feint!
+The foe's \xf000Ă\x0001\x0000 \xfffefell for the feint!
+\xf000Ă\x0001\x0000 \xfffeflew high into the air!
+The wild \xf000Ă\x0001\x0000 \xfffeflew high into the air!
+The foe's \xf000Ă\x0001\x0000 \xfffeflew high into the air!
+\xf000Ă\x0001\x0000 \xfffe's anger has begun to rise!
+The wild \xf000Ă\x0001\x0000 \xfffe's anger has begun to rise!
+The foe's \xf000Ă\x0001\x0000 \xfffe's anger has begun to rise!
+\xf000Ă\x0001\x0000 \xfffeDived into the water!
+The wild \xf000Ă\x0001\x0000 \xfffeDived into the water!
+The foe's \xf000Ă\x0001\x0000 \xfffeDived into the water!
+\xf000Ă\x0001\x0000 \xfffehid itself in the ground!
+The wild \xf000Ă\x0001\x0000 \xfffehid itself in the ground!
+The foe's \xf000Ă\x0001\x0000 \xfffehid itself in the ground!
+\xf000Ă\x0001\x0000 \xfffevanished in a blink of an eye!
+The wild \xf000Ă\x0001\x0000 \xfffevanished in a blink of an eye!
+The foe's \xf000Ă\x0001\x0000 \xfffevanished in a blink of an eye!
 \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
 The wild \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
 The foe's \xf000Ă\x0001\x0000 すがたが\xfffeいっしゅんにして　きえた！
@@ -551,39 +551,39 @@ The foe's \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをま�
 \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
 The wild \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
 The foe's \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-\xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-The wild \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-The foe's \xf000Ă\x0001\x0000 \xfffeひかりを　きゅうしゅうした！
-\xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-The wild \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-The foe's \xf000Ă\x0001\x0000 \xfffeくびを　ひっこめた！
-\xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-The wild \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeアンコールをうけた！
-\xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeアンコールじょうたいが　とけた！
-\xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-The wild \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
-The foe's \xf000Ă\x0001\x0000 \xfffeとくせいが　きかなくなった！
+\xf000Ă\x0001\x0000 \xfffe tucked in its head!
+The wild \xf000Ă\x0001\x0000 \xfffe tucked in its head!
+The foe's \xf000Ă\x0001\x0000 \xfffe tucked in its head!
+\xf000Ă\x0001\x0000 \xfffe received an encore!
+The wild \xf000Ă\x0001\x0000 \xfffe received an encore!
+The foe's \xf000Ă\x0001\x0000 \xfffe received an encore!
+\xf000Ă\x0001\x0000 \xfffe's the encore has died down!
+The wild \xf000Ă\x0001\x0000 \xfffe's the encore has died down!
+The foe's \xf000Ă\x0001\x0000 \xfffe's the encore has died down!
+\xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
+The wild \xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
+The foe's \xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
+\xf000Ă\x0001\x0000 \xfffefell for the taunt!
+The wild \xf000Ă\x0001\x0000 \xfffefell for the taunt!
+The foe's \xf000Ă\x0001\x0000 \xfffefell for the taunt!
 \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
 The wild \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
 The foe's \xf000Ă\x0001\x0000 \xfffeちょうはつに　のってしまった！
 \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
 The wild \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
 The foe's \xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-The wild \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeちょうはつの　こうかが　とけた！
+\xf000Ă\x0001\x0000 \xfffehas been tormented!
+The wild \xf000Ă\x0001\x0000 \xfffehas been tormented!
+The foe's \xf000Ă\x0001\x0000 \xfffehas been tormented!
 \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
 The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
 The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられた！
 \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
 The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
 The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんを　つけられたので\xf000븀\x0000つづけて　おなじ　わざが　だせない！
-\xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-The wild \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
-The foe's \xf000Ă\x0001\x0000 \xfffeいちゃもんの　こうかが　きれた！
+\xf000Ă\x0001\x0000 \xfffehas sealed their opponent's move!
+The wild \xf000Ă\x0001\x0000 \xfffehas sealed their opponent's move!
+The foe's \xf000Ă\x0001\x0000 \xfffehas sealed their opponent's move!
 \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
 The wild \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's わざを　ふういんした！
