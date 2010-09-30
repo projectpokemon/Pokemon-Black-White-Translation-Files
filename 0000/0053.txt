@@ -551,7 +551,7 @@ A refreshing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Water-type moves.
 A static, shocking gem.\xfffeIf held by a Pokémon,\xfffeit boosts Electric-type moves.
 A green, soft gem.\xfffeIf held by a Pokémon,\xfffeit boosts Grass-type moves.
 A ice-cold gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ice-type moves.
-A though gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fight-type moves.
+A tough gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fight-type moves.
 A poisoned gem.\xfffeIf held by a Pokémon,\xfffeit boosts Poison-type moves.
 A dirty mud gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ground-type moves.
 A light gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fly-type moves.
