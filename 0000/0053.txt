@@ -114,10 +114,10 @@ A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- a
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeみずタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeでんきタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeほのおタイプになる　カセット。
-ゲノセクトに　もたせると\xfffeテクノバスターという　わざが\xfffeこおりタイプになる　カセット。
+A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffea Water-type.
+A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Electric-type.
+A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffea Fire-type.
+A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Ice-type. 
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
@@ -326,107 +326,107 @@ A transparent device overflowing with\xfffedubious data.\xfffeIts producer is un
 A cloth imbued with horrifyingly strong\xfffespiritual energy.\xfffeIt is loved by a certain Pokémon.
 An item to be held by a Pokémon.\xfffeIt is a sharply hooked claw that ups\xfffethe holder’s critical-hit ratio.
 An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffethe holder inflicts damage.
-つめを　みがいて　するどく　する。\xfffeじぶんの　こうげきと　\xfffeめいちゅうりつを　あげる。
-するどく　とがった　きょだいな\xfffeツメで　ひっかいて　こうげきする。\xfffe
-ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメージを　あたえる。
-しずかに　せいしんを　とういつして\xfffeこころを　しずめることで　じぶんの\xfffeとくこうと　とくぼうを　あげる。
-あいてを　にがして　ひかえポケモンを\xfffeひきずりだす。　やせいポケモンなら\xfffeせんとうは　おわる。
-もうどくの　じょうたいに　する。\xfffeターンすうが　すすむほど　どくの\xfffeダメージりょうは　ふえる。
-５ターンの　あいだ　あられを\xfffeふらして　こおりタイプ　いがいの\xfffeポケモンに　ダメージを　あたえる。
-ちからを　こめて　きんにくを\xfffeあつくする　ことで　じぶんの\xfffeこうげきと　ぼうぎょを　あげる。
-とくしゅな　どくえきを　あびせる。\xfffeどく　じょうたいの　あいてには\xfffeいりょくが　２ばいに　なる。
-おぼえる　ポケモンの　かくされた\xfffeのうりょくで　わざの　タイプと\xfffeいりょくが　かわる。
-５ターンの　あいだ　ひざしを\xfffeつよくして　ほのおタイプの\xfffeわざの　いりょくを　あげる。
-あいてを　おこらせる。３ターンの\xfffeあいだ　あいては　ダメージを\xfffeあたえる　わざしか　だせなくなる。
-れいきの　ビームを　はっしゃして\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-はげしい　ふぶきを　ぶつけて\xfffeこうげきする。　あいてを　こおりの\xfffeじょうたいに　することが　ある。
-つよい　こうせんを　はっしゃする。\xfffeつかった　つぎのターンは　はんどうで\xfffeうごけなくなる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　とくしゅわざの\xfffeダメージを　よわめる。
-こうげきを　まったく　うけない。\xfffeわざを　れんぞくで　だすと\xfffeしっぱい　しやすくなる。
-５ターンの　あいだ　あめを　ふらして\xfffeみずタイプの　わざの　いりょくを\xfffeあげる。
-あいてを　うかせて　３ターンの\xfffeあいだ　こうげきが　あいてに\xfffeあたりやすくなる。
-５ターンの　あいだ\xfffeふしぎな　ちからに　まもられて\xfffeじょうたい　いじょうに　ならなくなる。
-ふまんを　はらすために　ぜんりょくで\xfffeこうげきする。　なついて　いないほど\xfffeいりょくは　あがる。
-１ターンめに　ひかりを　あつめて\xfffe２ターンめに　ひかりの　こうせんを\xfffeはっしゃして　こうげきする。
-いしや　たまを　なげて　とんでいる\xfffeあいてを　こうげきする。あいては\xfffeうちおとされて　じめんに　おちる。
-つよい　でんげきを　あびせて\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-はげしい　かみなりを　おとして\xfffeこうげきする。　あいてを　まひの\xfffeじょうたいに　することが　ある。
-じぶんの　まわりの　ポケモンに\xfffeじしんの　しょうげきを　あたえて\xfffeこうげきする。
-トレーナーのために　ぜんりょくで\xfffeこうげきする。　なついて　いるほど\xfffeいりょくは　あがる。
-１ターンめに　もぐり　２ターンめで\xfffeこうげきする。　どうくつで　つかうと\xfffeそとに　だっしゅつ　できる。
-つよい　ねんりきを　おくって\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-くろいかげの　かたまりを　なげて\xfffeこうげきする。　あいての　とくぼうを\xfffeさげることが　ある。
-こぶしなどで　こうげきする。\xfffeひかりのかべや　リフレクターも\xfffeはかいできる。
-すばやい　うごきで　ぶんしんを\xfffeつくる。　あいてを　まどわせることで\xfffeかいひりつを　あげる。
-５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　ぶつりわざの\xfffeダメージを　よわめる。
-ヘドロの　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeどくに　することが　ある。
-はげしい　ほのおを　はっしゃして\xfffeこうげきする。　あいてを　やけどの\xfffeじょうたいに　することが　ある。
-きたない　ヘドロを　なげつける。\xfffeあいてを　どくの　じょうたいに\xfffeすることが　ある。
-５ターンの　あいだ　すなあらしで\xfffeじめん　いわ　はがね　タイプいがいに\xfffeダメージを　あたえる。
-だいのじの　ほのおで　あいてを\xfffeやきつくす。　やけどの　じょうたいに\xfffeすることが　ある。
-いわを　なげつけ　こうげきする。\xfffeおちた　いわが　うごきを　ふうじて\xfffeあいての　すばやさを　さげる。
-すばやい　うごきで　ほんろうする。\xfffeこうげきは　かならず　あいてに\xfffeめいちゅうする。
-いちゃもんを　つけて　おなじわざを\xfffeれんぞくで　だせない　ようにする。\xfffe
-どく　まひ　やけど　のじょうたいで\xfffeわざを　だすと　２ばいの　いりょくで\xfffeこうげき　できる。
-ほのおを　まとい　あいてを\xfffeこうげきする。じぶんの\xfffeすばやさを　あげることが　ある。
-２ターンの　あいだ　ねむりつづける。\xfffeＨＰと　からだの　いじょうを\xfffeすべて　かいふくする。
-♂なら♀を　♀なら♂を　ゆうわくして\xfffeメロメロにする。　メロメロに　なった\xfffeあいては　わざが　だしにくくなる。
-こうげきと　どうじに　もちものを\xfffeぬすむ。　じぶんに　もちものが\xfffeあると　しっぱいする。
-すばやい　うごきで　あいての　あしを\xfffeねらって　こうげきする。\xfffeあいての　すばやさを　さげる。
-うたで　あいてを　こうげきする。\xfffeみんなで　つかうと　れんぞくで\xfffeだせて　いりょくも　あがる。
-こえで　あいてを　こうげきする。\xfffeまいターン　じぶんや　みかたが\xfffeつかうと　いりょくが　あがる。
-フルパワーで　ほのおの　こうげき。\xfffeつかったあと　じぶんの　とくこうは\xfffeがくっと　さがる。
-ふしぎな　ちからで　テレポートして\xfffeじぶんと　みかたの　いばしょを\xfffeいれかえる。
-こんしんの　ちからで　こうげきする。\xfffeあたった　あいての　とくぼうを\xfffeさげることが　ある。
-いのちの　ちからを　あつめて　\xfffeこうげきする。　あたった　あいての\xfffeとくぼうを　さげることが　ある。
-てかげんして　こうげきする。\xfffeこうげきした　あいての　ＨＰは\xfffeかならず　１　のこる。
-あつく　にえたぎる　みずを\xfffeはっしゃして　こうげきする。\xfffeやけどに　することが　ある。
-どうぐを　なげつけて　こうげきする。\xfffeなげる　もちものに　よって　わざの\xfffeいりょくと　こうかは　かわる。
-でんげきを　あびせて　こうげきする。\xfffeのこった　でんきを　ためて　じぶんの\xfffeとくこうを　あげることが　ある。
-つれさった　あいてを　２ターンめに\xfffeそらから　おとして　こうげきする。\xfffeつれさられた　あいては　うごけない。
-ほのおで　あいてを　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeもやして　つかえなく　する。
-あいてを　おさえつけて\xfffeこうどうの　じゅんばんを\xfffeさいごに　する。
-あおじろく　もえる　あやしげな\xfffeほのおを　はなつ。　あいてを\xfffeやけどの　じょうたいに　する。
-かろやかに　あいてを　こうげきする。\xfffeじぶんが　どうぐを　もっていないと\xfffeおおきな　ダメージを　あたえる。　
-もたせた　どうぐを　つかえなくする。\xfffeトレーナーも　その　ポケモンには\xfffeどうぐを　つかうことが　できない。
-おおきな　ばくはつで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかったあと　ひんしに　なる。
-かげで　つくった　するどいツメで\xfffeきりさいて　こうげきする。\xfffeきゅうしょに　あたりやすい。
-ちからを　ためこみ　こうげきする。\xfffeあいてより　あとに　だせると\xfffeわざの　いりょくは　２ばいに　なる。
-たおれた　みかたの　かたきを　うつ。\xfffeまえの　ターンに　たおされて\xfffeいると　いりょくが　あがる。　
-もてる　ちからの　すべてを　あつめて\xfffeとつげきする。　つぎの　ターン\xfffeはんどうで　うごけなくなる。
-からだを　みがきあげて　くうきの\xfffeていこうを　すくなくする。\xfffeすばやさを　ぐーんと　あげる。
-あいての　めいちゅうりつを　さげる。\xfffeくらい　どうくつを　あかるく\xfffeてらすことも　できる。
-とがった　がんせきを　したから\xfffeつきさして　こうげきする。\xfffeきゅうしょに　あたりやすい。
-こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　いれかわる。
-よわい　でんきを　あびせることで\xfffeあいてを　まひじょうたいに　する。\xfffe
-からだを　こうそくに　かいてん\xfffeさせて　たいあたりする。　あいてより\xfffeおそいほど　いりょくは　あがる。
-たたかいのまいを　はげしく　おどり\xfffeきあいを　たかめる。　じぶんの\xfffeこうげきを　ぐーんと　あげる。
-ていこう　して\xfffeあいてを　こうげきする。\xfffeあいての　とくこうを　さげる。
-じぶんに　あんじを　かけることで\xfffeのうりょく　へんかの　じょうたいを\xfffeあいてと　おなじにする。
-じめんを　ふみならして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeあいての　すばやさを　さげる。
-つめたい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeかならず　きゅうしょに　あたる。
-おおきな　がんせきを　なげつけて\xfffeこうげきする。\xfffeあいてを　ひるませることが　ある。
-カマや　ツメを　ハサミのように\xfffeこうさ　させながら　きりさいて\xfffeこうげきする。
-あいてを　はじきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいなら　せんとうが　おわる。
-じぶんを　ふるいたてて\xfffeこうげきと　とくこうを　あげる。\xfffe
-どくに　そまった　しょくしゅや\xfffeうでで　こうげきする。どくの\xfffeじょうたいに　することが　ある。
-ねている　あいての　ゆめを　たべて\xfffeこうげきする。　あたえた　ダメージの\xfffeはんぶん　ＨＰを　かいふくする。
-くさを　からませて　ころばせる。\xfffeあいてが　おもいほど　わざの\xfffeいりょくは　あがる。
-おこらせて　こんらんさせる。\xfffeいかりで　あいての　こうげきは\xfffeぐーんと　あがってしまう。
-くちばしで　こうげきする。\xfffeあいてが　きのみを　もっているとき\xfffeついばんで　こうかを　うけられる。
-あいてを　こうげきした　あとに\xfffeひかえの　ポケモンと　いれかわる。\xfffe
-じぶんの　ＨＰを　すこし　けずって\xfffeぶんしんを　だす。　じぶんの\xfffeかわりに　こうげきを　うける。
-からだの　ひかりを　いってんに\xfffeあつめ　ひかりを　はなつ。　あいての\xfffeとくぼうを　さげることがある。
-まかふしぎな　くうかんを　つくる。\xfffe５ターンの　あいだ　うごきの　おそい\xfffeポケモンから　こうげきできる。
-カマや　ツメなどの　するどいもので\xfffeきりつけて　こうげきする。\xfffeほそいきを　きることも　できる。
-１ターンめで　そらへ　とびあがって\xfffe２ターンめで　こうげきする。\xfffeしっているまちに　いどうも　できる。
-おおきな　なみで　じぶんの　まわりに\xfffeいるものを　こうげきする。\xfffeみずのうえを　すすむことも　できる。
-こんしんの　ちからで　こうげきする。\xfffeおもいいわを　おすことも　できる。\xfffe
-たきを　さかのぼるような　すさまじい\xfffeいきおいで　とっしん　こうげきする。\xfffeたきを　のぼることも　できる。
-１ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeなかに　もぐる　ことも　できる。
+It sharpens its claws. \xfffeIncreases your Accuracy and \xfffeAttack.
+The user slashes the foe \xfffewith huge, sharp claws. 
+It makes its mysterious brain \xfffewaves real and attacks the \xfffeopponents. It deals Physical damage. 
+The user quietly focuses its \xfffemind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
+The foe is scared off, to be \xfffereplaced by another Pokémon in its \xfffeparty. In the wild, the battle ends.
+A move that leaves the target \xfffebadly poisoned. Its poison damage \xfffeworsens everyturn.
+The user summons a hailstorm \xfffelasting five turns. It damages all \xfffePokemon except the Ice type.
+The user tenses its muscles to \xfffebulk up its body, boosting both \xfffeits Attack and Defense stats.
+It hurls a special poison. Its \xfffepower doubles if it hits an \xfffeopponent with Poison status.
+A unique attack that varies in \xfffetype and intensity depending \xfffeon the Pokémon using it.
+The user intensifies the sun \xfffefor five turns, powering up \xfffeFire-type moves.
+The foe is taunted into a rage \xfffethat allows it to use only attack \xfffemoves for two to four turns.
+The foe is struck with an icy-cold \xfffebeam of energy.It may also \xfffefreeze the target solid.
+A howling blizzard is summoned \xfffeto strike the foe. It may also \xfffefreeze the target solid.
+The foe is attacked with a powerful \xfffebeam. The user must rest on the \xfffenext turn to regain its energy.
+A wondrous wall of light is put \xfffeup to suppress damage from special \xfffeattacks for five turns.
+It enables the user to evade all \xfffeattacks. Its chance of failing rises \xfffeif it is used in succession.
+The user summons a heavy rain \xfffethat falls for five turns, powering \xfffeup Water- type moves.
+It raises the opponent in the air \xfffewith its psychic abilities. Attacks hit \xfffethe opponent more easily for 3 turns.
+The user creates a protective \xfffefield that prevents status \xfffeproblems for five turns.
+A full-power attack that grows \xfffemore powerful the less the user \xfffelikes its Trainer.
+A two-turn attack. The user gathers \xfffelight, then blasts a bundled \xfffebeam on the second turn.
+The user slaps down the foe’s held \xfffeitem, preventing the item from \xfffebeing used during the battle.
+A strong electric blast is loosed \xfffeat the foe. It may also leave\xfffethe foe paralyzed.
+A wicked thunderbolt is dropped on \xfffethe foe to inflict damage. \xfffeIt may also leave the target paralyzed.
+The user sets off an earthquake \xfffethat hits all the Pokémon in the battle.
+A full-power attack that grows \xfffemore powerful the more the user\xfffelikes its Trainer.
+The user burrows, then attacks on the \xfffesecond turn. It can also \xfffebe used to exit dungeons.
+The foe is hit by a strong \xfffetelekinetic force. It may also reduce \xfffethe foe’s Sp. Def stat.
+The user hurls a shadowy blob \xfffeat the foe. It may also lower \xfffethe foe’s Sp. Def stat.
+The user attacks with tough fists, etc. \xfffeIt can also break any barrier \xfffesuch as Light Screen and Reflect.
+By moving rapidly, the user \xfffemakes illusory copies of itself \xfffeto raise its evasiveness.
+A wondrous wall of light is put \xfffeup to suppress damage from \xfffephysical attacks for five turns.
+It attacks those near it with \xfffea wave of sludge. It will \xfffesometimes cause poisoning.
+The foe is scorched with an \xfffeintense blast of fire. The target may \xfffealso be left with a burn.
+The user attacks by hurling \xfffefilthy sludge at the foe. \xfffeIt may also poison the target.
+A five-turn sand-storm is summoned \xfffeto hurt all combatant types \xfffeexcept Rock, Ground, and Steel.
+The foe is attacked with an intense blast \xfffeof all-consuming fire. It may also \xfffeleave the target with a burn.
+Boulders are hurled at the foe. \xfffeIt also lowers the foe’s Speed by \xfffepreventing its movement.
+The user confounds the foe with \xfffespeed, then slashes. The attack \xfffelands without fail.
+The user torments and enrages the \xfffefoe, making it incapable of using \xfffethe same move twice in a row.
+An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paralyzed, or has a burn.
+It puts on flame and attacks \xfffethe opponent. It stores strength \xfffeand its speed rises.
+The user goes to sleep for two turns. \xfffeIt fully restores the user’s \xfffeHP and heals any status problem.
+If it is the opposite gender of the \xfffeuser, the foe becomes infatuated \xfffeand less likely to attack.
+The user attacks and steals the \xfffefoe’s held item simultaneously. It can’t \xfffesteal if the user holds an item.
+With speedy movements it aims \xfffeat the opponents’ feet
+It attacks the opponent with song. If everyone \xfffesings together you can use the move in \xfffesuccessive turns and have its power increase.
+It attacks the opponent with an \xfffeechoed voice. If it or one of its team \xfffemates uses it each turn, the power increases.
+The user attacks the foe at full \xfffepower. The attack’s recoil sharply reduces \xfffethe user’s Sp. Atk stat.
+With a strange power it teleports \xfffeand switches places with one of its \xfffeteammates.
+The user heightens its mental focus \xfffeand unleashes its power. It may \xfffealso lower the target’s Sp. Def.
+The user draws power from nature \xfffeand fires it at the foe. It may also \xfffelower the target’s Sp. Def.
+A restrained attack that prevents\xfffe the foe from fainting. The target \xfffeis left with at least 1 HP.
+It attacks by shooting boiling hot \xfffewater at the opponent. It will \xfffesometimes cause a burn.
+The user flings its held item at \xfffethe foe to attack. Its power and \xfffeeffects depend on the item.
+The user fires a concentrated \xfffebundle of electricity. It may also \xffferaise the user’s Sp. Atk stat.
+The attack raises the opponent skyward \xfffeon the first turn, then dropping them on the \xfffesecond. The opponent that has been raised cannot move.
+It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable.
+It holds the opponent down and \xfffemakes it attack last.
+The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn.
+It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item.　
+It prevents the foe from using its \xfffeheld item. Its Trainer is also prevented \xfffefrom using items on it.
+The user explodes to inflict damage xfffeon all \Pokemon in battle. The user \xfffefaints upon using this move.
+The user slashes with a sharp claw \xfffemade from shadows. It has a high \xfffecritical-hit ratio.
+Numerous coins are hurled \xfffeat the foe to inflict damage. \xfffeMoney is earned after battle.
+It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn \xfffethe attacks power increases.
+The user charges at the foe using \xfffeevery bit of its power. The \xfffeuser must rest on the next turn.
+The user polishes its body to \xfffereduce drag. It can sharply raise \xfffethe Speed stat.
+The user flashes a light that \xfffecuts the foe’s accuracy. It can also \xfffebe used to illuminate caves.
+The user stabs the foe with a \xfffesharpened stone. It has a high \xfffecritical-hit ratio.
+After it has attacked the opponent, \xfffeit returns and switches places \xfffewith a waiting Pokemon.
+A weak electric charge is \xfffelaunched at the foe. It \xfffecauses paralysis if it hits.
+The user tackles the foe with \xfffea high-speed spin. The slower the \xfffeuser, the greater the damage.
+A frenetic dance to uplift the \xfffefighting spirit. It sharply raises \xfffethe user’s Attack stat.
+It opposes the opponent by \xfffeattacking. It lowers the opponents \xfffeSpecial Attack.
+The user hypnotizes itself \xfffeinto copying any stat change made \xfffeby the foe.
+It stamps the ground and \xfffeattacks anything nearby. It lowers \xfffethe opponent’s speed.
+It attacks by blowing a cool \xfffebreath on the opponent. It will always \xffferesult in a critical hit.
+Large boulders are hurled at \xfffethe foe to inflict damage. It may also \xfffemake the target flinch.
+The user slashes at the foe by \xfffecrossing its scythes or claws as if \xfffethey were a pair of scissors. 
+It sends the opponent flying and \xfffecauses the opponent to switch out. \xfffeIn a wild battle, the battle ends.
+It musters its courage and raises \xfffeits Attack and Special Attack.\xfffe
+A cloud of poison gas is sprayed \xfffein the foe’s face. It may poison \xfffethe target.
+An attack that works only on a \xfffesleeping foe. It absorbs half the damage \xfffecaused to heal the user’s HP.
+The user snares the foe with grass \xfffeand trips it. The heavier the foe, \xfffethe greater the damage.
+The user enrages the foe into \xfffeconfusion. However, it also sharply \xffferaises the foe’s Attack stat.
+The user pecks the foe. If the \xfffefoe is holding a Berry, the user \xfffeplucks it and gains its effect.
+After making its attack, the user \xffferushes back to switch places \xfffewith a party Pokemon in waiting.
+The user makes a copy of itself \xfffeusing some of its HP. The copy \xfffeserves as the user’s decoy.
+The user gathers all its light \xfffeenergy and releases it at once. It may \xfffealso lower the foe’s Sp. Def stat.
+The user creates a bizarre area \xfffein which slower Pokemon get to move \xfffefirst for five turns.
+The foe is cut with a scythe or \xfffea claw. It can also be used to cut \xfffedown thin trees.
+The user soars, then strikes on \xfffethe second turn. It can also be used \xfffefor flying to any familiar town.
+It swamps the entire battlefield \xfffewith a giant wave. It can also be \xfffeused for crossing water.
+The foe is slugged with a punch \xfffethrown at maximum power. It can also \xfffebe used to move boulders.
+The user charges at the foe rapidly, \xfffeand may make it flinch. It can also \xfffebe used to climb a waterfall.
+A two-turn attack. The user dives \xfffeunderwater on the first turn, then \xfffehits on the next turn.
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-たんけんに　やくだつ　べんりな\xfffeどうぐが　はいった　ふくろ。\xfffeちかつうろに　はいれる。
+A bag filled with convenient tools \xfffefor exploring. It provides access \xfffeto the Underground. 
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
 A tool that can search out Pokémon\xfffethat are hiding in grass. Its battery is\xffferecharged as you walk.
@@ -574,7 +574,7 @@ An item to be held by a Pokémon.\xfffeポケモン　１ひきの　すばや�
 とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
 A ticket needed to get\xfffeto Liberty Garden Island.\xfffeBoat location: Hiun City.
 デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
-ハイリンクのもりで　いつのまにか\xfffeバッグに　あらわれる　ゆめのボール。\xfffeどんな　ポケモンも　つかまえられる。
+A ball of dreams that unexpectedly \xfffeappears in your bag in the High Link forest. \xfffeIt can catch any kind of Pokémon.
 ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。
 A pink fashion case required\xfffeto participate in\xfffethe PokéTheater.
 あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモンの　あたまの　ホネ。
@@ -616,9 +616,9 @@ A pink fashion case required\xfffeto participate in\xfffethe PokéTheater.
 きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
 A white, light ball\xfffeof some kind.\xfffeWhat it is is unknown.
 A black, heavy ball\xfffeof some kind.\xfffeWhat it is is unknown.
-でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　ダメージを　うける。
-いわをも　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
-まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
+It covers itself in electricity \xfffeand crashes into the opponent. It \xfffealso takes a little damage.
+The user hits with a punch that \xfffemay lower the target’s Defense. It \xfffecan also smash cracked boulders.
+It yells at an opponent for a \xfffelong time and lowers their \xfffeSpecial Attack.
 You can video-chat with\xfffe4 people at the same time.\xfffe
 An Illusion Stone.\xfffe\xfffe
 A pass to let you enter\xfffea kind of event or place.\xfffe
