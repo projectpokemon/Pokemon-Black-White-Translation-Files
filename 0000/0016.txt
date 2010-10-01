@@ -605,9 +605,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
 \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
 The wild \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
 The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-\xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-The wild \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
-The foe's \xf000Ă\x0001\x0000 \xfffeたねを　うえつけた！
+\xf000Ă\x0001\x0000 \xfffewas seeded!
+The wild \xf000Ă\x0001\x0000 \xfffewas seeded!
+The foe's \xf000Ă\x0001\x0000 \xfffewas seeded!
 \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
 The wild \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
 The foe's \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
@@ -768,9 +768,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　はねかえし�
 \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
 The wild \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
 The foe's \xf000Ă\x0001\x0000 \xfffeせんとうから　りだつした！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
+\xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
 The wild \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
 The foe's \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれかえた！
