@@ -28,7 +28,7 @@ Enable the C-Gear?\xfffePlease read the warning below.
 Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
+C-Gear　スキンデータが\xfffeきえてしまった！
 とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
 ミュージカルの　えんもくデータが\xfffeきえてしまった！
 ずかんの　スキンデータが\xfffeきえてしまった！

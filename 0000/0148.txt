@@ -1,7 +1,7 @@
-ＰＧＬ
-ＧＴＳ
-ＰＤＷ
-Ｗｉ－Ｆｉ
+PGL
+GTS
+PDW
+Wi-Fi
 Guruguru
 Game Sync
 Colosseum
@@ -21,6 +21,6 @@ Poke-shifter
 Multi Battle
 Pokemon Musical
 Union
-すれちがいログ
+Pass-By Mode
 Rotation
 Wireless

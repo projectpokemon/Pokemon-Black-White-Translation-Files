@@ -1,48 +1,48 @@
-そうぐうパワー　＋
-そうぐうパワー　＋＋
-そうぐうパワー　＋＋＋
-そうぐうパワー　ー
-そうぐうパワー　ーー
-そうぐうパワー　ーーー
-タマゴふかパワー　＋
-タマゴふかパワー　＋＋
-タマゴふかパワー　＋＋＋
-なつきパワー　＋
-なつきパワー　＋＋
-なつきパワー　＋＋＋
-やすうりパワー　＋
-やすうりパワー　＋＋
-やすうりパワー　＋＋＋
-HPかいふくパワー　＋
-HPかいふくパワー　＋＋
-HPかいふくパワー　＋＋＋
-PPかいふくパワー　＋
-PPかいふくパワー　＋＋
-PPかいふくパワー　＋＋＋
-けいけんちパワー　＋
-けいけんちパワー　＋＋
-けいけんちパワー　＋＋＋
-けいけんちパワー　ー
-けいけんちパワー　ーー
-けいけんちパワー　ーーー
-おこづかいパワー　＋
-おこづかいパワー　＋＋
-おこづかいパワー　＋＋＋
-ほかくパワー　＋
-ほかくパワー　＋＋
-ほかくパワー　＋＋＋
-タマゴふかパワー　Ｓ
-やすうりパワー　Ｓ
-なつきパワー　Ｓ
-けいけんちパワー　Ｓ
-おこづかいパワー　Ｓ
-ほかくパワー　Ｓ
-ぜんかいパワー
-タマゴふかパワー　ＭＡＸ
-やすうりパワー　ＭＡＸ
-なつきパワー　ＭＡＸ
-けいけんちパワー　ＭＡＸ
-おこづかいパワー　ＭＡＸ
-ほかくパワー　ＭＡＸ
+Encounter Power +
+Encounter Power ++
+Encounter Power +++
+Encounter Power -
+Encounter Power --
+Encounter Power ---
+Hatching Power +
+Hatching Power ++
+Hatching Power +++
+Happiness Power +
+Happiness Power ++
+Happiness Power +++
+Discount Power +
+Discount Power ++
+Discount Power +++
+HP Power +
+HP Power ++
+HP Power +++
+PP Power +
+PP Power ++
+PP Power +++
+EXP Power +
+EXP Power ++
+EXP Power +++
+EXP Power -
+EXP Power --
+EXP Power ---
+Money Power +
+Money Power ++
+Money Power +++
+Capture Power +
+Capture Power ++
+Capture Power +++
+Egg Hatch Power S
+Capture Power S
+Friendship Power S
+Experience Point Power S
+Pocket Money Power S
+Discount Power S
+HP Restore Power
+Egg Hatch Power　ＭＡＸ
+Capture Power　ＭＡＸ
+Friendship Power　ＭＡＸ
+Experience Point Power　ＭＡＸ
+Pocket Money Power　ＭＡＸ
+Discount Power　ＭＡＸ
 はっせいパワー　？
 はいふパワー　？

@@ -196,18 +196,18 @@ The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
 \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 The wild \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
 The foe's \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-\xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
-The wild \xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
-The foe's \xf000Ă\x0001\x0000 \xfffe's ability can't decrease!
-\xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
-The wild \xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
-The foe's \xf000Ă\x0001\x0000 \xfffe's Attack can't decrease!
-\xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
-The wild \xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
-The foe's \xf000Ă\x0001\x0000 \xfffe's Defense can't decrease!
-\xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
-The wild \xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
-The foe's \xf000Ă\x0001\x0000 \xfffe's Accuracy can't decrease!
+\xf000Ă\x0001\x0000's \xfffeability can't decrease!
+The wild \xf000Ă\x0001\x0000's \xfffeability can't decrease!
+The foe's \xf000Ă\x0001\x0000's \xfffeability can't decrease!
+\xf000Ă\x0001\x0000's \xfffeAttack can't decrease!
+The wild \xf000Ă\x0001\x0000's \xfffeAttack can't decrease!
+The foe's \xf000Ă\x0001\x0000's \xfffeAttack can't decrease!
+\xf000Ă\x0001\x0000's \xfffeDefense can't decrease!
+The wild \xf000Ă\x0001\x0000's \xfffeDefense can't decrease!
+The foe's \xf000Ă\x0001\x0000's \xfffeDefense can't decrease!
+\xf000Ă\x0001\x0000's \xfffeAccuracy can't decrease!
+The wild \xf000Ă\x0001\x0000's \xfffeAccuracy can't decrease!
+The foe's \xf000Ă\x0001\x0000's \xfffeAccuracy can't decrease!
 \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The wild \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
 The foe's \xf000Ă\x0001\x0000 \xfffeisn't affected by it...
@@ -331,12 +331,12 @@ The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
 \xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the wild \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the foe's \xf000Ă\x0001\x0000 to \xfffebecome infatuated!
-\xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffe fell in love!
-The wild \xf000Ă\x0001\x0000 \xfffe fell in love!
-The foe's \xf000Ă\x0001\x0000 \xfffe fell in love!
+\xf000Ă\x0001\x0000 is infatuated \xfffewith \xf000Ă\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 is infatuated \xfffewith \xf000Ă\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 is infatuated \xfffewith \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 \xfffeis in love!
+The wild \xf000Ă\x0001\x0000 \xfffeis in love!
+The foe's \xf000Ă\x0001\x0000 \xfffeis in love!
 \xf000Ă\x0001\x0000 \xfffeis no longer in love!
 The wild \xf000Ă\x0001\x0000 \xfffeis no longer in love!
 The foe's \xf000Ă\x0001\x0000 \xfffeis no longer in love!
@@ -777,9 +777,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeこうげき and ぼうぎょを　いれ�
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001を　なげつけた！
+\xf000Ă\x0001\x0000 \xfffeflung its \xf000ĉ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 \xfffeflung its \xf000ĉ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 \xfffeflung its \xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　ふきとばした！
@@ -891,9 +891,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeかいふくふうじで　かいふく　�
 \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
 The wild \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
 The foe's \xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-しかし　\xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　The wild \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
-しかし　The foe's \xf000Ă\x0001\x0000 \xfffeたいりょくが　まんたんだ！
+But　\xf000Ă\x0001\x0000's \xfffehealth is already full!
+But the wild \xf000Ă\x0001\x0000's \xfffehealth is already full!
+But the foe's \xf000Ă\x0001\x0000's \xfffehealth is already full!
 \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ď\x0001\x0001タイプに　なった！
@@ -906,9 +906,9 @@ The foe's \xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった�
 \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001を　つかえない！
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
+\xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001\xf000븀\x0000\xfffehas recovered health!
+The wild \xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001\xf000븀\x0000\xfffehas recovered health!
+The foe's \xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001\xf000븀\x0000\xfffehas recovered health!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xf000ć\x0001\x0002のＰＰを　かいふくした！
@@ -1055,13 +1055,13 @@ The wild \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x
 The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
 The foe's \xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の\xf000븀\x0000\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001から\xf000븀\x0000\xf000ĉ\x0001\x0002を　うばいとった！
+\xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+\xf000Ă\x0001\x0000 stole\xfffethe wild \xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+\xf000Ă\x0001\x0000 stole\xfffethe foe's \xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+The wild \xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+The wild \xf000Ă\x0001\x0000 stole\xfffethe wild \xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+The foe's \xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
+The foe's \xf000Ă\x0001\x0000 stole\xfffethe foe's \xf000Ă\x0001\x0001's \xf000븀\x0000\xf000ĉ\x0001\x0002!
 \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000\xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the wild \xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffecut its own HP and laid a curse on\xf000븀\x0000the foe's \xf000Ă\x0001\x0001!
@@ -1129,15 +1129,15 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
 The wild \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
 The foe's \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
-\xf000Ă\x0001\x0000 \xffferegains health from the water ring!
-The wild \xf000Ă\x0001\x0000 \xffferegains health from the water ring!
-The foe's \xf000Ă\x0001\x0000 \xffferegains health from the water ring!
-\xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-The wild \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-The foe's \xf000Ă\x0001\x0000 \xfffeおことばに　あまえることにした！
-\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-The wild \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-The foe's \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
+\xf000Ă\x0001\x0000 \xfffePostponed the order!
+The wild \xf000Ă\x0001\x0000 \xfffePostponed the order!
+The foe's \xf000Ă\x0001\x0000 \xfffePostponed the order!
+\xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
+The wild \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
+The foe's \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
+\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001Has swapped places!
+The wild \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001Has swapped places!
+The foe's \xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001Has swapped places!
 \xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!
 The wild \xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!
 The foe's \xf000Ă\x0001\x0000を\xfffeused some health to get a power boost!

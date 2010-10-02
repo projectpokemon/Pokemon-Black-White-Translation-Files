@@ -1,6 +1,6 @@
 「どうあそんでるか　ちょうさ」
 「どんなひとが　いるかの　ちょうさ」
-「すきなポケモンの　ちょうさ」
+「Favorite Pokemon Survey」
 「みんなの　りそうを　ちょうさ」
 「すきなひとの　ちょうさ」
 「みんなの　このみを　ちょうさ」
@@ -8,7 +8,7 @@
 「がっこうせいかつを　ちょうさ」
 「どんな　あそびがすきか　ちょうさ」
 「ポケモンのことをくわしくちょうさ」
-ポケットモンスターブラック・ホワイトを\xfffeどのように　あそんでいるか　ちょうさします
+ポケットモンスターブラック・ホワイトを\xfffewill investigate how you are playing
 じぶんの　まわりには　どんなひとが\xfffeおおいのか　ちょうさします
 じぶんの　すきな　ポケモンで\xfffeどんな　あそびをしてるのか　ちょうさします
 じぶんの　りそうや　みんなの　たいせつに\xfffeしているものを　ちょうさします
@@ -68,13 +68,13 @@
 がっこうの　べんきょうで　きらいなものは？\xfffeをあつめた　アンケート
 ポケットモンスターの　せかいで　もし\xfffeなれるなら　なにになりたい？　のアンケート
 きゅうじつは　どんなことをしている？\xfffeをあつめた　アンケート
-みんなの　すきな　おんがくは\xfffeどんな　おんがく？　をあつめた　アンケート
-みんなの　すきな　ＴＶばんぐみは\xfffeどんな　ばんぐみ？　をあつめた　アンケート
-みんなの　すきな　えいがは\xfffeどんな　えいが？　をあつめた　アンケート
-みんなの　すきな　スポーツは\xfffeどんな　スポーツ？　をあつめた　アンケート
+Everybody's favorite music is what type of music? \xfffe questionnaire collected
+Everybody's favorite TV show is what? \xfffe questionnaire collected
+Everybody's favorite movie is what movie? \xfffe questionnaire collected
+Everybody's favorite sport is what sport? \xfffe questionnaire collected
 このなかで　えらぶなら　どのいろが　すき？\xfffeをあつめた　アンケート
 みんなは　どんなことを　しゅみにしている？\xfffeをあつめた　アンケート
 みんなは　どんなことを　しごとにしている？\xfffeをあつめた　アンケート
 ポケットモンスターブラック・ホワイトで\xfffeどのジムリーダーがすき？　のアンケート
-ポケモンの　どのタイプが　すき？\xfffeをあつめた　アンケート
+What type of Pokemon you like? \xfffe questionnaire collected
 ポケットモンスターブラック・ホワイトで\xfffeあそんだじかんを　あつめた　アンケート
