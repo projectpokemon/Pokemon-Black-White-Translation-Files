@@ -5,7 +5,7 @@
 チェックちゅう　です\xfffeつうしんを　つづけてください
 せきがいせんつうしんが\xfffeつながりました！
 つうしんが　きれました　あいてと\xfffeせきがいせんつうしんを　してください
-もどる
+Return
 no data
 no data
 no data
@@ -14,4 +14,4 @@ no data
 no data
 no data
 no data
-シンクロチェック
+Sync Check

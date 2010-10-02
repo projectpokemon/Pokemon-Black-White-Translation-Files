@@ -29,5 +29,5 @@ And with you in this club,\xfffethe total makes 3!\xf000븁\x0000Well... I guess
 よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
 ちゅうい！\xfffeべつの　ポケモンレポートが　かかれて　いますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
 ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+Return to Menu
+Skip Demo?

@@ -1,9 +1,9 @@
-いろいろ
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
+Collector
+Athlete
+Book Worm
+Musician
+Producer
+Traveler
+Cook
+Fisherman
+Gamer
