@@ -38,9 +38,9 @@ Multi Coliseum\xfffeUnrestricted
 Multi Coliseum\xfffeFlat
 Multi Coliseum\xfffeUnrestricted Shooting
 Multi Coliseum\xffferestricted Shooting
-バトルサブウェイ\xfffeSingle
-バトルサブウェイ\xfffeDouble
-バトルサブウェイ\xfffeMulti
+Battle Subway\xfffeSingle
+Battle Subway\xfffeDouble
+Battle Subway\xfffeMulti
 Free Random Matches\xfffeSingle
 Free Random Matches\xfffeDouble
 Free Random Matches\xfffeTriple
