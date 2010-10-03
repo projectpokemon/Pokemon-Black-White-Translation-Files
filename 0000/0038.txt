@@ -1,22 +1,22 @@
 The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
-◇カノコタウンしゅっしんの　トレーナーが　サンヨウジムリーダー　コーン・ポッド・デントにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　シッポウジムリーダー　アロエにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　ヒウンジムリーダー　アーティにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　ライモンジムリーダー　カミツレにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　ホドモエジムリーダー　ヤーコンにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　フキヨセジムリーダー　フウロにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　セッカジムリーダー　ハチクにしょうり！
-◇カノコタウンしゅっしんの　トレーナーが　ソウリュウジムリーダー　アイリスにしょうり！！
-◇カノコタウンしゅっしんの　トレーナーが　ソウリュウジムリーダー　シャガにしょうり！
-◇ 'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
+◇Kanoko Town's trainer defeated Sanyou gym leader Koon-Poddo-Dento!
+◇Kanoko Town's trainer defeated Shippou gym leader Aloe!
+◇Kanoko Town's trainer defeated Hiun gym leader Artei!
+◇Kanoko Town's trainer defeated Raimon gym leader Kamitsure!
+◇Kanoko Town's trainer defeated Hodomoe gym leader Yaakon!
+◇Kanoko Town's trainer defeated Fukiyose gym leader Fuuro!
+◇Kanoko Town's trainer defeated Sekka gym leader Hachiku!
+◇Kanoko Town's trainer defeated Souryuu gym leader Iris!!
+◇Kanoko Town's trainer defeated Souryuu gym leader Shaga! 
+◇'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
 ◇「なまえが　みちびく　すばらしいかんけい」ヒウンシティ　せいめいはんだんし
-◇ 'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
-◇ 'Test your skills at the Battle Subway!' Raimon Battle Subway.
-◇ 'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
+◇'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
+◇'Test your skills at the Battle Subway!' Raimon Battle Subway.
+◇'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
 ◇「なみかぜが　はこんでくれた　しなものを　あなたに」ホドモエマーケット
-◇ 'Go shopping now, you won't regret it!' the Ishu Departement Store.
+◇'Go shopping now, you won't regret it!' the Ishu Departement Store.
 ◇サンヨウシティは　もりにかこまれ　すずやかな　かぜが　かおります
 ◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
 ◇サンヨウジムは　しょうぶとしょくじを　たのしめる　レストランです　
@@ -80,7 +80,7 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇ The Cafetaria is over 100 Years old.
+◇The Cafetaria is over 100 Years old.
 ◇ソウリュウシティのれきしは せかいいちふるいと いわれています
 ◇ソウリュウシティでは むかしのぎじゅつを いまでも やくだてています
 ◇まちからは まいとし こうこがくしゃが おおく　たんじょうします
@@ -142,7 +142,7 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
 ◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
 ◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇ This storm will wipe you off-route.
+◇This storm will wipe you off-route.
 
 
 
@@ -183,13 +183,13 @@ Clear
 Sunny
 Snow
 Rainy
-Rainy
 Sandstorm
+Snowstorm
 Hail
 Fog
 The rare Diamond Dust is located!
-Storm
-Storm
+There is a sandstorm!
+There is a strong storm!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001

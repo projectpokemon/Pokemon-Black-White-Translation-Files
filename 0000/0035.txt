@@ -16,4 +16,4 @@ Chat
 せっていを　せんたくしました
 ポケモンレポートに　かきこんでいます
 ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+Write the report during communication

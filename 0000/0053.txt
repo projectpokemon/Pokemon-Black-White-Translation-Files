@@ -612,16 +612,16 @@ An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff
 When used by a Pokémon,\xfffea teammate's ability will be\xfffeactivated.
 When used by a Pokémon,\xfffea teammate will lose its item.\xfffe
 When used by a Pokémon,\xfffea teammate's item will be\xfffeused immediately.
-When used by a Pokémon,\xfffeall stats will be restored\xfffeto normal.
+When used by a Pokémon,\xfffeall stat's will be restored\xfffeto normal.
 An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
 The form of Reshiram's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
 The form of Zekrom's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
 It covers itself in electricity \xfffeand crashes into the opponent. \xfffeIt also takes a little damage.
 The user hits with a punch that \xfffemay lower the target’s Defense. \xfffeIt can also smash cracked boulders.
 It yells at an opponent for a long time \xfffeand lowers their Special Attack stat.
-The latest model transciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
 A phantom stone.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
-The latest model transciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.

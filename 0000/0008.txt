@@ -10,8 +10,8 @@ Delete Videos
 Empty
 \xf000ȃ\x0001\x0000
 Battle
-\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002 ★
+\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002
+\xf000봂\x0000Video no.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002 ★
 \xf000봂\x0000\xf000Ā\x0001\x0000's Profile
 Mute
 \xf000봂\x0000Birth month: \xf000ȁ\x0001\x0000
@@ -19,7 +19,7 @@ Mute
 \xf000봂\x0000Trainer's quote
 Data
 Profile
- 
+
 Unregistered
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
@@ -29,13 +29,13 @@ My video
 Other videos
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
+Search by ranking
 データをおくる
 さいしん３０けん
 くわしくさがす
-ナンバーでさがす
+Search by number
 しせつでさがす
-ポケモンでさがす
+Search by Pokémon
 Search by Facility
 Search by Pokémon
 Search by Location
@@ -43,7 +43,7 @@ Send Photo
 View Photo
 Send
 Choose a Pokémon
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x000 1
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
 Send Box Data
@@ -84,8 +84,8 @@ Colosseum
 Battle Frontier
 Save
 View Battle\xfffeVideo
-バトルビデオ
-バトルビデオ\xfffeさいしん３０けん
+Video Battle
+Video Battle\xfffeさいしん３０けん
 Top-Ranked Battle Videos\xfffeColosseum
 Top-Ranked Battle Videos\xfffeBattle Frontier
 けんさくした　バトルビデオ\xfffeいちらん
@@ -141,7 +141,7 @@ Total:
 トレーナーとマルチ
 ともだちとマルチ
 ランク
-げんざいの　きろく
+Rank
 \xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
 げんざい：
 \xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
@@ -149,19 +149,19 @@ Total:
 \xf000봂\x0000フリーモード　せいせき
 \xf000봃\x0001\x0000Win
 \xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
-\xf000봃\x0001\x0000ダブル：
-\xf000봃\x0001\x0000トリプル：
-\xf000봃\x0001\x0000ローテーション：
-\xf000봃\x0001\x0000シューター：
+\xf000봃\x0001\x0000Single
+\xf000봃\x0001\x0000Double
+\xf000봃\x0001\x0000Triple
+\xf000봃\x0001\x0000Rotation
+\xf000봃\x0001\x0000Miracle Shooting
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000Rating
-\xf000봂\x0000はい
-\xf000봂\x0000いいえ
+\xf000봂\x0000Yes
+\xf000봂\x0000No
 Yes
 No
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
+are you sure this is okay?\xfffeYou are about to disconnect from Wi-Fi Connection
 Colosseum\xfffeSingle, No Restrictions
 Colosseum\xfffeSingle, Standard Cup
 Colosseum\xfffeSingle, Fancy Cup
@@ -203,29 +203,29 @@ Colosseum\xfffeDouble, Cup Match
 
 
 
-1: Colosseum\xfffe    Single, No Restrictions
-2: Colosseum\xfffe    Single, Cup Match
-3: Colosseum\xfffe    Double, No Restrictions
-4: Colosseum\xfffe    Double, Cup Match
-5: Colosseum\xfffe    Multi
-6: Battle Tower\xfffe    Single
-7: Battle Tower\xfffe    Double
-8: Battle Tower\xfffe    Multi
-9: Battle Factory\xfffe    Level 50, Single
-10: Battle Factory\xfffe      Level 50, Double
-11: Battle Factory\xfffe      Level 50, Multi
-12: Battle Factory\xfffe      Open Level, Single
-13: Battle Factory\xfffe      Open Level, Double
-14: Battle Factory\xfffe      Open Level, Multi
-15: Battle Hall\xfffe      Single
-16: Battle Hall\xfffe      Double
-17: Battle Hall\xfffe      Multi
-18: Battle Castle\xfffe      Single
-19: Battle Castle\xfffe      Double
-20: Battle Castle\xfffe      Multi
-21: Battle Arcade\xfffe      Single
-22: Battle Arcade\xfffe      Double
-23: Battle Arcade\xfffe      Multi
+1: Colosseum\xfffe Single, No Restrictions
+2: Colosseum\xfffe Single, Cup Match
+3: Colosseum\xfffe Double, No Restrictions
+4: Colosseum\xfffe Double, Cup Match
+5: Colosseum\xfffe Multi
+6: Battle Tower\xfffe Single
+7: Battle Tower\xfffe Double
+8: Battle Tower\xfffe Multi
+9: Battle Factory\xfffe Level 50, Single
+10: Battle Factory\xfffe Level 50, Double
+11: Battle Factory\xfffe Level 50, Multi
+12: Battle Factory\xfffe Open Level, Single
+13: Battle Factory\xfffe Open Level, Double
+14: Battle Factory\xfffe Open Level, Multi
+15: Battle Hall\xfffe Single
+16: Battle Hall\xfffe Double
+17: Battle Hall\xfffe Multi
+18: Battle Castle\xfffe Single
+19: Battle Castle\xfffe Double
+20: Battle Castle\xfffe Multi
+21: Battle Arcade\xfffe Single
+22: Battle Arcade\xfffe Double
+23: Battle Arcade\xfffe Multi
 \xf000봂\x0000Touch Here!
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 　
@@ -332,7 +332,7 @@ The same data can’t be sent again.\xfffeTouch the Touch Screen to continue.
 Receiving Battle Videos...
 No matching data was found...\xfffeTouch the Touch Screen to continue.
 No matching Box Data was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
+Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0 001\x0002\xfffe
 The game will be saved before you can view\xfffeBattle Videos.
 Deleting data... Saving a lot of\xfffedata... Don’t turn off the power.
 Saving a lot of data...\xfffeDon’t turn off the power.

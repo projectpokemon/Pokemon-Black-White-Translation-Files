@@ -1,7 +1,7 @@
-Do you want to enable the C-Gear?\xfffePlease read the warning below.
-Enabling the C-Gear...\xfffeYour DS Wireless communication\xfffeis being use by this.
-Do you want to enable the C-Gear?\xfffePlease read the warning below.
-\xf000\xff00\x0001\x0001Power warning!\xf000\xff00\x0001\x0000\xfffeDraining energy from the battery\xfffecontinue's when the lid of the DS\xfffeis closed. This may cause\xfffeyour battery to run completly dry.
-C-Gear 　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
+C-Gear　でんげんを　いれて\xfffeつうしんを　はじめますか？
+オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
+C-Gear　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
+\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　C-Gear でんげんをきって\xfffeつうしんを　せつだん　してください
+C-Gear　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
 Yes
 No

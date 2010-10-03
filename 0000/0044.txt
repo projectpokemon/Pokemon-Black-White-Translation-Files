@@ -3,7 +3,7 @@ English
 Kanji
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
 no data
-セーブデータを　さくせい　しています\xfffeしばらく　おまちください
+セーブデータを　さくせい　しています\xfffePlease wait a moment.
 Hey there！\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
 My name is Professor Araragi.\xf000븁\x0000But everyone calls me the\xfffePokémon Professor.\xf000븁\x0000
 This world is widely inhabited by\xfffecreatures known as Pokémon.\xf000븁\x0000We humans live alongside Pokémon\xfffeas friends.\xf000븁\x0000At times we play together, and at\xfffeother times we work together.\xf000븁\x0000
@@ -26,8 +26,8 @@ And this is Bel.\xf000븁\x0000This girl is a bit of\xfffea trouble maker...\xf0
 And with you in this club,\xfffethe total makes 3!\xf000븁\x0000Well... I guess you already\xfffesaw that, but let's go on.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000You're almost ready to walk\xfffeinto the world of Pokémon!\xf000븁\x0000Remember to keep going on,\xfffeno matter what happens.\xf000븁\x0000Don't you forget that!\xf000븁\x0000Well... There you go...\xfffeI will be seeing you later.\xf000븁\x0000Make sure to come over to \xfffemy lab as soon you're in town.\xf000븁\x0000Now, go on and leap\xfffeinto the world of Pokémon!
 ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
+All right！\xfffeこれで　オーケーと！\xf000븁\x0000
 ちゅうい！\xfffeべつの　ポケモンレポートが　かかれて　いますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
 ぼうけんを　はじめる
-Return to Menu
-Skip Demo?
+Return to menu
+Skip demonstration？

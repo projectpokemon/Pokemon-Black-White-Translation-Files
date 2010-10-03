@@ -1,9 +1,9 @@
-Collector
-Athlete
-Book Worm
-Musician
-Producer
-Traveler
-Cook
-Fisherman
-Gamer
+Various
+Exercising
+Reading
+Music
+Movies
+Travelling
+Cooking
+Fishing
+Gaming

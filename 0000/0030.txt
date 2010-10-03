@@ -34,4 +34,4 @@ Choose how to display text.\xfffeKanji is Japanese language.
 Do you want to save? If you\xfffedon't, all changes will be lost.
 Yes
 No
-ダミーメッセージ
+Dummy Message

@@ -3,10 +3,10 @@
 せきがいせんつうしんが　\xfffeつながりました！
 チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
 チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
+したがめんの　メニューを\xfffeTouch Start!
+Check Start
+Ranking
+Back
 Quit
-フィーリングチェック
+Feeling Check
 シーンが　ずれました\xfffeさきへ　すすみます
