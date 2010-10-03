@@ -1,4 +1,4 @@
-The Date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
+The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 ◇カノコタウンしゅっしんの　トレーナーが　サンヨウジムリーダー　コーン・ポッド・デントにしょうり！
@@ -10,13 +10,13 @@ The Date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇カノコタウンしゅっしんの　トレーナーが　セッカジムリーダー　ハチクにしょうり！
 ◇カノコタウンしゅっしんの　トレーナーが　ソウリュウジムリーダー　アイリスにしょうり！！
 ◇カノコタウンしゅっしんの　トレーナーが　ソウリュウジムリーダー　シャガにしょうり！
-◇「あいじょういっぱい！　すくすくそだつ！」３ばんどうろ　そだてや
+◇ 'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
 ◇「なまえが　みちびく　すばらしいかんけい」ヒウンシティ　せいめいはんだんし
-◇「あのこは　なにをしているの？　よーし　ちょうさだ！」ヒウンシティ　すれちがいちょうさたい
-◇「はしってたたかえ！　でんしゃはとまらない！」ライモンシティ　バトルサブウェイ
-◇「スターへのかいだんが　ここからはじまる」ライモンシティ　ミュージカル
+◇ 'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
+◇ 'Test your skills at the Battle Subway!' Raimon Battle Subway.
+◇ 'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
 ◇「なみかぜが　はこんでくれた　しなものを　あなたに」ホドモエマーケット
-◇「イッシュさいだいの　ショッピングエリア　なんでもそろう！」ショッピングモール　アールナイン
+◇ 'Go shopping now, you won't regret it!' the Ishu Departement Store.
 ◇サンヨウシティは　もりにかこまれ　すずやかな　かぜが　かおります
 ◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
 ◇サンヨウジムは　しょうぶとしょくじを　たのしめる　レストランです　
@@ -80,7 +80,7 @@ The Date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇ビルのそうしょくは １００ねんかけて しょくにんたちのてで　つくられています
+◇ The Cafetaria is over 100 Years old.
 ◇ソウリュウシティのれきしは せかいいちふるいと いわれています
 ◇ソウリュウシティでは むかしのぎじゅつを いまでも やくだてています
 ◇まちからは まいとし こうこがくしゃが おおく　たんじょうします
@@ -142,7 +142,7 @@ The Date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
 ◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
 ◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
+◇ This storm will wipe you off-route.
 
 
 
@@ -188,14 +188,14 @@ Sandstorm
 Hail
 Fog
 The rare Diamond Dust is located!
-There is a sandstorm!
-There is a sandstorm!
+Storm
+Storm
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
-◆\xf000ą\x0001\x0000 a swarm of Pokémon!!
+◆ There is a swarm of rare Pokémon at \xf000ą\x0001\x0000!
 
 
 

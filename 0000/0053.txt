@@ -331,18 +331,18 @@ The user slashes the foe \xfffewith huge, sharp claws.
 It makes its mysterious brain \xfffewaves real and attacks the \xfffeopponents. It deals Physical damage. 
 The user quietly focuses its \xfffemind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
 The foe is scared off, to be \xfffereplaced by another Pokémon in its \xfffeparty. In the wild, the battle ends.
-A move that leaves the target \xfffebadly poisoned. Its poison damage \xfffeworsens everyturn.
+A move that leaves the target \xfffebadly poisoned. Its poison damage \xfffeworsens every turn.
 The user summons a hailstorm \xfffelasting five turns. It damages all \xfffePokemon except the Ice type.
 The user tenses its muscles to \xfffebulk up its body, boosting both \xfffeits Attack and Defense stats.
 It hurls a special poison. Its \xfffepower doubles if it hits an \xfffeopponent with Poison status.
 A unique attack that varies in \xfffetype and intensity depending \xfffeon the Pokémon using it.
 The user intensifies the sun \xfffefor five turns, powering up \xfffeFire-type moves.
 The foe is taunted into a rage \xfffethat allows it to use only attack \xfffemoves for two to four turns.
-The foe is struck with an icy-cold \xfffebeam of energy.It may also \xfffefreeze the target solid.
+The foe is struck with an icy-cold \xfffebeam of energy. It may also \xfffefreeze the target solid.
 A howling blizzard is summoned \xfffeto strike the foe. It may also \xfffefreeze the target solid.
 The foe is attacked with a powerful \xfffebeam. The user must rest on the \xfffenext turn to regain its energy.
 A wondrous wall of light is put \xfffeup to suppress damage from special \xfffeattacks for five turns.
-It enables the user to evade all \xfffeattacks. Its chance of failing rises \xfffeif it is used in succession.
+It enables the user to evade all \xfffeattacks. Its chance of failing raises \xfffeif it is used in succession.
 The user summons a heavy rain \xfffethat falls for five turns, powering \xfffeup Water- type moves.
 It raises the opponent in the air \xfffewith its psychic abilities. Attacks hit \xfffethe opponent more easily for 3 turns.
 The user creates a protective \xfffefield that prevents status \xfffeproblems for five turns.
@@ -373,9 +373,9 @@ The user goes to sleep for two turns. \xfffeIt fully restores the user’s \xfff
 If it is the opposite gender of the \xfffeuser, the foe becomes infatuated \xfffeand less likely to attack.
 The user attacks and steals the \xfffefoe’s held item simultaneously. It can’t \xfffesteal if the user holds an item.
 With speedy movements it aims \xfffeat the opponents’ feet
-It attacks the opponent with song. If everyone \xfffesings together you can use the move in \xfffesuccessive turns and have its power increase.
-It attacks the opponent with an \xfffeechoed voice. If it or one of its team \xfffemates uses it each turn, the power increases.
-The user attacks the foe at full \xfffepower. The attack’s recoil sharply reduces \xfffethe user’s Sp. Atk stat.
+It attacks the opponent with song. If \xfffeeveryone sings together, the move will \xfffehave its power increased.
+It attacks the opponent with an echoed \xfffevoice. If it or one of its team mates \xfffeuses it each turn, the power increases.
+The user attacks the foe at full power.\xfffeThe attack’s recoil sharply reduces \xfffethe user’s Sp. Atk stat.
 With a strange power it teleports \xfffeand switches places with one of its \xfffeteammates.
 The user heightens its mental focus \xfffeand unleashes its power. It may \xfffealso lower the target’s Sp. Def.
 The user draws power from nature \xfffeand fires it at the foe. It may also \xfffelower the target’s Sp. Def.
@@ -383,13 +383,13 @@ A restrained attack that prevents\xfffe the foe from fainting. The target \xfffe
 It attacks by shooting boiling hot \xfffewater at the opponent. It will \xfffesometimes cause a burn.
 The user flings its held item at \xfffethe foe to attack. Its power and \xfffeeffects depend on the item.
 The user fires a concentrated \xfffebundle of electricity. It may also \xffferaise the user’s Sp. Atk stat.
-The attack raises the opponent skyward \xfffeon the first turn, then dropping them on the \xfffesecond. The opponent that has been raised cannot move.
+The attack raises the opponent skyward \xfffeon the 1st turn, then dropps it on the \xfffe2nd. The opponent that is raised can't move.
 It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable.
 It holds the opponent down and \xfffemakes it attack last.
 The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn.
 It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item.　
 It prevents the foe from using its \xfffeheld item. Its Trainer is also prevented \xfffefrom using items on it.
-The user explodes to inflict damage xfffeon all \Pokemon in battle. The user \xfffefaints upon using this move.
+The user explodes to inflict damage \xfffeon all Pokemon in battle. \xfffeThe user faints upon using this move.
 The user slashes with a sharp claw \xfffemade from shadows. It has a high \xfffecritical-hit ratio.
 Numerous coins are hurled \xfffeat the foe to inflict damage. \xfffeMoney is earned after battle.
 It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn \xfffethe attacks power increases.
@@ -535,93 +535,93 @@ A sturdy Capsule that can only be\xfffeopened with a special key.
 A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-Scales that are washed clean\xfffeby the moving of the sea.\xfffe
-しんかの　ふしぎな　かたまり。\xfffeもたせると　しんかまえ　ポケモンの\xfffeぼうぎょと　とくぼうが　あがる。
-A odd-feeling stone.\xfffeIt has been filled full\xfffewith magic by a Pokémon.
-ポケモンに　もたせると\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえる。
-ポケモンに　もたせると\xfffeポケモンが　ちゅうに　うく。\xfffeこうげきを　うけると　われてしまう。
-ふしぎな　ちからのある　カード。\xfffeもたせると　わざをうけた　あいてを\xfffeたいじょう　させることが　できる。
-ポケモンの　タイプの　あいしょうで\xfffeむこう　だった　わざが\xfffeあたるように　なってしまう。
-しめつけるわざを　ほじょする　バンド。\xfffeもたせると　しめつけるわざの\xfffeいりょくが　つよく　なる。
-つかいすての　きゅうこん。\xfffeもたせて　みずの　わざを　うけると\xfffeとくこうが　あがる。
-つかいすての　じゅうでんち。\xfffeもたせて　でんきの　わざを　うけると\xfffeこうげきが　あがる。
-もたせて　わざを　うけると\xfffeせんとうから　だっしゅつして\xfffeてもちと　いれかわる　ことができる。
-A very flamy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fire-type moves.
-A refreshing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Water-type moves.
-A static, shocking gem.\xfffeIf held by a Pokémon,\xfffeit boosts Electric-type moves.
-A green, soft gem.\xfffeIf held by a Pokémon,\xfffeit boosts Grass-type moves.
-A ice-cold gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ice-type moves.
-A tough gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fight-type moves.
-A poisoned gem.\xfffeIf held by a Pokémon,\xfffeit boosts Poison-type moves.
-A dirty mud gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ground-type moves.
-A light gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fly-type moves.
-A hypnotizing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Psychic-type moves.
-A buggy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Bug-type moves.
-A gem hard as rock.\xfffeIf held by a Pokémon,\xfffeit boosts Rock-type moves.
-A black, creepy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dark-type moves.
-A very dragon-like gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dragon-type moves.
-A dark, scary gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ghost-type moves.
-A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves.
-A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves.
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　ちょっと　あげる。
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　ちょっと　あげる。
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　ちょっと　あげる。
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　ちょっと　あげる。
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　ちょっと　あげる。
-An item to be held by a Pokémon.\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　ちょっと　あげる。
-きれいなだけで　なんの　こうかもない\xfffeごくごく　ふつうの　ハネ。\xfffe
-おおむかし　うみに　すんでいた\xfffeこだい　ポケモンの　カセキ。\xfffeせなかの　いちぶ　らしい。
-とりポケモンの　そせんと　いわれる\xfffeこだい　ポケモンの　カセキ。\xfffeつばさの　いちぶ　らしい。
-A ticket needed to get\xfffeto Liberty Garden Island.\xfffeBoat location: Hiun City.
-デルパワーを　はっせいさせる\xfffeときにつかう　イッシュの　パワーが\xfffeとじこめられた　ふしぎな　たま。
-A ball of dreams that unexpectedly \xfffeappears in your bag in the High Link forest. \xfffeIt can catch any kind of Pokémon.
-ポケモンの　きを　ひかせる　どうぐ。\xfffeやせいポケモンとの　せんとうから\xfffeぜったいに　にげられる。
-A pink fashion case required\xfffeto participate in\xfffethe PokéTheater.
-あれくるう　うみを　ものともせず\xfffeじゆうに　とびまわっていたと　される\xfffeポケモンの　あたまの　ホネ。
-あたりいったいに　いい　かおりが\xfffeひろがる　めずらしい　キノコ。\xfffeマニアが　たかく　かってくれる。
-キラキラと　きんいろに　ひかる\xfffeじゅんきんせいの　おおきな　たま。\xfffeマニアが　たかく　かってくれる。
-きれいな　ぎんいろに　ひかる\xfffeとても　おおつぶの　しんじゅ。\xfffeマニアが　たかく　かってくれる。
-すいせいが　ちかづいたとき\xfffeちひょうに　おちた　かけら。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　どうか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　ぎんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つかわれた　きんか。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　ツボ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　うでわ。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　せきぞう。\xfffeマニアが　たかく　かってくれる。
-３０００ねんほど　むかしの\xfffeぶんめいで　つくられた　おうかん。\xfffeマニアが　たかく　かってくれる。
-ヒウンシティの　めいぶつアイス。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-きゅうしょりつが　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　それなりに　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　かなり　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeすばやさを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくこうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeとくぼうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeぼうぎょを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeこうげきを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-せんとうちゅうの　ポケモンの\xfffeめいちゅうを　ものすごく　あげる。\xfffeひっこめると　もとに　もどる。
-つかうと　みかたの　ポケモンの\xfffeとくせいを　はつどう　させる。\xfffe
-つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　なくす。\xfffe
-つかうと　みかたの　ポケモンが\xfffeもっている　どうぐを　すぐつかう。\xfffe
-つかうと　みかたの　ポケモンの\xfffeのうりょく　へんかが　もとにもどる。\xfffe
-きゅうしょりつが　おおきく　あがる。\xfffeつかうたびに　こうかが　アップする。\xfffeひっこめると　もとに　もどる。
-A white, light ball\xfffeof some kind.\xfffeWhat it is is unknown.
-A black, heavy ball\xfffeof some kind.\xfffeWhat it is is unknown.
-It covers itself in electricity \xfffeand crashes into the opponent. It \xfffealso takes a little damage.
-The user hits with a punch that \xfffemay lower the target’s Defense. It \xfffecan also smash cracked boulders.
-It yells at an opponent for a \xfffelong time and lowers their \xfffeSpecial Attack.
-You can video-chat with\xfffe4 people at the same time.\xfffe
-An Illusion Stone.\xfffe\xfffe
-A pass to let you enter\xfffea kind of event or place.\xfffe
-A pass to let you enter\xfffea kind of event or place.\xfffe
-A pass to let you enter\xfffea kind of event or place.\xfffe
-You can video-chat with\xfffe4 people at the same time.\xfffe
+A beautiful scale that will\xfffecause a certain Pokémon to evolve.\xfffeIt is very colourful.
+A piece of evolutions wonder.\xfffeIf held, a pre-evolved Pokémon's\xfffeDefence and Sp. Defence will be boosted.
+An item to be held by a Pokémon.\xfffeThe holder's weight will\xfffebe much lighter when holding.
+An item to be held by a Pokémon.\xfffeIt will give the opponent\xfffedamage when it hits the holder.
+An item to be held by a Pokémon.\xfffeIt will cause the holder to\xfffefloat. It pops if it gets attacked.
+An item to be held by a Pokémon.\xfffeIf the holder gets attacked,\xfffethe opponent switches out.
+An item to be held by a Pokémon.\xfffeIf a move misses because\xfffeof type matchups, it will now hit.
+An item to be held by a Pokémon.\xfffeIf a move uses pressure,\xfffethe move will have boosted Power.
+An item to be held by a Pokémon.\xfffeIf the holder is hit by a\xfffeWater move, its Sp. Attack raises.
+An item to be held by a Pokémon.\xfffeIf the holder is hit by an\xfffeElectric move, its Attack raises.
+An item to be held by a Pokémon.\xfffeIf the holder gets attacked,\xfffethe user switches out.
+A very flamy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fire-type moves one time.
+A refreshing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Water-type moves one time.
+A static, shocking gem.\xfffeIf held by a Pokémon,\xfffeit boosts Electric-type moves one time.
+A green, soft gem.\xfffeIf held by a Pokémon,\xfffeit boosts Grass-type moves one time.
+A ice-cold gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ice-type moves one time.
+A tough gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fight-type moves one time.
+A poisoned gem.\xfffeIf held by a Pokémon,\xfffeit boosts Poison-type moves one time.
+A dirty mud gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ground-type moves one time.
+A light gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fly-type moves one time.
+A hypnotizing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Psychic-type moves one time.
+A buggy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Bug-type moves one time.
+A gem hard as rock.\xfffeIf held by a Pokémon,\xfffeit boosts Rock-type moves one time.
+A black, creepy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dark-type moves one time.
+A very dragon-like gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dragon-type moves one time.
+A dark, scary gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ghost-type moves one time.
+A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves one time.
+A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves one time.
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's HP EV a little.
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Attack EV a little.
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Defence EV a little.。
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Atk EV a little.
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Def EV a little.
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Speed EV a little.
+A very ordinary Wing that is\xfffejust beautiful without effect.\xfffe
+A fossil of an ancient Pokémon.\xfffeIt appears to have lived\xfffelong ago in the deep ocean.
+A fossil of an ancient Pokémon.\xfffeIt appears to have lives\xfffelong ago in the high sky.
+A special ticket needed to go\xfffeto Liberty Garden Island. You\xfffecan catch a ship at Hiun City.
+A mysterious ball that encloses\xfffethe power of Isshu. You use it\xfffewhen you use the Deru Power.
+A ball of dreams that unexpectedly \xfffeappears in your bag in the Highlink forest. \xfffeIt can catch any kind of Pokémon.
+A toy that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
+A beautiful and cool case.\xfffeIt holds all goods needed\xfffefor the Pokémusical.
+A skull bone of a Pokémon that\xfffeused to fly freely around the\xfffesea despite the raging water.
+A rare mushroom that will spread\xfffea nice scent around the area.\xfffeIt can be sold at a high price.
+A large orb of pure gold that\xfffeshines with a golden colour.\xfffeIt can be sold at a high price.
+A large pearl that shines with a\xfffebeautiful silver colour.\xfffeIt can be sold at a high price.
+A piece of a comet will to the earth\xfffewhen a comet came to close.\xfffeIt can be sold at a high price.
+A bronze coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A silver coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A gold coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A vase that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A bracelet that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A statue that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A crown that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
+A specialty of Hiun City.\xfffeIf used, it restores all status\xfffeproblems of a single Pokémon.
+An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Defense stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Attack stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Defense stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Attack stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Defense stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the Attack stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+When used by a Pokémon,\xfffea teammate's ability will be\xfffeactivated.
+When used by a Pokémon,\xfffea teammate will lose its item.\xfffe
+When used by a Pokémon,\xfffea teammate's item will be\xfffeused immediately.
+When used by a Pokémon,\xfffeall stats will be restored\xfffeto normal.
+An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
+The form of Reshiram's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
+The form of Zekrom's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
+It covers itself in electricity \xfffeand crashes into the opponent. \xfffeIt also takes a little damage.
+The user hits with a punch that \xfffemay lower the target’s Defense. \xfffeIt can also smash cracked boulders.
+It yells at an opponent for a long time \xfffeand lowers their Special Attack stat.
+The latest model transciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+A phantom stone.\xfffe\xfffe
+An important letter delivered by WINGULL.\xfffe\xfffe
+An important letter delivered by WINGULL.\xfffe\xfffe
+An important letter delivered by WINGULL.\xfffe\xfffe
+The latest model transciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.

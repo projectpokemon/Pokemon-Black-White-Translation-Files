@@ -114,10 +114,10 @@ Griseous Orb
 ???
 ???
 ???
-Akuakasetto
-Inazumakasetto
-Fureizukasetto
-Furiizukasetto
+Aqua Cassette
+Lightning Cassette
+Blaze Cassette
+Freeze Cassette
 ???
 ???
 ???
@@ -132,7 +132,7 @@ Furiizukasetto
 ???
 ???
 ???
-Heart Suites
+Heart Sweets
 Adamant Orb
 Lustrous Orb
 Grass Mail
@@ -535,26 +535,26 @@ Lock Capsule
 Red Orb
 Blue Orb
 Enigma Stone
-Clean Scales
-Shinkanokiseki
-Magic Stone
-Lumpy Met
+Clean Scale
+Evolution Stone
+Pumice Stone
+Rugged Helmet
 Balloon
 Red Card
-Nerainomato
-Tight Band
-Baseball Today
-Juudenchi
-Dash Button
+Bull's Eye
+Pressure Band
+Bulb
+Rechargeable Battery
+Escape Button
 Fire Jewel
 Water Jewel
-Elec Jewel
+Electric Jewel
 Grass Jewel
 Ice Jewel
 Fight Jewel
 Poison Jewel
-Ground Jewel
-Fly Jewel
+Earth Jewel
+Flight Jewel
 Psychic Jewel
 Bug Jewel
 Rock Jewel
@@ -563,57 +563,57 @@ Dragon Jewel
 Dark Jewel
 Steel Jewel
 Normal Jewel
-Tairyokunohane
-Kinryokunohane
-Teikounohane
-Chiryokunohane
-Seishinnohane
-Shunpatsunohane
-Kireinahane
-Futanokaseki
-Hanenokaseki
+Strength Wing
+Power Wing
+Resistance Wing
+Wisdom Wing
+Mind Wing
+Instant Wing
+Beautiful Wing
+Lid Fossil
+Wing Fossil
 Liberty Ticket
-Derudama
+Deru Ball
 Dream Ball
-Poke Jarashi
-Guzzukeesu
-Doragonnohone
-Kaorukinoko
-Dekaikinnotama
-Odangoshinju
-Suiseinokakera
-Kodainodouka
-Kodainoginka
-Kodainokinka
-Kodainotsubo
-Kodainoudewa
-Kodainosekizou
-Kodainooukan
-Hiun Ice
-Critical Cut 2
-Speeder 2
-SP Up 2
-SP Guard 2
-Defender 2
-Plus Power 2
-Yokuataaru2
-Speeder 3
-SP Up 3
-SP Guard 3
-Defender 3
-Plus Power 3
-Yokuataaru3
-Speeder 6
-SP Up 6
-SP Guard 6
-Defender 6
-Plus Power 6
-Yokuataaru6
+Poké-Toy
+Goods Case
+Dragon Bone
+Fragrant Mushroom
+Huge Gold Orb
+Round Pearl
+Comet Piece
+Ancient Bronze Coin
+Ancient Silver Coin
+Ancient Gold Coin
+Ancient Vase
+Ancient Bracelet
+Ancient Statue
+Ancient Crown
+Hiun Ice-cream
+Dire Hit 2
+X Speed 2
+X Sp. Atk 2
+X Sp. Def 2
+X Defend 2
+X Attack 2
+X Accuracy 2
+X Speed 3
+X Sp. Atk 3
+X Sp. Def 3
+X Defend 3
+X Attack 3
+X Accuracy 3
+X Speed 6
+X Sp. Atk 6
+X Sp. Def 6
+X Defend 6
+X Attack 6
+X Accuracy 6
 Skill Call
 Item Drop
 Item Call
 Flat Call
-Critical Cut 3
+Dire Hit 3
 Light Stone
 Dark Stone
 TM93
@@ -621,7 +621,7 @@ TM94
 TM95
 Live Caster
 God Stone
-Haitatsubutsu1
-Haitatsubutsu2
-Haitatsubutsu3
+Delivered Goods 1
+Delivered Goods 2
+Delivered Goods 3
 Live Caster
