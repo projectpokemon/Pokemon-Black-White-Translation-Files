@@ -1,6 +1,6 @@
 Fly to where?
 Dummy
-A small countryside town with\xfffea soft, pleasent blow.
+A small countryside town with\xfffea soft, pleasant breeze.
 Pokémon Lab
 A small, calm town that has\xfffethe looks and feels of a city.
 Pokécenter
@@ -27,7 +27,7 @@ Pokécenter
 Theater
 Soccer
 Tennis
-Ferry's wheel
+Ferris wheel
 An everyday city.\xfffeThere is much to do here.
 Gym
 Pokécenter

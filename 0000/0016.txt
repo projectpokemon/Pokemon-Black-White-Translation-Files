@@ -334,9 +334,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
 \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 became infatuated \xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffe fell in love!
-The wild \xf000Ă\x0001\x0000 \xfffe fell in love!
-The foe's \xf000Ă\x0001\x0000 \xfffe fell in love!
+\xf000Ă\x0001\x0000 \xfffefell in love!
+The wild \xf000Ă\x0001\x0000 \xfffefell in love!
+The foe's \xf000Ă\x0001\x0000 \xfffefell in love!
 \xf000Ă\x0001\x0000 \xfffeis no longer in love!
 The wild \xf000Ă\x0001\x0000 \xfffeis no longer in love!
 The foe's \xf000Ă\x0001\x0000 \xfffeis no longer in love!
@@ -440,24 +440,24 @@ The foe's \xf000Ă\x0001\x0000 \xfffeみぶるいした！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
-\xf000Ă\x0001\x0000 \xfffe is being lazy.
-The wild \xf000Ă\x0001\x0000 \xfffe is being lazy.
-The foe's \xf000Ă\x0001\x0000 \xfffe is being lazy.
-\xf000Ă\x0001\x0000 \xfffe increased their attack!
-The wild \xf000Ă\x0001\x0000 \xfffe increased their attack!
-The foe's \xf000Ă\x0001\x0000 \xfffe increased their attack!
-\xf000Ă\x0001\x0000 \xfffe can't sleep!
-The wild \xf000Ă\x0001\x0000 \xfffe can't sleep!
-The foe's \xf000Ă\x0001\x0000 \xfffe can't sleep!
+\xf000Ă\x0001\x0000 \xfffeis being lazy.
+The wild \xf000Ă\x0001\x0000 \xfffeis being lazy.
+The foe's \xf000Ă\x0001\x0000 \xfffeis being lazy.
+\xf000Ă\x0001\x0000 \xfffeincreased their attack!
+The wild \xf000Ă\x0001\x0000 \xfffeincreased their attack!
+The foe's \xf000Ă\x0001\x0000 \xfffeincreased their attack!
+\xf000Ă\x0001\x0000 \xfffecan't sleep!
+The wild \xf000Ă\x0001\x0000 \xfffecan't sleep!
+The foe's \xf000Ă\x0001\x0000 \xfffecan't sleep!
 \xf000Ă\x0001\x0000is clinging with suction cups!
 The wild \xf000Ă\x0001\x0000is clinging with suction cups!
 The foe's \xf000Ă\x0001\x0000is clinging with suction cups!
-\xf000Ă\x0001\x0000 \xfffe sucked up sludge!
-The wild \xf000Ă\x0001\x0000 \xfffe sucked up sludge!
-The foe's \xf000Ă\x0001\x0000 \xfffe sucked up sludge!
-\xf000Ă\x0001\x0000 \xfffe was stolen!
-The wild \xf000Ă\x0001\x0000 \xfffe was stolen!
-The foe's \xf000Ă\x0001\x0000 \xfffe was stolen!
+\xf000Ă\x0001\x0000 \xfffesucked up sludge!
+The wild \xf000Ă\x0001\x0000 \xfffesucked up sludge!
+The foe's \xf000Ă\x0001\x0000 \xfffesucked up sludge!
+\xf000Ă\x0001\x0000 \xfffewas stolen!
+The wild \xf000Ă\x0001\x0000 \xfffewas stolen!
+The foe's \xf000Ă\x0001\x0000 \xfffewas stolen!
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's special characteristic changed into Mummy!
@@ -476,9 +476,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeどくを　あびせた！
 \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's raised their attack to its max!
 The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's raised their attack to its max!
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001's raised their attack to its max!
-\xf000Ă\x0001\x0000 \xfffe illusion wore off!
-The wild \xf000Ă\x0001\x0000 \xfffe illusion wore off!
-The foe's \xf000Ă\x0001\x0000 \xfffe illusion wore off!
+\xf000Ă\x0001\x0000 \xfffeillusion wore off!
+The wild \xf000Ă\x0001\x0000 \xfffeillusion wore off!
+The foe's \xf000Ă\x0001\x0000 \xfffeillusion wore off!
 \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
 The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
 The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
@@ -518,18 +518,18 @@ The foe's \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
 \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
 The wild \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
 The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
-\xf000Ă\x0001\x0000's \xfffe defense was broken!
-The wild \xf000Ă\x0001\x0000's \xfffe defense was broken!
-The foe's \xf000Ă\x0001\x0000's \xfffe defense was broken!
-\xf000Ă\x0001\x0000 \xfffe protected itself!
-The wild \xf000Ă\x0001\x0000 \xfffe protected itself!
-The foe's \xf000Ă\x0001\x0000 \xfffe protected itself!
+\xf000Ă\x0001\x0000's \xfffedefense was broken!
+The wild \xf000Ă\x0001\x0000's \xfffedefense was broken!
+The foe's \xf000Ă\x0001\x0000's \xfffedefense was broken!
+\xf000Ă\x0001\x0000 \xfffeprotected itself!
+The wild \xf000Ă\x0001\x0000 \xfffeprotected itself!
+The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself!
 \xf000Ă\x0001\x0000 \xfffeanger has begun to rise!
 The wild \xf000Ă\x0001\x0000 \xfffeanger has begun to rise!
 The foe's \xf000Ă\x0001\x0000 \xfffeanger has begun to rise!
-\xf000Ă\x0001\x0000's \xfffe flew high into the air!
-The wild \xf000Ă\x0001\x0000's \xfffe flew high into the air!
-The foe's \xf000Ă\x0001\x0000's \xfffe flew high into the air!
+\xf000Ă\x0001\x0000 \xfffeflew high into the air!
+The wild \xf000Ă\x0001\x0000 \xfffeflew high into the air!
+The foe's \xf000Ă\x0001\x0000 \xfffeflew high into the air!
 \xf000Ă\x0001\x0000 \xfffeDived into the water!
 The wild \xf000Ă\x0001\x0000 \xfffeDived into the water!
 The foe's \xf000Ă\x0001\x0000 \xfffeDived into the water!
@@ -551,15 +551,15 @@ The foe's \xf000Ă\x0001\x0000 　まわりで\xfffeくうきが　うずをま�
 \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
 The wild \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
 The foe's \xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-\xf000Ă\x0001\x0000 \xfffe took in sunlight!
-The wild \xf000Ă\x0001\x0000 \xfffe took in sunlight!
-The foe's \xf000Ă\x0001\x0000 \xfffe took in sunlight!
-\xf000Ă\x0001\x0000 \xfffe received an encore!
-The wild \xf000Ă\x0001\x0000 \xfffe received an encore!
-The foe's \xf000Ă\x0001\x0000 \xfffe received an encore!
-\xf000Ă\x0001\x0000 \xfffe's the encore has died down!
-The wild \xf000Ă\x0001\x0000 \xfffe's the encore has died down!
-The foe's \xf000Ă\x0001\x0000 \xfffe's the encore has died down!
+\xf000Ă\x0001\x0000 \xfffetook in sunlight!
+The wild \xf000Ă\x0001\x0000 \xfffetook in sunlight!
+The foe's \xf000Ă\x0001\x0000 \xfffetook in sunlight!
+\xf000Ă\x0001\x0000 \xfffereceived an encore!
+The wild \xf000Ă\x0001\x0000 \xfffereceived an encore!
+The foe's \xf000Ă\x0001\x0000 \xfffereceived an encore!
+\xf000Ă\x0001\x0000's \xfffeencore has died down!
+The wild \xf000Ă\x0001\x0000's \xfffeencore has died down!
+The foe's \xf000Ă\x0001\x0000's \xfffeencore has died down!
 \xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
 The wild \xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
 The foe's \xf000Ă\x0001\x0000 \xfffe's special characteristic is no longer effective!
@@ -599,12 +599,12 @@ The foe's \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001
 \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
 The wild \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
 The foe's \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-\xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-\xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
+\xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+The wild \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+The foe's \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+Aqua Ring restored \xfffe\xf000Ă\x0001\x0000's HP!
+Aqua Ring restored \xfffethe wild \xf000Ă\x0001\x0000's HP!
+Aqua Ring restored \xfffethe foe's \xf000Ă\x0001\x0000's HP!
 \xf000Ă\x0001\x0000 \xfffewas seeded!
 The wild \xf000Ă\x0001\x0000 \xfffewas seeded!
 The foe's \xf000Ă\x0001\x0000 \xfffewas seeded!
