@@ -1492,9 +1492,9 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeSing A Round!
 \xf000ā\x0001\x0000 used\xfffeEcho Voice!
 The wild \xf000ā\x0001\x0000 used\xfffeEcho Voice!
 The foe’s \xf000ā\x0001\x0000 used\xfffeEcho Voice!
-\xf000ā\x0001\x0000 used\xfffeLittle By Little!
-The wild \xf000ā\x0001\x0000 used\xfffeLittle By Little!
-The foe’s \xf000ā\x0001\x0000 used\xfffeLittle By Little!
+\xf000ā\x0001\x0000 used\xfffeBit by Bit!
+The wild \xf000ā\x0001\x0000 used\xfffeBit by Bit!
+The foe’s \xf000ā\x0001\x0000 used\xfffeBit by Bit!
 \xf000ā\x0001\x0000 used\xfffeClear Smog!
 The wild \xf000ā\x0001\x0000 used\xfffeClear Smog!
 The foe’s \xf000ā\x0001\x0000 used\xfffeClear Smog!

@@ -238,9 +238,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffegot covered in poison!
 \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 The wild \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
 The foe's \xf000Ă\x0001\x0000 \xfffegot covered in a deadly poison!
-\xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
-The wild \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
-The foe's \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001\xf000\x0000
+\xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 got covered in poison from \xfffethe \xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 The wild \xf000Ă\x0001\x0000 \xfffetook damage from the poison!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage from the poison!

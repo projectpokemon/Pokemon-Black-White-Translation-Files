@@ -30,7 +30,7 @@ Yes
 No
 Your PC’s Mailbox is full.
 Mail was taken from the\xfffePokémon.
-\xf000Ă\x0001\x0000 wants to learn \xfffe\xf000ć\x0001\x0001\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already knows 4 moves!\xfffeShould a move be deleted and replaced \xfffewith \xf000ć\x0001\x0001?\xf000븁\x0000
+\xf000Ă\x0001\x0000 wants to learn \xf000ć\x0001\x0001\xfffeHowever, \xf000Ă\x0001\x0000 already knows 4 moves!\xf000븁\x0000\xfffeShould a move be deleted and be\xfffereplaced with \xf000ć\x0001\x0001?
 Yes
 No
 Stop trying to teach\xfffe\xf000ć\x0001\x0001?
