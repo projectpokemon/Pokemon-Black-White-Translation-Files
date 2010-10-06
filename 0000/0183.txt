@@ -16,7 +16,7 @@ The Pokémon’s accuracy is\xfffeboosted.
 Prevents the Pokémon\xfffefrom falling asleep.
 Changes the Pokémon’s\xfffetype to the foe’s move.
 Prevents the Pokémon\xfffefrom getting poisoned.
-Powers up Fire-type moves\xfffeif hit by a fire move.
+Powers up Fire-type moves\xfffe& nullifies if hit by fire.
 Blocks the added effects\xfffeof attacks taken.
 Prevents the Pokémon\xfffefrom becoming confused.
 Negates moves that\xfffeforce switching out.
@@ -29,7 +29,7 @@ Contact may paralyze,\xfffepoison, or cause sleep.
 Passes on a burn, poison,\xfffeor paralysis to the foe.
 Prevents the Pokémon’s\xfffestats from being lowered.
 All status problems are\xfffehealed upon switching out.
-The Pokémon draws in all\xfffeElectric-type moves.
+Draws in & nulls all Elecric-\xfffetype moves & raises SpAtk.
 Boosts the likelihood of\xfffeadded effects appearing.
 Boosts the Pokémon’s\xfffeSpeed in rain.
 Boosts the Pokémon’s\xfffeSpeed in sunshine.
@@ -121,45 +121,45 @@ The Pokémon can check\xfffethe foe’s held item.
 Powers up moves that\xfffehave recoil damage.
 Changes type to match\xfffethe held Plate.
 Powers up party Pokémon\xfffewhen it is sunny.
-Reduces a sleeping foe’s\xfffeHP.
-さわられた　あいてから\xfffeどうぐを　ぬすむ。
-ちからが　つよくなるが\xfffeついかこうかが　なくなる。
-のうりょくの　へんかが\xfffeぎゃくてんする。
-あいてを　きんちょうさせ\xfffeきのみを　たべさせない。
-のうりょくが　さがると\xfffeこうげきが　あがる。
-ＨＰが　はんぶんになると\xfffeのうりょくが　さがる。
-こうげきされると　たまに\xfffeかなしばりにする。
-みかたの　じょうたい\xfffeいじょうを　たまに　なおす。
-みかたの　ダメージを\xfffeへらすことができる。
-ぶつりわざで　ぼうぎょが\xfffeさがり　すばやさがあがる。
-じぶんの　おもさが\xfffe２ばいに　なる。
-じぶんの　おもさが\xfffeはんぶんに　なる。
-ＨＰが　まんたんのときに\xfffeダメージが　すくなくなる。
-どくのとき　ぶつりの\xfffeいりょくが　あがる。
-やけどのとき　とくしゅの\xfffeいりょくが　あがる。
-つかった　きのみを\xfffeなんかいも　つくりだす。
-みかたの　こうげきを\xfffeよみとって　うけない。
-のうりょくが　あがったり\xfffeさがったりする。
-てんきの　えいきょうで\xfffeダメージを　うけない。
-さわるだけで　あいてを　\xfffeどくにすることがある。
-ひっこめると ＨＰが\xfffeすこし　かいふくする。
-ぼうぎょを　さげる\xfffeこうげきを　うけない。
-すなあらしで\xfffeすばやさが　あがる。
-へんかわざを　うけにくい\xfffeからだに　なっている。
-いちばん　さいごに\xfffeわざをだすと　つよくなる。
-うしろの　ポケモンに\xfffeなりきって　でてくる。
-めのまえの　ポケモンに\xfffeへんしん　してしまう。
-あいての　かべを\xfffeすりぬけて　こうげき。
-あいてに　さわられると\xfffeあいてを　ミイラにする。
-あいてを　たおすと\xfffeこうげきが　あがる。
-あくを　うけると\xfffeこうげきが　あがる。
-びびって　すばやさが\xfffeあがる　タイプがある。
-へんかわざを　かえす\xfffeことが　できる。
-くさの　わざを　うけると\xfffeこうげきが　あがる。
-へんかわざを　せんせいで\xfffeだすことが　できる。
-すなあらしで　いりょくが\xfffeあがる　わざがある。
-ふれた　あいてを\xfffeキズつける。
-ピンチに　なると\xfffeすがたが　へんかする。
-じぶんや　みかたの\xfffeめいちゅうが　あがる。
-とくせいに　かんけいなく\xfffeあいてに　わざを　だせる。
-とくせいに　かんけいなく\xfffeあいてに　わざを　だせる。
+Reduces a sleeping foe’s\xfffeＨＰ.
+Steals foe's item\xfffewith contact.
+Attack gains power but\xfffelooses secondary effect.
+Stat changes are reversed.
+Causes foe tension & loss\xfffeof appetite for berries.
+Attack increases as\xfffeits stats are lowered.
+If ＨＰ drops below 50%\xfffeAttack decreases.
+Disables foe's moves\xfffeoccasionally with contact.
+Occasionally heals status-\xfffeproblems of teammates.
+Lowers damage received\xfffeby a teammate.
+Lowers Defence but ups\xfffeSpeed with contact.
+Weight is doubled.
+Weight is halved.
+Recieves less damage when\xfffeＨＰ is full.
+Attack rises when poisoned.
+SpAtk rises when burnt.
+A Berry is re-usable\xfffemany times per battle.
+Prevents receiving\xfffeattacks from teamates.
+Stats are variable.
+Immune to weather effects.
+Poisons foe with contact.
+ＨＰ is restored when\xfffeswitched out.
+Prevents lowering\xfffeof Defence.
+Speed rises in Sand Storm.
+Resists stat changing\xfffemoves.
+Move becomes powerful\xfffeif last to attack.
+Transforms & becomes\xfffethe Pokémon in behind.
+Transforms & becomes\xfffethe Pokémon in front.
+Able to slip through\xfffeenemy walls & attack.
+Changes foe's ability\xfffeto Mummy with contact.
+Raises Attack when\xfffefoe faints.
+Attack rises if hit by a\xfffeDark-type move.
+Raises Speed around\xfffecertain type Pokémon.
+Reflect the effects of stat-\xfffechanging moves.
+Attack rises if hit by a\xfffeGrass-type move.
+Non-attacking moves gets\xfffehigher speed priority.
+Sand Storm Ups the Power\xfffeof certain moves.
+Deals damage with contact.
+Changes form in a pinch.
+All teammates receive\xfffean increase in accuracy.
+Can attack the foe\xffferegardless of their ability.
+Can attack the foe\xffferegardless of their ability.
