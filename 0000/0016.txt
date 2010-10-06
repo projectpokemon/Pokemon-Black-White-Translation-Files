@@ -515,12 +515,12 @@ The foe's \xf000Ă\x0001\x0000 \xfffetook a hit!
 \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
 The wild \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
 The foe's \xf000Ă\x0001\x0000 \xfffegot into a defensive stance!
-\xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
-The wild \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
-The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
 \xf000Ă\x0001\x0000's \xfffedefense was broken!
 The wild \xf000Ă\x0001\x0000's \xfffedefense was broken!
 The foe's \xf000Ă\x0001\x0000's \xfffedefense was broken!
+\xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
+The wild \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
+The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself from a hit!
 \xf000Ă\x0001\x0000 \xfffeprotected itself!
 The wild \xf000Ă\x0001\x0000 \xfffeprotected itself!
 The foe's \xf000Ă\x0001\x0000 \xfffeprotected itself!

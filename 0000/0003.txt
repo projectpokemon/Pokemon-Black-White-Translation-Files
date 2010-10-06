@@ -1,17 +1,17 @@
-Do you want to save \xfffethis match in your VS Recoder?
+Do you want to save \xfffethis match in your VS Recorder?
 Yes
 No
-Data will be lost forever\xfffeare you sure?
+Data will be lost forever.\xfffeAre you sure?
 Yes
 No
-You will be overwriting your previous battle video\xfffeis that OK?
+You will be overwriting your previous \xfffebattle video. Is that OK?
 Yes
 No
 Your video is now saving.\xfffePlease wait!
 Your match has been saved.
-There was an error\xfffeVideo couldn't be saved.
-Waiting for your opponent\xfffe Please wait a moment!
-Your opponent is not ready\xfffe Please wait a moment!
+There was an error. \xfffeVideo couldn't be saved.
+Waiting for your opponent. \xfffePlease wait a moment!
+Your opponent is not ready. \xfffePlease wait a moment!
 You cannot record a match with this opponent.
 You cannot record this match.
 SELECT TIME
@@ -21,23 +21,23 @@ Previous Record
 Single Coliseum\xfffeUnrestricted
 Single Coliseum\xfffeFlat
 Single coliseum\xfffeUnrestricted Shooting
-Single Coliseum\xffferestricted Shooting
+Single Coliseum\xfffeRestricted Shooting
 Double Coliseum\xfffeUnrestricted
 Double Coliseum\xfffeFlat
 Double Coliseum\xfffeUnrestricted Shooting
-Double Coliseum\xffferestricted Shooting
+Double Coliseum\xfffeRestricted Shooting
 Triple Coliseum\xfffeUnrestricted
 Triple Coliseum\xfffeFlat
 Triple Coliseum\xfffeUnrestricted Shooting
-Triple Coliseum\xffferestricted Shooting
+Triple Coliseum\xfffeRestricted Shooting
 Rotation Coliseum\xfffeUnrestricted
 Rotation Coliseum\xfffeFlat
 Rotation Coliseum\xfffeUnrestricted Shooting
-Rotation Coliseum\xffferestricted Shooting
+Rotation Coliseum\xfffeRestricted Shooting
 Multi Coliseum\xfffeUnrestricted
 Multi Coliseum\xfffeFlat
 Multi Coliseum\xfffeUnrestricted Shooting
-Multi Coliseum\xffferestricted Shooting
+Multi Coliseum\xfffeRestricted Shooting
 バトルサブウェイ\xfffeSingle
 バトルサブウェイ\xfffeDouble
 バトルサブウェイ\xfffeMulti
@@ -51,11 +51,11 @@ Random Match Rating\xfffeDouble
 Random Match Rating\xfffeTriple
 Random Match Rating\xfffeRotation
 Random Match Rating\xfffeシューターバトル
-Single Tournament \xfffe without the Miracle Shooter
-Single Tournament\xfffe with the Miracle Shooter
-Double Tournament\xfffe Without the Miracle Shooter
-Double Tournament\xfffe with the Miracle Shooter
-Triple Tournament\xfffe Without the Miracle Shooter
-Triple Tournament\xfffe with the Miracle Shooter
-Rotation Tournament\xfffe Without the Miracle Shooter
-Rotation Tournament\xfffe with the Miracle Shooter
+Single Tournament \xfffewithout the Miracle Shooter
+Single Tournament \xfffewith the Miracle Shooter
+Double Tournament \xfffewithout the Miracle Shooter
+Double Tournament \xfffewith the Miracle Shooter
+Triple Tournament \xfffewithout the Miracle Shooter
+Triple Tournament \xfffewith the Miracle Shooter
+Rotation Tournament \xfffewithout the Miracle Shooter
+Rotation Tournament \xfffewith the Miracle Shooter
