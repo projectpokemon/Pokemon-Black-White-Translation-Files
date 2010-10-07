@@ -520,7 +520,7 @@ It attacks with a pillar of water.\xfffeIf you combine it with fire, its power u
 It attacks with a pillar of fire.\xfffeIf you combine it with grass its power ups\xfffe& the surrounds become a sea of flames.
 It attacks with a pillar of grass.\xfffeIf you combine it with water its power ups\xfffe& the surrounds becomes a moor.
 After it has attacked the opponent, it\xfffereturns and switches places with a\xfffewaiting Pokemon.
-It repels the foe by attacking.\xfffeIt lowers the foes' Sp. Atk.
+It opposes the foe by attacking.\xfffeIt lowers the foes' Sp. Atk.
 It stamps the ground and attacks anything\xfffenearby. It lowers the opponent’s speed.
 Blows a cool breath on the foe.\xfffeopponentAlways result in a critical hit.
 It sends the opponent flying and\xfffecauses the opponent to switch out.\xfffeIn a wild battle, the battle ends.
