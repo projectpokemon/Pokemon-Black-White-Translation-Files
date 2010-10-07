@@ -2,9 +2,9 @@ Fly to where?
 Dummy
 A small countryside town with\xfffea soft, pleasant breeze.
 Pokémon Lab
-A small, calm town that has\xfffethe looks and feels of a city.
+A small, calm town that has\xfffethe look and feel of a city.
 Pokécenter
-A little city that gives a\xfffehome to many famous people.
+A small city that gives \xfffehome to many famous people.
 Gym
 Pokécenter
 Trainer School
@@ -12,7 +12,7 @@ Transfer House
 This 100-year old city has\xfffethe looks of a plain city.
 Gym
 Pokécenter
-Shippou Diner
+Little Tail Diner
 Museum
 A city with high buildings.\xfffeThis city is quite young.
 Gym
@@ -21,7 +21,7 @@ Harbor
 Global Tower
 Poké Massage
 Middle Square
-A very amusing city.\xfffeThere is a funfair here.
+A very exciting city.\xfffeHome to an amusement park.
 Gym
 Pokécenter
 Theater
@@ -33,21 +33,21 @@ Gym
 Pokécenter
 Market
 Warehouse
-A little airport.\xfffeThey also grow vegetables here.
+A small airport town.\xfffeCrops are grown here.
 Gym
 Pokécenter
 Airport
 Move Deleter
-In winter, this town is\xfffeused as a rink.
+In winter, this town is\xfffeused as a skating rink.
 Gym
 Pokécenter
-Evolve checker
-This city has ancient looks.\xfffeIt is over 1,000 years old!
-This city has ancient looks.\xfffeIt is over 1,000 years old!
+Evolution checker
+This city looks ancient.\xfffeIt's over 1,000 years old!
+This city looks ancient.\xfffeIt's over 1,000 years old!
 Gym
 Pokécenter
 Trio Battle House
-Many Trainers come here to\xfffelook at their skills.
+Many Trainers come here to\xfffereview their skills.
 Pokécenter
 むかしからの　ふうしゅうを　まもり\xfffeきそくただしく　くらす　ひとの　まち
 Pokécenter
