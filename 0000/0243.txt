@@ -199,7 +199,7 @@
 
 
 
-あるすがた
+Forms Seen
 
 
 
@@ -349,7 +349,7 @@
 
 
 
-ポワルンのすがた
+Normal Weather
 
 
 
@@ -384,7 +384,7 @@
 
 
 
-ノーマルフォルム
+Normal Forme
 
 
 
@@ -410,8 +410,8 @@
 
 
 
-くさきのミノ
-くさきのミノ
+Plant Forme
+Plant Forme
 
 
 
@@ -419,9 +419,9 @@
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
+Overcast Forme
+Eastern Forme
+Eastern Forme
 
 
 
@@ -477,7 +477,7 @@
 
 
 
-ロトムのすがた
+Rotom Forms
 
 
 
@@ -485,13 +485,13 @@
 
 
 
-アナザーフォルム
+Altered Forme
 
 
 
 
-ランドフォルム
-アルセウスのすがた
+Land Forme
+Arceus Forms
 
 
 
@@ -548,12 +548,12 @@
 
 
 
-あかすじのすがた
+Default Form
 
 
 
 
-ノーマルモード
+Normal Mode
 
 
 
@@ -583,8 +583,8 @@
 
 
 
-はるのすがた
-はるのすがた
+Spring Form
+Spring Form
 
 
 
@@ -646,82 +646,82 @@
 
 
 
-ボイスフォルム
-インセクタのすがた
+Voice Forme
+Genosect Forms
  
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-すなちのミノ
-ゴミのミノ
-すなちのミノ
-ゴミのミノ
-ポジフォルム
-ひがしのうみ
-ひがしのうみ
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-オリジンフォルム
-スカイフォルム
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-あおすじのすがた
-ダルマモード
-なつのすがた
-あきのすがた
-ふゆのすがた
-なつのすがた
-あきのすがた
-ふゆのすがた
-ステップフォルム
-インセクタのすがた
-インセクタのすがた
-インセクタのすがた
-インセクタのすがた
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Forme
+Sunny Weather
+Rainy Weather
+Snowy Weather
+Attack Forme
+Defence Forme
+Speed Forme
+Sandy Forme
+Trash Forme
+Sandy Forme
+Trash Forme
+Sunshine Forme
+Western Forme
+Western Forme
+Heat Rotom
+Wash Rotom
+Frost Rotom
+Fan Rotom
+Mow Rotom
+Origin Forme
+Sky Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Arceus Forme
+Alternate Forme
+Daruma Mode
+Summer Forme
+Fall Forme
+Winter Forme
+Summer Forme
+Fall Forme
+Winter Forme
+Step Formee
+Genosect Forme
+Genosect Forme
+Genosect Forme
+Genosect Forme
