@@ -53,11 +53,11 @@ Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
 Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
 Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
 \xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped\xfffe\xf000Ȅ\x0001\x0001円 in panic…
-\xf000Ā\x0001\x0000 paid out\xfffe\xf000Ȅ\x0001\x0001円 to the winner…
-…　…　…　…\xf000븁\x0000\xf000Ā\x0001\x0000 blacked out!
-\xf000Ā\x0001\x0000 got \xf000Ȅ\x0001\x0001円\xfffefor winning!
-\xf000Ā\x0001\x0000 picked up \xf000Ȅ\x0001\x0001円!
+\xf000Ā\x0001\x0000 dropped\xfffe$\xf000Ȅ\x0001\x0001 in panic…
+\xf000Ā\x0001\x0000 paid out\xfffe$\xf000Ȅ\x0001\x0001 to the winner…
+... ... ... ...\xf000븁\x0000\xf000Ā\x0001\x0000 blacked out!
+\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
+\xf000Ā\x0001\x0000 picked up $\xf000Ȅ\x0001\x0001!
 \xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
 Oh, no!\xfffeThe Pokémon broke free!
 Aww!\xfffeIt appeared to be caught!

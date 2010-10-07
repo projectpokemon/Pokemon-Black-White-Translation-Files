@@ -16,7 +16,7 @@ The Pokémon’s accuracy is\xfffeboosted.
 Prevents the Pokémon\xfffefrom falling asleep.
 Changes the Pokémon’s\xfffetype to the foe’s move.
 Prevents the Pokémon\xfffefrom getting poisoned.
-Powers up Fire-type moves\xfffeand nullifies if hit by fire.
+Powers up Fire-type moves\xfffe& nullifies if hit by fire.
 Blocks the added effects\xfffeof attacks taken.
 Prevents the Pokémon\xfffefrom becoming confused.
 Negates moves that\xfffeforce switching out.
@@ -29,7 +29,7 @@ Contact may paralyze,\xfffepoison, or cause sleep.
 Passes on a burn, poison,\xfffeor paralysis to the foe.
 Prevents the Pokémon’s\xfffestats from being lowered.
 All status problems are\xfffehealed upon switching out.
-Draws in and nulls all Elecric-\xfffetype moves and raises SpAtk.
+Draws in & nulls all Elecric-\xfffetype moves & raises SpAtk.
 Boosts the likelihood of\xfffeadded effects appearing.
 Boosts the Pokémon’s\xfffeSpeed in rain.
 Boosts the Pokémon’s\xfffeSpeed in sunshine.
@@ -121,35 +121,35 @@ The Pokémon can check\xfffethe foe’s held item.
 Powers up moves that\xfffehave recoil damage.
 Changes type to match\xfffethe held Plate.
 Powers up party Pokémon\xfffewhen it is sunny.
-Reduces a sleeping foe’s\xfffeHP.
+Reduces a sleeping foe’s\xfffeＨＰ.
 Steals foe's item\xfffewith contact.
 Attack gains power but\xfffelooses secondary effect.
 Stat changes are reversed.
-Causes foe tension and loss\xfffeof appetite for berries.
+Causes foe tension & loss\xfffeof appetite for berries.
 Attack increases as\xfffeits stats are lowered.
-If HP drops below 50%\xfffeAttack decreases.
+If ＨＰ drops below 50%\xfffeAttack decreases.
 Disables foe's moves\xfffeoccasionally with contact.
 Occasionally heals status-\xfffeproblems of teammates.
 Lowers damage received\xfffeby a teammate.
-Lowers Defense but ups\xfffeSpeed with contact.
+Lowers Defence but ups\xfffeSpeed with contact.
 Weight is doubled.
 Weight is halved.
-Recieves less damage when\xfffeHP is full.
+Recieves less damage when\xfffeＨＰ is full.
 Attack rises when poisoned.
-Sp. Atk rises when burnt.
+SpAtk rises when burnt.
 A Berry is re-usable\xfffemany times per battle.
 Prevents receiving\xfffeattacks from teamates.
 Stats are variable.
 Immune to weather effects.
 Poisons foe with contact.
-HP is restored when\xfffeswitched out.
-Prevents lowering\xfffeof Defense.
+ＨＰ is restored when\xfffeswitched out.
+Prevents lowering\xfffeof Defence.
 Speed rises in Sand Storm.
 Resists stat changing\xfffemoves.
 Move becomes powerful\xfffeif last to attack.
-Transforms and becomes\xfffethe Pokémon in behind.
-Transforms and becomes\xfffethe Pokémon in front.
-Able to slip through\xfffeenemy walls and attack.
+Transforms & becomes\xfffethe Pokémon in behind.
+Transforms & becomes\xfffethe Pokémon in front.
+Able to slip through\xfffeenemy walls & attack.
 Changes foe's ability\xfffeto Mummy with contact.
 Raises Attack when\xfffefoe faints.
 Attack rises if hit by a\xfffeDark-type move.
