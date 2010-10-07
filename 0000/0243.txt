@@ -349,7 +349,7 @@
 
 
 
-ポワルンのすがた
+Normal Weather
 
 
 
@@ -384,7 +384,7 @@
 
 
 
-ノーマルフォルム
+Normal Forme
 
 
 
@@ -410,8 +410,8 @@
 
 
 
-くさきのミノ
-くさきのミノ
+Plant Form
+Plant Form
 
 
 
@@ -419,9 +419,9 @@
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
+Overcast Form
+Eastern Form
+Eastern Form
 
 
 
@@ -477,7 +477,7 @@
 
 
 
-ロトムのすがた
+Rotomのすがた
 
 
 
@@ -485,12 +485,12 @@
 
 
 
-アナザーフォルム
+Altered Forme
 
 
 
 
-ランドフォルム
+Land Forme
 アルセウスのすがた
 
 
@@ -548,12 +548,12 @@
 
 
 
-あかすじのすがた
+Default Form
 
 
 
 
-ノーマルモード
+Normal mode
 
 
 
@@ -583,8 +583,8 @@
 
 
 
-はるのすがた
-はるのすがた
+Spring Form
+Spring Form
 
 
 
@@ -646,7 +646,7 @@
 
 
 
-ボイスフォルム
+Voice Forme
 インセクタのすがた
  
 あるすがた
@@ -676,26 +676,26 @@
 あるすがた
 あるすがた
 あるすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-すなちのミノ
-ゴミのミノ
-すなちのミノ
-ゴミのミノ
-ポジフォルム
-ひがしのうみ
-ひがしのうみ
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-オリジンフォルム
-スカイフォルム
+Sunny weather
+Rainy weather
+Snowy weather
+Attack Forme
+Defence Forme
+Speed Forme
+Sandy Form
+Trash Form
+Sandy Form
+Trash Form
+Sunshine Form
+Western Form
+Western Form
+Heat Rotom
+Wash Rotom
+Frost Rotom
+Fan Rotom
+Mow Rotom
+Origin Forme
+Sky Forme
 アルセウスのすがた
 アルセウスのすがた
 アルセウスのすがた
@@ -712,15 +712,15 @@
 アルセウスのすがた
 アルセウスのすがた
 アルセウスのすがた
-あおすじのすがた
-ダルマモード
-なつのすがた
-あきのすがた
-ふゆのすがた
-なつのすがた
-あきのすがた
-ふゆのすがた
-ステップフォルム
+Alternate Form
+Daruma mode
+Summer Form
+Fall Form
+Winter Form
+Summer Form
+Fall Form
+Winter Form
+Step Forme
 インセクタのすがた
 インセクタのすがた
 インセクタのすがた
