@@ -1,5 +1,5 @@
-PKMN Trainer
-PKMN Trainer
+Pokemon Trainer
+Pokemon Trainer
 Youngster
 Lass
 School Boy
@@ -38,7 +38,7 @@ Psychic
 Pokemon Trainer
 Pokemon Trainer
 Team Plasma
-PKMN Trainer
+Pokemon Trainer
 Rich Boy
 Rich Girl
 Pilot
@@ -98,8 +98,8 @@ Bike-lover
 Game Freak
 ブルジョワールけ
 ブルジョワールけ
-PKMN Trainer
+Pokemon Trainer
 Team Plasma
 Subway Master
-PKMN Trainer
-PKMN Trainer
+Pokemon Trainer
+Pokemon Trainer

@@ -3,9 +3,9 @@ What is your name?
 What is your box’s name?
 What is your rival’s name?
 What is your friend’s name?
-What would you like your display message to be when you connect with another person?
-What would you like your thank you message to be when you connect with another person?
-What would you like to tell a person you’ve connected to?
+What would you like your display message\xfffeto be when you connect with another person?
+What would you like your thank-you message\xfffeto be when you connect with another person?
+What would you like to tell a person\xfffeyou’ve connected to?
 Please enter your name!
 You may only enter up to\xfffe4 characters.
 　

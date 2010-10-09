@@ -42,21 +42,21 @@ In winter, this town is\xfffeused as a rink.
 Gym
 Pokécenter
 Evolve checker
-This city has ancient looks.\xfffeIt is over 1,000 years old!
-This city has ancient looks.\xfffeIt is over 1,000 years old!
+This city has natural looks.\xfffeIt is over 1,000 years old!
+This city has futuristic looks.\xfffeEven though it's 1000 years old!
 Gym
 Pokécenter
 Trio Battle House
 Many Trainers come here to\xfffelook at their skills.
 Pokécenter
-むかしからの　ふうしゅうを　まもり\xfffeきそくただしく　くらす　ひとの　まち
+Long ago, a monster came with a meteor.\xfffeEver since, people stay at home in nights.
 Pokécenter
-なつは　バカンスの　ひとが　つどい\xfffeにぎわう　すなはまの　ひしょち
+Home to the famous Sinnoh Champion.\xfffeElite 4-members will come to battle her.
 Pokécenter
 てつどうしゃりょうが　せいびされたり\xfffeていはくする　しゃりょうきちの　まち
 ひとがつどい　はってんを　つづける\xfffeきんだいてきな　ふんいきの　まち
 Pokécenter
-ゆたかな　しぜんに　あこがれた\xfffeひとが　かくちから　あつまる　ばしょ
+This city contains very large trees.\xfffeThere is only one wooden house here.
 Pokécenter
 せかい　かっこくの　ひとびとと\xfffeこうりゅうできる　ちょうこうそうビル
 とおく　はなれた　べつちほうの\xfffeポケモンを　けんきゅうする　しせつ
@@ -79,23 +79,23 @@ Pokécenter
 かつては　ひとが　すんでいた　むらで\xfffeいまも　とうじの　くうきが　ながれる
 なみが　かがやいている　として\xfffeせかいでも　ひょうばんの　うみ
 さほど　いりくんでも　いないのに\xfffeまようと　いわれる　ふしぎなもり
-トレーナーが　いないため　ゆっくり\xfffeけしきを　たのしめる　うみぞいのみち
-のどかな　ムードの　みちでは\xfffeかけだし　トレーナーが　うでをきそう
-おおくの　くさむらと　いけによって\xfffeまがりくねった　ながい　どうろ
+This short route is lined with trees.\xfffeThere are also different kinds of flowers.
+This route is simmilar to easterly-\xffferegion routes. It has trainers training.
+A very fresh-feeling route that\xfffeconnects Shippou City with Sanyou City.
 すなあらしのため　２つの　としを\xfffeつなぐ　こうじが　おくれている　みち
-パフォーマーが　あつまり　にぎやかな\xfffeふんいきで　つつまれている　どうろ
+A short, paved road that connects\xfffeRaimon City with Hodomoe Drawbridge.
 ゆたかな　きぎが　おいしげり\xfffeしぜんの　みりょく　あふれる　どうろ
 ながい　くさむらに　はいらなくても\xfffeすすめるよう　いっぽんばしが　ある
-あめが　おおく　ぬかるんだ\xfffeしっちのなかには　ポケモンが　ひそむ
-ほそうされた　どうろが　はしりやすく\xfffeバイクを　あいするものが　あつまる
+Route 8 is a route with many water\xfffepuddels due to excessive amounts of rain.
+This route is very popular. It is\xfffethe location of the Department Store.
 Department store
 うでじまんが　つどい　きそいあう\xfffeバッジチェックのもんに　つづく　みち
 せいりゅうが　どうろないを　めぐり\xfffeうつくしい　けしきが　うまれた　みち
 あるくだけで　たのしくなってしまう\xfffeなだらかな　おかが　つらなる　ばしょ
 うみの　うえを　つらぬく　すなはまが\xfffeめいぶつの　みずぎわの　みち
-たきから　おちた　みずが　まい\xfffeきりが　たちこめる　どうろ
-きりたった　がけが　あるく　ものの\xfffeこころを　さわがせる　どうろ
-ライモンシティに　おとずれた　ひとが\xfffeきゅうけいに　くることが　おおい
+A calm mountain route.\xfffeThe Fertility Shrine is also popular.
+This route is a calm walk-through\xfffeto the very special Wonder Bridge.
+Many people visiting Raimon City\xfffestop-by at Route 16 to take rest.
 ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
 リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
 ４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし

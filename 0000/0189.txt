@@ -1595,9 +1595,9 @@ La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffe
 キミの　ポケモンは\xfffeなんだか　うれしそうだね
 まけるにしても　みえていた\xfffeみらいと　ちがう？　キミは？
 けっかは　いっしょ　だった……\xfffeだが　キミは……　なにものだ？
-ここまで　おいつめられたの\xfffeいついらい　かしら！
-まだまだよ！　こんなに　たのしい\xfffeしょうぶ　かんたんに　おわらせない！
-こんなに　もえあがる\xfffeいっせんを　まじえることが　できて\xf000븀\x0000こころが　たかなっちゃう……！\xf000븁\x0000あなたって　ほんとうに\xfffeすごい　トレーナー　なのね！！
+Wow! Only one Pokémon left!\xfffeAre you maybe...?
+Wow!!! You...\xfffeYou will not win...!
+Hmmm... You beat me...\xfffeThat means only one thing...\xf000븀\x0000You have a strong bond...\xf000븁\x0000... You're just like the little\xfffeboy in the Sinnoh Region.
 あたらしい　ブーツを　かったから\xfffeわざわざ　よごしに　きたのよ\xf000븁\x0000そうね！　しょうぶを　すれば\xfffeもっと　よごれちゃうかも！\xf000븁\x0000
 まっ！　はげしい　しょうぶで\xfffeビチョビチョ　よ！！
 よごれることを　きにしていたら\xfffeブーツに　もうしわけないもの\xf000븁\x0000ポケモンも　おなじじゃない？\xfffeきずつくのは　かわいそうだけど\xf000븀\x0000きずついてこそ　つよくなるの
