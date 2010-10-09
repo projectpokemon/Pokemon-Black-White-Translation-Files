@@ -99,7 +99,7 @@ It’s a one-hit KO!
 \xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょくを　よわめた！
 \xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001しか　だせない！
 \xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせない！
-すべてのステータスが\xfffeもとに　もどった！
+All stat changes were\xfffeeliminated!
 But nothing happened!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
 Magnitude 4!
@@ -118,7 +118,7 @@ The twisted dimensions returned to\xfffenormal!
 Gravity intensified!
 Gravity returned to normal!
 All Pokémon hearing the song\xfffewill faint in three turns!
-ゆびをふったら　\xf000ć\x0001\x0000がでた！
+User randomly used\xfffe\xf000ć\x0001\x0000!
 しぜんのちからは\xfffe\xf000ć\x0001\x0000　になった！
 Coins scattered everywhere!
 It was too weak to make\xfffea substitute!
