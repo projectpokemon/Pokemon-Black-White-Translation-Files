@@ -17,18 +17,18 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
 ◇'Get the items often carried in the inventory' Hodomoe Market.
 ◇'Go shopping now, you won't regret it!' the Ishu Departement Store.
-◇'Cool fragrant winds and forest all around' Sanyou City.
+◇Sanyou City is surrounded by cool fragrant winds and forest all around.
 ◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym　しょうぶとしょくじを　たのしめる　レストランです　
+◇The Sanyou Gym is a place where both knowledge and battles are tested.
 ◇The green lush garden fills your heart with warmth.
 ◇Next to town is a house where many trainers come to battle.
-◇トレーナーズスクールでは　Pokémonのきそから　まなべます
-◇'Cool fragrant winds and forest all around' Sanyou City.
+◇Learn about Pokémon at the trainer school.
+◇Sanyou City is surrounded by cool fragrant winds and forest all around.
 ◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym　しょうぶとしょくじを　たのしめる　レストランです　
+◇The Sanyou Gym is a place where both knowledge and battles are tested.
 ◇'Noted for its cobbled streets & warehouses' Shippou City.
 ◇The museum has been studying the Pokémon's bones.
-◇The Shippou Gym　しょうぶとちしきを　たんきゅうできる　はくぶつかんです
+◇The Shippou Gym is a museum where you can explore battle and knowledge.
 ◇The warehousehouse studio has lots of talented artists.
 ◇Visitors come to watch the warehouse district and Museum.
 ◇You are still able to see the railroad remnants.
@@ -38,30 +38,30 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇Hiun City is famous for its hidden speciality - Hiun Icecream.
 ◇Hiun City features piers where many ships sail to different areas.
 ◇What tricks and surprises awaits in the Hiun Gym...?
-◇The Central Fountain is said to connect the people everywhere.
+◇The Central Fountain in Hiun is said to connect the people everywhere.
 ◇The Art Gallery is open to artists all around the world.
 ◇This building's population is the highest in all of Hiun City.
 ◇The Skyline in Hiun looks totally different during day and night.
 ◇Hiun City has its own cuisine and cultural ethnicity mixed with many countries.
-◇ひとと　ひとの　すれちがいについて　けんきゅうしている　ばしょが　あります
+◇The place where the differences of Human and Pokémon are researched.
 ◇Raimon City is said to have much excitement when it comes to battles.
-◇あついテニス はくねつのバスケットボール ねっきあふれる リトルコート
-◇ねつれつなバトルずきが　てつどうずきだったため　バトルサブウェイが　できたといわれています
-◇ミュージカルホールでは　ときおり　ポケモンのスカウトが　あるそうです
-◇スタープレイヤー あつまる スタジアム うんがよければ せんしゅに あえるかも？
-◇めいぶつの ジェットコースターは おどろきのばしょで はしっています
-◇キラキラけしき ワクワクたかさ ドキドキであいの あいのりかんらんしゃ
-◇ギアステーションからは カナワタウンへ いくことが できます
-◇いちどは　いってみたい　ごらくのまち　Ｎｏ．１　ライモンシティへ　ようこそ
-◇ホドモエシティは　みずべにりんせつする　みなとまちです
-◇むかしは　すいじょうからの　かぜをうける　はんせんが　はしっていました
-◇ホドモエは　かもつとりひきと　ぎょぎょうで　はってんしたまちです
-◇マーケットは　せかいからあつまったしなもので　にぎわっています
-◇やねはオレンジでとういつされ　ゆうやけが　とてもはえます
-◇そらにそびえる　リザードンばしは　ぜっけいです
-◇みなとには　きょだいな　れいとうコンテナが　ならんでいます
-◇れいとうコンテナには　ポケモンがすみついています
-◇ホドモエシティは　みずべにりんせつする　みなとまちです
+◇An overflowing Basketball Court and a lively glowing Tennis Court to boot.
+◇The Battle Subway was made by the railroad creator who was an adamant battle lover.
+◇The Musical Hall is likely to have a mascot Pokemon occasionally.
+◇If you are lucky,you could meet the Stadium's Star players?
+◇The specialty of this roller coaster is giving its riders a surprise run at that location.
+◇The Ferris Wheel's height and sparkling views creates heart pounding excitement.
+◇It is possible to go to Kanawa Town from the Gear Station.
+◇'The Ｎｏ．１ entertainment district for amusement' Welcome to Raimon City
+◇Hodomoe City is a harbour port which lies adjacent to the shore.
+◇The old Sailing Ships ran utilising the wind and water currents during former times.
+◇Developed through freight transaction and fishing industry, Hodomoe Town.
+◇The Hodomoe Market is crowded with items from around the world.
+◇The Roofs are really shiny in the evening orange Sunset.
+◇The Drawbridge that rises to the sky is a picture-perfect scenery.
+◇The harbor is lined with enormous refrigerated containers.
+◇There are Pokémon that lives in the Cold Storage too.
+◇Hodomoe City is a harbour port which lies adjacent to the shore.
 
 
 
@@ -80,68 +80,68 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇The Cafetaria is over 100 Years old.
-◇ソウリュウシティのれきしは せかいいちふるいと いわれています
-◇ソウリュウシティでは むかしのぎじゅつを いまでも やくだてています
-◇まちからは まいとし こうこがくしゃが おおく　たんじょうします
-◇まちでは なんびゃくねんという れきしを もつ おんがくを きくことができます
-◇ビルのそうしょくは １００ねんかけて しょくにんたちのてで　つくられています
-◇ソウリュウシティのれきしは せかいいちふるいと いわれています
-◇ソウリュウシティでは むかしのぎじゅつを いまでも やくだてています
-◇まちからは まいとし こうこがくしゃが おおく　たんじょうします
-◇まちのビルは ポケモンが １００ぴきのっても くずれないと いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの セキュリティは あんぜんなことで ゆうめいです
-◇ネットワークをつかった　とてもべんりな　せいかつが　できます
-◇まちのビルは ポケモンが １００ぴきのっても くずれないと いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの セキュリティは あんぜんなことで ゆうめいです
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇きょだいな　はしのうえから　まちぜんたいを　みおろせます
-◇まちからみえる もりでは なぞのポケモンの もくげきじょうほうがあります
-◇カゴメタウンの どうろも たてものも すべて いしで できています
-◇カゴメタウンでは ひるをすぎてから まちが かっぱつになります
-◇はれのひには にっこうよくをするひとが おおくみられます
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇はまべのすなは とてもこまかく あしあとがハッキリと のこります
-◇サザナミタウンに べっそうをもつことは あこがれとされています
-◇サザナミタウンの なみのおとの うつくしさは たからものであると いわれています
-◇なつには すきとおるうみに およぎにくる かんこうきゃくがいます
-◇おおきながけが サザナミタウンぜんたいを きわだたせています
-◇なみはつねに おだやかなため うみといえは とてもちかいです
-◇サザナミタウンでは　ウォータースポーツが　ひじょうに　にんきです
-◇サザナミタウンの うみでは　たびたび きちょうな いせきが みつかるそうです
-◇はまべのすなは とてもこまかく あしあとがハッキリと のこります
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇まちのひとが　きをそだて　もりは　せいちょうを　つづけています
-◇しぜんにひかれた　ブリーダーが　おおくあつまっています
-◇ゆたかなしぜんのおかげで　めずらしいポケモンが　みられます
-◇ポケモンの　おとしものがあり　しぜんのめぐみとされています
-◇まちにすみたい　ひとがおおく　じんこうはへんかしつづけています
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇ブラックシティには　ひとがあつまり　ひび　はってんしています
-◇きょうそういしきのたかいトレーナーが　おおくすんでいます
-◇まちにおおきな　マーケットをつくる　けいかくが　すすんでいます
-◇あつまったひとが　りゅうつうをかえ　しなものがかわります
-◇まちにすみたい　ひとがおおく　じんこうはへんかしつづけています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
+◇The Cafetaria is over １００ Years old.
+◇History mentions that Souryuu City is the oldest city in the world.
+◇Souryuu City's old technology exceeds any other and is used even now.
+◇Every year people are born here whom end up being scholars and archaeologists.
+◇In town you can listen to music, with a history of centuries.
+◇The Cafetaria is over １００ Years old.
+◇History mentions that Souryuu City is the oldest city in the world.
+◇Souryuu City's old technology exceeds any other and is used even now.
+◇Every year people are born here who end up being scholars and archaeologists.
+◇The city buildings are said to house １００ year old Pokémon.
+◇Souryuu City has been up to date on developing the latest monster ball.
+◇The city buildings are built with the best materials.
+◇Souryuu City is famous for its safety and security.
+◇A very convenient lifestyle can be achieved here as a network.
+◇The city buildings are said to house １００ year old Pokémon.
+◇Souryuu City has been up to date on developing the latest monster ball.
+◇The city buildings are built with the best materials.
+◇Souryuu City is famous for its safety and security.
+◇As Kagome townspeople don't rely on time,they don't use clocks in their homes.
+◇The Kagome townspeople will finish their day jobs as the Sun sets.
+◇The whole town can be viewed from the top of an enormous bridge.
+◇A mysterious Pokémon has been rumoured to appear in the forest visible from town.
+◇All roads and buildings of Kagome Town are made of stone.
+◇Residents of Kagome Town are all active during the day.
+◇On sunny days, many people are out in the Sun for clearing their mind and body.
+◇As Kagome townspeople don't rely on time, they don't use clocks in their homes.
+◇The Kagome townspeople will finish their day jobs as the Sun sets.
+◇The Footprints left on the beach sand remain clearly visible.
+◇Sazanami Town posses a Villa that everyone's been longing for.
+◇The beautiful sound of the waves are said to be Sazanami Town's greatest treasure.
+◇In Summer, tourists come to swim in the clear sea.
+◇The huge cliffs around Sazanami Town has made it very prominent.
+◇The Sea and its waves are very calm, so houses are built very close to it.
+◇In Sazanami Town, water sports are very much popular.
+◇It is very likely for one to find the underground ruins in the sea near Sazanami Town.
+◇The Footprints left on the sand in the beach will remain clearly visible.
+◇'The town where you can feel the nature's Serenity' White Forest.
+◇The people of this town lives constantly in touch with nature.
+◇The townspeople nourishes the trees and the forest continues to grow.
+◇Many breeders have got together here and their numbers continue to rise.
+◇Here Pokémon that are usually not seen anywhere else can be seen.
+◇Many unusual Pokémon and lost items can be found here.
+◇Many people come and reside here and they continue to change.
+◇'The town where you can feel the nature's Serenity' White Forest.
+◇The people of this town lives constantly in touch with nature.
+◇Black City is a city filled with buildings that are arranged in a line.
+◇Most of the people here aims toward the advancement of this city.
+◇Black City is developing everyday as more and more people gather here.
+◇Most of the Pokémon trainers have a very high competition consciousness.
+◇Plans to make the large market in the city more advanced are in effect.
+◇People get together and causes changes to item circulation.
+◇Population of this city continues to get more diverse and ethnic.
+◇Black City is a city filled with buildings that are arranged in line.
+◇Most of the people here aims toward the advancement of this city.
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
+◇Please make careful preparations while crossing the Resort Desert.
+◇Please pay attention to the Sand Storm while crossing the Resort Desert.
+◇Currently, the time taken to build the Ancient Castle Ruins is being investigated.
+◇'Why would a castle city of ancient times would fall into ruins?' A Mystery.
+◇Quicksand is present inside the Ancient Castle Ruins
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
+◇Please make careful preparations while crossing the Resort Desert.
 ◇This storm will wipe you off-route.
 
 
@@ -192,9 +192,9 @@ There is a sandstorm!
 There is a strong storm!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
 ◆ There is a swarm of rare Pokémon at \xf000ą\x0001\x0000!
 
 
@@ -203,9 +203,9 @@ There is a strong storm!
 
 
 
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004　\xf000ā\x0001\x0005とともに　しょうりをおさめた！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 acheived a great victory！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 acheived a great victory！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 acheived a great victory！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003acheived a great victory！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003 \xf000ā\x0001\x0004acheived a great victory！
+◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003 \xf000ā\x0001\x0004 \xf000ā\x0001\x0005acheived a great victory！
