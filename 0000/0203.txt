@@ -178,7 +178,7 @@ The user changes its type to make itself\xffferesistant to the type of the attac
 A vortex of air is shot at the foe to inflict\xfffedamage. It has a high critical-hit\xffferatio.
 The user releases cotton-like spores\xfffethat cling to the foe, sharply\xfffereducing its Speed stat.
 An all-out attack that becomes more\xfffepowerful the less ＨＰ the user has.
-The user looses its grudge on the move last used \xfffeby the foe by cutting 4 PP from it.
+The user looses its grudge on the move last used by\xfffethe foe by cutting 4 PP from it.
 The user attacks with a chilling gust of\xfffepowdery snow. It may also freeze the\xfffetarget.
 It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used in\xfffesuccession.
 The user throws a punch at blinding speed.\xfffeIt is certain to strike first.

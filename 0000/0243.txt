@@ -199,7 +199,7 @@
 
 
 
-Forms Seen
+Forms seen
 
 
 
@@ -548,17 +548,12 @@ Arceus Forms
 
 
 
-Default Form
+Default Forme
 
 
 
 
-Normal Mode
-
-
-
-
-
+Normal mode
 
 
 
@@ -583,8 +578,13 @@ Normal Mode
 
 
 
-Spring Form
-Spring Form
+
+
+
+
+
+Spring Forme
+Spring Forme
 
 
 
@@ -676,9 +676,9 @@ Forme
 Forme
 Forme
 Forme
-Sunny Weather
-Rainy Weather
-Snowy Weather
+Sunny weather
+Rainy weather
+Snowy weather
 Attack Forme
 Defence Forme
 Speed Forme
@@ -713,7 +713,7 @@ Arceus Forme
 Arceus Forme
 Arceus Forme
 Alternate Forme
-Daruma Mode
+Daruma mode
 Summer Forme
 Fall Forme
 Winter Forme
