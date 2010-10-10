@@ -124,35 +124,35 @@ I picked the strongest one!\xfffeI knew I'd win!
 この　ばしょに　いるだけで\xfffeふしぎな　ちからが　あふれてくる……\xf000븁\x0000
 きみにも　ふしぎな　ちからが\xfffeみちているようね……
 れきしのある　ばしょには\xfffeふしぎな　エネルギーが　のこる……\xf000븁\x0000わたしには　それが　わかるわ\xfffeおおくの　かなしみに　よろこび……
-オレの　ポケモンに\xfffeそんなの　きくかよ！
-まだまだ！　のこり１ぴき！\xfffeここから　きあいだぜ！
-まいったぜ……\xf000븁\x0000も　　　え　　　つ　　　き　　　た！
-なるほど！\xfffeいい　こうげき　かもしれませんね
-さいごの　ポケモンに\xfffeコーンの　すべてを　かけましょう！
-まいったな……\xfffeこの　コーンが　やぶれるとは
-ああ！\xfffeぼくの　ポケモン！
-……あれ？　もしかして\xfffeぼくの　ポケモン　あと１ぴき？
-……えーっと\xfffeおわっちゃいました？
+That won't work on\xfffemy Pokémon!
+It's not over yet!　I still have one\xfffePokémon! I'm all fired up!
+The flame...\xf000븁\x0000IT'S GONE!
+Oh!\xfffeThat was a good attack.
+The final Pokémon of Korn\xfffewill give its all!
+Wow...\xfffeI, Korn, have lost.
+Ahh!\xfffeMy Pokémon!
+Wait, what?　Do I only\xfffehave one Pokémon left?
+Well...\xfffeIt's over, huh?
 ようこそ　いらっしゃいませ\xfffeサンヨウジムへ！\xf000븁\x0000ここでは　しょうぶの　きほんを\xfffeあじわって　いただきます\xf000븁\x0000
 なんともまあ\xfffeすばらしい　トレーナーさま　ですね！
 タイプの　あいしょうを　きにせず\xfffeつよく　きたえあげた　ポケモンで\xf000븀\x0000かちすすむのも　ありだと　おもいます
 サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000ふたりめは　わたくしで　ございます\xf000븁\x0000
 わたくしとの　しょうぶ\xfffeたのしんで　いただけましたか？
 サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000さいごは　ジムリーダーです
-いまので　アンタが　どんな\xfffeトレーナーなのか　みえてきたよ！
-こんな　じょうきょうでも\xfffeかつ　しゅだんを　さぐるのさ！
-たいしたもんだよ\xfffeアンタ　ほれちゃうじゃないか！
+Now i can see what kind\xfffeof trainer you are!
+In this kind of situation,\xfffeI always find a way to win!
+That's the kind of\xfffebattle that I love!
 シッポウジムに　いりびたり\xfffeほんのむしと　よばれた　ボク\xf000븁\x0000いっておきますが　つよいですよ\xfffeボクの　いちにちって　ほんをよむか\xf000븀\x0000ポケモンをそだてるか　ですから\xf000븁\x0000
 ほんのむし　といっても\xfffeむしタイプの　ポケモンではないです
 さいしょの　おすすめの　ほんは\xfffe「はじめまして　ポケモンちゃん」です\xf000븁\x0000じどうしょの　ほんだなは\xfffeいりぐち　ちかくに　ありますよ
 わっわっわー！\xfffeまけたけど　ありがとうございます
 その　つよさ……\xfffeわたしの　ちしきを　うわまわる！
-ビシィッ！！\xfffeスイッチ　はいったよ！！
-まさに　むしのいき……　だね\xfffeいやいや　そんなことないよ！
-ぬうん……！？\xfffeひょっとして　おわり！
-あなたと　ポケモン……\xfffeはなやかに　かがやいている！
-ドラマチックに　かつには\xfffeピンチが　ひつよう　なのよ
-クラクラさせる　つもりが\xfffeあなたに　しびれさせられたのね
+Oh!\xfffeThe switch has flipped!!
+I'm running short on breath...\xfffebut I'm not ready to lose!
+Huh?!...\xfffeI can;t believe it's over!
+You and your Pokémon...\xfffeare starting to shine!
+I need to be in a pinch\xfffelike this for a dramatic win.
+Now I'm a little dizzy...\xfffeThat was a bright battle.
 まけたとしても\xfffeあわてず　さわがず……　さ
 ウェルカム！\xfffeチャレンジャー！\xf000븁\x0000この　おぼっちゃま　である\xfffeボクが　おあいて　しよう！\xf000븁\x0000
 ジェジェジェジェジェジェッ！\xfffeジェット　コースター！
@@ -161,9 +161,9 @@ I picked the strongest one!\xfffeI knew I'd win!
 アナタの　ファッション……\xfffeどことなく　カノコタウンっぽいね\xf000븁\x0000
 なんてこと！　ファッションでは\xfffeまさっていたはず　なのに……！？
 きらびやかな　ライモンの\xfffeきらびやかな　ジムを　たばねる\xf000븀\x0000きらびやかすぎる　カミツレさん\xf000븀\x0000アナタも　ファンに　なってよ！
-……ほほう！\xfffeそう　きやがったか
-あきらめるのは　かんたん\xfffeいつだって　できることよ！
-まいったね……　いっておくが\xfffeオレさま　てかげんは　してねえぞ
+...Whoa!\xfffeI didn't expect this.
+It would easy to give up,\xfffebut that will never happen!
+Oh boy...I guess I\xfffecouldn;t predict this.
 What kind of trainer are you?\xfffeI'm starting to get nervous...
 Down to my last Pokémon...\xfffeWe'll never give up!
 You gave me such a\xfffetough battle... Thank you.
