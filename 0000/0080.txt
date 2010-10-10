@@ -155,7 +155,7 @@ Wonder Cards
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 A: Exit
 　
-ポケモンえいがを　みにきてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ポケモンえいがを　みにきてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Pokémon Movie 2010　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Movie 2011 \xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Movie 2012 \xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
@@ -167,25 +167,25 @@ Pokémon Movie 2017　\xfffeThanks for coming!\xfffePlease recieve your Gift\xff
 Pokémon Movie 2018　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Movie 2019　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Movie 2020　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Pokémon Center \xfffeThankyou!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
+Pokémon Center \xfffeThank you!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Tokyo　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Osaka　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Fukuoka　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Nagoya　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Sapporo　\xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokémon Center Yokohama \xfffeThanks for coming!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-Pokémon World Championships\xfffeさんかしてくれて　Thankyou!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffeＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+Pokémon World Championships\xfffeさんかしてくれて　Thank you!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffeＷＣＳ２０１０に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１１に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１２に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１３に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１４に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１５に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１６に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１７に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１８に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０１９に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＷＣＳ２０２０に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+Ｗｏｒｌｄｓに　きてくれて　\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
@@ -209,46 +209,46 @@ Pokémon World Championships\xfffeさんかしてくれて　Thankyou!\xfffePlea
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-イベントに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
-ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンを　あそんでくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+ＶＧＣ２０１０に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１１に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１２に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１３に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１４に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１５に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１６に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１７に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１８に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０１９に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ＶＧＣ２０２０に　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+イベントに　きてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.\xfffe
+ポケモンの　イベントに　きてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンを　あそんでくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 おみせに　Thanks for coming! \xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
-バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
-ダウンロード　してくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+バトルたいかいに　さんかしてくれて　\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ゲームイベントに　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンだいすきクラブからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンサンデーを　みてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+チャレンジひろばに　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルチャレンジに　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+トレーナーズコートに　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルツアーに　さんかしてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンの　コンサートに　きてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンの　アニメを　みてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+ダウンロード　してくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
-ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+ポケモンレンジャーを　あそんでくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
 レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+ポケモンドリームワールドを　\xfffeあそんでくれて　Thank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 ポケモンドリームワールドからの　\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
-ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
+ＰＤＷを　あそんでくれて　\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 ＰＤＷからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 Pokémon Event 2010　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Event 2011　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
@@ -261,7 +261,7 @@ Pokémon Event 2017　\xfffeThanks for coming!\xfffePlease recieve your Gift\xff
 Pokémon Event 2018　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Event 2019　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Event 2020　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-Pokémon Festa　\xfffeThankyou!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
+Pokémon Festa　\xfffeThank you!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Festa 2010　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Festa 2011　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Festa 2012　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
@@ -273,8 +273,8 @@ Pokémon Festa 2017　\xfffeThanks for coming!\xfffePlease recieve your Gift\xff
 Pokémon Festa 2018　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Festa 2019　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 Pokémon Festa 2020　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-PokéPark　\xfffeThankyou!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
-PokéPark Present!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.！\xfffe
+PokéPark　\xfffeThank you!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
+PokéPark Present!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center!\xfffe
 PokéPark 2010 \xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 PokéPark 2011　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
 PokéPark 2012　\xfffeThanks for coming!\xfffePlease recieve your Gift\xfffefrom the deliveryman\xfffein the Pokémon Center.\xfffe
@@ -429,19 +429,19 @@ Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 ポケモンセンターナゴヤに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンセンターサッポロに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンセンターヨコハマに　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１１に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１２に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１３に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１４に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１５に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１６に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１７に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１８に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０１９に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＷＣＳ２０２０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-Ｗｏｒｌｄｓに　きてくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　Thank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１０に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１１に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１２に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１３に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１４に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１５に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１６に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１７に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１８に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０１９に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＷＣＳ２０２０に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+Ｗｏｒｌｄｓに　きてくれて　\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 Ｗｏｒｌｄｓ２０１０に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 Ｗｏｒｌｄｓ２０１１に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 Ｗｏｒｌｄｓ２０１２に　\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
@@ -465,46 +465,46 @@ Please recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　Thanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１１に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１２に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１３に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１４に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１５に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１６に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１７に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１８に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０１９に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ＶＧＣ２０２０に　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-イベントに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンの　イベントに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンを　あそんでくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１０に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１１に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１２に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１３に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１４に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１５に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１６に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１７に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１８に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０１９に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ＶＧＣ２０２０に　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+イベントに　きてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンの　イベントに　きてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンを　あそんでくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 おみせに　Thanks for coming! \xfffeThe deliveryman has a\xfffegift to give you!
-バトルたいかいに　さんかしてくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ゲームイベントに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
+バトルたいかいに　さんかしてくれて　\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ゲームイベントに　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ゲームイベントからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
 ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンサンデーを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-バトルツアーに　さんかしてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンの　アニメを　みてくれて\xfffeThankyou!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ダウンロード　してくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンサンデーを　みてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンサンデーからの\xfffeプレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+チャレンジひろばに　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+チャレンジひろばからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルチャレンジに　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+バトルチャレンジからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+トレーナーズコートに　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+トレーナーズコートからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+バトルツアーに　さんかしてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+バトルツアーからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+ポケモンの　コンサートに　きてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンの　アニメを　みてくれて\xfffeThank you!\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
+Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　Thank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ダウンロード　してくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 The deliveryman has a\xfffegift to give you!
-ポケモンレンジャーを　あそんでくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンレンジャーを　あそんでくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　はいたついんが\xfffeおわたししました！
 レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドを　\xfffeあそんでくれて　Thankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンドリームワールドを　\xfffeあそんでくれて　Thank you!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
-ＰＤＷを　あそんでくれて　\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ＰＤＷを　あそんでくれて　\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 ＰＤＷからの　プレゼント！\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンイベント２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンイベント２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
@@ -517,7 +517,7 @@ The deliveryman has a\xfffegift to give you!
 ポケモンイベント２０１８に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンイベント２０１９に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンイベント２０２０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケモンフェスタに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケモンフェスタに　きてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０１２に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
@@ -529,8 +529,8 @@ The deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０１８に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０１９に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケモンフェスタ２０２０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパークに　きてくれて\xfffeThankyou!\xfffeThe deliveryman has a\xfffegift to give you!
-ポケパークからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center.！\xfffe
+ポケパークに　きてくれて\xfffeThank you!\xfffeThe deliveryman has a\xfffegift to give you!
+ポケパークからの　プレゼント！\xfffePlease recieve your gift\xfffefrom the deliveryman\xfffein the Pokemon Center!\xfffe
 ポケパーク２０１０に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケパーク２０１１に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!
 ポケパーク２０１２に\xfffeThanks for coming!\xfffeThe deliveryman has a\xfffegift to give you!

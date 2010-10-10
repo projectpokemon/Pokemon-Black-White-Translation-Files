@@ -42,7 +42,7 @@ Drink
 \xf000ȃ\x0001\x0000まい
 Close
 The \xf000ĉ\x0001\x0000 item is selected.
-You cannot write\xfffemail here！
+You cannot write\xfffemail here!
 There's no Pokemon!
 Move the \xf000ĉ\x0001\x0000.
 The \xf000ĉ\x0001\x0000 can't be held.
@@ -50,13 +50,13 @@ The \xf000ĉ\x0001\x0000 can't be given here.
 Store how many\xfffe\xf000ĉ\x0001\x0000?
 You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 You can't store any more!
-This is an important item\xfffeso you can't throw it away！
+This is an important item\xfffeso you can't throw it away!
 Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
 Threw away \xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s).
 Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s)?
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000!　\xf000븀\x0000There are times and places\xfffeyou can use these!
 You can't dismount your bike here.
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000!　\xf000븀\x0000There are times and places\xfffeyou can use these!
 Your Coins:　\xf000Ȅ\x0001\x0000
 Booted up an TM.
 Booted up an HM.
