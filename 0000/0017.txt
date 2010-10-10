@@ -9,9 +9,9 @@ You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x
 You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븁\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
 You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
-Go!　\xf000Ă\x0001\x0000!
-Go!　\xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
-Go!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
+Go! \xf000Ă\x0001\x0000!
+Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
+Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
 \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002!
 \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
 \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000and \xf000Ă\x0001\x0004!
@@ -19,7 +19,7 @@ Go!　\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
 \xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
 \xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000and \xf000Ă\x0001\x0003!
 \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002\xf000븀\x0000Will you switch your Pokémon?
-You’re in charge,　\xf000Ă\x0001\x0000!
+You’re in charge, \xf000Ă\x0001\x0000!
 Go for it, \xf000Ă\x0001\x0000!
 Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
 Your foe’s weak!\xfffeGet ’em, \xf000Ă\x0001\x0000!
@@ -33,9 +33,9 @@ Your foe’s weak!\xfffeGet ’em, \xf000Ă\x0001\x0000!
 Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を　つかった！
-\xf000Ā\x0001\x0000が　\xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を　シュートした！！
-いまは　ミラクルシューターを\xfffeつかうことが　できない！
+\xf000Ď\x0001\x0000の \xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を つかった！
+\xf000Ā\x0001\x0000が \xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を シュートした！！
+いまは ミラクルシューターを\xfffeつかうことが できない！
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!
@@ -73,32 +73,32 @@ What will \xf000Ā\x0001\x0000 do?
 Got away safely!
 にげられなかった！
 Can’t escape!
-やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
+やせいの \xf000Ă\x0001\x0000は\xfffeにげだした！
 No! There’s no running\xfffefrom a Trainer battle!
 Do you want to give up?
 It’s super effective!
 It’s not very effective...
 It hurt itself in its\xfffeconfusion!
 A critical hit!
-しかし　わざの　のこりポイントが\xfffeなかった！
-たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000たいりょくが　かいふくした！
+しかし わざの のこりポイントが\xfffeなかった！
+たすけにきた \xf000Ā\x0001\x0000の おかげで\xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000たいりょくが かいふくした！
 The sunlight turned harsh!
 It started to rain!
 A sandstorm brewed!
 It started to hail!
-きりが　ただよいはじめた！
-ひざしが　もとに　もどった！
+きりが ただよいはじめた！
+ひざしが もとに もどった！
 It stopped raining!
 The sandstorm subsided.
 The hail stopped falling!
-きりが　はれた！
-てんこうの　えいきょうが　なくなった！
-すなあらしが　ふきあれる！
-あられが　ふきすさぶ！
+きりが はれた！
+てんこうの えいきょうが なくなった！
+すなあらしが ふきあれる！
+あられが ふきすさぶ！
 It’s a one-hit KO!
-\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょくを　よわめた！
-\xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001しか　だせない！
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせない！
+\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた！
+\xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない！
+\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか だせない！
 All stat changes were\xfffeeliminated!
 But nothing happened!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
@@ -119,7 +119,7 @@ Gravity intensified!
 Gravity returned to normal!
 All Pokémon hearing the song\xfffewill faint in three turns!
 User randomly used\xfffe\xf000ć\x0001\x0000!
-しぜんのちからは\xfffe\xf000ć\x0001\x0000　になった！
+しぜんのちからは\xfffe\xf000ć\x0001\x0000 になった！
 Coins scattered everywhere!
 It was too weak to make\xfffea substitute!
 Reflect raised your team’s\xfffeDefense!
@@ -136,8 +136,8 @@ Your team is no longer protected\xfffeby Safeguard!
 The foe is no longer protected\xfffeby Safeguard!
 Your team became\xfffeshrouded in mist!
 The foe’s team became\xfffeshrouded in mist!
-みかたを　つつんでいた\xfffeしろいきりが　なくなった！
-あいてを　つつんでいた\xfffeしろいきりが　なくなった！
+みかたを つつんでいた\xfffeしろいきりが なくなった！
+あいてを つつんでいた\xfffeしろいきりが なくなった！
 The tailwind blew from behind\xfffeyour team!
 The tailwind blew from behind\xfffethe foe!
 Your team’s tailwind petered out!
@@ -148,44 +148,44 @@ Your team’s Lucky Chant wore off!
 The foe’s Lucky Chant wore off!
 Spikes were scattered all around\xfffeyour team’s feet!
 Spikes were scattered all around\xfffethe feet of the foe’s team!
-みかたの　あしもとの\xfffeまきびしが　きえさった！
-あいての　あしもとの\xfffeまきびしが　きえさった！
+みかたの あしもとの\xfffeまきびしが きえさった！
+あいての あしもとの\xfffeまきびしが きえさった！
 Poison spikes were scattered all\xfffearound your team’s feet!
 Poison spikes were scattered all\xfffearound the enemy team’s feet!
 The poison spikes disappeared from\xfffearound your team’s feet!
 The poison spikes disappeared from\xfffearound the enemy team’s feet!
 Pointed stones float in the air\xfffearound your team!
 Pointed stones float in the air\xfffearound your foe’s team!
-みかたの　まわりの\xfffeステルスロックが　きえさった！
-あいての　まわりの\xfffeステルスロックが　きえさった！
-みかたの　まわりを\xfffeワイドガードが　まもっている！
-あいての　まわりを\xfffeワイドガードが　まもっている！
-みかたの　まわりを\xfffeファストガードが　まもっている！
-あいての　まわりを\xfffeファストガードが　まもっている！
-みかたの　そらに　にじが　かかった！
-あいての　そらに　にじが　かかった！
-みかたの　そらから　にじが　きえた！
-あいての　そらから　にじが　きえた！
-みかたの　まわりが\xfffeひのうみに　つつまれた！
-あいての　まわりが\xfffeひのうみに　つつまれた！
-みかたの　まわりの\xfffeひのうみが　きえさった！
-あいての　まわりの\xfffeひのうみが　きえさった！
-みかたの　まわりに\xfffeしつげんが　ひろがった！
-あいての　まわりに\xfffeしつげんが　ひろがった！
-みかたの　まわりの\xfffeしつげんが　きえさった！
-あいての　まわりの\xfffeしつげんが　きえさった！
-みかたは　きんちょうして\xfffeきのみが　たべられなくなった！
-あいては　きんちょうして\xfffeきのみが　たべられなくなった！
-ぼうぎょと　とくぼうが　いれかわる\xfffeくうかんを　つくりだした！
-ワンダールームが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
-もたせた　どうぐの　こうかが\xfffeなくなる　くうかんを　つくりだした！
-マジックルームが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
-\xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょくを　つよめた！
-せいげんじかんが　なくなりました！\xfffeたいせんを　しゅうりょう　します！
-しょうぶの　じかんが　ながすぎるため\xfffeさいせいを　ちゅうだん　します！
-ダルマモード　はつどう！
-ダルマモード　かいじょ！
-２つのわざが　ひとつになった！\xfffeコンビネーションわざだ！
+みかたの まわりの\xfffeステルスロックが きえさった！
+あいての まわりの\xfffeステルスロックが きえさった！
+みかたの まわりを\xfffeワイドガードが まもっている！
+あいての まわりを\xfffeワイドガードが まもっている！
+みかたの まわりを\xfffeファストガードが まもっている！
+あいての まわりを\xfffeファストガードが まもっている！
+みかたの そらに にじが かかった！
+あいての そらに にじが かかった！
+みかたの そらから にじが きえた！
+あいての そらから にじが きえた！
+みかたの まわりが\xfffeひのうみに つつまれた！
+あいての まわりが\xfffeひのうみに つつまれた！
+みかたの まわりの\xfffeひのうみが きえさった！
+あいての まわりの\xfffeひのうみが きえさった！
+みかたの まわりに\xfffeしつげんが ひろがった！
+あいての まわりに\xfffeしつげんが ひろがった！
+みかたの まわりの\xfffeしつげんが きえさった！
+あいての まわりの\xfffeしつげんが きえさった！
+みかたは きんちょうして\xfffeきのみが たべられなくなった！
+あいては きんちょうして\xfffeきのみが たべられなくなった！
+ぼうぎょと とくぼうが いれかわる\xfffeくうかんを つくりだした！
+ワンダールームが かいじょされ\xfffeぼうぎょと とくぼうが もとにもどった！
+もたせた どうぐの こうかが\xfffeなくなる くうかんを つくりだした！
+マジックルームが かいじょされ\xfffeどうぐの こうかが もとにもどった！
+\xf000ĉ\x0001\x0000は \xf000ć\x0001\x0001の\xfffeいりょくを つよめた！
+せいげんじかんが なくなりました！\xfffeたいせんを しゅうりょう します！
+しょうぶの じかんが ながすぎるため\xfffeさいせいを ちゅうだん します！
+ダルマモード はつどう！
+ダルマモード かいじょ！
+２つのわざが ひとつになった！\xfffeコンビネーションわざだ！
 \xf000Č\x0001\x0000 won’t obey!
 \xf000Č\x0001\x0000 is\xfffeloafing around!
 \xf000Č\x0001\x0000 turned away!
@@ -194,7 +194,7 @@ Pointed stones float in the air\xfffearound your foe’s team!
 \xf000Č\x0001\x0000 began to nap!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
 Reset Move！！
-しかし　この　どうぐを\xfffeつかえる　ばしょに　いなかった！
-\xf000Č\x0001\x0000は　フリーフォールで\xfffeじゆうに　ならない！
-こうさんが　えらばれました
-（\xf000Ȁ\x0001\x0000）のゆびをふる　\xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002
+しかし この どうぐを\xfffeつかえる ばしょに いなかった！
+\xf000Č\x0001\x0000は フリーフォールで\xfffeじゆうに ならない！
+こうさんが えらばれました
+（\xf000Ȁ\x0001\x0000）のゆびをふる \xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002
