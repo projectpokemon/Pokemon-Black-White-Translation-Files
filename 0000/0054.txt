@@ -115,7 +115,7 @@ Griseous Orb
 ???
 ???
 Aqua Cassette
-Lightning Cassette
+Zap Cassette
 Blaze Cassette
 Freeze Cassette
 ???
@@ -544,7 +544,7 @@ Red Card
 Bull's Eye
 Pressure Band
 Bulb
-Rechargeable Battery
+Recharge Cell
 Escape Button
 Fire Jewel
 Water Jewel
@@ -578,17 +578,17 @@ Dream Ball
 Poké-Toy
 Goods Case
 Dragon Bone
-Fragrant Mushroom
+FragrantMushroom
 Huge Gold Orb
 Round Pearl
 Comet Piece
-Ancient Bronze Coin
-Ancient Silver Coin
-Ancient Gold Coin
-Ancient Vase
-Ancient Bracelet
-Ancient Statue
-Ancient Crown
+Old Bronze Coin
+Old Silver Coin
+Old Gold Coin
+Old Vase
+Old Bracelet
+Old Statue
+Old Crown
 Hiun Ice-cream
 Dire Hit 2
 X Speed 2
@@ -621,7 +621,7 @@ TM94
 TM95
 Live Caster
 God Stone
-Delivered Goods 1
-Delivered Goods 2
-Delivered Goods 3
+DeliveredGoods1
+DeliveredGoods2
+DeliveredGoods3
 Live Caster
