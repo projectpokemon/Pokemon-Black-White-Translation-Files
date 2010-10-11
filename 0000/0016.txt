@@ -1093,7 +1093,7 @@ The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the
 The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 The wild The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xf000븀\x0000Are of the same Type!
-The foe's The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
+The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 \xf000Ă\x0001\x0000 shared\xfffe overall power!
 The wild \xf000Ă\x0001\x0000 shared\xfffe overall power!
 The foe's \xf000Ă\x0001\x0000 shared\xfffe overall power!
