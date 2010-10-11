@@ -403,9 +403,9 @@ The foe's \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
 \xf000Ă\x0001\x0000 \xfffetook damage!
 The wild \xf000Ă\x0001\x0000 \xfffetook damage!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage!
-\xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000's ability became\xfffe\xf000Ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000's ability became\xfffe\xf000Ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000's ability became\xfffe\xf000Ć\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffeis floating on a balloon!
 The wild \xf000Ă\x0001\x0000 \xfffeis floating on a balloon!
 The foe's \xf000Ă\x0001\x0000 \xfffeis floating on a balloon!
@@ -894,9 +894,9 @@ The foe's \xf000Ă\x0001\x0000 something wind\xfffe\xf000ć\x0001\x0001has put o
 But　\xf000Ă\x0001\x0000's \xfffehealth is already full!
 But the wild \xf000Ă\x0001\x0000's \xfffehealth is already full!
 But the foe's \xf000Ă\x0001\x0000's \xfffehealth is already full!
-\xf000Ă\x0001\x0000 is now\xfffe\xf000ď\x0001\x0001 Type!
-The wild \xf000Ă\x0001\x0000 is now\xfffe\xf000ď\x0001\x0001 Type!
-The foe's \xf000Ă\x0001\x0000 is now\xfffe\xf000ď\x0001\x0001 Type!
+\xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
+The wild \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
+The foe's \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
 \xf000Ă\x0001\x0000's\xfffestamina dropped!
 The wild \xf000Ă\x0001\x0000's\xfffestamina dropped!
 The foe's \xf000Ă\x0001\x0000's\xfffestamina dropped!
@@ -1094,12 +1094,12 @@ The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the 
 The wild The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xf000븀\x0000Are of the same Type!
 The foe's The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
-\xf000Ă\x0001\x0000 shared\xfffe something power!
-The wild \xf000Ă\x0001\x0000 shared\xfffe something power!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe something power!
-\xf000Ă\x0001\x0000 shared\xfffe something guard!
-The wild \xf000Ă\x0001\x0000 shared\xfffe something guard!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe something guard!
+\xf000Ă\x0001\x0000 shared\xfffe overall power!
+The wild \xf000Ă\x0001\x0000 shared\xfffe overall power!
+The foe's \xf000Ă\x0001\x0000 shared\xfffe overall power!
+\xf000Ă\x0001\x0000 shared\xfffe overall guard!
+The wild \xf000Ă\x0001\x0000 shared\xfffe overall guard!
+The foe's \xf000Ă\x0001\x0000 shared\xfffe overall guard!
 \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The wild \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The foe's \xf000Ă\x0001\x0000 is\xfffevery nimble!
