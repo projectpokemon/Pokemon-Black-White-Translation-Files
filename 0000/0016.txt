@@ -575,9 +575,9 @@ The foe's \xf000Ă\x0001\x0000 is unable to use\xfffe\xf000ć\x0001\x0001 becaus
 \xf000Ă\x0001\x0000's \xffferage has subsided!
 The wild \xf000Ă\x0001\x0000's \xffferage has subsided!
 The foe's \xf000Ă\x0001\x0000's \xffferage has subsided!
-\xf000Ă\x0001\x0000 \xfffesomething note quarrel!
+\xf000Ă\x0001\x0000 was\xfffesubjected to Torment!
 The wild \xf000Ă\x0001\x0000 \xfffesomething note quarrel!
-The foe's \xf000Ă\x0001\x0000 \xfffesomething note quarrel!
+The foe's \xf000Ă\x0001\x0000 was\xfffesubjected to Torment!
 \xf000Ă\x0001\x0000 \xfffesomething quarrel 2\xf000븀\x0000continue to use the same move!
 The wild \xf000Ă\x0001\x0000 \xfffesomething quarrel 2\xf000븀\x0000continue to use the same move!
 The foe's \xf000Ă\x0001\x0000 \xfffesomething quarrel 2\xf000븀\x0000continue to use the same move!
