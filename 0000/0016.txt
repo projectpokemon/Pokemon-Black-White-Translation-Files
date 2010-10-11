@@ -768,9 +768,9 @@ The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffebounced back!
 \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 The wild \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 The foe's \xf000Ă\x0001\x0000 has\xfffeleft the battle!
-\xf000Ă\x0001\x0001 went \xfffeback to \xf000Ā\x0001\x0000.
-The wild \xf000Ă\x0001\x0000 has fled!
-The foe's \xf000Ă\x0001\x0001 went \xfffeback to \xf000Ā\x0001\x0000.
+\xf000Ă\x0001\x0001 went \xfffeback to \xf000Ā\x0001\x0000!
+The wild \xf000Ă\x0001\x0000's \xf000Ā\x0001\x0001 \xfffewent back to normal!
+The foe's \xf000Ă\x0001\x0001 went \xfffeback to \xf000Ā\x0001\x0000!
 \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The wild \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The foe's \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
