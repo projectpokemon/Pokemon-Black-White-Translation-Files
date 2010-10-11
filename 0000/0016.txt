@@ -437,9 +437,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffescanned \xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 \xfffeTrouble Ishita look!
 The wild \xf000Ă\x0001\x0000 \xfffeTrouble Ishita look!
 The foe's \xf000Ă\x0001\x0000 \xfffeTrouble Ishita look!
-\xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ĉ\x0001\x0001　is unusual!
+\xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001　is unusual!
+The wild \xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001　is unusual!
+The foe's \xf000Ă\x0001\x0000's \xfffe\xf000ĉ\x0001\x0001　is unusual!
 \xf000Ă\x0001\x0000 \xfffehe other hand the first time!
 The wild \xf000Ă\x0001\x0000 \xfffehe other hand the first time!
 The foe's \xf000Ă\x0001\x0000 \xfffehe other hand the first time!
