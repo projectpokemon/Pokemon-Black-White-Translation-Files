@@ -870,9 +870,9 @@ The foe's \xf000Ă\x0001\x0000 is \xfffesurrounded by frozen air!
 \xf000Ă\x0001\x0000 cannot escape\xfffebecause of \xf000Ć\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 cannot escape\xfffebecause of \xf000Ć\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 cannot escape\xfffebecause of \xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 \xfffecannot escape!
-The wild \xf000Ă\x0001\x0000 \xfffecannot escape!
-The foe's \xf000Ă\x0001\x0000 \xfffecannot escape!
+\xf000Ă\x0001\x0000 \xfffecan no longer escape!
+The wild \xf000Ă\x0001\x0000 \xfffecan no longer escape!
+The foe's \xf000Ă\x0001\x0000 \xfffecan no longer escape!
 \xf000Ă\x0001\x0000 \xfffecan't run away!
 The wild \xf000Ă\x0001\x0000 \xfffecan't run away!
 The foe's \xf000Ă\x0001\x0000 \xfffecan't run away!
