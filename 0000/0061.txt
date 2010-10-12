@@ -1,7 +1,7 @@
-カテゴリから　せつめいを　せんたく
-すべて　ひょうじ
-カテゴリを　えらんでください
-どれを　みるか　えらんでください
+Basic information
+Advanced information
+Basic information
+Advanced information
 \xf000Ȁ\x0001\x0000／\xf000Ȁ\x0001\x0001
 あああああああああああああああああ
 あああああああああああああああああ

@@ -54,9 +54,9 @@ This is an important item\xfffeso you can't throw it away!
 Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
 Threw away \xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s).
 Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s)?
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000!　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
 You can't dismount your bike here.
-Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000!　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
 Your Coins:　\xf000Ȅ\x0001\x0000
 Booted up an TM.
 Booted up an HM.

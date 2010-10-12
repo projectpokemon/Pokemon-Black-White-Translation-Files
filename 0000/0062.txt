@@ -1,73 +1,73 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉ せってい
-マイクテスト
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-バトルボックス
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉ クラブ
-グローバルターミナル
-ともだちコード
-Ｃギア (シー ギア)
-すれちがいログ
-すれちがいちょうさ とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
-デルパワー
-デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
-タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
-べんりボタン
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
+Basic information
+How to do a battle?
+C-Gear information
+About the menu
+About battles
+About statistics
+About controls
+Saving your game
+Deleting your save
+Mystery Gift
+Battle tournament
+Pokémon Global Link
+Game Sync
+Wi-Fi Settings
+Microphone Test
+Pokémon
+The Pokémon PC
+Battle Box
+Trading Pokémon basics
+Trading Pokémon guide
+Single battle
+Double battle
+Tripple battle
+Rotation battle
+Mirakurushuta
+Union Room
+Wi-Fi Club
+Global Terminal
+Friend Codes
+C-Gear
+C-Gear Log
+C-Gear Building
+C-Gear Questionaire
+C-Gear　はじめる
+C-Gear　ほうこく
+IR (Infrared) Connection
+Game Sync
+High Link
+Deku Power
+Derudama
+The "Bag"
+The "Trainer card"
+The "Pokédex"
+Catching Pokémon
+Type matchup
+"Psycical" "Normal" "Special"
+Fainted
+Poisoned
+Paralysis
+Asleep
+Frozen
+Burned
+Confused
+Infituated
+Experience Points
+Evolving
+"Boosted" and "Lowered"
+Pokérus
+Canceling
+Hidden items
+Live Caster
+Gym badges
+Y-Button info
+Pokéshifter setup
+Pokéshifter minigames
+It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
+When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
+When you are in the main menu,\xfffeselect the 3rd option and press\xfffethe A Button to go to Mystery Gift.\xfffe・You can recieve gifts via IR\xfffe・You can recieve gifts via Wi-Fi\xfffe・You can recieve gifts via Wireless\xfffe\xfffeTry this out and maybe will\xfffesomething be added to your game!
+When you recieved a gift, you\xfffecan go pick it up at any Pokémon-\xfffecenter building in any town.\xfffeTalk to the person with\xfffethe circle around him (Top Screen)\xfffeto recieve your gift.\xfffe\xfffeMake sure to save when you\xfffehave recieved your gift!
+Also, you can hold up to 12\xfffeMystery Wonder Cards.\xfffe\xfffeTo view all the cards you\xfffehave recieved by tapping\xfffethe second option in the menu.\xfffeYou can sort, organize, delete\xfffeand view your cards there.
 Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
 ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffe\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
 バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
@@ -177,7 +177,7 @@
 ■Ｗｉ－Ｆｉクラブのばあい\xfffeＷｉ－Ｆｉクラブの　なかにいる\xfffeメンバーの　ひとりと\xfffeいっしょに　おはなしできます。
 ■ライブキャスターの　つかいかた\xfffeしたがめんで　そうさを　おこないます。\xfffeまんなかの　ボタンを　\xfffeタッチしながら　ことばを　はなすと\xfffeつうしんで　あいてに　こえが　とどきます。\xfffe\xfffeひだりの　ゲージを　そうさすると\xfffeこえの　たかさが　かえられます。
 ＤＳｉや　ＤＳｉＬＬなら　おたがいの\xfffeかおが　うえがめんに　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　\xfffeかおに　らくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「ＳＯＵＮＤ　ＯＮＬＹ」と\xfffeひょうじされます。
-イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeＸボタンで　メニューを　ひらき\xfffeじぶんの　なまえを　えらぶと\xfffeジムバッジを　いくつとったか\xfffeかくにんできます。
+イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeＸボタンで　メニューを　ひらき\xfffeじぶんの　なまえを　えらぶと\xfffeいくつ　ジムバッジを\xfffeてにいれたか　かくにんできます。
 てにいれた　バッジの　かずが　おおいと\xfffeひとから　もらった　ポケモンの　レベルが\xfffeたかくても　あなたの　めいれいを　\xfffeすなおに　きいてくれるように　なります。
 べんりボタンは　よくつかう　きのうや\xfffeどうぐを　つかいたいときに　すぐに\xfffeつかうことができる　べんりなボタンです。\xfffe\xfffeべんりボタンに　とうろくすると\xfffeＹボタンを　おして　すぐにつかえます。
 Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチすると\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックマークを　つけた\xfffeきのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
