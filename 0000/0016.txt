@@ -548,9 +548,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis flying high!
 \xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
 The wild \xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
 The foe's \xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
-\xf000Ă\x0001\x0000's\xfffeintense light wrap!
-The wild \xf000Ă\x0001\x0000's\xfffeintense light wrap!
-The foe's \xf000Ă\x0001\x0000's\xfffeintense light wrap!
+\xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
+The wild \xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
+The foe's \xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
 \xf000Ă\x0001\x0000 \xfffetook in sunlight!
 The wild \xf000Ă\x0001\x0000 \xfffetook in sunlight!
 The foe's \xf000Ă\x0001\x0000 \xfffetook in sunlight!
