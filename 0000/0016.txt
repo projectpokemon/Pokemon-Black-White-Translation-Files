@@ -319,9 +319,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis already asleep!
 \xf000Ă\x0001\x0000 \xfffecan't sleep!
 The wild \xf000Ă\x0001\x0000 \xfffecan't sleep!
 The foe's \xf000Ă\x0001\x0000 \xfffecan't sleep!
-\xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-The wild \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
-The foe's \xf000Ă\x0001\x0000 \xfffestarted seeing a nightmare!
+\xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
+The wild \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
+The foe's \xf000Ă\x0001\x0000 \xfffeis having a nightmare!
 \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The wild \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
 The foe's \xf000Ă\x0001\x0000 \xfffestarted having a nightmare!
