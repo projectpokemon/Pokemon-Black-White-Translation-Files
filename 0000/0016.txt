@@ -858,9 +858,9 @@ The foe's \xf000Ă\x0001\x0000 throws\xfffesharp rocks which cut!
 \xf000Ă\x0001\x0000 has \xfffedistorted space-time!
 The wild \xf000Ă\x0001\x0000 has \xfffedistorted space-time!
 The foe's \xf000Ă\x0001\x0000 has \xfffedistorted space-time!
-\xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001に!
-The wild \xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001に!
-The foe's \xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001に!
+\xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000’s perish count \xfffefell to \xf000Ȁ\x0001\x0001!
 \xf000Ă\x0001\x0000 is \xfffewrapped in a cool light!
 The wild \xf000Ă\x0001\x0000 is \xfffewrapped in a cool light!
 The foe's \xf000Ă\x0001\x0000 is \xfffewrapped in a cool light!
