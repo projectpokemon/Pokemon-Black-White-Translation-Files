@@ -398,8 +398,8 @@ The foe's \xf000Ă\x0001\x0000 \xffferestored all of their moves' PP!
 The wild \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
 The foe \xf000Ă\x0001\x0000 is buffeted \xfffeby the sandstorm!
 \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-The wild \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
-The foe's \xf000Ă\x0001\x0000is buffeted \xfffeby the hail!
+The wild \xf000Ă\x0001\x0000 is buffeted \xfffeby the hail!
+The foe's \xf000Ă\x0001\x0000 is buffeted \xfffeby the hail!
 \xf000Ă\x0001\x0000 \xfffetook damage!
 The wild \xf000Ă\x0001\x0000 \xfffetook damage!
 The foe's \xf000Ă\x0001\x0000 \xfffetook damage!
