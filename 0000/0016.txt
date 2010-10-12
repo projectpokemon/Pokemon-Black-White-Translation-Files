@@ -701,9 +701,9 @@ The foe's \xf000Ă\x0001\x0000's Healing Wish\xfffehas arrived!
 \xf000Ă\x0001\x0000's \xfffeWish came true!
 The wild \xf000Ă\x0001\x0000's \xfffeWish came true!
 The foe's \xf000Ă\x0001\x0000's \xfffeWish came true!
-\xf000Ă\x0001\x0000 \xfffeGidashita!
-The wild \xf000Ă\x0001\x0000 \xfffeGidashita!
-The foe's \xf000Ă\x0001\x0000 \xfffeGidashita!
+\xf000Ă\x0001\x0000 caused\xfffean Uproar!
+The wild \xf000Ă\x0001\x0000 caused\xfffean Uproar!
+The foe's \xf000Ă\x0001\x0000 caused\xfffean Uproar!
 \xf000Ă\x0001\x0000 \xfffeloud noises woke up!
 The wild \xf000Ă\x0001\x0000 \xfffeloud noises woke up!
 The foe's \xf000Ă\x0001\x0000 \xfffeloud noises woke up!
