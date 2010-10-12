@@ -193,9 +193,9 @@ The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy won't go lower!
 \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
 The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
 The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness won't go lower!
-\xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-The wild \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
-The foe's \xf000Ă\x0001\x0000's\xfffechanged ability returned to normal!
+xf000Ă\x0001\x0000's\xfffechanged stats returned to normal!
+The wild \xf000Ă\x0001\x0000's\xfffechanged stats returned to normal!
+The foe's \xf000Ă\x0001\x0000's\xfffechanged stats returned to normal!
 \xf000Ă\x0001\x0000's \xfffeability can't decrease!
 The wild \xf000Ă\x0001\x0000's \xfffeability can't decrease!
 The foe's \xf000Ă\x0001\x0000's \xfffeability can't decrease!
@@ -1116,13 +1116,13 @@ The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \
 The wild The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001in to the sky!
-The wild \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001in to the sky!
-The foe's \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001in to the sky!
-The wild \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001in to the sky!
-The wild \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001\xf000븀\x0000Abducted into the sky!
-The foe's \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001in to the sky!
-The foe's \xf000Ă\x0001\x0000 was taken up\xfffe\xf000Ă\x0001\x0001\xf000븀\x0000Abducted into the sky!
+xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
+The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
+The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
+The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
+The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and Abducted into the sky!
+The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
+The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and Abducted into the sky!
 \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 The wild \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 The foe's \xf000Ă\x0001\x0000 \xfffeis no longer bound!
