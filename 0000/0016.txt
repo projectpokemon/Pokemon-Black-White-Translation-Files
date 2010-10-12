@@ -545,9 +545,9 @@ The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
 \xf000Ă\x0001\x0000 \xfffeis flying high!
 The wild \xf000Ă\x0001\x0000 \xfffeis flying high!
 The foe's \xf000Ă\x0001\x0000 \xfffeis flying high!
-\xf000Ă\x0001\x0000 is\xfffe circling in the air!
-The wild \xf000Ă\x0001\x0000 is\xfffe circling in the air!
-The foe's \xf000Ă\x0001\x0000 is\xfffe circling in the air!
+\xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
+The wild \xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
+The foe's \xf000Ă\x0001\x0000 is\xfffe whipped up a whirlwind!
 \xf000Ă\x0001\x0000's\xfffeintense light wrap!
 The wild \xf000Ă\x0001\x0000's\xfffeintense light wrap!
 The foe's \xf000Ă\x0001\x0000's\xfffeintense light wrap!
