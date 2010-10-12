@@ -509,9 +509,9 @@ The foe's \xf000Ă\x0001\x0000 is\xfffegiving off a blazing aura!
 \xf000Ă\x0001\x0000 \xfffetook a hit!
 The wild \xf000Ă\x0001\x0000 \xfffetook a hit!
 The foe's \xf000Ă\x0001\x0000 \xfffetook a hit!
-\xf000Ă\x0001\x0000 \xfffeswitched abilities with the opponent!
-The wild \xf000Ă\x0001\x0000 \xfffeswitched abilities with the opponent!
-The foe's \xf000Ă\x0001\x0000 \xfffeswitched abilities with the opponent!
+\xf000Ă\x0001\x0000 braced \xfffeitself!
+The wild xf000Ă\x0001\x0000 braced \xfffeitself!
+The foe's xf000Ă\x0001\x0000 braced \xfffeitself!
 \xf000Ă\x0001\x0000 \xfffeKoraeta attack!
 The wild \xf000Ă\x0001\x0000 \xfffeKoraeta attack!
 The foe's \xf000Ă\x0001\x0000 \xfffeKoraeta attack!
