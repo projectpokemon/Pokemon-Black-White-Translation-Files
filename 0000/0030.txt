@@ -26,7 +26,7 @@ Off
 The text speed can be set\xfffein three different speeds.
 Choose to display battle animations.
 Choose the standard rules\xfffeof shifting Pokémon in battle.
-Choose to put the sound\xfffein stereo or in mono mode.
+Choose to play the sound\xfffein stereo or in mono mode.
 Choose how to display text.\xfffeKanji is Japanese language.
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます

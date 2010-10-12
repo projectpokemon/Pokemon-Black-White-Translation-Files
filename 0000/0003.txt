@@ -51,7 +51,7 @@ Random Match Rating\xfffeDouble
 Random Match Rating\xfffeTriple
 Random Match Rating\xfffeRotation
 Random Match Rating\xfffeMiracle Shooter
-Single Tournament \xfffeNo Miracle Shooter
+Single Tournament\xfffeNo Miracle Shooter
 Single Tournament\xfffeMiracle Shooter
 Double Tournament\xfffeNo Miracle Shooter
 Double Tournament\xfffeMiracle Shooter

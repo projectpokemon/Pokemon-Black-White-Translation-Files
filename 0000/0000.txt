@@ -119,7 +119,7 @@ Shaga
 Normal
 Fire
 Water
-Electricity
+Electric
 Grass
 Ice
 Fighting

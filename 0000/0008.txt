@@ -161,7 +161,7 @@ Rank
 \xf000봂\x0000No
 Yes
 No
-are you sure this is okay?\xfffeYou are about to disconnect from Wi-Fi Connection
+Are you sure this is okay?\xfffeYou are about to disconnect from Wi-Fi Connection
 Colosseum\xfffeSingle, No Restrictions
 Colosseum\xfffeSingle, Standard Cup
 Colosseum\xfffeSingle, Fancy Cup
