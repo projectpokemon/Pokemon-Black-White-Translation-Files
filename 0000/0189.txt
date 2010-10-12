@@ -1,12 +1,12 @@
-トレーナーと　トレーナーの\xfffeめが　あうって　ことは……\xf000븁\x0000ポケモンしょうぶの　はじまりさ！\xf000븁\x0000
-なんだ！？\xfffeきみ　つよすぎるぞ！？
-くさむらに　はいって\xfffeやせいポケモンと　しょうぶ！\xf000븁\x0000と　そのまえに　ポケモンセンターで\xfffeポケモンを　げんきに　しなきゃ
-アタシ　ポケモンしょうぶが\xfffeとっても　だいすき　なの！\xf000븁\x0000だって　かわいい　ポケモンが\xfffeさらに　かわいく　がんばるんだもん！\xf000븁\x0000
-まけても　アタシの　ポケモン\xfffeかわいいんだもん……！
-アタシね　いろんな　トレーナーと\xfffeポケモンしょうぶ　して\xf000븀\x0000ポケモンを　そだてるんだ！
-ヨーテリー　ヨーテリー\xfffeぼくの　ヨーテリー！　ゴー！\xf000븁\x0000
-おまえの　ポケモン\xfffeそんな　わざを　つかうんだ！？
-いろんな　トレーナーが\xfffeいろんな　ポケモンを　くりだす！\xf000븀\x0000それを　みるのって　おもしろいよな！
+There are some trainers out here.\xfffeI'd be careful……\xf000븁\x0000I'd make sure to heal your Pokémon!\xf000븁\x0000
+What！？\xfffeHow could I lose！？
+This path takes you to Sanyou City.\xf000븁\x0000Be sure to keep your Pokémon fit,\xf000븁\x0000because trainers don't take it easy.
+I just love cute Pokémon!\xfffeThey are so adorable！\xf000븁\x0000Not only are they cute, but\xfffethey're strong too！\xf000븁\x0000
+You're tough\xfffe*Cry*……!
+Hey, you're a tough Pokémon Trainer!\xfffeI hope to get as good as you!\xf000븀\x0000At least my Pokémon are cute!
+Have you ever heard of the\xfffeKanto region?!\xf000븁\x0000
+I lost?....\xfffeNo way!
+The Kanto region is far from here.\xfffeI hear they have different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever go there, huh?!
 さて　わたしの　ポケモンが\xfffeどれだけ　そだったか　みてください！\xf000븁\x0000
 ……まだまだ\xfffeそだって　いませんね
 すごいですね\xfffeこれは　プレゼントです\xf000븁\x0000
@@ -15,26 +15,26 @@
 なるほど……！\xfffeいっしょに　たびして　そだてたのか！
 どうぞ　これを\xfffeだいじな　ポケモンに\xf000븁\x0000
 いろんな　けいけんを　つんで\xfffeそだった　ポケモンは\xf000븁\x0000しぜんと　トレーナーの　きもちが\xfffeわかるように　なるんだろうね！
-こどもと　ポケモンたち\xfffeたくさんの　えがおに　かこまれて\xf000븀\x0000むてきの　アタシ　でーす！\xf000븁\x0000
-うわあ！　すごいすごい！\xfffeアナタ　とっても　つよいのね！
-あいての　めを　みて　はなす\xfffeそうして　きもちを　つたえあう……\xf000븀\x0000ひとも　ポケモンも　おなじだよね
-あたしたち　ちからを　あわせて\xfffeがんばるから　みててください！\xf000븁\x0000
-クミ『わーん！　ポケモンさん\xfffeもっと　がんばって！\xf000븁\x0000ルミ『あれれ？　ポケモンさん\xfffeげんき　なくなっちゃった……
+I'm invincible when I see\xfffethe smiles on the children's faces\xf000븀\x0000with their Pokémon!\xf000븁\x0000
+Wow!　Wonderful!\xfffeYou're a strong trainer!
+I looked at your\xfffePokémon's eyes and realized something.\xf000븀\x0000Pokémon and humans are equals.
+We're going to try\xfffeour best to win!\xf000븁\x0000
+Kumi: Oh!　Mr. Pokémon\xfffeisn't moving!\xf000븁\x0000Rumi: Huh? Mr. Pokémon\xfffeis down...
 とちゅうで　キズぐすり　とか\xfffeつかえば　かててたのかな？
 えっ　ポケモン　１ひき　だけ？\xfffeそれでも　トレーナーさん　なの？
-えーっとね……\xfffe１たす　１は　２　だよね！\xf000븁\x0000
+Um...\xfffe1 plus 1 equals two!\xf000븁\x0000
 あれれ？　ポケモンさん\xfffeげんき　なくなっちゃった……
 ダブルバトルは　１ひき　たおれると\xfffeかつの　むずかしいんだね
 ポケモン　１ひき　だけなの？\xfffeそれでも　トレーナー？
-おいっ　トレーナー！\xfffeボクと　しょうぶ　しろ！！\xf000븁\x0000
-うわ！　たたかえる　げんきな\xfffeポケモン　いなくなった……
-くそー！　こどもあいてに\xfffeほんき　だしやがって！\xf000븀\x0000きらいじゃないぞ！　そーゆーの！
-くらえっ！\xfffeはかいこうせん！\xf000븁\x0000
-あわわわ……！
-はかいこうせん？\xfffeそんなの　まだ　つかえないよ\xf000븁\x0000ポケモンのこと　よくわからないから\xfffeとにかく　つよい　わざ　つかいたい
-トレーナーさん！　あたしが\xfffeあいてを　してあげましゅね\xf000븁\x0000
-トレーナーさん\xfffeちょっと　つよしゅぎ！
-あたしね！　おおきくなったら\xfffeトレーナーさんの　ように　つよくて\xf000븀\x0000しゅてきな　ひとに　なりたい
+Hey trainer!\xfffePlay with me!!\xf000븁\x0000
+Wah! I can't believe\xfffe my Pokémon lost...
+Darn it!　I'm supposed to\xfffebe the best kid here!\xf000븀\x0000I like you!　You're strong!
+Eat this!\xfffeHyper Beam!\xf000븁\x0000
+...Waaaaaahhh!
+Hyper Beam?\xfffeI can't use it.\xf000븁\x0000My Pokémon doesn't know it, but I\xfffewant a strong attack like that.
+Mr. trainer!　I want\xfffeyou to battle me.\xf000븁\x0000
+Mr. Trainer,\xfffethat was too fast!
+Ohhh!　I'll be stronger when\xfffeI get bigger. I wanna be\xf000븀\x0000big like you Mr. Trainer!
 トレーナーズスクールで\xfffeまなんだ　ちしきを　つかうとき！\xf000븁\x0000
 むぎゅ！
 きみの　すごさに　あっとうされて\xfffeまなんだ　ちしきを　わすれていたよ\xf000븀\x0000しょうぶのときは　れいせい　でないと
@@ -109,15 +109,15 @@ Yes!　I knew I could do it!\xfffeI really won!
 ...!　What?\xfffeHow could I lose!
 Oi!! That must have hurt!\xfffeI won't let you win!!
 I picked the strongest one!\xfffeI knew I'd win!
-...Did I choose the right Pokemon?\xfffeI tried my best!!
+...Did I choose the right Pokémonn?\xfffeI tried my best!!
 Oi!! That must have hurt!\xfffeI won't let you win!!
 I picked the strongest one!\xfffeI knew I'd win!
-...Did I choose the right Pokemon?\xfffeI tried my best!!
+...Did I choose the right Pokémon?\xfffeI tried my best!!
 Oi!! That must have hurt!\xfffeI won't let you win!!
 I picked the strongest one!\xfffeI knew I'd win!
-...Did I choose the right Pokemon?\xfffeI tried my best!!
-もっと！　キミの　ポケモンの\xfffeこえを　きかせてくれ！
-そんな　ことを　いう\xfffeポケモンが　いるのか……！？
+...Did I choose the right Pokémon?\xfffeI tried my best!!
+More!　I want to hear more\xfffeof your Pokémon's voice!
+Is this what\xfffePokémon need!?...
 わたしの　エスパーポケモンが\xfffeなぜか　さわぎだした……\xf000븁\x0000いせきの　なか　だからか\xfffeそれとも　きみの　せいなのか？\xf000븁\x0000
 ……つよい！\xfffeきみは　なにものだ！？
 この　いせきを　ちゅうしんに\xfffeながい　ねんげつを　かけて\xf000븁\x0000イッシュちほうに\xfffeひとや　ポケモンが　ふえたってさ
@@ -126,19 +126,19 @@ I picked the strongest one!\xfffeI knew I'd win!
 れきしのある　ばしょには\xfffeふしぎな　エネルギーが　のこる……\xf000븁\x0000わたしには　それが　わかるわ\xfffeおおくの　かなしみに　よろこび……
 That won't work on\xfffemy Pokémon!
 It's not over yet!　I still have one\xfffePokémon! I'm all fired up!
-The flame...\xf000븁\x0000IT'S GONE!
+The flame...\xf000븁\x0000IT'S OUT!
 Oh!\xfffeThat was a good attack.
 The final Pokémon of Korn\xfffewill give its all!
 Wow...\xfffeI, Korn, have lost.
 Ahh!\xfffeMy Pokémon!
 Wait, what?　Do I only\xfffehave one Pokémon left?
 Well...\xfffeIt's over, huh?
-ようこそ　いらっしゃいませ\xfffeサンヨウジムへ！\xf000븁\x0000ここでは　しょうぶの　きほんを\xfffeあじわって　いただきます\xf000븁\x0000
-なんともまあ\xfffeすばらしい　トレーナーさま　ですね！
-タイプの　あいしょうを　きにせず\xfffeつよく　きたえあげた　ポケモンで\xf000븀\x0000かちすすむのも　ありだと　おもいます
-サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000ふたりめは　わたくしで　ございます\xf000븁\x0000
-わたくしとの　しょうぶ\xfffeたのしんで　いただけましたか？
-サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000さいごは　ジムリーダーです
+Welcome to the\xfffeSanyou Gym!\xf000븁\x0000You'll learn the basics\xfffeof battling here.\xf000븁\x0000
+You're a downright\xfffegreat trainer!
+I don't worry about type\xfffeadvantages. How hard you train\xf000븀\x0000your Pokémon is what matters.
+I serve trainers full courses\xfffehere at the Sanyou Gym!\xf000븀\x0000I feel like two people!\xf000븁\x0000
+Did you enjoy\xfffeour battle?
+You've gotten the full course\xfffeof the Sanyou Gym trainers!\xf000븀\x0000Now there's only the Gym Leader.
 Now i can see what kind\xfffeof trainer you are!
 In this kind of situation,\xfffeI always find a way to win!
 That's the kind of\xfffebattle that I love!
@@ -182,12 +182,12 @@ You gave me such a\xfffetough battle... Thank you.
 かりメッセージ\xf000븁\x0000
 かりメッセージ
 かりメッセージ
-アタシたち！\xfffeここで　しゅぎょう　してるの！\xf000븁\x0000ね！　アナタも いっしょに\xfffeポケモン　きたえましょ！\xf000븁\x0000
-すっごーい！　アナタ\xfffeトレーナーの　さいのう　あるよ！
-ジムリーダーにも　かちたいけれど\xfffeアナタにも　かちたくなっちゃった！
-ジムリーダーを　こえるのが\xfffeオレの　もくひょう！\xf000븀\x0000そんな　オレに　かてるのかよ！？\xf000븁\x0000
-がんばったよな\xfffeオレの　ポケモンたち！
-オレには　もくひょうが　ある！\xfffeポケモンたちが　いてくれる！\xf000븀\x0000だから　どこまでも　がんばれる！
+Wait!\xfffeWhat are you doing here?\xf000븁\x0000I see you’re a Trainer. Well if\xfffethat’s the case, let's battle!\xf000븁\x0000
+Awesome! You're a\xfffepretty talented trainer!
+Even the Trio have to train!\xfffeBelieve it or not, they train here！
+My goal is to get\xfffestronger than the Trio!\xf000븀\x0000Do you think you can beat me!?\xf000븁\x0000
+My Pokémon\xfffegot tired!
+I still want to get\xfffestronger than the Trio!\xf000븀\x0000I'll train just as hard as my Pokémon! 
 ＰＯＷＥＲ！\xf000븁\x0000ポケモンも　アメフトも\xfffeパワーが　いのち！！\xf000븁\x0000
 パワーが　たりなかったのか……
 さいきょうを　めざして　まいにち\xfffeポケモンと　トレーニングしているよ！
@@ -1266,27 +1266,27 @@ This doesn't look good...\xfffeWe might still have a chance!
 へえー！\xfffeその　わざを　えらぶんだ！
 ポケモンたちを　みているうちに\xfffeいつも　こうなっちゃうの……
 ……どっちの　ポケモンも\xfffeものすごーく　がんばったよね！！
-かならず　あたる　わざ\xfffeさきに　こうげき　できる　わざ\xf000븀\x0000いろいろ　あるよね\xf000븁\x0000
-ポケモンに　どの　どうぐを\xfffeもたせるのかは　だいじ　だね……
-……なるほどね！\xf000븁\x0000きみに　まけるとは\xfffeまだまだ　みじゅく　だね
-かならず　あたる　わざ\xfffeさきに　こうげき　できる　わざ\xf000븀\x0000いろいろ　あるよね\xf000븁\x0000
-ポケモンに　どの　どうぐを\xfffeもたせるのかは　だいじ　だね……
-……なるほどね！\xf000븁\x0000きみに　まけるとは\xfffeまだまだ　みじゅく　だね
-かならず　あたる　わざ\xfffeさきに　こうげき　できる　わざ\xf000븀\x0000いろいろ　あるよね\xf000븁\x0000
-ポケモンに　どの　どうぐを\xfffeもたせるのかは　だいじ　だね……
-……なるほどね！\xf000븁\x0000きみに　まけるとは\xfffeまだまだ　みじゅく　だね
-き　きあい　はいっちゃうよ！\xfffeあたしも　ポケモンも！
-よーしっ！\xfffeつぎは　このコで！
-うわわわ……\xfffeもしかして　ピンチ！？
-うわあ……\xfffeかてなかったあ……
-き　きあい　はいっちゃうよ！\xfffeあたしも　ポケモンも！
-よーしっ！\xfffeつぎは　このコで！
-うわわわ……\xfffeもしかして　ピンチ！？
-うわあ……\xfffeかてなかったあ……
-き　きあい　はいっちゃうよ！\xfffeあたしも　ポケモンも！
-よーしっ！\xfffeつぎは　このコで！
-うわわわ……\xfffeもしかして　ピンチ！？
-うわあ……\xfffeかてなかったあ……
+Everytime you attack, you work,\xfffeand some attacks are easier\xf000븀\x0000to use than others...\xf000븁\x0000
+A Pokémon's hold item\xfffeis pretty important...
+...Now I get it!\xf000븁\x0000You're more likely to lose\xfffeif you're at a lower level.
+Everytime you attack, you work,\xfffeand some attacks are easier\xf000븀\x0000to use than others...\xf000븁\x0000
+A Pokémon's hold item\xfffeis pretty important...
+...Now I get it!\xf000븁\x0000You're more likely to lose\xfffeif you're at a lower level.
+Everytime you attack, you work,\xfffeand some attacks are easier\xf000븀\x0000to use than others...\xf000븁\x0000
+A Pokémon's hold item\xfffeis pretty important...
+...Now I get it!\xf000븁\x0000You're more likely to lose\xfffeif you're at a lower level.
+We've got fighting spirit!\xfffeMe and my Pokémon!
+Alright!\xfffeThis next one will do it!
+Wait...\xfffeAm I in a pinch now!?
+Oh well...\xfffeI couldn't win...
+We've got fighting spirit!\xfffeMe and my Pokémon!
+Alright!\xfffeThis next one will do it!
+Wait...\xfffeAm I in a pinch now!?
+Oh well...\xfffeI couldn't win...
+We've got fighting spirit!\xfffeMe and my Pokémon!
+Alright!\xfffeThis next one will do it!
+Wait...\xfffeAm I in a pinch now!?
+Oh well...\xfffeI couldn't win...
 ねえねえ　トレーナー！\xf000븁\x0000ぼくが　どんな　ポケモンを\xfffeもってるか　みせてあげるよ！\xf000븁\x0000
 ボクの　ポケモン　みてくれた？\xfffeがんじょうで　すごいでしょ！
 とくせい　がんじょうの　ポケモンは\xfffeいちげきで　たおされないんだよ！
