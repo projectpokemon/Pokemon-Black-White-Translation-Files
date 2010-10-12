@@ -834,9 +834,9 @@ The foe's \xf000Ă\x0001\x0000 is\xfffetrapped in the vortex of magma!
 \xf000Ă\x0001\x0000 is\xfffeVery trapped!
 The wild \xf000Ă\x0001\x0000 is\xfffeVery trapped!
 The foe's \xf000Ă\x0001\x0000 is\xfffeVery trapped!
-\xf000Ă\x0001\x0000 is\xfffethere is no technology that can give!
-The wild \xf000Ă\x0001\x0000 is\xfffethere is no technology that can give!
-The foe's \xf000Ă\x0001\x0000 is\xfffethere is no technology that can give!
+\xf000Ă\x0001\x0000 has\xfffeno moves left!
+The wild \xf000Ă\x0001\x0000 has\xfffeno moves left!
+The foe's \xf000Ă\x0001\x0000 has\xfffeno moves left!
 \xf000Ă\x0001\x0000 is\xfffeprotected by a mystery veil!
 The wild \xf000Ă\x0001\x0000 is\xfffeprotected by a mystery veil!
 The foe's \xf000Ă\x0001\x0000 is\xfffeprotected by a mystery veil!
