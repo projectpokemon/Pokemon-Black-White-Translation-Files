@@ -590,9 +590,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffehas seald its opponent's move!
 \xf000Ă\x0001\x0000 \xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
 The wild \xf000Ă\x0001\x0000 \xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
 The foe's \xf000Ă\x0001\x0000 \xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
-\xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001Fuujikometa a!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001Fuujikometa a!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000ć\x0001\x0001Fuujikometa a!
+\xf000Ă\x0001\x0000's \xfffe\xf000ć\x0001\x0001was Disabled!
+The wild \xf000Ă\x0001\x0000's \xfffe\xf000ć\x0001\x0001was Disabled!
+The foe \xf000Ă\x0001\x0000's \xfffe\xf000ć\x0001\x0001was Disabled!
 \xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
 The wild \xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
 The foe's \xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
