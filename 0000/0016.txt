@@ -1129,9 +1129,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
 The wild \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
 The foe's \xf000Ă\x0001\x0000 \xfffefell crashing to the ground!
-\xf000Ă\x0001\x0000 \xfffePostponed the order!
-The wild \xf000Ă\x0001\x0000 \xfffePostponed the order!
-The foe's \xf000Ă\x0001\x0000 \xfffePostponed the order!
+xf000Ă\x0001\x0000's \xfffeOrder was postponed!
+The wild \xf000Ă\x0001\x0000's \xfffeOrder was postponed!
+The foe's \xf000Ă\x0001\x0000's \xfffeOrder was postponed!
 \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
 The wild \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
 The foe's \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
