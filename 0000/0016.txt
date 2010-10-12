@@ -894,9 +894,9 @@ The foe's \xf000Ă\x0001\x0000 something wind\xfffe\xf000ć\x0001\x0001has put o
 But　\xf000Ă\x0001\x0000's \xfffehealth is already full!
 But the wild \xf000Ă\x0001\x0000's \xfffehealth is already full!
 But the foe's \xf000Ă\x0001\x0000's \xfffehealth is already full!
-\xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
-The wild \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
-The foe's \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
+\xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ď\x0001\x0001 Type!
+The wild \xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ď\x0001\x0001 Type!
+The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ď\x0001\x0001 Type!
 \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
 The wild \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
 The foe \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
