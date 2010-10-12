@@ -897,9 +897,9 @@ But the foe's \xf000Ă\x0001\x0000's \xfffehealth is already full!
 \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
 The wild \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
 The foe's \xf000Ă\x0001\x0000 is now a\xfffe\xf000ď\x0001\x0001 Type!
-\xf000Ă\x0001\x0000's\xfffestamina dropped!
-The wild \xf000Ă\x0001\x0000's\xfffestamina dropped!
-The foe's \xf000Ă\x0001\x0000's\xfffestamina dropped!
+\xf000Ă\x0001\x0000 had its\xfffeenergy drained!
+The wild \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
+The foe \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
 \xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
 The wild \xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
 The foe's \xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
