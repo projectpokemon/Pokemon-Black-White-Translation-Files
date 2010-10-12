@@ -719,9 +719,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffeis making noise!
 \xf000Ă\x0001\x0000 \xfffecalmed down!
 The wild \xf000Ă\x0001\x0000 \xfffecalmed down!
 The foe's \xf000Ă\x0001\x0000 \xfffecalmed down!
-\xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つaside!
-The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つaside!
-The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ȁ\x0001\x0001つaside!
+\xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
 \xf000Ă\x0001\x0000が\xfffenullified the effect!
 The wild \xf000Ă\x0001\x0000が\xfffenullified the effect!
 The foe's \xf000Ă\x0001\x0000が\xfffenullified the effect!
