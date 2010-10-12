@@ -611,9 +611,9 @@ The foe's \xf000Ă\x0001\x0000 \xfffewas seeded!
 \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
 The wild \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
 The foe's \xf000Ă\x0001\x0000's Leech Seed \xffferecovered health!
-\xf000Ă\x0001\x0000 \xfffesomething zen power strength!
-The wild \xf000Ă\x0001\x0000 \xfffesomething zen power strength!
-The foe's \xf000Ă\x0001\x0000 \xfffesomething zen power strength!
+\xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
+The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
+The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
 \xf000Ă\x0001\x0000 \xfffeimproved its concentration!
 The wild \xf000Ă\x0001\x0000 \xfffeimproved its concentration!
 The foe's \xf000Ă\x0001\x0000 \xfffeimproved its concentration!
@@ -1094,12 +1094,12 @@ The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the 
 The wild The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xf000븀\x0000Are of the same Type!
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
-\xf000Ă\x0001\x0000 shared\xfffe overall power!
-The wild \xf000Ă\x0001\x0000 shared\xfffe overall power!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe overall power!
-\xf000Ă\x0001\x0000 shared\xfffe overall guard!
-The wild \xf000Ă\x0001\x0000 shared\xfffe overall guard!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe overall guard!
+\xf000Ă\x0001\x0000 shared\xfffe overall Attack!
+The wild \xf000Ă\x0001\x0000 shared\xfffe overall Attack!
+The foe's \xf000Ă\x0001\x0000 shared\xfffe overall Attack!
+\xf000Ă\x0001\x0000 shared\xfffe overall Defence!
+The wild \xf000Ă\x0001\x0000 shared\xfffe overall Defence!
+The foe's \xf000Ă\x0001\x0000 shared\xfffe overall Defence!
 \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The wild \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The foe's \xf000Ă\x0001\x0000 is\xfffevery nimble!
