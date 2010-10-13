@@ -48,8 +48,8 @@ Double Ability Ribbon
 Multi Ability Ribbon
 Pair Ability Ribbon
 World Ability Ribbon
-ブロマイドリボン
-がんばリボン
+Artist Ribbon
+Effort Ribbon
 Alert Ribbon
 Shock Ribbon
 Downcast Ribbon
@@ -128,8 +128,8 @@ A Ribbon awarded for completing\xfffethe Sinnoh Battle Tower Double challenge.
 A Ribbon awarded for completing\xfffethe Sinnoh Battle Tower Multi challenge.
 A Ribbon awarded for completing\xfffethe Sinnoh Battle Tower Link Multi challenge.
 A Ribbon awarded for completing\xfffethe Sinnoh Wi-Fi Battle Tower challenge. 
-ホウエンで　ごうかな　にがおえの\xfffeモデルになった　きねんの　リボン
-たくさん　どりょく　している\xfffeポケモンに　おくられる　リボン
+Ribbon awarded for being chosen as\xfffea super sketch model in Hoenn.
+Ribbon awarded for being an\xfffeexceptionally hard worker.
 A Ribbon for recalling an invigorating event\xfffethat created life energy.
 A Ribbon for recalling a thrilling event\xfffethat made life more exciting.
 A Ribbon for recalling feelings of sadness\xfffethat added spice to life.
@@ -147,8 +147,8 @@ Pokémon League - Champion Ribbon.
 A Ribbon awarded for overcoming\xfffeall difficult challenges.
 A Ribbon awarded for winning\xfffe100 matches in a row.
 Pokémon League - Champion Ribbon.
-A Ribbon that proclaims love for Pokémon.
-きねんび　きねんリボン
+A Ribbon that proclaims love for\xfffePokémon.
+A commemorative Ribbon obtained\xfffein a Mystery Zone.
 ポケモンの　イベントに\xfffeさんかした　きねんリボン
 おたんじょうび　きねん　リボン
 とくべつな　ひの　とくべつな　リボン
