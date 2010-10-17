@@ -1,5 +1,5 @@
 What is your name?
-\xf000ā\x0001\x0000　Name?
+\xf000ā\x0001\x0000 Name?
 What is your box’s name?
 What is your rival’s name?
 What is your friend’s name?
@@ -8,8 +8,8 @@ What would you like your thank-you message\xfffeto be when you connect with anot
 What would you like to tell a person\xfffeyou’ve connected to?
 Please enter your name!
 You may only enter up to\xfffe4 characters.
-　
-　
+ 
+ 
 Nice knowing you!
 Thank you!
 White.

@@ -1,5 +1,5 @@
 Welcome to the GTS!
-あずけていた　ポケモンの\xfffeこうかんが　せいりつ　しました！
+あずけていた ポケモンの\xfffeこうかんが せいりつ しました！
 \xf000Ă\x0001\x0000 was not traded.\xf000븁\x0000
 \xf000Ă\x0001\x0000 appears to have\xfffefled...\xf000븁\x0000
 Are you seeking or offering a Pokémon?
@@ -17,20 +17,20 @@ Stop searching?
 Trade Pokémon with the Trainer?
 Choose the Pokémon you are trading.
 Do what with this \xf000Ă\x0001\x0000?
-You seem to have already exchanged it...
-していのポケモンと　ちがいますよ！
+You seem to have already traded it...
+していのポケモンと ちがいますよ！
 Choose the Pokémon you want to offer.
 Offer \xf000Ă\x0001\x0000?
 Are these conditions OK?
 Checking GTS's status...
 The Ball Capsule will be detached.\xfffeIs that OK?
-このポケモンを　こうかんに\xfffeだすことは　できません！\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６６）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６７）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６８）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２６９）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７０）\xf000븁\x0000
-このポケモンを　こうかんに\xfffeだすことは　できません！（１３２７１）\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 132??)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13266)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13267)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13268)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13269)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13270)\xf000븁\x0000
+This Pokémon is not a legitimate\xfffePokémon. (Error: 13271)\xf000븁\x0000
 An Egg may not be offered\xfffefor trade!\xf000븁\x0000
 Your party is full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
 Your Storage boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
@@ -59,13 +59,13 @@ Desired Pokémon
 \xf000ā\x0001\x0005
 Lv. \xf000Ȃ\x0001\x0006いじょう
 No Lv. Preference
-ひきとる
-As Is
+Take back
+Leave as is
 Yes
 No
-Leave as is
+Pokémon
 Take back
-Name
+Pokémon
 \xf000ā\x0001\x0000
 Gender
 \xf000Ĩ\x0001\x0001
@@ -105,10 +105,10 @@ Cancel
 Summary
 Trade
 Cancel
-Wanted
+ Wanted
 \xf000ā\x0001\x0000
 \xf000ĩ\x0001\x0001
-Offer Pokémon
+ Offered
 \xf000Ă\x0001\x0002
 Lv.
 \xf000Ȃ\x0001\x0003
@@ -141,17 +141,17 @@ Lv. 80 and up
 Lv. 90 and up
 Level 100
 \xf000봂\x0000Return
-ポケモンを　ＧＴＳに\xfffeおくりだして　います
-ＧＴＳに　ポケモンが\xfffeとうろく　されました！\xf000븁\x0000
-ポケモンを　ＧＴＳから\xfffeうけとっています
-ＧＴＳから　ポケモンを\xfffeひきとりました！\xf000븁\x0000
-ＧＴＳと　ポケモンを　\xfffeこうかん　しています！
-ポケモンの　こうかんが\xfffeせいりつ　しました！\xf000븁\x0000
-ざんねんですが　ほかのひとと\xfffeこうかん　されていました\xf000븁\x0000
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-ただいま　ＧＴＳと　つうしんを\xfffeおこなっています……
-ＧＴＳは\xfffeげんざい　メンテナンスちゅう　です\xf000븁\x0000\xfffeしばらく　おまちいただいたのち　\xfffeごりようください\xf000븁\x0000
-ＧＴＳは\xfffeげんざい　こみあって　おります\xf000븁\x0000\xfffeしばらく　おまちいただいたのち\xfffeごりようください（１３２６１）\xf000븁\x0000
+ポケモンを ＧＴＳに\xfffeおくりだして います
+ＧＴＳに ポケモンが\xfffeとうろく されました！\xf000븁\x0000
+ポケモンを ＧＴＳから\xfffeうけとっています
+ＧＴＳから ポケモンを\xfffeひきとりました！\xf000븁\x0000
+ＧＴＳと ポケモンを \xfffeこうかん しています！
+ポケモンの こうかんが\xfffeせいりつ しました！\xf000븁\x0000
+ざんねんですが ほかのひとと\xfffeこうかん されていました\xf000븁\x0000
+ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
+ただいま ＧＴＳと つうしんを\xfffeおこなっています……
+ＧＴＳは\xfffeげんざい メンテナンスちゅう です\xf000븁\x0000\xfffeしばらく おまちいただいたのち \xfffeごりようください\xf000븁\x0000
+ＧＴＳは\xfffeげんざい こみあって おります\xf000븁\x0000\xfffeしばらく おまちいただいたのち\xfffeごりようください（１３２６１）\xf000븁\x0000
 Communication error...
 Communication error...
 Communication error...\xfffeError code: 13272\xf000븁\x0000
@@ -165,7 +165,7 @@ Communication error...\xfffeError code: 13282\xf000븁\x0000
 Unable to connect to the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
 Unable to connect to the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
 You were disconnected from the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
-つうしんが　せつだん　されました
+つうしんが せつだん されました
 Returning to the reception counter.
 Any
 Lv. 1 to 10
@@ -240,8 +240,8 @@ You have disconnected from Nintendo\xfffeWi-Fi Connection.
 レ
 ロ
 ワ
-　
-GTS
+ 
+GTS\xfffeMain menu
 GTS\xfffeTrade Pokémon
 GTS\xfffeSummary
 GTS\xfffeDeposit Pokémon

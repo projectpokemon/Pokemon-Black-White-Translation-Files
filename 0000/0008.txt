@@ -23,12 +23,12 @@ Profile
 Unregistered
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
-\xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
+\xf000Ĝ\x0001\x0000 \xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000's Video
 My video
 Other videos
 あき
-\xf000Ā\x0001\x0000　のきろくをけす
+\xf000Ā\x0001\x0000 のきろくをけす
 Search by ranking
 データをおくる
 さいしん３０けん
@@ -88,7 +88,7 @@ Video Battle
 Video Battle\xfffeさいしん３０けん
 Top-Ranked Battle Videos\xfffeColosseum
 Top-Ranked Battle Videos\xfffeBattle Frontier
-けんさくした　バトルビデオ\xfffeいちらん
+けんさくした バトルビデオ\xfffeいちらん
 
 Where would you like to save\xfffe\xf000Ā\x0001\x0000’s Battle Video?
 うわがきほぞん
@@ -110,7 +110,7 @@ You haven’t set any search criteria.
 Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
-バトルビデオを　おくりました！
+バトルビデオを おくりました！
 \xf000봂\x0000View Profile
 \xf000봂\x0000Close Profile
 Newest 30 Battle Videos
@@ -132,7 +132,7 @@ Battle Points:
 \xf000봂\x0000スーパーシングルトレイン
 \xf000봂\x0000スーパーダブルトレイン
 \xf000봂\x0000スーパーマルチトレイン
-みたい　せいせきを　えらんでください
+みたい せいせきを えらんでください
 Wins:
 Total:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
@@ -142,11 +142,11 @@ Total:
 ともだちとマルチ
 ランク
 Rank
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
+\xf000봂\x0000Ｗｉ－Ｆｉトレイン せいせき
 げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
+\xf000봂\x0000\xf000Ā\x0001\x0000 の レーティング
+\xf000봂\x0000レーティングモード せいせき
+\xf000봂\x0000フリーモード せいせき
 \xf000봃\x0001\x0000Win
 \xf000봃\x0001\x0000Lose
 \xf000봃\x0001\x0000Single
@@ -228,7 +228,7 @@ Colosseum\xfffeDouble, Cup Match
 23: Battle Arcade\xfffe Multi
 \xf000봂\x0000Touch Here!
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-　
+ 
 User authentication error.\xfffePlease wait a while before reconnecting.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with the\xfffeDress-Up Data.
@@ -296,16 +296,16 @@ There is no response.\xfffeError Code 10611
 There is no response.\xfffeError Code 10612
 Communication was interrupted.\xfffeError Code 10613
 Unable to connect.\xfffeError Code 10614
-　
-　
-　
-　
-　
-　
-　
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
-　
-　
+ 
+ 
 There is nothing saved.\xfffeTouch the Touch Screen to continue.
 Please choose a Box.
 An empty Box’s Data can’t be sent.
@@ -340,13 +340,13 @@ Saving...\xfffeDon’t turn off the power.
 There is no ranking data...\xfffeTouch the Touch Screen to continue.
 Would you like to send your Battle Video?
 
-　
-　
-　
+ 
+ 
+ 
 
-　
-　
-　
+ 
+ 
+ 
 Latest 20 in the Favorite PC Box
 Latest 20 in the Cool PC Box
 Latest 20 in the Cute PC Box

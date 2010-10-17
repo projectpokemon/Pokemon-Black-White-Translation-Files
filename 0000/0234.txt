@@ -13,7 +13,7 @@ WT
 Search Mode
 Please enter the search criteria.
 Search Results
-RESULTS　\xf000Ȃ\x0001\x0000
+RESULTS \xf000Ȃ\x0001\x0000
 Select the Pokédex listing mode.
 List by the first letter in the name.
 List by type.
@@ -174,8 +174,8 @@ Cancel
 Cancel
 Return to list
 Give a nickname to \xfffethe caught \xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000は　だれかの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
-\xf000Ă\x0001\x0000は　ショウロの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
+\xf000Ă\x0001\x0000は だれかの パソコンの\xfffe\xf000ċ\x0001\x0001に てんそうされた！
+\xf000Ă\x0001\x0000は ショウロの パソコンの\xfffe\xf000ċ\x0001\x0001に てんそうされた！
 Information
 Map
 Voice

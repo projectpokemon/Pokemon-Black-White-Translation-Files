@@ -1,2 +1,2 @@
-スタートボタンを　おしてください
-PUSH　START　BUTTON
+Please push the start button.
+PUSH START BUTTON

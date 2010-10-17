@@ -178,7 +178,7 @@ The user changes its type to make itself\xffferesistant to the type of the attac
 A vortex of air is shot at the foe to inflict\xfffedamage. It has a high critical-hit\xffferatio.
 The user releases cotton-like spores\xfffethat cling to the foe, sharply\xfffereducing its Speed stat.
 An all-out attack that becomes more\xfffepowerful the less ＨＰ the user has.
-The user looses its grudge on the move last used by\xfffethe foe by cutting 4 PP from it.
+The user looses its grudge on the move last used \xfffeby the foe by cutting 4 PP from it.
 The user attacks with a chilling gust of\xfffepowdery snow. It may also freeze the\xfffetarget.
 It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used in\xfffesuccession.
 The user throws a punch at blinding speed.\xfffeIt is certain to strike first.
@@ -351,7 +351,7 @@ The user vigorously performs a\xfffemystic, powerful dance that boosts its\xfffe
 The user hurls hard rocks at the foe.\xfffeTwo to five rocks are launched in quick\xfffesuccession.
 The user strikes the foe with a quick jolt\xfffeof electricity. This attack cannot be evaded.
 The user attacks the foe with a pulsing\xfffeblast of water. It may also confuse the foe.
-Two turns after this move is used,\xfffethe user blasts the foe with a concentrated bundle of light.
+Two turns after this move is used,\xfffethe user blasts the foe with a \xfffeconcentrated bundle of light.
 The user attacks the foe at full power.\xfffeThe attack’s recoil sharply\xfffereduces the user’s Sp. Atk stat.
 The user lands and rests its body.\xfffeIt restores the user’s ＨＰ\xfffeby up to half of its max ＨＰ.
 Gravity is intensified for five turns, making\xfffemoves involving flying unusable and\xfffenegating Levitation.
@@ -482,13 +482,13 @@ It strikes the foe with one mighty blow.\xfffeAlways result in a critical hit.
 If it hits it attacks the opponent with a\xfffebursting flame. The burst flame will\xfffefall onto those nearby the hit Pokemon.
 It attacks those near it with a wave of\xfffesludge. It will sometimes cause poisoning.
 It lightly dances a mysterious dance.\xfffeIt raises its own Sp. Atk, Sp. Def,\xfffeand Speed.
-It attacks by striking the foewith its\xfffeheavy body. The heavier it is than\xfffeits foe, greater the power.
+It attacks by striking the foe with its\xfffeheavy body. The heavier it is than\xfffeits foe, greater the power.
 With a strange electric wave it damages\xfffeitself and other Pokemon who have\xfffethe same type.
 It slams an electric cluster into the\xfffeopponent. The faster it is than its\xfffeopponent, the greater the power.
 It bathes the opponent in lots of water and\xfffemakes their type Water.
 It puts on flame and attacks the opponent.\xfffeIt stores strength and its speed rises.
 It coils up and concentrates.\xfffeIt raises its Attack, Defence and Accuracy.
-With speedy movements it aims at the\xfffefoes' feet
+With speedy movements it aims at the\xfffefoe's feet.
 It spits out a liquid to melt the opponent.\xfffeIt sharply lowers the opponents Sp. Def.
 It uses the foe’s strength.\xfffeThe higher the fighting foe’s attack is,\xfffethe greater the damage.
 It sends a puzzling idea to the opponent.\xfffeThe ability of opponents who receive this\xfffeattack becomes Simple.
@@ -507,7 +507,7 @@ It lets fly a Healing Beam that will restore\xfffehalf of its opponent’s maxim
 An attack like being showered with questions.\xfffeAn opponent afflicted with a status\xfffecondition with receive much damage.
 It attacks by raising the foes skyward on\xfffethe first turn, then dropping them on the\xfffesecond. The raised foe is immobile.
 It spins the gears and not only raises its\xfffeattack, but also sharply raises its\xfffespeed.
-It throws the foe in the air and drags\xfffeout the next Pokemon. In case of a\xfffewild battle, the battle ends.
+It throws the foe in the air and drags\xfffeout the next Pokemon. In the case \xfffeof a wild battle, the battle ends.
 It attacks the opponent with fire.\xfffeIt burns any berry the opponent is\xfffeholding, rendering it unusable.
 It holds the opponent down and makes it\xfffeattack last.
 It lightly attacks the opponent.\xfffeThe damage is larger when it is not holding\xfffeany item.
@@ -516,26 +516,26 @@ It takes revenge for a fainted teammate.\xfffeIf a teammate is fainted that turn
 It risks its life to attack the opponent.\xfffeIt verges on fainting afterwards, but\xfffedamages a chunk of the opponents ＨＰ.
 When the foe is not holding an item,\xfffeyou give them your item.
 It surrounds the foe with a violent flame\xfffeand burns the opponent.
-It attacks with a pillar of water.\xfffeIf you combine it with fire, its power ups\xfffe& a rainbow appears in the sky.
-It attacks with a pillar of fire.\xfffeIf you combine it with grass its power ups\xfffe& the surrounds become a sea of flames.
-It attacks with a pillar of grass.\xfffeIf you combine it with water its power ups\xfffe& the surrounds becomes a moor.
+It attacks with a pillar of water.\xfffeIf you combine it with fire, it power ups\xfffe& a rainbow appears in the sky.
+It attacks with a pillar of fire.\xfffeIf you combine it with grass it power ups\xfffe& the surroundings become a sea of flames.
+It attacks with a pillar of grass.\xfffeIf you combine it with water it power ups\xfffe& the surroundings becomes a moor.
 After it has attacked the opponent, it\xfffereturns and switches places with a\xfffewaiting Pokemon.
 It opposes the foe by attacking.\xfffeIt lowers the foes' Sp. Atk.
 It stamps the ground and attacks anything\xfffenearby. It lowers the opponent’s speed.
-Blows a cool breath on the foe.\xfffeopponentAlways result in a critical hit.
+Blows a cool breath on the foe.\xfffeAlways results in a critical hit.
 It sends the opponent flying and\xfffecauses the opponent to switch out.\xfffeIn a wild battle, the battle ends.
 It musters its courage and raises its\xfffeAttack and Sp. Atk.
-It attacks by catching the foe in an\xfffeelectric net. It lowers the\xfffeopponents speed.
+It attacks by catching the foe in an\xfffeelectric net. It lowers the\xfffeopponent's speed.
 It covers itself in electricity and crashes\xfffeinto the foe. User takes a little damage.
-It strikes the foes body while rotating\xfffeits own like a drill. It will often\xffferesult in a critical hit.
+It strikes the foe's body while rotating\xfffeits own like a drill. It will often\xffferesult in a critical hit.
 It strikes the opponent with a hard part of\xfffeits body. It gives damage by\xfffestriking twice in succession.
 It tricks the foe with its cute behavior\xfffebefore bathing them in this violent attack.\xfffeMay cause the foe to flinch.
 It pierces the foe with its horn and sucks\xfffenutrients. It will restore the ＨＰ of\xfffethe attack by half of the damage dealt.
 It slashes the foe with long horns.\xfffeIt deals damage without regard to the\xfffefoe’s stat changes.
 It slashes with a sharp shell.\xfffeIt may lower the foe’s Defence.
-It slams the foe with its flaming body.\xfffeThe more heavy than the foe it is,\xfffethe stronger the power.
-It surrounds the foe with sharp leaves.\xfffeIt may lower the foes Accuracy.
-It flattens thefoe by rolling its curled up\xfffebody. It may cause the foe to flinch.
+It slams the foe with its flaming body.\xfffeThe heavier it is then the foe,\xfffethe stronger the power.
+It surrounds the foe with sharp leaves.\xfffeIt may lower the foe's Accuracy.
+It flattens the foe by rolling its curled up\xfffebody. It may cause the foe to flinch.
 It surrounds its body with fluffy wool to\xfffeprotect itself. It sharply raises its\xfffeDefence.
 It sends shockwaves of darkness flying.\xfffeIt may lower the opponents Accuracy.
 It makes its mysterious brain waves real and\xfffeattacks the foe. It deals Physical damage.
@@ -556,5 +556,5 @@ It surrounds the opponent in a violent chill\xfffethat freezes everything on the
 It yells at an opponent for a long time\xfffeand lowers their Sp. Atk.
 It violently throws a large pillar of ice.\xfffeIt may cause the opponent to flinch.
 It creates an intensely hot flame from its\xfffeforehead & hits the foe with all its might.\xfffeDefence, Sp. Def and Speed are lowered.
-It strikes with a huge flame.\xfffeIts powers up if struck by a huge thunder bolt.
+It strikes with a huge flame.\xfffeIts powers up if struck by a huge \xfffethunder bolt.
 It strikes with a huge thunder bolt.\xfffeIts powers up if struck by a huge flame.

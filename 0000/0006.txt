@@ -31,7 +31,7 @@ No
 ＋
 →
 IDNo
-　
+ 
 Cursor
 Go back!
 What now?
@@ -57,19 +57,19 @@ Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s)?
 Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
 You can't dismount your bike here.
 Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
-Your Coins:　\xf000Ȅ\x0001\x0000
+Your Coins: \xf000Ȅ\x0001\x0000
 Booted up an TM.
 Booted up an HM.
-It contained　\xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+It contained \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
 Since a Repel’s effects still linger,\xfffeyou can’t use this now.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled.
 The box is full!
-Powders:　\xf000ȃ\x0001\x0000
-\xf000봂\x0000TM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+Powders: \xf000ȃ\x0001\x0000
+\xf000봂\x0000TM\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
 No. \xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000HM\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
 Berry Powder
 Played the Poke Flute!\xfffeWow! That sounds great!
 Played the Poke Flute!
@@ -94,8 +94,8 @@ Accuracy
 Category
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-Seals:　\xf000ȃ\x0001\x0000
-Accessories:　\xf000Ȃ\x0001\x0000\xfffeBackdrops:　　　　\xf000ȁ\x0001\x0001
+Seals: \xf000ȃ\x0001\x0000
+Accessories: \xf000Ȃ\x0001\x0000\xfffeBackdrops:    \xf000ȁ\x0001\x0001
 Close bag
 Bury
 Open

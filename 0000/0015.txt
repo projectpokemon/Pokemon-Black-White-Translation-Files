@@ -1642,15 +1642,15 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeTechno Buster!
 \xf000ā\x0001\x0000 used\xfffeAncient Song!
 The wild \xf000ā\x0001\x0000 used\xfffeAncient Song!
 The foe’s \xf000ā\x0001\x0000 used\xfffeAncient Song!
-\xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
-The wild \xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
-The foe’s \xf000ā\x0001\x0000 used\xfffeSword Of Mystery!
+\xf000ā\x0001\x0000 used\xfffeMystery Blade!
+The wild \xf000ā\x0001\x0000 used\xfffeMystery Blade!
+The foe’s \xf000ā\x0001\x0000 used\xfffeMystery Blade!
 \xf000ā\x0001\x0000 used\xfffeFrozen World!
 The wild \xf000ā\x0001\x0000 used\xfffeFrozen World!
 The foe’s \xf000ā\x0001\x0000 used\xfffeFrozen World!
-\xf000ā\x0001\x0000 used\xfffeLightning Strike!
-The wild \xf000ā\x0001\x0000 used\xfffeLightning Strike!
-The foe’s \xf000ā\x0001\x0000 used\xfffeLightning Strike!
+\xf000ā\x0001\x0000 used\xfffeLightning Edge!
+The wild \xf000ā\x0001\x0000 used\xfffeLightning Edge!
+The foe’s \xf000ā\x0001\x0000 used\xfffeLightning Edge!
 \xf000ā\x0001\x0000 used\xfffeBlue Fire!
 The wild \xf000ā\x0001\x0000 used\xfffeBlue Fire!
 The foe’s \xf000ā\x0001\x0000 used\xfffeBlue Fire!

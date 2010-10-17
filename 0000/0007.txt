@@ -8,7 +8,7 @@ Quit
 Random
 You can't battle yet. You\xfffefirst have to register on\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, make an account\xf000븀\x0000\xfffeon the following website.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
 Do what through Wi-Fi?
-Do you want to stop\xfffeparticipating？
+Do you want to stop\xfffeparticipating?
 Yes
 No
 Cancel participation

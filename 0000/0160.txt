@@ -38,11 +38,11 @@ Experience Point Power S
 Pocket Money Power S
 Discount Power S
 HP Restore Power
-Egg Hatch Power　ＭＡＸ
-Capture Power　ＭＡＸ
-Friendship Power　ＭＡＸ
-Experience Point Power　ＭＡＸ
-Pocket Money Power　ＭＡＸ
-Discount Power　ＭＡＸ
-はっせいパワー　？
-はいふパワー　？
+Egg Hatch Power ＭＡＸ
+Capture Power ＭＡＸ
+Friendship Power ＭＡＸ
+Experience Point Power ＭＡＸ
+Pocket Money Power ＭＡＸ
+Discount Power ＭＡＸ
+はっせいパワー ？
+はいふパワー ？

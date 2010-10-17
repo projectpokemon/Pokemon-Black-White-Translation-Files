@@ -1,5 +1,5 @@
 Name:
-　
+ 
 Status:
 Pokédex:
 Money:
@@ -14,7 +14,7 @@ Link Battle Disconnects:
 Link Trades:
 No. of Pokémon Released:
 No. of Trainers Battled:
-すれちがった　にんずう
+すれちがった にんずう
 フィーリングチェック
 Charges Used:
 Participated in Appeal Shows:
@@ -27,7 +27,7 @@ Battle Tests:
 Cancel
 Touch Card to flip.
 Sign Card
-Want to sign xfffeyour Trainer Card?
+Want to sign \xfffeyour Trainer Card?
 Your current signature will be erased. \xfffeIs that OK?
 Hardy
 Lonely

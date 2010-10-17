@@ -387,7 +387,7 @@ The attack raises the opponent skyward \xfffeon the 1st turn, then dropps it on 
 It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable.
 It holds the opponent down and \xfffemakes it attack last.
 The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn.
-It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item.　
+It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item. 
 It prevents the foe from using its \xfffeheld item. Its Trainer is also prevented \xfffefrom using items on it.
 The user explodes to inflict damage \xfffeon all Pokemon in battle. \xfffeThe user faints upon using this move.
 The user slashes with a sharp claw \xfffemade from shadows. It has a high \xfffecritical-hit ratio.

@@ -149,15 +149,15 @@ A Ribbon awarded for winning\xfffe100 matches in a row.
 Pokémon League - Champion Ribbon.
 A Ribbon that proclaims love for\xfffePokémon.
 A commemorative Ribbon obtained\xfffein a Mystery Zone.
-ポケモンの　イベントに\xfffeさんかした　きねんリボン
-おたんじょうび　きねん　リボン
-とくべつな　ひの　とくべつな　リボン
-とくべつな　おもいでを　きねんする　リボン
-ねがいが　かなうと　いわれている　リボン
-バトルたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeエリアたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeこくないたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeせかいたいかい　ゆうしょうきねんリボン
+ポケモンの イベントに\xfffeさんかした きねんリボン
+おたんじょうび きねん リボン
+とくべつな ひの とくべつな リボン
+とくべつな おもいでを きねんする リボン
+ねがいが かなうと いわれている リボン
+バトルたいかい ゆうしょうきねんリボン
+ポケモンワールドチャンピオンシップス\xfffeエリアたいかい ゆうしょうきねんリボン
+ポケモンワールドチャンピオンシップス\xfffeこくないたいかい ゆうしょうきねんリボン
+ポケモンワールドチャンピオンシップス\xfffeせかいたいかい ゆうしょうきねんリボン
 League Ribbon\xf000ȁ\x0001\x0000
 Contest Ribbon\xf000ȁ\x0001\x0000
 Tower Ribbon\xf000ȁ\x0001\x0000

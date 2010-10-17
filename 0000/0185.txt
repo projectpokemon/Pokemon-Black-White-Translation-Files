@@ -53,55 +53,55 @@ Long ago, a monster came with a meteor.\xfffeEver since, people stay at home in 
 Pokécenter
 Home to the famous Sinnoh Champion.\xfffeElite 4-members will come to battle her.
 Pokécenter
-てつどうしゃりょうが　せいびされたり\xfffeていはくする　しゃりょうきちの　まち
-ひとがつどい　はってんを　つづける\xfffeきんだいてきな　ふんいきの　まち
+てつどうしゃりょうが せいびされたり\xfffeていはくする しゃりょうきちの まち
+ひとがつどい はってんを つづける\xfffeきんだいてきな ふんいきの まち
 Pokécenter
 This city contains very large trees.\xfffeThere is only one wooden house here.
 Pokécenter
-せかい　かっこくの　ひとびとと\xfffeこうりゅうできる　ちょうこうそうビル
-とおく　はなれた　べつちほうの\xfffeポケモンを　けんきゅうする　しせつ
-こどもや　ポケモンの　あそびばとして\xfffeつかわれている　こうじょうの　あとち
-たおれて　くうどうに　なった\xfffeきの　うろも　とおることが　できる
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
-あつめられた　たいりょうの　しなを\xfffeいっていの　おんどで　ほぞんしている
-でんきを　おびた　いしと　いしが\xfffeはんぱつして　うかんでいる　ほらあな
-しつの　いい　こうせきが　とれる\xfffeこうざんとして　ひょうばんがたかい
-いつ　だれが　たてたかも　わからない\xfffeイッシュで　もっとも　ふるい　とう
-けいしゃで　トレーナーを　はばむ\xfffeポケモンリーグ　さいごの　かんもん
-ちかづけば　わざわいが　ふりかかると\xfffeいいつたえられる　きょだいな　あな
-ひとと　ポケモンとが　じゆうに\xfffeくらせる　せかいを　ねがう　しま
-こじまに　ひっそり　たたずむ\xfffeひみつめいた　けんきゅうじょ
-しみこんだ　あまみずが　わきあがり\xfffeちかに　みずたまりを　つくりだした　
-でんせつの　けはいを　とじこめたまま\xfffeひとに　わすれさられた　ほらあな
-たましいを　じょうか　させるという\xfffeおおきな　かねが　ある　たかいとう
-たいらな　とちの　くぼみに　たまった\xfffeみずでできた　しつげんと　されている
-かつては　ひとが　すんでいた　むらで\xfffeいまも　とうじの　くうきが　ながれる
-なみが　かがやいている　として\xfffeせかいでも　ひょうばんの　うみ
-さほど　いりくんでも　いないのに\xfffeまようと　いわれる　ふしぎなもり
+せかい かっこくの ひとびとと\xfffeこうりゅうできる ちょうこうそうビル
+とおく はなれた べつちほうの\xfffeポケモンを けんきゅうする しせつ
+こどもや ポケモンの あそびばとして\xfffeつかわれている こうじょうの あとち
+たおれて くうどうに なった\xfffeきの うろも とおることが できる
+かんこうきゃくに にんきだが\xfffeリゾートとよぶには きびしい さばく
+かつて えいがを ほこるも いつしか\xfffeすなにうもれた おおむかしの いせき
+あつめられた たいりょうの しなを\xfffeいっていの おんどで ほぞんしている
+でんきを おびた いしと いしが\xfffeはんぱつして うかんでいる ほらあな
+しつの いい こうせきが とれる\xfffeこうざんとして ひょうばんがたかい
+いつ だれが たてたかも わからない\xfffeイッシュで もっとも ふるい とう
+けいしゃで トレーナーを はばむ\xfffeポケモンリーグ さいごの かんもん
+ちかづけば わざわいが ふりかかると\xfffeいいつたえられる きょだいな あな
+ひとと ポケモンとが じゆうに\xfffeくらせる せかいを ねがう しま
+こじまに ひっそり たたずむ\xfffeひみつめいた けんきゅうじょ
+しみこんだ あまみずが わきあがり\xfffeちかに みずたまりを つくりだした 
+でんせつの けはいを とじこめたまま\xfffeひとに わすれさられた ほらあな
+たましいを じょうか させるという\xfffeおおきな かねが ある たかいとう
+たいらな とちの くぼみに たまった\xfffeみずでできた しつげんと されている
+かつては ひとが すんでいた むらで\xfffeいまも とうじの くうきが ながれる
+なみが かがやいている として\xfffeせかいでも ひょうばんの うみ
+さほど いりくんでも いないのに\xfffeまようと いわれる ふしぎなもり
 This short route is lined with trees.\xfffeThere are also different kinds of flowers.
 This route is simmilar to easterly-\xffferegion routes. It has trainers training.
 A very fresh-feeling route that\xfffeconnects Shippou City with Sanyou City.
-すなあらしのため　２つの　としを\xfffeつなぐ　こうじが　おくれている　みち
+すなあらしのため ２つの としを\xfffeつなぐ こうじが おくれている みち
 A short, paved road that connects\xfffeRaimon City with Hodomoe Drawbridge.
-ゆたかな　きぎが　おいしげり\xfffeしぜんの　みりょく　あふれる　どうろ
-ながい　くさむらに　はいらなくても\xfffeすすめるよう　いっぽんばしが　ある
+ゆたかな きぎが おいしげり\xfffeしぜんの みりょく あふれる どうろ
+ながい くさむらに はいらなくても\xfffeすすめるよう いっぽんばしが ある
 Route 8 is a route with many water\xfffepuddels due to excessive amounts of rain.
 This route is very popular. It is\xfffethe location of the Department Store.
 Department store
-うでじまんが　つどい　きそいあう\xfffeバッジチェックのもんに　つづく　みち
-せいりゅうが　どうろないを　めぐり\xfffeうつくしい　けしきが　うまれた　みち
-あるくだけで　たのしくなってしまう\xfffeなだらかな　おかが　つらなる　ばしょ
-うみの　うえを　つらぬく　すなはまが\xfffeめいぶつの　みずぎわの　みち
+うでじまんが つどい きそいあう\xfffeバッジチェックのもんに つづく みち
+せいりゅうが どうろないを めぐり\xfffeうつくしい けしきが うまれた みち
+あるくだけで たのしくなってしまう\xfffeなだらかな おかが つらなる ばしょ
+うみの うえを つらぬく すなはまが\xfffeめいぶつの みずぎわの みち
 A calm mountain route.\xfffeThe Fertility Shrine is also popular.
 This route is a calm walk-through\xfffeto the very special Wonder Bridge.
 Many people visiting Raimon City\xfffestop-by at Route 16 to take rest.
-ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
-リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
-４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし
-ふねの　うんこうに　あわせて\xfffeあがったり　さがったりする　はし
-ちかてつが　とおりぬけても\xfffeびくともしない　こうてつの　はし
-イッシュを　かいたくした　ひとびとが\xfffeつくり　くらしはじめた　ふるい　はし
-どんな　しょうげきも　やわらげるよう\xfffeデザインされた　さいせんたんの　はし
-イッシュの　ちゅうしんに　ある\xfffeふしぎな　パワーが　やどる　ばしょ
-つよさを　もとめる　トレーナーが\xfffeきけんを　かえりみずに　はいりこむ
+ちけいの かんけいで きゅうりゅうが\xfffeはっせいし じゆうに すすめない
+リゾートデザートと じつづきだったと\xfffeしてきする けんきゅうしゃも いる
+４ほんの はしらで ささえられた\xfffeイッシュさいだい さいちょうの はし
+ふねの うんこうに あわせて\xfffeあがったり さがったりする はし
+ちかてつが とおりぬけても\xfffeびくともしない こうてつの はし
+イッシュを かいたくした ひとびとが\xfffeつくり くらしはじめた ふるい はし
+どんな しょうげきも やわらげるよう\xfffeデザインされた さいせんたんの はし
+イッシュの ちゅうしんに ある\xfffeふしぎな パワーが やどる ばしょ
+つよさを もとめる トレーナーが\xfffeきけんを かえりみずに はいりこむ

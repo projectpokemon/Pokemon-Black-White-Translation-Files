@@ -183,8 +183,8 @@ Pointed stones float in the air\xfffearound your foe’s team!
 \xf000ĉ\x0001\x0000は \xf000ć\x0001\x0001の\xfffeいりょくを つよめた！
 せいげんじかんが なくなりました！\xfffeたいせんを しゅうりょう します！
 しょうぶの じかんが ながすぎるため\xfffeさいせいを ちゅうだん します！
-ダルマモード はつどう！
-ダルマモード かいじょ！
+Daruma mode activated!
+Daruma mode released!
 ２つのわざが ひとつになった！\xfffeコンビネーションわざだ！
 \xf000Č\x0001\x0000 won’t obey!
 \xf000Č\x0001\x0000 is\xfffeloafing around!
