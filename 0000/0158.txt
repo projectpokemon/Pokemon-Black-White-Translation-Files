@@ -1,4 +1,4 @@
-Confirm
+﻿Confirm
 Cancel
 L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
@@ -70,10 +70,10 @@ No
 Yes
 No
 \xf000Ă\x0001\x0000\xfffewoke up.
-ここを だっしゅつ して\xfffe\xf000ą\x0001\x0000に もどる？
+Escape and return\xfffeto \xf000ą\x0001\x0000?
 Yes
 No
-テレポートして\xfffe\xf000ą\x0001\x0000に もどる？
+Teleport and return\xfffeto \xf000ą\x0001\x0000?
 Yes
 No
 No more that two Pokémon\xfffemay enter.
@@ -177,4 +177,4 @@ SELECT TIME
 つうしんたいきちゅう
 Yes
 No
-\xf000ĉ\x0001\x0000が なくなりました
+\xf000ĉ\x0001\x0000 disappeared.

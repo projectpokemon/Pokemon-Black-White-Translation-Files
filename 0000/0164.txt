@@ -1,6 +1,6 @@
 「どうあそんでるか ちょうさ」
 「どんなひとが いるかの ちょうさ」
-「Favorite Pokemon Survey」
+「Favorite Pokémon Survey」
 「みんなの りそうを ちょうさ」
 「すきなひとの ちょうさ」
 「みんなの このみを ちょうさ」
@@ -76,5 +76,5 @@ Everybody's favorite sport is what sport? \xfffe questionnaire collected
 みんなは どんなことを しゅみにしている？\xfffeをあつめた アンケート
 みんなは どんなことを しごとにしている？\xfffeをあつめた アンケート
 ポケットモンスターブラック・ホワイトで\xfffeどのジムリーダーがすき？ のアンケート
-What type of Pokemon you like? \xfffe questionnaire collected
+What type of Pokémon you like? \xfffe questionnaire collected
 ポケットモンスターブラック・ホワイトで\xfffeあそんだじかんを あつめた アンケート

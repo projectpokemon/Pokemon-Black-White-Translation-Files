@@ -332,7 +332,7 @@ It makes its mysterious brain \xfffewaves real and attacks the \xfffeopponents. 
 The user quietly focuses its \xfffemind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
 The foe is scared off, to be \xfffereplaced by another Pokémon in its \xfffeparty. In the wild, the battle ends.
 A move that leaves the target \xfffebadly poisoned. Its poison damage \xfffeworsens every turn.
-The user summons a hailstorm \xfffelasting five turns. It damages all \xfffePokemon except the Ice type.
+The user summons a hailstorm \xfffelasting five turns. It damages all \xfffePokémon except the Ice type.
 The user tenses its muscles to \xfffebulk up its body, boosting both \xfffeits Attack and Defense stats.
 It hurls a special poison. Its \xfffepower doubles if it hits an \xfffeopponent with Poison status.
 A unique attack that varies in \xfffetype and intensity depending \xfffeon the Pokémon using it.
@@ -389,7 +389,7 @@ It holds the opponent down and \xfffemakes it attack last.
 The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn.
 It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item. 
 It prevents the foe from using its \xfffeheld item. Its Trainer is also prevented \xfffefrom using items on it.
-The user explodes to inflict damage \xfffeon all Pokemon in battle. \xfffeThe user faints upon using this move.
+The user explodes to inflict damage \xfffeon all Pokémon in battle. \xfffeThe user faints upon using this move.
 The user slashes with a sharp claw \xfffemade from shadows. It has a high \xfffecritical-hit ratio.
 Numerous coins are hurled \xfffeat the foe to inflict damage. \xfffeMoney is earned after battle.
 It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn \xfffethe attacks power increases.
@@ -397,7 +397,7 @@ The user charges at the foe using \xfffeevery bit of its power. The \xfffeuser m
 The user polishes its body to \xfffereduce drag. It can sharply raise \xfffethe Speed stat.
 The user flashes a light that \xfffecuts the foe’s accuracy. It can also \xfffebe used to illuminate caves.
 The user stabs the foe with a \xfffesharpened stone. It has a high \xfffecritical-hit ratio.
-After it has attacked the opponent, \xfffeit returns and switches places \xfffewith a waiting Pokemon.
+After it has attacked the opponent, \xfffeit returns and switches places \xfffewith a waiting Pokémon.
 A weak electric charge is \xfffelaunched at the foe. It \xfffecauses paralysis if it hits.
 The user tackles the foe with \xfffea high-speed spin. The slower the \xfffeuser, the greater the damage.
 A frenetic dance to uplift the \xfffefighting spirit. It sharply raises \xfffethe user’s Attack stat.
@@ -414,10 +414,10 @@ An attack that works only on a \xfffesleeping foe. It absorbs half the damage \x
 The user snares the foe with grass \xfffeand trips it. The heavier the foe, \xfffethe greater the damage.
 The user enrages the foe into \xfffeconfusion. However, it also sharply \xffferaises the foe’s Attack stat.
 The user pecks the foe. If the \xfffefoe is holding a Berry, the user \xfffeplucks it and gains its effect.
-After making its attack, the user \xffferushes back to switch places \xfffewith a party Pokemon in waiting.
+After making its attack, the user \xffferushes back to switch places \xfffewith a party Pokémon in waiting.
 The user makes a copy of itself \xfffeusing some of its HP. The copy \xfffeserves as the user’s decoy.
 The user gathers all its light \xfffeenergy and releases it at once. It may \xfffealso lower the foe’s Sp. Def stat.
-The user creates a bizarre area \xfffein which slower Pokemon get to move \xfffefirst for five turns.
+The user creates a bizarre area \xfffein which slower Pokémon get to move \xfffefirst for five turns.
 The foe is cut with a scythe or \xfffea claw. It can also be used to cut \xfffedown thin trees.
 The user soars, then strikes on \xfffethe second turn. It can also be used \xfffefor flying to any familiar town.
 It swamps the entire battlefield \xfffewith a giant wave. It can also be \xfffeused for crossing water.

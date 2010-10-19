@@ -1,42 +1,42 @@
 X Button
 SELECT
 B Button
-らくがきツールを つかう
-がぞうを とめる
-らくがきを やめる
-ペンサイズを へんこう
-いろを スポイト
-けしゴムに へんこう
-らくがきツールを とじる
+Use Scribble Tool
+Cancel Image
+Stop Drawing
+Change Pen Size
+Paint Color
+Change Eraser
+Close Scribble Tool
 Stamp
 Scribble Mode
 REC
 Scribble
-ＩＤ\xf000Ȅ\x0001\x0000
+ID \xf000Ȅ\x0001\x0000
 ―／―
-\xf000Ȁ\x0001\x0000／４
-ともだちを えらんでください
-ともだちを よびだす
+\xf000Ȁ\x0001\x0000/4
+Please choose a friend.
+Call friend
 さんかする
-ともだちを よびだしちゅう！
-ともだちを よびだしちゅう・
-ともだちを よびだしちゅう・・
-ともだちを よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを さがしています！
-ともだちを さがしています・
-ともだちを さがしています・・
-ともだちを さがしています・・・
-ライブキャスターを\xfffeしゅうりょう しますか？
-リーダーが やめると かいさんに\xfffeなりますが よろしいですか？
+Calling friend!
+Calling friend.
+Calling friend..
+Calling friend...
+Connecting!
+Connecting.
+Connecting..
+Connecting...
+Looking for friend!
+Looking for friend.
+Looking for friend..
+Looking for friend...
+Finish Livecasting?
+Is it OK to stop the Reader\xfffeand disconnect?
 Yes
 No
-リーダーが しゅうりょうしたので \xfffeかいさんします
-あいてが しゅうりょうしたので \xfffeかいさんします
-メンバーが いなくなったので\xfffeしゅうりょうします
+Stopped the Reader and disconnected.
+Your opponent has disconnected.
+All of the other members left.
 よびだしに しっぱいしました
 せつぞくに しっぱいしました
 ペアレンタルコントロールの\xfffeせっていにより しゃしんデータの\xfffeそうじゅしんが せいげん\xfffeされています\xfffeがぞうを だしたいときは\xfffeほんたいせっていで\xfffeせいげんを かいじょ してください

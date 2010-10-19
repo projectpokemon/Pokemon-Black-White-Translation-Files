@@ -1,9 +1,9 @@
-Options
+﻿Options
 Text Speed
 Battle Scene
 Battle Style
 Sound
-Display text
+Display Text
 Frame
 IR Report
 Confirm
@@ -21,17 +21,17 @@ Normal
 Kanji
 Write
 Off
-かく
-かかない
+Write
+Don't
 The text speed can be set\xfffein three different speeds.
 Choose to display battle animations.
 Choose the standard rules\xfffeof shifting Pokémon in battle.
 Choose to play the sound\xfffein stereo or in mono mode.
-Choose how to display text.\xfffeKanji is Japanese language.
+Choose how to display text.\xfffeKanji will make the text Japanese.
 いつも むせんで つうしんするか\xfffeオン／オフが えらべます
-Ｃギアの せきがいせんつうしん まえに\xfffeレポートを かくかどうか えらべます
-べつの レポートが かかれているので\xfffeへんこう できません\xf000븁\x0000
-Do you want to save? If you\xfffedon't, all changes will be lost.
+Choose whether to write a report\xfffebefore C-Gear infrared communications.
+Another report has already been written,\xfffeso this cannot be changed.\xf000븁\x0000
+Make the selected changes?
 Yes
 No
 Dummy Message

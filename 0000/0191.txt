@@ -1,11 +1,11 @@
-Pokemon Trainer
-Pokemon Trainer
+﻿Pokémon Trainer
+Pokémon Trainer
 Youngster
 Lass
 School Boy
 School Girl
 Tennis Player
-Foot-Baller
+Football Player
 Waiter
 Waitress
 Gym Leader
@@ -15,15 +15,15 @@ Day-Care Teacher
 Day-Care Student
 Day-Care Student
 Twin Girls
-Pokemon Breeder
-Pokemon Breeder
+Pokémon Breeder
+Pokémon Breeder
 Gym Leader
 Gym Leader
 Gym Leader
 Gym Leader
 Gym Leader
-Pokemon Ranger
-Pokemon Ranger
+Pokémon Ranger
+Pokémon Ranger
 Worker
 Backpacker
 Backpacker
@@ -35,10 +35,10 @@ Artist
 Baker
 Psychic
 Psychic
-Pokemon Trainer
-Pokemon Trainer
+Pokémon Trainer
+Pokémon Trainer
 Team Plasma
-Pokemon Trainer
+Pokémon Trainer
 Rich Boy
 Rich Girl
 Pilot
@@ -88,18 +88,18 @@ Police Officer
 Maid
 Subway Master
 Champion
-Cycling
-Cycling
-Bike-lover
-ブルジョワールけ
-ブルジョワールけ
-ブルジョワールけ
-ブルジョワールけ
+Cyclist
+Cyclist
+Bike-Lover
+Bourgeoise
+Bourgeoise
+Bourgeoise
+Bourgeoise
 Game Freak
-ブルジョワールけ
-ブルジョワールけ
-Pokemon Trainer
+Bourgeoise
+Bourgeoise
+Pokémon Trainer
 Team Plasma
 Subway Master
-Pokemon Trainer
-Pokemon Trainer
+Pokémon Trainer
+Pokémon Trainer

@@ -1,10 +1,10 @@
-－－－－－－－－－－
+﻿－－－－－－－－－－
 Mysterious Place
 Distant Place
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-Kanoto Town
+Kanoko Town
 Karakusa Town
-Sanyou Town
+Sanyou City
 Shippou City
 Hiun City
 Raimon City
@@ -79,7 +79,7 @@ Hodomoe City
 Fukiyose City
 Sekka City
 Souryuu City
-Kanoko City
+Kanoko Town
 White Forest
 Black City
 Cold Storage

@@ -2,5 +2,5 @@ Yes
 No
 わすれさせる
 わすれさせない
-\xf000ć\x0001\x0000を あきらめる！
-\xf000ć\x0001\x0000を あきらめない
+Forget a move to learn \xf000ć\x0001\x0000?
+Give up on learning \xf000ć\x0001\x0000?

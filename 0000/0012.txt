@@ -51,7 +51,7 @@ Beach
 Sea floor
 River
 Sky
-Pokemon Center
+Pokémon Center
 Metal
 Check
 Simple
@@ -89,7 +89,7 @@ Quit
 Quit
 Change\xfffe Box
 Change\xfffe Wallpaper
-Store\xfffe Pokemon
+Store\xfffe Pokémon
 To bag
 Hold
 Move

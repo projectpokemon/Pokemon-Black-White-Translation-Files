@@ -623,7 +623,7 @@ The foe's \xf000Ă\x0001\x0000 \xfffeimproved its concentration!
 The wild \xf000Ă\x0001\x0000 copied \xfffe\xf000Ă\x0001\x0001's \xfffe\xf000Ć\x0001\x0002 stat changes!
 The wild \xf000Ă\x0001\x0000 copied\xfffethe wild \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000copied \xfffe\xf000Ă\x0001\x0001's \xfffe\xf000Ć\x0001\x0002 stat changes!
-The foe's \xf000Ă\x0001\x0000  copied\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
+The foe's \xf000Ă\x0001\x0000 copied\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
 \xf000Ă\x0001\x0000 is trying \xfffe to take along!
 The wild \xf000Ă\x0001\x0000 is trying \xfffe to take along!
 The foe's \xf000Ă\x0001\x0000 is trying \xfffe to take along!
@@ -1109,7 +1109,7 @@ The foe's \xf000Ă\x0001\x0000 also\xfffetook off sparks!
 \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001 \xfffewas burned off!
 The wild \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001 \xfffewas burned off!
 The foe's \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001 \xfffewas burned off!
-\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002 \xffefrom \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002 \xfffefrom \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From \xf000Ă\x0001\x0001!
@@ -1120,18 +1120,18 @@ The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000From 
 The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
 The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
 The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
-The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and Abducted into the sky!
+The wild \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and abducted into the sky!
 The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000into the sky!
-The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and Abducted into the sky!
+The foe's \xf000Ă\x0001\x0001 was taken up by\xfffe\xf000Ă\x0001\x0000\xf000븀\x0000and abducted into the sky!
 \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 The wild \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 The foe's \xf000Ă\x0001\x0000 \xfffeis no longer bound!
 \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
-\xf000Ă\x0001\x0000's \xfffeOrder was postponed!
-The wild \xf000Ă\x0001\x0000's \xfffeOrder was postponed!
-The foe's \xf000Ă\x0001\x0000's \xfffeOrder was postponed!
+\xf000Ă\x0001\x0000's \xfffeorder was postponed!
+The wild \xf000Ă\x0001\x0000's \xfffeorder was postponed!
+The foe's \xf000Ă\x0001\x0000's \xfffeorder was postponed!
 \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
 The wild \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!
 The foe's \xf000Ă\x0001\x0000 \xfffedecided to accept a kind offer!

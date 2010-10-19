@@ -1,17 +1,17 @@
-「ＩＲ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Pass By Mode」について
-「Radar Surveys」について
-「Custom」について
-「On／Off」について
+About IR Settings
+About Wi-Fi Settings
+About Wi-Fi Settings
+About Wireless Settings
+About Wireless Settings
+About Wireless Settings
+About Wireless Settings
+About Wireless Settings
+About Tag Mode
+About Radar Surveys
+About Custom Settings
+About On/Off
 Using infrared\xfffeめのまえにいる ともだちと きがるに\xfffeたいせんや こうかんが できます。\xfffeまた あいしょうが わかる\xfffeフィーリングチェックや\xfffeともだちコードの こうかんも できます。
-GAME SYNC button \xfffechoose a Pokemon to go to sleep \xfffethen connect to the Wi-Fi \xfffeso you can send the report.
+GAME SYNC button \xfffechoose a Pokémon to go to sleep \xfffethen connect to the Wi-Fi \xfffeso you can send the report.
 Ｗｉ－Ｆｉの でんぱを キャッチしても\xfffeほんたいせっていが できていないと\xfffeＷｉ－Ｆｉに せつぞく できません。
 Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Live Caster\xfffe・High Link
 Live Caster\xfffeFriend codes in the C-Gear\xfffeこうかんしたり Ｗｉ－Ｆｉクラブで\xfffeいっしょに あそんだことの ある\xfffeともだちと ライブキャスターを\xfffeつかって あそべます。

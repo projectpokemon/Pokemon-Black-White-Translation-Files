@@ -33,7 +33,7 @@ Your foe’s weak!\xfffeGet ’em, \xf000Ă\x0001\x0000!
 Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の \xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を つかった！
+\xf000Ď\x0001\x0000's \xf000Ā\x0001\x0001 is \xfffe\xf000ĉ\x0001\x0002 dove underwater！
 \xf000Ā\x0001\x0000が \xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を シュートした！！
 いまは ミラクルシューターを\xfffeつかうことが できない！
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
@@ -71,9 +71,9 @@ What will \xf000Č\x0001\x0000 do?
 What will \xf000Ā\x0001\x0000 do?
 \xf000븉\x0001<But it failed!
 Got away safely!
-にげられなかった！
+Can't escape!
 Can’t escape!
-やせいの \xf000Ă\x0001\x0000は\xfffeにげだした！
+The wild \xf000Ă\x0001\x0000 escaped!
 No! There’s no running\xfffefrom a Trainer battle!
 Do you want to give up?
 It’s super effective!
@@ -93,8 +93,8 @@ The sandstorm subsided.
 The hail stopped falling!
 きりが はれた！
 てんこうの えいきょうが なくなった！
-すなあらしが ふきあれる！
-あられが ふきすさぶ！
+The sandstorm rages!
+Hail continues to fall!
 It’s a one-hit KO!
 \xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた！
 \xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない！

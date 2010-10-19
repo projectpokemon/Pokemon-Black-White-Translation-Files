@@ -1,49 +1,49 @@
-The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
+﻿The date is \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
-◇Kanoko Town's trainer defeated Sanyou gym leader Koon-Poddo-Dento!
-◇Kanoko Town's trainer defeated Shippou gym leader Aloe!
-◇Kanoko Town's trainer defeated Hiun gym leader Artei!
-◇Kanoko Town's trainer defeated Raimon gym leader Kamitsure!
-◇Kanoko Town's trainer defeated Hodomoe gym leader Yaakon!
-◇Kanoko Town's trainer defeated Fukiyose gym leader Fuuro!
-◇Kanoko Town's trainer defeated Sekka gym leader Hachiku!
-◇Kanoko Town's trainer defeated Souryuu gym leader Iris!!
-◇Kanoko Town's trainer defeated Souryuu gym leader Shaga!
-◇'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
-◇'Guided by great Friendship ' Hiun City continues to grow.
-◇'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
-◇'Test your skills at the Battle Subway!' Raimon Battle Subway.
-◇'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
-◇'Get the items often carried in the inventory' Hodomoe Market.
-◇'Go shopping now, you won't regret it!' the Ishu Departement Store.
-◇Sanyou City is surrounded by cool fragrant winds and forest all around.
-◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym is a place where both knowledge and battles are tested.
-◇The green lush garden fills your heart with warmth.
-◇Next to town is a house where many trainers come to battle.
-◇Learn about Pokémon at the trainer school.
-◇Sanyou City is surrounded by cool fragrant winds and forest all around.
-◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym is a place where both knowledge and battles are tested.
-◇'Noted for its cobbled streets & warehouses' Shippou City.
-◇The museum has been studying the Pokémon's bones.
-◇The Shippou Gym is a museum where you can explore battle and knowledge.
-◇The warehousehouse studio has lots of talented artists.
-◇Visitors come to watch the warehouse district and Museum.
-◇You are still able to see the railroad remnants.
-◇Be fascinated by the art district where people gather.
-◇The theme of the museum is cultural and natural contrasts.
-◇Many famous artists were born in Shippou City.
-◇Hiun City is famous for its hidden speciality - Hiun Icecream.
-◇Hiun City features piers where many ships sail to different areas.
-◇What tricks and surprises awaits in the Hiun Gym...?
-◇The Central Fountain in Hiun is said to connect the people everywhere.
-◇The Art Gallery is open to artists all around the world.
-◇This building's population is the highest in all of Hiun City.
-◇The Skyline in Hiun looks totally different during day and night.
-◇Hiun City has its own cuisine and cultural ethnicity mixed with many countries.
-◇The place where the differences of Human and Pokémon are researched.
+◇Trainer from Kanoko Town is victorious over Sanyou Gym Leaders Corn, Pod, and Dent!
+◇Trainer from Kanoko Town is victorious over Shippo Gym Leader Aloe!
+◇Trainer from Kanoko Town is victorious over Hiun Gym Leader Arty!
+◇Trainer from Kanoko Town is victorious over Raimon Gym Leader Camille!
+◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Yakon!
+◇Trainer from Kanoko Town is victorious over Fukoyose Gym Leader Fuuro!
+◇Trainer from Kanoko Town is victorious over Sekka Gym Leader Hachiku!
+◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Iris!
+◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Shaga!
+◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
+◇"Discover the future told by your names!" Hiun City Name Rater
+◇"What're they up to? Let's survey!" Hiun City Chance-Upon Survey
+◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
+◇"The stairway to stardom begins here!" Raimon City Musical Hall
+◇"Here come your items, over the wind and waves to you!" Hodomoe Market
+◇"We've got it all at Isshu's biggest shopping district!" Shopping Mall R9
+◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇The stairs leading into the gate prevent snow from piling in.
+◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
+◇Lushgreen Park will warm your heart!
+◇Many trainers visit the daycare next to the city.
+◇Study Pokemon from the basics at the Trainer's School!
+◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇The stairs leading into the gate prevent snow from piling in.
+◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
+◇Shippo City has stone roads and warehouses!
+◇The museum researches everything from bones to Pokémon!
+◇Shippo Gym is a museum that will test your might and wisdom!
+◇Young artist turning dilapidated warehouse into a studio!
+◇Tourists come just to see the warehouses and the museum!
+◇You can also see the remains of the track that ran through town!
+◇A town where appreciators of the fine arts gather!
+◇The museum is themed around the comparison of civilization and nature!
+◇Many famous artists were born in Shippo City!
+◇The obscure specialty Hiun Ice is becoming majorly popular!
+◇The ships taking off from Hiun City's piers have a variety of destinations!
+◇Even compared against the bustle of Hiun City, the gym is still surprising...?
+◇The central fountain is said to be a place for people to connect!
+◇Artists the world over display galleries in Hiun City!
+◇In terms of buildings, shops, and population, Hiun City is number one in Isshu!
+◇The streets of Hiun City are a totally different spectacle at night and in day!
+◇Hiun City is a boiling pot of cultures and foods from various lands!
+◇There's a place investigating the way people happen upon other people!
 ◇Raimon City is said to have much excitement when it comes to battles.
 ◇An overflowing Basketball Court and a lively glowing Tennis Court to boot.
 ◇The Battle Subway was made by the railroad creator who was an adamant battle lover.
@@ -80,21 +80,21 @@ The date is: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇The Cafetaria is over １００ Years old.
+◇The Cafeteria is over 100 years old.
 ◇History mentions that Souryuu City is the oldest city in the world.
 ◇Souryuu City's old technology exceeds any other and is used even now.
 ◇Every year people are born here whom end up being scholars and archaeologists.
 ◇In town you can listen to music, with a history of centuries.
-◇The Cafetaria is over １００ Years old.
+◇The Cafeteria is over 100 years old.
 ◇History mentions that Souryuu City is the oldest city in the world.
 ◇Souryuu City's old technology exceeds any other and is used even now.
 ◇Every year people are born here who end up being scholars and archaeologists.
-◇The city buildings are said to house １００ year old Pokémon.
+◇The city buildings are said to house 100-year-old Pokémon.
 ◇Souryuu City has been up to date on developing the latest monster ball.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
 ◇A very convenient lifestyle can be achieved here as a network.
-◇The city buildings are said to house １００ year old Pokémon.
+◇The city buildings are said to house 100-year-old Pokémon.
 ◇Souryuu City has been up to date on developing the latest monster ball.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
@@ -187,15 +187,15 @@ Sandstorm
 Snowstorm
 Hail
 Fog
-The rare Diamond Dust is located!
-There is a sandstorm!
-There is a strong storm!
+Outbreak of the extremely rare Diamond Dust!!
+Outbreak of an extremely powerful thunderstorm!!
+Outbreak of an extremely harsh storm!!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
 \xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
-◆ There is a swarm of rare Pokémon at \xf000ą\x0001\x0000!
+◆Pokémon are swarming on \xf000ą\x0001\x0000!
 
 
 
@@ -203,9 +203,9 @@ There is a strong storm!
 
 
 
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 acheived a great victory！
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 acheived a great victory！
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 acheived a great victory！
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003acheived a great victory！
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003 \xf000ā\x0001\x0004acheived a great victory！
-◆Hall of Fame Congratulations! Trainer \xf000Ā\x0001\x0006 \xf000ā\x0001\x0000 \xf000ā\x0001\x0001 \xf000ā\x0001\x0002 \xf000ā\x0001\x0003 \xf000ā\x0001\x0004 \xf000ā\x0001\x0005acheived a great victory！
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000!
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000 and \xf000ā\x0001\x0001!
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, and \xf000ā\x0001\x0002!
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, and \xf000ā\x0001\x0003!
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and \xf000ā\x0001\x0004!
+◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004, and \xf000ā\x0001\x0005!
