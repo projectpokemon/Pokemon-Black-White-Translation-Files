@@ -645,7 +645,7 @@ It reduced the PP of the foe's \xfffe\xf000Ă\x0001\x0000 \xf000ć\x0001\x0001 b
 \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 transformed into \xfffethe wild \xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 transformed into \xfffeits partner \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 transformed into\ xfffe\xf000Ă\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 transformed into\xfffe\xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 transformed into \xfffethe wild \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 transformed into \xfffe\xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 transformed into \xfffeits partner \xf000Ă\x0001\x0001!
