@@ -4,7 +4,7 @@ Go into the grass to fight\xfffeagainst wild Pokémon!\xf000븁\x0000But before 
 I just LOVE Pokémon battles!\xf000븁\x0000My lovey-dovey Pokémon\xfffeare gonna do their lovey-doviest!\xf000븁\x0000
 But even if I lose,\xfffemy Pokémon are still adorable...!
 I train my Pokémon by fighting\xfffewith all kinds of trainers!
-Terryip! My Terryip!\xfffeGOOO, TERRYIP!\xf000븁\x0000
+Yooterii! My Yooterii!\xfffeGOOO, YOOTERII!\xf000븁\x0000
 Whoa, your Pokémon\xfffecan use moves like THAT?!
 All kinds of trainers\xfffesend out all kinds of Pokémon!\xf000븀\x0000It's exciting just to watch!
 Hm, how well have I raised\xfffemy Pokémon? Please show me!\xf000븁\x0000
@@ -18,7 +18,7 @@ Through continued experiences,\xfffethe Pokémon you raise learn\xf000븁\x0000h
 I'm surrounded by so many smiles\xfffefrom kids and Pokémon both...\xf000븀\x0000I am UNSTOPPABLE!\xf000븁\x0000
 Whoa! Awesome stuff!\xfffeYou're really strong!
 Looking an opponent in the eyes\xfffetells you their feelings...\xf000븀\x0000People and Pokémon are the same that way.
-We'll combine our power and try hard,\xfffeso please look as us!\xf000븁\x0000
+We'll combine our power and try hard,\xfffeso please look at us!\xf000븁\x0000
 Kumi: Waaah! Pokémon,\xfffeyou should've tried harder!\xf000븁\x0000Lumi: Huhhh? Pokémon,\xfffeyou're not looking too good...
 Maybe if we used a Potion mid-battle,\xfffewe could've won?
 Huh? You've only got one Pokémon?\xfffeAnd you say you're a trainer?
@@ -142,7 +142,7 @@ Sanyou Gym prides itself upon\xfffea full course of trainers!\xf000븀\x0000The 
 Aha, NOW I get to see\xfffewhat kind of trainer you are!
 Even in these circumstances,\xfffeI can find a way to win!
 Now that was really something!\xfffeAin't you just charming!
-I frequent Shippo Gym,\xfffeso people call my a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
+I frequent Shippo Gym,\xfffeso people call me a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
 They call me a bookworm,\xfffebut I'm not a bug-type Pokémon!
 My first recommendation\xfffeis "Hello, My Pokémon."\xf000븁\x0000It's on the shelf for children's books\xfffenear the entrance.
 Wooooow!\xfffeI lost, but still, thanks for the battle!
@@ -150,7 +150,7 @@ Your strength...\xfffeIt surpasses my wisdom!
 BISH!!\xfffeYou've hit the switch of my soul!!
 Let us further... the bug spirit!\xfffeNo, no, I don't mean it like that!
 Ooh...?!\xfffeCould this be the end?!
-You and your Pokémon...\xfffethey're shining gorgeously!
+You and your Pokémon...\xfffeYou're shining gorgeously!
 Well, things have to look bad\xfffebefore there can be a dramatic victory!
 I was planning on dizzying you,\xfffebut you've dazzled me instead!
 まけたとしても\xfffeあわてず さわがず…… さ
@@ -164,8 +164,8 @@ I was planning on dizzying you,\xfffebut you've dazzled me instead!
 ...Ho now!\xfffeThat's how it'll be, huh?
 It's fine by me if ya wanna\xfffegive up anytime, y'know!
 Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
-Just what kind of trainer are you, I wonder?\xfffeI'm getting pretty excited over here!
-It's my last Pokémon...\xfffewhich means I can't give up here!
+Just what kind of trainer are you?\xfffeI'm getting pretty excited over here!
+It's my last Pokémon... which means\xfffeI can't give up here!
 I feel stronger just battling\xfffewith you... thanks!
 こどもの ときからの あこがれだった\xfffeパイロットになれた オレは\xf000븀\x0000はんぱなく つよい！ かかってきな！\xf000븁\x0000
 ゆっくり こうどが さがっていく……\xfffeちゃくりく じゅんびを します
@@ -1266,13 +1266,13 @@ This always happens when\xfffeI know my Pokémon are watching...
 Ohhh!\xfffeYou chose THAT move!
 This always happens when\xfffeI know my Pokémon are watching...
 ...Regardless of my Pokémon,\xfffeI've TOTALLY done my best!!
-Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There's all kinds!\xf000븁\x0000
+Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There are all kinds!\xf000븁\x0000
 Considering what your Pokémon\xfffeshould hold is crucial...
 ...So I see!\xf000븁\x0000Losing to you must mean\xfffethat I still lack experience.
-Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There's all kinds!\xf000븁\x0000
+Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There are all kinds!\xf000븁\x0000
 Considering what your Pokémon\xfffeshould hold is crucial...
 ...So I see!\xf000븁\x0000Losing to you must mean\xfffethat I still lack experience.
-Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There's all kinds!\xf000븁\x0000
+Attacks that'll always hit,\xfffeattacks that can hit first...\xf000븀\x0000There are all kinds!\xf000븁\x0000
 Considering what your Pokémon\xfffeshould hold is crucial...
 ...So I see!\xf000븁\x0000Losing to you must mean\xfffethat I still lack experience.
 G... Giving it my all!\xfffeMe AND my Pokémon!
@@ -1575,7 +1575,7 @@ Ngh! Seriously, just\xfffefor taking somebody's Pokémon?!
 The opening is key.\xfffeIn battles, and in stories.
 ...And now begins\xfffemy last chapter.
 The epilogue of our story\xfffedraws nearer...
-...Ah, I can't believe you've done\xfffethis again! Incredulity is me!\xf000븁\x0000Even with all the words I know,\xfffeI still simply can't express myself.\xf000븁\x0000To put it into words\xfffewould further shackle\xf000븀\x0000my pure feelings...\xf000븁\x0000But allow me to say this...\xfffeYou are even more great!!
+...Ah, I can't believe you've done\xfffethis again! Incredulity is me!\xf000븁\x0000Even with all the words I know,\xfffeI still simply can't express myself.\xf000븁\x0000To put it into words\xfffewould further shackle\xf000븀\x0000my pure feelings...\xf000븁\x0000But allow me to say this...\xfffeYou are even greater!!
 That move, and now...?\xfffeYou're as charming as ever!
 Now then... However the battle goes,\xfffeI shall not back down.
 Even at this rate, I know...\xfffethere is still a way to win!

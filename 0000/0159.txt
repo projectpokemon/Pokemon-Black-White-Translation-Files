@@ -102,7 +102,7 @@ Somewhat stubborn.
 \xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA mysterious Pokémon\xfffeEgg received from\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 \xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA mysterious Pokémon\xfffeEgg obtained in\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 \xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffePokémon Egg obtained\xfffeat \xf000\xff00\x0001\x0001\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
-\xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffePokémon Egg that came\xfffefrom \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.xfffe
+\xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffePokémon Egg that came\xfffefrom \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 “The Egg Watch”\xfffeSounds can be heard\xfffecoming from inside!\xfffeIt will hatch soon!
 “The Egg Watch”\xfffeIt appears to move\xfffeoccasionally. It may\xfffebe close to hatching.
 “The Egg Watch”\xfffeWhat will hatch from\xfffethis? It doesn’t seem\xfffeclose to hatching.

@@ -31,7 +31,7 @@ The money gained from battle\xfffeis increased considerably.\xfffeThis effect la
 The chance to capture Pokémon\xfffeis increased a little.\xfffeThis effect lasts 3 minutes.
 The chance to capture Pokémon\xfffeis increased.\xfffeThis effect lasts 3 minutes.
 The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
-When walking with an egg,\xfffexfffeit will hatch more easily.\xfffeThis effect lasts 30 minutes.
+When walking with an egg,\xfffeit will hatch more easily.\xfffeThis effect lasts 30 minutes.
 Friendly Discount\xfffeGet a 50% discount at Poké Marts!\xfffeThis effect lasts 30 minutes.
 While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 30 minutes.
 The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect last 30 minutes.

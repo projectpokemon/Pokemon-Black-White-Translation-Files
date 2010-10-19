@@ -73,7 +73,7 @@ What will \xf000Ā\x0001\x0000 do?
 Got away safely!
 Can't escape!
 Can’t escape!
-The wild \xf000Ă\x0001\x0000 escaped!
+The wild \xf000Ă\x0001\x0000 fled!
 No! There’s no running\xfffefrom a Trainer battle!
 Do you want to give up?
 It’s super effective!

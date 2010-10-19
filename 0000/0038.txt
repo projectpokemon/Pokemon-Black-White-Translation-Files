@@ -53,15 +53,15 @@
 ◇The Ferris Wheel's height and sparkling views creates heart pounding excitement.
 ◇It is possible to go to Kanawa Town from the Gear Station.
 ◇'The Ｎｏ．１ entertainment district for amusement' Welcome to Raimon City
-◇Hodomoe City is a harbour port which lies adjacent to the shore.
-◇The old Sailing Ships ran utilising the wind and water currents during former times.
+◇Hodomoe City is a harbor port which lies adjacent to the shore.
+◇The old Sailing Ships ran utilizing the wind and water currents during former times.
 ◇Developed through freight transaction and fishing industry, Hodomoe Town.
 ◇The Hodomoe Market is crowded with items from around the world.
-◇The Roofs are really shiny in the evening orange Sunset.
-◇The Drawbridge that rises to the sky is a picture-perfect scenery.
+◇The roofs are really shiny under the evening's orange sunset.
+◇The Drawbridge that rises to the sky is a picture-perfect scene.
 ◇The harbor is lined with enormous refrigerated containers.
 ◇There are Pokémon that lives in the Cold Storage too.
-◇Hodomoe City is a harbour port which lies adjacent to the shore.
+◇Hodomoe City is a harbor port which lies adjacent to the shore.
 
 
 
@@ -90,59 +90,59 @@
 ◇Souryuu City's old technology exceeds any other and is used even now.
 ◇Every year people are born here who end up being scholars and archaeologists.
 ◇The city buildings are said to house 100-year-old Pokémon.
-◇Souryuu City has been up to date on developing the latest monster ball.
+◇Souryuu City has kept up to date on the development of the latest Poké Balls.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
 ◇A very convenient lifestyle can be achieved here as a network.
 ◇The city buildings are said to house 100-year-old Pokémon.
-◇Souryuu City has been up to date on developing the latest monster ball.
+◇Souryuu City has kept up to date on the development of the latest Poké Balls.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
 ◇As Kagome townspeople don't rely on time,they don't use clocks in their homes.
 ◇The Kagome townspeople will finish their day jobs as the Sun sets.
 ◇The whole town can be viewed from the top of an enormous bridge.
-◇A mysterious Pokémon has been rumoured to appear in the forest visible from town.
+◇A mysterious Pokémon has been rumored to appear in the forest visible from town.
 ◇All roads and buildings of Kagome Town are made of stone.
 ◇Residents of Kagome Town are all active during the day.
 ◇On sunny days, many people are out in the Sun for clearing their mind and body.
 ◇As Kagome townspeople don't rely on time, they don't use clocks in their homes.
 ◇The Kagome townspeople will finish their day jobs as the Sun sets.
-◇The Footprints left on the beach sand remain clearly visible.
-◇Sazanami Town posses a Villa that everyone's been longing for.
+◇Footprints left on the beach sand remain clearly visible.
+◇Sazanami Town possesses a Villa that everyone's been longing for.
 ◇The beautiful sound of the waves are said to be Sazanami Town's greatest treasure.
 ◇In Summer, tourists come to swim in the clear sea.
 ◇The huge cliffs around Sazanami Town has made it very prominent.
-◇The Sea and its waves are very calm, so houses are built very close to it.
-◇In Sazanami Town, water sports are very much popular.
+◇The sea and its waves are very calm, so houses are built very close to it.
+◇In Sazanami Town, water sports are very popular.
 ◇It is very likely for one to find the underground ruins in the sea near Sazanami Town.
-◇The Footprints left on the sand in the beach will remain clearly visible.
-◇'The town where you can feel the nature's Serenity' White Forest.
-◇The people of this town lives constantly in touch with nature.
-◇The townspeople nourishes the trees and the forest continues to grow.
-◇Many breeders have got together here and their numbers continue to rise.
-◇Here Pokémon that are usually not seen anywhere else can be seen.
+◇Footprints left on the sand in the beach will remain clearly visible.
+◇'The town where you can feel the Nature's Serenity' White Forest.
+◇The people of this town live constantly in touch with nature.
+◇The townspeople nourish the trees and help the forest to continue to grow.
+◇Many breeders have gotten together here and their numbers continue to rise.
+◇Here Pokémon that are usually not found anywhere else can be seen.
 ◇Many unusual Pokémon and lost items can be found here.
 ◇Many people come and reside here and they continue to change.
-◇'The town where you can feel the nature's Serenity' White Forest.
-◇The people of this town lives constantly in touch with nature.
+◇'The town where you can feel the Nature's Serenity' White Forest.
+◇The people of this town live constantly in touch with nature.
 ◇Black City is a city filled with buildings that are arranged in a line.
-◇Most of the people here aims toward the advancement of this city.
+◇Most of the people here aim toward the advancement of this city.
 ◇Black City is developing everyday as more and more people gather here.
-◇Most of the Pokémon trainers have a very high competition consciousness.
+◇Most of the Pokémon trainers have a very strong competitive consciousness.
 ◇Plans to make the large market in the city more advanced are in effect.
-◇People get together and causes changes to item circulation.
+◇People get together and cause changes to item circulation.
 ◇Population of this city continues to get more diverse and ethnic.
 ◇Black City is a city filled with buildings that are arranged in line.
-◇Most of the people here aims toward the advancement of this city.
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
-◇Please make careful preparations while crossing the Resort Desert.
-◇Please pay attention to the Sand Storm while crossing the Resort Desert.
+◇Most of the people here aim toward the advancement of this city.
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travelers.
+◇Please make careful preparations before crossing the Resort Desert.
+◇Please be prepared for the sandstorm before crossing the Resort Desert.
 ◇Currently, the time taken to build the Ancient Castle Ruins is being investigated.
-◇'Why would a castle city of ancient times would fall into ruins?' A Mystery.
-◇Quicksand is present inside the Ancient Castle Ruins
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
-◇Please make careful preparations while crossing the Resort Desert.
-◇This storm will wipe you off-route.
+◇'Why would a castle city of ancient times fall into ruins?' A Mystery.
+◇Quicksand is present inside the Ancient Castle Ruins.
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travelers.
+◇Please make careful preparations before crossing the Resort Desert.
+◇This storm may put you off-route.
 
 
 
@@ -182,8 +182,8 @@
 Clear
 Sunny
 Snow
-Rainy
 Sandstorm
+Rainy
 Snowstorm
 Hail
 Fog
