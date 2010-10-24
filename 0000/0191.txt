@@ -1,20 +1,20 @@
-﻿Pokémon Trainer
+Pokémon Trainer
 Pokémon Trainer
 Youngster
 Lass
 School Boy
 School Girl
 Tennis Player
-Football Player
+Footballer
 Waiter
 Waitress
 Gym Leader
 Gym Leader
 Gym Leader
-Day-Care Teacher
-Day-Care Student
-Day-Care Student
-Twin Girls
+Nursery Worker
+Kindergartener
+Kindergartener
+Twins
 Pokémon Breeder
 Pokémon Breeder
 Gym Leader
@@ -29,7 +29,7 @@ Backpacker
 Backpacker
 Fisherman
 Musician
-Dancer
+Breakdancer
 Clown
 Artist
 Baker
@@ -40,40 +40,40 @@ Pokémon Trainer
 Team Plasma
 Pokémon Trainer
 Rich Boy
-Rich Girl
+Lady
 Pilot
 Worker
-Basketball Player
+Basketballer
 Researcher
 Team Plasma
-Office Lady
-Elite Trainer
-Elite Trainer
+Secretary
+Ace Trainer
+Ace Trainer
 Karate King
 Researcher
 Soccer Player
 Gym Leader
 Gym Leader
 Gym Leader
-Skin Heads
-Cleaning Member
-Poké Maniac
-Poké Maniac
+Cue Ball
+Cleaner
+Pokéfan
+Pokéfan
 Doctor
 Nurse
-Double Team
+Gangster
 Battle Girl
 Parasol Lady
-Business Man
-Business Man
-Pokéfan
-Pokéfan
-Veteran Trainer
-Veteran Trainer
-Gangster
-Baseball Player
+Businessman
+Businessman
+Fanclubber
+Fanclubber
+Veteran
+Veteran
+Biker
+Baseballer
 Hiker
-Lady
+Socialite
 Gentleman
 Team Plasma
 Elite Four
@@ -83,14 +83,14 @@ Elite Four
 Team Plasma
 Railroad Worker
 Swimmer
-Bikini Lady
+Bikini Swimmer
 Police Officer
 Maid
 Subway Master
 Champion
 Cyclist
 Cyclist
-Bike-Lover
+Bike Enthusiast
 Bourgeoise
 Bourgeoise
 Bourgeoise

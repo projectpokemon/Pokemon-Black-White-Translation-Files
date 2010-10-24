@@ -174,8 +174,8 @@ Cancel
 Cancel
 Return to list
 Give a nickname to \xfffethe caught \xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000は だれかの パソコンの\xfffe\xf000ċ\x0001\x0001に てんそうされた！
-\xf000Ă\x0001\x0000は ショウロの パソコンの\xfffe\xf000ċ\x0001\x0001に てんそうされた！
+\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
+\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Shouro's PC!
 Information
 Map
 Voice

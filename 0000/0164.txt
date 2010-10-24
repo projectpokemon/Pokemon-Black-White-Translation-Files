@@ -1,80 +1,80 @@
-「どうあそんでるか ちょうさ」
-「どんなひとが いるかの ちょうさ」
-「Favorite Pokémon Survey」
-「みんなの りそうを ちょうさ」
-「すきなひとの ちょうさ」
-「みんなの このみを ちょうさ」
-「みんなの しゅみを ちょうさ」
-「がっこうせいかつを ちょうさ」
-「どんな あそびがすきか ちょうさ」
-「ポケモンのことをくわしくちょうさ」
-ポケットモンスターブラック・ホワイトを\xfffewill investigate how you are playing
-じぶんの まわりには どんなひとが\xfffeおおいのか ちょうさします
-じぶんの すきな ポケモンで\xfffeどんな あそびをしてるのか ちょうさします
-じぶんの りそうや みんなの たいせつに\xfffeしているものを ちょうさします
-どんな ひとが すきなのか\xfffeその けいこうを ちょうさします
-みんなが どんなきせつや たべものが\xfffeすきなのかを ちょうさします
-みんなが どんな しゅみを\xfffeもっているのか ちょうさします
-みんなが どんな がっこうせいかつを\xfffeすごしているのか ちょうさします
-みんなが どんな あそびや スポーツが\xfffeすきなのか ちょうさします
-ポケモンに ついて みんなのかんそうを\xfffeくわしく ちょうさします
-・ブラックとホワイト どっち？
-・おとこと おんな どっち？
-・たいせんとこうかん どっちがすき？
-・とかいと いなか すむなら？
-・あいてを えらぶなら どっち？
-・ほしいものは どっち？
-・あいてに もとめるものは？
-・どんな ポケモンが すき？
-・さいしょにえらんだ ポケモンは？
-・あそびにいくなら？
-・すきな がっこうの じかんは？
-・じぶんにとって だいじなのは？
-・どの きせつが すき？
-・どんな たべものが すき？
-・すきな にんげんの タイプは？
-・ポケモンの おもしろいところは？
-・すきな べんきょうは？
-・にがてな べんきょうは？
-・もし なれるとしたら？
-・きゅうじつは なにをしてる？
-・どんな おんがくが すき？
-・すきな ＴＶばんぐみは？
-・どんな えいがが すき？
-・すきな スポーツは？
-・すきないろは どれ？
-・どんな しゅみを もってる？
-・どんな しごとを してる？
-・どのジムリーダーが すき？
-・すきな ポケモンの タイプは？
-・ゲームプレイじかんは？
-ポケットモンスターブラック・ホワイト\xfffeあそんでいるのは どっち？ のアンケート
-おとこと おんな どっちが おおい？\xfffeをあつめた アンケート
-ポケモンで たいせんと こうかんの\xfffeどちらがすき？ をあつめた アンケート
-とかいの くらしと いなかの くらし\xfffeどちらがすき？ をあつめた アンケート
-あたまがいいひとと うんどうができるひと\xfffeえらぶなら どちらをえらぶ？ のアンケート
-じかんと おかね すきなだけ もらえるなら\xfffeどちらをえらぶ？ のアンケート
-がいけんのよいひとと こころがきれいなひと\xfffeえらぶなら どちらをえらぶ？ のアンケート
-みんなは どんなポケモンが すき？\xfffeをあつめた アンケート
-たびのはじめに えらんだ ポケモンは \xfffeどのポケモン？ のアンケート
-きゅうじつに もしそとに あそびにいくなら\xfffeどこにする？ をあつめた アンケート
-がっこうせいかつで いちばんすきなのは\xfffeどのじかん？ をあつめた アンケート
-じぶんにとって たいせつなのは かぞく？\xfffeともだち？ それとも じぶん？ のアンケート
-みんなの すきなきせつは どのきせつ？\xfffeをあつめた アンケート
-みんなの すきなたべものは\xfffeどんな たべもの？ をあつめた アンケート
-みんなの すきなひとは\xfffeどんな タイプのひと？ のアンケート
-ポケットモンスターの どんなぶぶんが\xfffeおもしろい？ をあつめた アンケート
-がっこうの べんきょうで すきなものは？\xfffeをあつめた アンケート
-がっこうの べんきょうで きらいなものは？\xfffeをあつめた アンケート
-ポケットモンスターの せかいで もし\xfffeなれるなら なにになりたい？ のアンケート
-きゅうじつは どんなことをしている？\xfffeをあつめた アンケート
-Everybody's favorite music is what type of music? \xfffe questionnaire collected
-Everybody's favorite TV show is what? \xfffe questionnaire collected
-Everybody's favorite movie is what movie? \xfffe questionnaire collected
-Everybody's favorite sport is what sport? \xfffe questionnaire collected
-このなかで えらぶなら どのいろが すき？\xfffeをあつめた アンケート
-みんなは どんなことを しゅみにしている？\xfffeをあつめた アンケート
-みんなは どんなことを しごとにしている？\xfffeをあつめた アンケート
-ポケットモンスターブラック・ホワイトで\xfffeどのジムリーダーがすき？ のアンケート
-What type of Pokémon you like? \xfffe questionnaire collected
-ポケットモンスターブラック・ホワイトで\xfffeあそんだじかんを あつめた アンケート
+"Which Do You Play? Survey"
+"What Kinds of People? Survey"
+"Favorite Pokémon Survey"
+"Everyone's Ideals Survey"
+"Favorite People Survey"
+"Everyone's Preference Survey"
+"Everyone's Hobbies Survey"
+"School Life Survey"
+"What Do You Play? Survey"
+"Pokémon Specifics Survey"
+Survey asking if people\xfffeare playing Pokémon Black or White.
+Survey asking which kinds of\xfffepeople are more numerous.
+Survey asking how people\xfffeplay with their favorite Pokémon.
+Survey asking people their\xfffeideals and what they consider precious.
+Survey asking people who\xfffethey like and their tendencies.
+Survey asking people\xfffewhat seasons and foods they like.
+Survey asking people\xfffewhat hobbies they have.
+Survey asking people\xfffehow they spend time at school.
+Survey asking people what they\xfffedo for fun and their favorite sport.
+Survey specifically asking people\xfffetheir thoughts on Pokémon.
+・Black or White?
+・Boy or girl?
+・Battling or tradiing?
+・Urban or rural?
+・Who would you choose?
+・Which do you want?
+・What do you look for in a partner?
+・What Pokémon do you like?
+・Your first choice of Pokémon?
+・If you're going to play...?
+・Favorite school period?
+・What's most important to you?
+・What season do you like?
+・What food do you like?
+・What's your type?
+・What interests you about Pokémon?
+・Favorite thing to study?
+・Worst thing to study?
+・What would you be?
+・What do you do on holidays?
+・What music do you like?
+・Favorite TV programs?
+・What movies do you like?
+・Favorite sport?
+・Which is your favorite color?
+・What kinds of hobbies?
+・What's your job?
+・Which gym leader do you like?
+・Favorite Pokémon type?
+・Your playtime?
+Survey for "Are you playing\xfffePokémon Black or Pokémon White?"
+Survey for "Are there\xfffemore boys or girls?"
+Survey for "Do you like\xfffebattling or trading?"
+Survey for "Do you like\xfffeliving in the city or the country?"
+Survey for "Would you choose\xfffesomeone smart or someone athletic?"
+Survey for "Would you choose\xfffeto be given time or money?"
+Survey for "Would you choose\xfffean attractive person or an inwardly-beautiful person?"
+Survey for "What's everybody's\xfffefavorite Pokémon?"
+Survey for "What Pokémon did you pick\xfffeat the start of the adventure?"
+Survey for "If you go out\xfffeon holidays, where do you go?"
+Survey for "What period\xfffeof school is your favorite?"
+Survey for "What's most important\xfffeto you? Family? Friends? Or yourself?"
+Survey for "What's\xfffeeverybody's favorite season?"
+Survey for "What's\xfffeeverybody's favorite food?"
+Survey for "What's\xfffeeverybody's favorite type of person?"
+Survey for "What about\xfffePokémon interests everybody?"
+Survey for "What school subject\xfffedo you like studying for?"
+Survey for "What school subject\xfffedo you hate studying for?"
+Survey for "If you could be someone in the\xfffePokémon world, what would you want to be?"
+Survey for "What do\xfffeyou do on holidays?"
+Survey for "What's\xfffeeverybody's favorite music?"
+Survey for "What's\xfffeeverybody's\xfffefavorite TV show?"
+Survey for "What's\xfffeeverybody's\xfffefavorite movie?"
+Survey for "What's\xfffeeverybody's\xfffefavorite sport?"
+Survey for "Which of these\xfffeis your favorite color?"
+Survey for "What's\xfffeeverybody interested in?"
+Survey for "What's\xfffeeverybody's job?"
+Survey for "What\xfffeBlack and White gym leaders do you like?"
+Survey for "What\xfffePokémon type do you like?"
+Survey for "What's your\xfffeBlack and White playtime?"

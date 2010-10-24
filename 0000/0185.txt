@@ -1,107 +1,107 @@
 Fly to where?
 Dummy
-A small countryside town with\xfffea soft, pleasant breeze.
+A small countryside town with\xfffea pleasant, portentious breeze.
 Pokémon Lab
-A small, calm town that has\xfffethe looks and feels of a city.
-Pokécenter
+Boasts an impressive view\xfffethanks to its hilly terrain.
+Pokémon Center
 A little city that gives a\xfffehome to many famous people.
-Gym
-Pokécenter
-Trainer School
-Transfer House
-This 100-year old city has\xfffethe looks of a plain city.
-Gym
-Pokécenter
-Shippou Diner
-Museum
-A city with high buildings.\xfffeThis city is quite young.
-Gym
-Pokécenter
-Harbor
-Global Tower
-Poké Massage
-Middle Square
-A very amusing city.\xfffeThere is a funfair here.
-Gym
-Pokécenter
-Theater
-Soccer
-Tennis
-Ferris wheel
-An everyday city.\xfffeThere is much to do here.
-Gym
-Pokécenter
-Market
-Warehouse
-A little airport.\xfffeThey also grow vegetables here.
-Gym
-Pokécenter
-Airport
+Sanyou Gym
+Pokémon Center
+Trainer's School
+Makomo's Lab
+A town that continues to thrive\xfffewith nearly 100-year-old storehouses.
+Shippo Gym
+Pokémon Center
+Shippo Museum
+Cafe Soco
+A metropolis with skyscrapers\xfffethat seem to pierce the clouds.
+Hiun Gym
+Pokémon Center
+Survey HQ
+Name Rater
+Pokémon Massage
+Royal Isshu
+A lively city full of amusement\xfffeand lined with theme parks.
+Raimon Gym
+Pokémon Center
+Musical Hall
+Battle Subway
+Big Stadium
+Little Court
+Known as the Gateway to Isshu.\xfffeA port city that trades many goods.
+Hodomoe Gym
+Pokémon Center
+Hodomoe Market
+Move Tutor's House
+Vegetables raised near the runway\xfffeare transported by cargo plane.
+Fukiyose Gym
+Pokémon Center
 Move Deleter
-In winter, this town is\xfffeused as a rink.
-Gym
-Pokécenter
-Evolve checker
-This city has natural looks.\xfffeIt is over 1,000 years old!
-This city has futuristic looks.\xfffeEven though it's 1000 years old!
-Gym
-Pokécenter
-Trio Battle House
-Many Trainers come here to\xfffelook at their skills.
-Pokécenter
-Long ago, a monster came with a meteor.\xfffeEver since, people stay at home in nights.
-Pokécenter
-Home to the famous Sinnoh Champion.\xfffeElite 4-members will come to battle her.
-Pokécenter
-てつどうしゃりょうが せいびされたり\xfffeていはくする しゃりょうきちの まち
-ひとがつどい はってんを つづける\xfffeきんだいてきな ふんいきの まち
-Pokécenter
-This city contains very large trees.\xfffeThere is only one wooden house here.
-Pokécenter
-せかい かっこくの ひとびとと\xfffeこうりゅうできる ちょうこうそうビル
-とおく はなれた べつちほうの\xfffeポケモンを けんきゅうする しせつ
-こどもや ポケモンの あそびばとして\xfffeつかわれている こうじょうの あとち
-たおれて くうどうに なった\xfffeきの うろも とおることが できる
-かんこうきゃくに にんきだが\xfffeリゾートとよぶには きびしい さばく
-かつて えいがを ほこるも いつしか\xfffeすなにうもれた おおむかしの いせき
-あつめられた たいりょうの しなを\xfffeいっていの おんどで ほぞんしている
-でんきを おびた いしと いしが\xfffeはんぱつして うかんでいる ほらあな
-しつの いい こうせきが とれる\xfffeこうざんとして ひょうばんがたかい
-いつ だれが たてたかも わからない\xfffeイッシュで もっとも ふるい とう
-けいしゃで トレーナーを はばむ\xfffeポケモンリーグ さいごの かんもん
-ちかづけば わざわいが ふりかかると\xfffeいいつたえられる きょだいな あな
-ひとと ポケモンとが じゆうに\xfffeくらせる せかいを ねがう しま
-こじまに ひっそり たたずむ\xfffeひみつめいた けんきゅうじょ
-しみこんだ あまみずが わきあがり\xfffeちかに みずたまりを つくりだした 
-でんせつの けはいを とじこめたまま\xfffeひとに わすれさられた ほらあな
-たましいを じょうか させるという\xfffeおおきな かねが ある たかいとう
-たいらな とちの くぼみに たまった\xfffeみずでできた しつげんと されている
+Cargo Service
+In winter, the town is covered in\xfffethick snow, making it a snowscape.
+Sekka Gym
+Pokémon Center
+Pokémon Fanclub
+A town that respects history,\xfffestill treasuring what it always has.
+A changing town that dismisses\xfffethe past to pursue convenience.
+Souryuu Gym
+Pokémon Center
+Battle Mansion
+A place only to be challenged by trainers\xfffewho have conquered all Pokémon gyms.
+Pokémon Center
+A town that protects its ancient\xfffecustoms and lives systematically.
+Pokémon Center
+In summer, vacationers gather\xfffeand make it into a beach resort.
+Pokémon Center
+A base town for railroad cars\xfffeto stop and make adjustments.
+A modern-style city that continues\xfffeto grow as people gather.
+Pokémon Center
+A gathering place for those around\xfffethe world who long to live with nature.
+Pokémon Center
+A very tall tower for communication\xfffewith people of all nations.
+An facility that studies Pokémon\xfffefrom other far-off regions.
+The remains of a factory, now used\xfffeas a playground for children and Pokémon.
+倒れて　空洞に　なった\xfffe樹洞も　通り抜けることが　できる
+Though a popular tourist spot and\xfffeknown as a resort, it's a harsh desert.
+The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
+Many gathered goods are preserved\xfffeat a fixed temperature here.
+A cave where the repelling of\xfffeelectrified rocks causes them to float.
+Highly popular as a mine where\xfffehigh-quality ore can be extracted.
+The oldest tower in Isshu, though who\xfffebuilt it and when are a mystery.
+Its steep slopes make the final barrier\xfffebetween trainers and the Pokémon League.
+A massive hole which is said\xfffeto bring calamity when approached.
+An island that prays for a world where\xfffePokémon and people freely live together.
+小島に　ひっそり　たたずむ\xfffe秘密めいた　研究所
+染みこんだ　雨水が　わきあがり\xfffe地下に　水たまりを　つくりだした
+A cave forgotten by people, where\xfffea legendary spirit was sealed away.
+A tall tower with a great bell\xfffesaid to purify the spirit.
+Wetlands where dents in the flat plain\xfffehave allowed puddles of water to form.
 かつては ひとが すんでいた むらで\xfffeいまも とうじの くうきが ながれる
-なみが かがやいている として\xfffeせかいでも ひょうばんの うみ
-さほど いりくんでも いないのに\xfffeまようと いわれる ふしぎなもり
-This short route is lined with trees.\xfffeThere are also different kinds of flowers.
-This route is simmilar to easterly-\xffferegion routes. It has trainers training.
-A very fresh-feeling route that\xfffeconnects Shippou City with Sanyou City.
-すなあらしのため ２つの としを\xfffeつなぐ こうじが おくれている みち
-A short, paved road that connects\xfffeRaimon City with Hodomoe Drawbridge.
-ゆたかな きぎが おいしげり\xfffeしぜんの みりょく あふれる どうろ
-ながい くさむらに はいらなくても\xfffeすすめるよう いっぽんばしが ある
-Route 8 is a route with many water\xfffepuddels due to excessive amounts of rain.
-This route is very popular. It is\xfffethe location of the Department Store.
-Department store
-うでじまんが つどい きそいあう\xfffeバッジチェックのもんに つづく みち
-せいりゅうが どうろないを めぐり\xfffeうつくしい けしきが うまれた みち
-あるくだけで たのしくなってしまう\xfffeなだらかな おかが つらなる ばしょ
-うみの うえを つらぬく すなはまが\xfffeめいぶつの みずぎわの みち
-A calm mountain route.\xfffeThe Fertility Shrine is also popular.
+A sea famous worldwide\xfffefor its sparkling waves.
+Though not particularly complicated, said\xfffeto be a mysterious and bewildering forest.
+トレーナーが　いないため　ゆっくり\xfffe景色を　楽しめる　海沿いの　小路
+A route with a calming air on\xfffewhich excited trainers try their might.
+A long route with many twists and turns,\xfffeowed to the abundance of grass and ponds.
+砂あらしのため　２つの都市を　つなぐ\xfffe舗装工事が　遅れている　道路
+A route with a busy atmosphere\xfffewhere performers gather.
+A route with thick, plentiful trees\xfffethat show nature's glory.
+It has thin log bridges to allow one to\xfffeproceed without going through tall grass.
+Pokémon lurk in the damp land,\xfffemuddy from numerous rainy days.
+A smooth, paved road\xfffewhere bike-lovers gather.
+Shopping Mall
+腕に覚えのあるものが　集い　競う\xfffeバッジチェックの門に　つながる道
+A stream that goes around the\xffferoutes, filled with beautiful sights.
+Rolling, gentle hills make it\xfffea joy to simply walk along.
+海上を　貫く　砂浜が\xfffe名物となっている　水際の　道
+A route shrouded in fog formed\xfffefrom the waterfall's splashing water.
 This route is a calm walk-through\xfffeto the very special Wonder Bridge.
 Many people visiting Raimon City\xfffestop-by at Route 16 to take rest.
-ちけいの かんけいで きゅうりゅうが\xfffeはっせいし じゆうに すすめない
-リゾートデザートと じつづきだったと\xfffeしてきする けんきゅうしゃも いる
-４ほんの はしらで ささえられた\xfffeイッシュさいだい さいちょうの はし
-ふねの うんこうに あわせて\xfffeあがったり さがったりする はし
-ちかてつが とおりぬけても\xfffeびくともしない こうてつの はし
-イッシュを かいたくした ひとびとが\xfffeつくり くらしはじめた ふるい はし
-どんな しょうげきも やわらげるよう\xfffeデザインされた さいせんたんの はし
-イッシュの ちゅうしんに ある\xfffeふしぎな パワーが やどる ばしょ
-つよさを もとめる トレーナーが\xfffeきけんを かえりみずに はいりこむ
+Currents caused by the terrain\xfffemake it impossible to advance freely.
+There are researches who point out\xfffeits former connection to Resort Desert.
+Isshu's oldest bridge, supported\xfffeby four main towers.
+A drawbridge designed to raise\xfffeand lower with the moving of ships.
+A town of steel, undaunted by\xfffethe subway running through.
+An old town where Isshu's\xfffepioneers first settled.
+A cutting-edge bridge designed\xfffeto withstand any attack.
+A place in the middle of Isshu\xfffethat houses a mysterious power.
+更なる　強さを求める　トレーナーが\xfffe危険を　顧みずに　はいりこむ
