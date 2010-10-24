@@ -1,4 +1,4 @@
-﻿Please choose a language.
+Please choose a language.
 Are you a boy? Are you a girl?
 Turn on wireless functionality?
 Warning!

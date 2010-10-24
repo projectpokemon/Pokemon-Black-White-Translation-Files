@@ -1,4 +1,4 @@
-﻿What alphabet do you want to use?\xfffeEnglish or Kanji?\xf000븁\x0000
+What alphabet do you want to use?\xfffeEnglish or Kanji?\xf000븁\x0000
 English
 Kanji
 それでは ゲームで つかう もじは\xfffeひらがな・カタカナに します\xf000븁\x0000
