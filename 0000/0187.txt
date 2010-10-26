@@ -66,16 +66,16 @@ Second badge.\xfffeShippou City Gym
 Leader: Aloe
 Pokémon Type: Normal\xfffeYou've beaten this leader!
 Third badge.\xfffeHiun City Gym
-Leader: Atei
+Leader: Arti
 Pokémon Type: Bug\xfffeYou've beaten this leader!
 Fourth badge.\xfffeRaimon City Gym
 Leader: Kamitsure
 Pokémon Type: Electric\xfffeYou've beaten this leader!
 Fifth badge.\xfffeHodomoe City Gym
-Leader: Yakon
+Leader: Yacon
 Pokémon Type: Ground\xfffeYou've beaten this leader!
 Sixth badge.\xfffeFukiyose City Gym
-Leader: Furou
+Leader: Fuuro
 Pokémon Type: Flying\xfffeYou've beaten this leader!
 Seventh badge.\xfffeSekka City Gym
 Leader: Hachiku
@@ -86,13 +86,13 @@ Pokémon Type: Dragon\xfffeYou've beaten this leader!
 Eighth badge.\xfffeSouryuu City Gym
 Leader: Iris
 Pokémon Type: Dragon\xfffeYou've beaten this leader!
-Trio Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
+Tri Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 20 will obey.\xfffeReward: TM 83: Cheer Up
 You can also use HM 1: Cut now!
-Normal Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
+Basic Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 30 will obey.\xfffeReward: TM 67: Get Even
 
-Bug Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
+Beetle Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 40 will obey.\xfffeReward: TM 76: Bug Resistance
 
 Bolt Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
