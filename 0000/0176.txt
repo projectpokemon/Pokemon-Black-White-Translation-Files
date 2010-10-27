@@ -1,9 +1,9 @@
 \xf000Ā\x0001\x0000
 Cheren
 Bel
-Podda
-Koon
-Dento
+Pod
+Corn
+Dent
 Aloe
 Arti
 Kamitsure

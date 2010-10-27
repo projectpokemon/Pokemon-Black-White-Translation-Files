@@ -11,7 +11,7 @@ Mikiya
 Chiharu
 Pod
 Dent
-Kone
+Corn
 Akiho
 Matsuri
 Ushio
@@ -20,8 +20,8 @@ Kumi and Rumi
 Yuuri
 Tomomi
 Aloe
-Arty
-Chamomile
+Arti
+Kamitsure
 Yacon
 Fuuro
 Morito
@@ -129,7 +129,7 @@ Munenori
 Tetsuharu
 Tony
 Roberto
-Bamboo
+Hachiku
 Iris
 Shaga
 Eikichi
@@ -228,8 +228,8 @@ Grunt
 Grunt
 Shikimi
 Renbu
-Gima
-Caitlin
+Giima
+Cattleya
 Gechisu
 Rowe
 Shun
@@ -563,7 +563,7 @@ Grunt
 ●
 Tsukimi
 Renbu
-Gima
+Giima
 Katoreya
 Cynthia
 Shigeki
