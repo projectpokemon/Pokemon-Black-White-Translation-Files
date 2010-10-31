@@ -114,10 +114,10 @@ A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- a
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffea Water-type.
-A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Electric-type.
-A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffea Fire-type.
-A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Ice-type. 
+A Cassette that if held by Genesect\xfffemakes Techno Buster become\xfffea Water-type.
+A Cassette that if held by Genesect\xfffemakes Techno Buster become\xfffean Electric-type.
+A Cassette that if held by Genesect\xfffemakes Techno Buster become\xfffea Fire-type.
+A Cassette that if held by Genesect\xfffemakes Techno Buster become\xfffean Ice-type. 
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
@@ -133,8 +133,8 @@ A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Ic
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-A brightly gleaming orb to be held by\xfffeDIALGA. It boosts the power of\xfffeDragon- and Steel-type moves.
-A beautifully glowing orb to be held by\xfffePALKIA. It boosts the power of Dragon-\xfffeand Water-type moves.
+A brightly gleaming orb to be held by\xfffeDialga. It boosts the power of\xfffeDragon- and Steel-type moves.
+A beautifully glowing orb to be held by\xfffePalkia. It boosts the power of Dragon-\xfffeand Water-type moves.
 Stationery featuring a print of a\xffferefreshingly green field.\xfffeLet a Pokémon hold it for delivery.
 Stationery featuring a print of flames\xfffein blazing red.\xfffeLet a Pokémon hold it for delivery.
 Stationery featuring a print of a blue\xfffeworld underwater.\xfffeLet a Pokémon hold it for delivery.
@@ -223,9 +223,9 @@ An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffe
 An item to be held by a Pokémon.\xfffeIt is a shiny, silver powder that ups\xfffethe power of Bug-type moves.
 An item to be held by a Pokémon.\xfffeIt doubles a battle’s prize money if\xfffethe holding Pokémon joins in.
 An item to be held by a Pokémon.\xfffeIt helps keep wild Pokémon away if the\xfffeholder is the first one in the party.
-A wondrous orb to be held by LATIOS\xfffeor LATIAS. It raises both the\xfffeSp. Atk and Sp. Def stats.
-An item to be held by CLAMPERL.\xfffeA fang that gleams a sharp silver, it\xffferaises the Sp. Atk stat.
-An item to be held by CLAMPERL.\xfffeA scale that shines a faint pink, it\xffferaises the Sp. Def stat.
+A wondrous orb to be held by Latios\xfffeor Latias. It raises both the\xfffeSp. Atk and Sp. Def stats.
+An item to be held by Clamperl.\xfffeA fang that gleams a sharp silver, it\xffferaises the Sp. Atk stat.
+An item to be held by Clamperl.\xfffeA scale that shines a faint pink, it\xffferaises the Sp. Def stat.
 An item to be held by a Pokémon.\xfffeIt enables the holder to flee from\xfffeany wild Pokémon without fail.
 An item to be held by a Pokémon.\xfffeThe Pokémon holding this peculiar\xfffestone is prevented from evolving.
 An item to be held by a Pokémon.\xfffeThe holder may endure a potential KO\xfffeattack, leaving it with just 1 HP.
@@ -234,7 +234,7 @@ An item to be held by a Pokémon.\xfffeIt is a lens that boosts the holder’s\x
 An item to be held by a Pokémon.\xfffeIt is a special metallic film that ups\xfffethe power of Steel-type moves.
 An item to be held by a Pokémon.\xfffeThe holder’s HP is gradually\xffferestored during battle.
 A thick and tough scale.\xfffeDragon-type Pokémon may be holding\xfffethis item when caught.
-An item to be held by PIKACHU.\xfffeIt is a puzzling orb that raises\xfffethe Attack and Sp. Atk stat.
+An item to be held by Pikachu.\xfffeIt is a puzzling orb that raises\xfffethe Attack and Sp. Atk stat.
 An item to be held by a Pokémon.\xfffeIt is a loose, silky sand that boosts\xfffethe power of Ground-type moves.
 An item to be held by a Pokémon.\xfffeIt is an unbreakable stone that ups\xfffethe power of Rock-type moves.
 An item to be held by a Pokémon.\xfffeIt is a seed imbued with life that ups\xfffethe power of Grass-type moves.
@@ -254,10 +254,10 @@ A transparent device filled with all\xfffesorts of data.\xfffeIt was produced by
 An item to be held by a Pokémon.\xfffeThe holder’s HP is restored a little\xfffeevery time it inflicts damage.
 An item to be held by a Pokémon. It is\xfffeincense with a curious aroma that\xfffeboosts the power of Water-type moves.
 An item to be held by a Pokémon. The\xfffetricky aroma of this incense lowers\xfffethe foe’s accuracy.
-An item to be held by CHANSEY. It is\xfffea pair of gloves that boosts\xfffeCHANSEY’s critical-hit ratio.
-An item to be held by DITTO.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Defense stat.
-An item to be held by CUBONE or\xfffeMAROWAK. It is a hard bone of some\xfffesort that boosts the Attack stat.
-An item to be held by FARFETCH’D. It\xfffeis a very long and stiff stalk of leek\xfffethat boosts the critical-hit ratio.
+An item to be held by Chansey. It is\xfffea pair of gloves that boosts\xfffeChansey’s critical-hit ratio.
+An item to be held by Ditto.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Defense stat.
+An item to be held by Cubone or\xfffeMarowak. It is a hard bone of some\xfffesort that boosts the Attack stat.
+An item to be held by Farfetch’d. It\xfffeis a very long and stiff stalk of leek\xfffethat boosts the critical-hit ratio.
 An item to be held by a Pokémon.\xfffeIt boosts the “Cool” aspect of the\xfffeholder in a Contest in Sinnoh.
 An item to be held by a Pokémon.\xfffeIt boosts the “Beauty” aspect of\xfffethe holder in a Contest in Sinnoh.
 An item to be held by a Pokémon.\xfffeIt boosts the “Cute” aspect of the\xfffeholder in a Contest in Sinnoh.
@@ -272,7 +272,7 @@ An item to be held by a Pokémon.\xfffeIt boosts the power of moves, but at\xfff
 A single-use item to be held by a\xfffePokémon. It allows the immediate use of\xfffea move that charges on the first turn.
 An item to be held by a Pokémon.\xfffeIt is a bizarre orb that badly\xfffepoisons the holder in battle.
 An item to be held by a Pokémon.\xfffeIt is a bizarre orb that inflicts a\xfffeburn on the holder in battle.
-An item to be held by DITTO.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Speed stat.
+An item to be held by Ditto.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Speed stat.
 An item to be held by a Pokémon. If it\xfffehas full HP, the holder will endure one\xfffepotential KO attack, leaving 1 HP.
 An item to be held by a Pokémon.\xfffeIf the holder moves after the foe,\xfffeits accuracy will be boosted.
 A Pokémon held item that boosts a\xfffemove used consecutively. Its effect\xfffeis reset if another move is used.
@@ -326,107 +326,107 @@ A transparent device overflowing with\xfffedubious data.\xfffeIts producer is un
 A cloth imbued with horrifyingly strong\xfffespiritual energy.\xfffeIt is loved by a certain Pokémon.
 An item to be held by a Pokémon.\xfffeIt is a sharply hooked claw that ups\xfffethe holder’s critical-hit ratio.
 An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffethe holder inflicts damage.
-It sharpens its claws. \xfffeIncreases your Accuracy and \xfffeAttack.
-The user slashes the foe \xfffewith huge, sharp claws. 
-It makes its mysterious brain \xfffewaves real and attacks the \xfffeopponents. It deals Physical damage. 
-The user quietly focuses its \xfffemind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
-The foe is scared off, to be \xfffereplaced by another Pokémon in its \xfffeparty. In the wild, the battle ends.
-A move that leaves the target \xfffebadly poisoned. Its poison damage \xfffeworsens every turn.
-The user summons a hailstorm \xfffelasting five turns. It damages all \xfffePokémon except the Ice type.
-The user tenses its muscles to \xfffebulk up its body, boosting both \xfffeits Attack and Defense stats.
-It hurls a special poison. Its \xfffepower doubles if it hits an \xfffeopponent with Poison status.
-A unique attack that varies in \xfffetype and intensity depending \xfffeon the Pokémon using it.
-The user intensifies the sun \xfffefor five turns, powering up \xfffeFire-type moves.
-The foe is taunted into a rage \xfffethat allows it to use only attack \xfffemoves for two to four turns.
-The foe is struck with an icy-cold \xfffebeam of energy. It may also \xfffefreeze the target solid.
-A howling blizzard is summoned \xfffeto strike the foe. It may also \xfffefreeze the target solid.
-The foe is attacked with a powerful \xfffebeam. The user must rest on the \xfffenext turn to regain its energy.
-A wondrous wall of light is put \xfffeup to suppress damage from special \xfffeattacks for five turns.
-It enables the user to evade all \xfffeattacks. Its chance of failing raises \xfffeif it is used in succession.
-The user summons a heavy rain \xfffethat falls for five turns, powering \xfffeup Water- type moves.
-It raises the opponent in the air \xfffewith its psychic abilities. Attacks hit \xfffethe opponent more easily for 3 turns.
-The user creates a protective \xfffefield that prevents status \xfffeproblems for five turns.
-A full-power attack that grows \xfffemore powerful the less the user \xfffelikes its Trainer.
-A two-turn attack. The user gathers \xfffelight, then blasts a bundled \xfffebeam on the second turn.
-The user slaps down the foe’s held \xfffeitem, preventing the item from \xfffebeing used during the battle.
-A strong electric blast is loosed \xfffeat the foe. It may also leave\xfffethe foe paralyzed.
-A wicked thunderbolt is dropped on \xfffethe foe to inflict damage. \xfffeIt may also leave the target paralyzed.
-The user sets off an earthquake \xfffethat hits all the Pokémon in the battle.
-A full-power attack that grows \xfffemore powerful the more the user\xfffelikes its Trainer.
-The user burrows, then attacks on the \xfffesecond turn. It can also \xfffebe used to exit dungeons.
-The foe is hit by a strong \xfffetelekinetic force. It may also reduce \xfffethe foe’s Sp. Def stat.
-The user hurls a shadowy blob \xfffeat the foe. It may also lower \xfffethe foe’s Sp. Def stat.
-The user attacks with tough fists, etc. \xfffeIt can also break any barrier \xfffesuch as Light Screen and Reflect.
-By moving rapidly, the user \xfffemakes illusory copies of itself \xfffeto raise its evasiveness.
-A wondrous wall of light is put \xfffeup to suppress damage from \xfffephysical attacks for five turns.
-It attacks those near it with \xfffea wave of sludge. It will \xfffesometimes cause poisoning.
-The foe is scorched with an \xfffeintense blast of fire. The target may \xfffealso be left with a burn.
-The user attacks by hurling \xfffefilthy sludge at the foe. \xfffeIt may also poison the target.
-A five-turn sand-storm is summoned \xfffeto hurt all combatant types \xfffeexcept Rock, Ground, and Steel.
-The foe is attacked with an intense blast \xfffeof all-consuming fire. It may also \xfffeleave the target with a burn.
-Boulders are hurled at the foe. \xfffeIt also lowers the foe’s Speed by \xfffepreventing its movement.
-The user confounds the foe with \xfffespeed, then slashes. The attack \xfffelands without fail.
-The user torments and enrages the \xfffefoe, making it incapable of using \xfffethe same move twice in a row.
-An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paralyzed, or has a burn.
-It puts on flame and attacks \xfffethe opponent. It stores strength \xfffeand its speed rises.
-The user goes to sleep for two turns. \xfffeIt fully restores the user’s \xfffeHP and heals any status problem.
-If it is the opposite gender of the \xfffeuser, the foe becomes infatuated \xfffeand less likely to attack.
-The user attacks and steals the \xfffefoe’s held item simultaneously. It can’t \xfffesteal if the user holds an item.
-With speedy movements it aims \xfffeat the opponents’ feet
-It attacks the opponent with song. If \xfffeeveryone sings together, the move will \xfffehave its power increased.
-It attacks the opponent with an echoed \xfffevoice. If it or one of its team mates \xfffeuses it each turn, the power increases.
-The user attacks the foe at full power.\xfffeThe attack’s recoil sharply reduces \xfffethe user’s Sp. Atk stat.
-With a strange power it teleports \xfffeand switches places with one of its \xfffeteammates.
-The user heightens its mental focus \xfffeand unleashes its power. It may \xfffealso lower the target’s Sp. Def.
-The user draws power from nature \xfffeand fires it at the foe. It may also \xfffelower the target’s Sp. Def.
-A restrained attack that prevents\xfffe the foe from fainting. The target \xfffeis left with at least 1 HP.
-It attacks by shooting boiling hot \xfffewater at the opponent. It will \xfffesometimes cause a burn.
-The user flings its held item at \xfffethe foe to attack. Its power and \xfffeeffects depend on the item.
-The user fires a concentrated \xfffebundle of electricity. It may also \xffferaise the user’s Sp. Atk stat.
-The attack raises the opponent skyward \xfffeon the 1st turn, then dropps it on the \xfffe2nd. The opponent that is raised can't move.
-It attacks the opponent with fire. \xfffeIt burns any berry the opponent is \xfffeholding, rendering it unusable.
-It holds the opponent down and \xfffemakes it attack last.
-The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn.
-It lightly attacks the opponent. \xfffeThe damage is larger when it is \xfffenot holding any item. 
-It prevents the foe from using its \xfffeheld item. Its Trainer is also prevented \xfffefrom using items on it.
-The user explodes to inflict damage \xfffeon all Pokémon in battle. \xfffeThe user faints upon using this move.
-The user slashes with a sharp claw \xfffemade from shadows. It has a high \xfffecritical-hit ratio.
-Numerous coins are hurled \xfffeat the foe to inflict damage. \xfffeMoney is earned after battle.
-It takes revenge for a fainted teammate. \xfffeIf a teammate is fainted that turn \xfffethe attacks power increases.
-The user charges at the foe using \xfffeevery bit of its power. The \xfffeuser must rest on the next turn.
-The user polishes its body to \xfffereduce drag. It can sharply raise \xfffethe Speed stat.
-The user flashes a light that \xfffecuts the foe’s accuracy. It can also \xfffebe used to illuminate caves.
-The user stabs the foe with a \xfffesharpened stone. It has a high \xfffecritical-hit ratio.
-After it has attacked the opponent, \xfffeit returns and switches places \xfffewith a waiting Pokémon.
-A weak electric charge is \xfffelaunched at the foe. It \xfffecauses paralysis if it hits.
-The user tackles the foe with \xfffea high-speed spin. The slower the \xfffeuser, the greater the damage.
-A frenetic dance to uplift the \xfffefighting spirit. It sharply raises \xfffethe user’s Attack stat.
-It opposes the opponent by \xfffeattacking. It lowers the opponents \xfffeSpecial Attack.
-The user hypnotizes itself \xfffeinto copying any stat change made \xfffeby the foe.
-It stamps the ground and \xfffeattacks anything nearby. It lowers \xfffethe opponent’s speed.
-It attacks by blowing a cool \xfffebreath on the opponent. It will always \xffferesult in a critical hit.
-Large boulders are hurled at \xfffethe foe to inflict damage. It may also \xfffemake the target flinch.
-The user slashes at the foe by \xfffecrossing its scythes or claws as if \xfffethey were a pair of scissors. 
-It sends the opponent flying and \xfffecauses the opponent to switch out. \xfffeIn a wild battle, the battle ends.
-It musters its courage and raises \xfffeits Attack and Special Attack.\xfffe
-A cloud of poison gas is sprayed \xfffein the foe’s face. It may poison \xfffethe target.
-An attack that works only on a \xfffesleeping foe. It absorbs half the damage \xfffecaused to heal the user’s HP.
-The user snares the foe with grass \xfffeand trips it. The heavier the foe, \xfffethe greater the damage.
-The user enrages the foe into \xfffeconfusion. However, it also sharply \xffferaises the foe’s Attack stat.
-The user pecks the foe. If the \xfffefoe is holding a Berry, the user \xfffeplucks it and gains its effect.
-After making its attack, the user \xffferushes back to switch places \xfffewith a party Pokémon in waiting.
-The user makes a copy of itself \xfffeusing some of its HP. The copy \xfffeserves as the user’s decoy.
-The user gathers all its light \xfffeenergy and releases it at once. It may \xfffealso lower the foe’s Sp. Def stat.
-The user creates a bizarre area \xfffein which slower Pokémon get to move \xfffefirst for five turns.
-The foe is cut with a scythe or \xfffea claw. It can also be used to cut \xfffedown thin trees.
-The user soars, then strikes on \xfffethe second turn. It can also be used \xfffefor flying to any familiar town.
-It swamps the entire battlefield \xfffewith a giant wave. It can also be \xfffeused for crossing water.
-The foe is slugged with a punch \xfffethrown at maximum power. It can also \xfffebe used to move boulders.
-The user charges at the foe rapidly, \xfffeand may make it flinch. It can also \xfffebe used to climb a waterfall.
-A two-turn attack. The user dives \xfffeunderwater on the first turn, then \xfffehits on the next turn.
+It sharpens its claws.\xfffeIncreases your Accuracy and\xfffeAttack.
+The user slashes the foe\xfffewith huge, sharp claws. 
+It makes its mysterious brain\xfffewaves real and attacks the\xfffeopponents. It deals Physical damage. 
+The user quietly focuses its\xfffemind and calms its spirit to raise\xfffeits Sp. Atk and Sp. Def stats.
+The foe is scared off, to be\xfffereplaced by another Pokémon in its\xfffeparty. In the wild, the battle ends.
+A move that leaves the target\xfffebadly poisoned. Its poison damage\xfffeworsens every turn.
+The user summons a hailstorm\xfffelasting five turns. It damages all\xfffePokémon except Ice-types.
+The user tenses its muscles to\xfffebulk up its body, boosting both\xfffeits Attack and Defense stats.
+It hurls a special poison. Its\xfffepower doubles if it hits an\xfffeopponent with Poison status.
+A unique attack that varies in\xfffetype and intensity depending\xfffeon the Pokémon using it.
+The user intensifies the sun\xfffefor five turns, powering up\xfffeFire-type moves.
+The foe is taunted into a rage\xfffethat allows it to use only attack\xfffemoves for two to four turns.
+The foe is struck with an icy-cold\xfffebeam of energy. It may also\xfffefreeze the target solid.
+A howling blizzard is summoned\xfffeto strike the foe. It may also\xfffefreeze the target solid.
+The foe is attacked with a powerful\xfffebeam. The user must rest on the\xfffenext turn to regain its energy.
+A wondrous wall of light is put\xfffeup to suppress damage from special\xfffeattacks for five turns.
+It enables the user to evade all\xfffeattacks. Its chance of failing raises\xfffeif it is used in succession.
+The user summons a heavy rain\xfffethat falls for five turns, powering\xfffeup Water- type moves.
+It raises the opponent in the air\xfffewith its psychic abilities. Attacks hit\xfffethe opponent more easily for 3 turns.
+The user creates a protective\xfffefield that prevents status\xfffeproblems for five turns.
+A full-power attack that grows\xfffemore powerful the less the user\xfffelikes its Trainer.
+A two-turn attack. The user gathers\xfffelight, then blasts a bundled\xfffebeam on the second turn.
+The user slaps down the foe’s held\xfffeitem, preventing the item from\xfffebeing used during the battle.
+A strong electric blast is loosed\xfffeat the foe. It may also leave\xfffethe foe paralyzed.
+A wicked thunderbolt is dropped on\xfffethe foe to inflict damage.\xfffeIt may also leave the target paralyzed.
+The user sets off an earthquake\xfffethat hits all the Pokémon in the battle.
+A full-power attack that grows\xfffemore powerful the more the user\xfffelikes its Trainer.
+The user burrows, then attacks on the\xfffesecond turn. It can also\xfffebe used to exit dungeons.
+The foe is hit by a strong\xfffetelekinetic force. It may also reduce\xfffethe foe’s Sp. Def stat.
+The user hurls a shadowy blob\xfffeat the foe. It may also lower\xfffethe foe’s Sp. Def stat.
+The user attacks with tough fists, etc.\xfffeIt can also break any barrier\xfffesuch as Light Screen and Reflect.
+By moving rapidly, the user\xfffemakes illusory copies of itself\xfffeto raise its evasiveness.
+A wondrous wall of light is put\xfffeup to suppress damage from\xfffephysical attacks for five turns.
+It attacks those near it with\xfffea wave of sludge. It will\xfffesometimes cause poisoning.
+The foe is scorched with an\xfffeintense blast of fire. The target may\xfffealso be left with a burn.
+The user attacks by hurling\xfffefilthy sludge at the foe.\xfffeIt may also poison the target.
+A five-turn sand-storm is summoned\xfffeto hurt all combatant types\xfffeexcept Rock, Ground, and Steel.
+The foe is attacked with an intense blast\xfffeof all-consuming fire. It may also\xfffeleave the target with a burn.
+Boulders are hurled at the foe.\xfffeIt also lowers the foe’s Speed by\xfffepreventing its movement.
+The user confounds the foe with\xfffespeed, then slashes. The attack\xfffelands without fail.
+The user torments and enrages the\xfffefoe, making it incapable of using\xfffethe same move twice in a row.
+An attack move that doubles\xfffeits power if the user is\xfffepoisoned, paralyzed, or has a burn.
+It puts on flame and attacks\xfffethe opponent. It stores strength\xfffeand its speed rises.
+The user goes to sleep for two turns.\xfffeIt fully restores the user’s\xfffeHP and heals any status problem.
+If it is the opposite gender of the\xfffeuser, the foe becomes infatuated\xfffeand less likely to attack.
+The user attacks and steals the\xfffefoe’s held item simultaneously. It can’t\xfffesteal if the user holds an item.
+With speedy movements it aims\xfffeat the opponents’ feet
+It attacks the opponent with song. If\xfffeeveryone sings together, the move will\xfffehave its power increased.
+It attacks the opponent with an echoed\xfffevoice. If it or one of its team mates\xfffeuses it each turn, the power increases.
+The user attacks the foe at full power.\xfffeThe attack’s recoil sharply reduces\xfffethe user’s Sp. Atk stat.
+With a strange power it teleports\xfffeand switches places with one of its\xfffeteammates.
+The user heightens its mental focus\xfffeand unleashes its power. It may\xfffealso lower the target’s Sp. Def.
+The user draws power from nature\xfffeand fires it at the foe. It may also\xfffelower the target’s Sp. Def.
+A restrained attack that prevents\xfffe the foe from fainting. The target\xfffeis left with at least 1 HP.
+It attacks by shooting boiling hot\xfffewater at the opponent. It will\xfffesometimes cause a burn.
+The user flings its held item at\xfffethe foe to attack. Its power and\xfffeeffects depend on the item.
+The user fires a concentrated\xfffebundle of electricity. It may also\xffferaise the user’s Sp. Atk stat.
+Raises the opponent skyward,\xfffethen drops it next turn\xfffeThe raised opponent cannot move.
+It attacks the opponent with fire.\xfffeIt burns any berry the opponent is\xfffeholding, rendering it unusable.
+It holds the opponent down and\xfffemakes it attack last.
+The user shoots a sinister, bluish white\xfffeflame at the foe to inflict a burn.
+It lightly attacks the opponent.\xfffeThe damage is larger when it is\xfffenot holding any item. 
+It prevents the foe from using its\xfffeheld item. Its Trainer is also prevented\xfffefrom using items on it.
+The user explodes to inflict damage\xfffeon all Pokémon in battle.\xfffeThe user faints upon using this move.
+The user slashes with a sharp claw\xfffemade from shadows. It has a high\xfffecritical-hit ratio.
+Numerous coins are hurled\xfffeat the foe to inflict damage.\xfffeMoney is earned after battle.
+It takes revenge for a fainted teammate.\xfffeIf a teammate is fainted that turn\xfffethe attacks power increases.
+The user charges at the foe using\xfffeevery bit of its power. The\xfffeuser must rest on the next turn.
+The user polishes its body to\xfffereduce drag. It can sharply raise\xfffethe Speed stat.
+The user flashes a light that\xfffecuts the foe’s accuracy. It can also\xfffebe used to illuminate caves.
+The user stabs the foe with a\xfffesharpened stone. It has a high\xfffecritical-hit ratio.
+After it has attacked the opponent,\xfffeit returns and switches places\xfffewith a waiting Pokémon.
+A weak electric charge is\xfffelaunched at the foe. It\xfffecauses paralysis if it hits.
+The user tackles the foe with\xfffea high-speed spin. The slower the\xfffeuser, the greater the damage.
+A frenetic dance to uplift the\xfffefighting spirit. It sharply raises\xfffethe user’s Attack stat.
+It opposes the opponent by\xfffeattacking. It lowers the opponents\xfffeSpecial Attack.
+The user hypnotizes itself\xfffeinto copying any stat change made\xfffeby the foe.
+It stamps the ground and\xfffeattacks anything nearby. It lowers\xfffethe opponent’s speed.
+It attacks by blowing a cool\xfffebreath on the opponent. It will always\xffferesult in a critical hit.
+Large boulders are hurled at\xfffethe foe to inflict damage. It may also\xfffemake the target flinch.
+The user slashes at the foe by\xfffecrossing its scythes or claws as if\xfffethey were a pair of scissors. 
+It sends the opponent flying and\xfffecauses the opponent to switch out.\xfffeIn a wild battle, the battle ends.
+It musters its courage and raises\xfffeits Attack and Special Attack.\xfffe
+A cloud of poison gas is sprayed\xfffein the foe’s face. It may poison\xfffethe target.
+An attack that works only on a\xfffesleeping foe. It absorbs half the damage\xfffecaused to heal the user’s HP.
+The user snares the foe with grass\xfffeand trips it. The heavier the foe,\xfffethe greater the damage.
+The user enrages the foe into\xfffeconfusion. However, it also sharply\xffferaises the foe’s Attack stat.
+The user pecks the foe. If the\xfffefoe is holding a Berry, the user\xfffeplucks it and gains its effect.
+After making its attack, the user\xffferushes back to switch places\xfffewith a party Pokémon in waiting.
+The user makes a copy of itself\xfffeusing some of its HP. The copy\xfffeserves as the user’s decoy.
+The user gathers all its light\xfffeenergy and releases it at once. It may\xfffealso lower the foe’s Sp. Def stat.
+The user creates a bizarre area\xfffein which slower Pokémon get to move\xfffefirst for five turns.
+The foe is cut with a scythe or\xfffea claw. It can also be used to cut\xfffedown thin trees.
+The user soars, then strikes on\xfffethe second turn. It can also be used\xfffefor flying to any familiar town.
+It swamps the entire battlefield\xfffewith a giant wave. It can also be\xfffeused for crossing water.
+The foe is slugged with a punch\xfffethrown at maximum power. It can also\xfffebe used to move boulders.
+The user charges at the foe rapidly,\xfffeand may make it flinch. It can also\xfffebe used to climb a waterfall.
+A two-turn attack. The user dives\xfffeunderwater on the first turn, then\xfffehits on the next turn.
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-A bag filled with convenient tools \xfffefor exploring. It provides access \xfffeto the Underground. 
+A bag filled with convenient tools\xfffefor exploring. It provides access\xfffeto the Underground. 
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
 A tool that can search out Pokémon\xfffethat are hiding in grass. Its battery is\xffferecharged as you walk.
@@ -446,7 +446,7 @@ A case for holding coins obtained at\xfffethe Game Corner.\xfffeIt holds up to 5
 An old and beat-up fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
 A new, good-quality fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
 An awesome, high-tech fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
-A watering can shaped like a PSYDUCK.\xfffeIt helps promote healthy growth of\xfffeBerries planted in soft soil.
+A watering can shaped like a Psyduck.\xfffeIt helps promote healthy growth of\xfffeBerries planted in soft soil.
 A case for storing Poffin cooked from\xfffeBerries.\xfffe
 A folding Bicycle that enables much\xfffefaster movement than the Running\xfffeShoes.
 A key to one of the suites at the\xfffeluxury hotel by a lake. For some odd\xfffereason, it often disappears.
@@ -467,7 +467,7 @@ An amazing device that can record a\xfffebattle either between friends or at a\x
 A flower sometimes bundled in bouquets\xfffeto convey gratitude on special\xfffeoccasions like birthdays.
 A high-tech key that has to be used at\xfffea specific location. It emits a special\xfffeelectric signal to open a door.
 A handy box where you can store up to\xfffe99 Apricorns of each kind.
-A report of all the discovered kinds\xfffeof UNOWN.
+A report of all the discovered kinds\xfffeof Unown.
 Handy containers for cultivating\xfffeBerries wherever you go.
 It checks for unseen items in the area\xfffeand makes noise and lights when it\xfffefinds something.
 A card to save points for the\xfffeBuena’s Password show.
@@ -476,9 +476,9 @@ A very old-fashioned bell that makes a\xfffegentle ringing.
 A card key that opens a shutter in the\xfffeRadio Tower.
 A key that opens a door in the\xfffeGoldenrod Tunnel.
 A bottle used for watering plants in the\xfffeBerry Pots.
-A scale from the red GYARADOS. It glows\xfffered like a flame.
+A scale from the red Gyarados. It glows\xfffered like a flame.
 The Poké Doll lost by the Copycat.
-A ticket required for riding the Magnet\xfffeTrain. It allows you to ride whenever\xfffeand however much you’d like.
+A ticket required for riding the Magnet\xfffeTrain. It allows you to ride whenever\xfffeand however many times you like.
 An important machine part for the\xfffePower Plant that was stolen.
 A strange, silvery feather\xfffethat sparkles.
 A mystical, rainbow feather\xfffethat sparkles.
@@ -521,10 +521,10 @@ It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Ring Drop.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Lamp Jump.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Circle Push.
-It holds Pokéathlon records. It’s a\xfffecard that shows how many \xfffeLink Pokéathlon wins you’ve had.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many\xfffeLink Pokéathlon wins you’ve had.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many\xfffeLink Pokéathlon losses you’ve had.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times\xfffeyou’ve won an event.
-It holds Pokéathlon records. It’s a\xfffecard that shows how many times \xfffeyou’ve lost an event.
+It holds Pokéathlon records. It’s a\xfffecard that shows how many times\xfffeyou’ve lost an event.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffeswitched Pokémon.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times you’ve\xfffewon Goal Roll.
 It holds Pokéathlon records. It’s a\xfffecard that shows how many times your\xfffePokémon won individual prizes.
@@ -532,11 +532,11 @@ It holds Pokéathlon records. It’s a\xfffecard that shows how many times you�
 It holds Pokéathlon records. It’s a\xfffecard that shows how much time you’ve\xfffespent in the Pokéathlon.
 A shiny green orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A sturdy Capsule that can only be\xfffeopened with a special key.
-A shiny red orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
-A shiny blue orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
+A shiny red orb said to be part of\xfffea legend with deep connections to\xfffethe Hoenn region.
+A shiny blue orb said to be part of\xfffea legend with deep connections to\xfffethe Hoenn region.
 A crystal ball that was excavated from\xfffethe ground. A very beautiful stone that\xfffeis covered with bits of rock and earth.
-A beautiful scale that will\xfffecause a certain Pokémon to evolve.\xfffeIt is very colourful.
-A piece of evolutions wonder.\xfffeIf held, a pre-evolved Pokémon's\xfffeDefence and Sp. Defence will be boosted.
+A beautiful scale that will\xfffecause a certain Pokémon to evolve.\xfffeIt is very colorful.
+A piece of evolutions wonder.\xfffeIf held, a pre-evolved Pokémon's\xfffeDefense and Sp. Defense will be boosted.
 An item to be held by a Pokémon.\xfffeThe holder's weight will\xfffebe much lighter when holding.
 An item to be held by a Pokémon.\xfffeIt will give the opponent\xfffedamage when it hits the holder.
 An item to be held by a Pokémon.\xfffeIt will cause the holder to\xfffefloat. It pops if it gets attacked.
@@ -565,23 +565,23 @@ A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves o
 A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves one time.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's HP EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Attack EV a little.
-An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Defence EV a little.。
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Defense EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Atk EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Def EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Speed EV a little.
-A very ordinary Wing that is\xfffejust beautiful without effect.\xfffe
-A fossil of an ancient Pokémon.\xfffeIt appears to have lived\xfffelong ago in the deep ocean.
-A fossil of an ancient Pokémon.\xfffeIt appears to have lives\xfffelong ago in the high sky.
+A very ordinary Wing that is\xfffesimply beautiful, but has no effect.\xfffe
+A fossil of an ancient Pokémon.\xfffeIt appears that it lived\xfffedeep in the ocean long ago.
+A fossil of an ancient Pokémon.\xfffeIt appears that it lived\xfffehigh in the sky long ago.
 A special ticket needed to go\xfffeto Liberty Garden Island. You\xfffecan catch a ship at Hiun City.
-A mysterious ball that encloses\xfffethe power of Isshu. You use it\xfffewhen you use the Deru Power.
-A ball of dreams that unexpectedly \xfffeappears in your bag in the Highlink forest. \xfffeIt can catch any kind of Pokémon.
+A mysterious ball enclosed\xfffewith the power of Isshu.\xfffeUsed to activate Exit Power.
+A dream ball that suddenly appeared\xfffein your bag in the High-Link forest.\xfffeIt can catch any kind of Pokémon.
 A toy that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
-A beautiful and cool case.\xfffeIt holds all goods needed\xfffefor the Pokémusical.
-A skull bone of a Pokémon that\xfffeused to fly freely around the\xfffesea despite the raging water.
+A beautiful and cool case.\xfffeIt holds all accessories used\xfffeon Pokémon in the Musical.
+A skull from a Pokémon that\xfffeused to fly freely around the\xfffesea despite the raging water.
 A rare mushroom that will spread\xfffea nice scent around the area.\xfffeIt can be sold at a high price.
-A large orb of pure gold that\xfffeshines with a golden colour.\xfffeIt can be sold at a high price.
-A large pearl that shines with a\xfffebeautiful silver colour.\xfffeIt can be sold at a high price.
-A piece of a comet will to the earth\xfffewhen a comet came to close.\xfffeIt can be sold at a high price.
+A large orb of pure gold that\xfffeshines with a golden color.\xfffeIt can be sold at a high price.
+A large pearl that shines with a\xfffebeautiful silver color.\xfffeIt can be sold at a high price.
+A piece of a comet that fell to\xfffeearth when it came to close.\xfffeIt can be sold at a high price.
 A bronze coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
 A silver coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
 A gold coin that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
@@ -614,14 +614,14 @@ When used by a Pokémon,\xfffea teammate will lose its item.\xfffe
 When used by a Pokémon,\xfffea teammate's item will be\xfffeused immediately.
 When used by a Pokémon,\xfffeall stat's will be restored\xfffeto normal.
 An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-The form of Reshiram's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
-The form of Zekrom's destroyed body.\xfffeIf a here appears holding\xfffeit, it will be restored.
-It covers itself in electricity \xfffeand crashes into the opponent. \xfffeIt also takes a little damage.
-The user hits with a punch that \xfffemay lower the target’s Defense. \xfffeIt can also smash cracked boulders.
-It yells at an opponent for a long time \xfffeand lowers their Special Attack stat.
-The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+The form of Reshiram's destroyed body.\xfffeIf a hero appears holding\xfffeit, it will be restored.
+The form of Zekrom's destroyed body.\xfffeIf a hero appears holding\xfffeit, it will be restored.
+It covers itself in electricity\xfffeand crashes into the opponent.\xfffeIt also takes a little damage.
+The user hits with a punch that\xfffemay lower the target’s Defense.\xfffeIt can also smash cracked boulders.
+It yells at an opponent for a long time\xfffeand lowers their Special Attack stat.
+A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.
 A phantom stone.\xfffe\xfffe
-An important letter delivered by WINGULL.\xfffe\xfffe
-An important letter delivered by WINGULL.\xfffe\xfffe
-An important letter delivered by WINGULL.\xfffe\xfffe
-The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+An important letter being\xfffedelivered by Wingull.\xfffe
+An important letter being\xfffedelivered by Wingull.\xfffe
+An important letter being\xfffedelivered by Wingull.\xfffe
+A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.

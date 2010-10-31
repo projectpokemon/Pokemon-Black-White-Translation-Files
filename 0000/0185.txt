@@ -4,15 +4,15 @@ A small countryside town with\xfffea pleasant, portentious breeze.
 Pokémon Lab
 Boasts an impressive view\xfffethanks to its hilly terrain.
 Pokémon Center
-A little city that gives a\xfffehome to many famous people.
+Many people have moved here\xfffeand call it their hometown.
 Sanyou Gym
 Pokémon Center
 Trainer's School
 Makomo's Lab
 A town that continues to thrive\xfffewith nearly 100-year-old storehouses.
-Shippo Gym
+Shippou Gym
 Pokémon Center
-Shippo Museum
+Shippou Museum
 Cafe Soco
 A metropolis with skyscrapers\xfffethat seem to pierce the clouds.
 Hiun Gym
@@ -47,7 +47,7 @@ A changing town that dismisses\xfffethe past to pursue convenience.
 Souryuu Gym
 Pokémon Center
 Battle Mansion
-A place only to be challenged by trainers\xfffewho have conquered all Pokémon gyms.
+A place only challenged by trainers\xfffewho have conquered all Pokémon gyms.
 Pokémon Center
 A town that protects its ancient\xfffecustoms and lives systematically.
 Pokémon Center
@@ -60,42 +60,42 @@ A gathering place for those around\xfffethe world who long to live with nature.
 Pokémon Center
 A very tall tower for communication\xfffewith people of all nations.
 An facility that studies Pokémon\xfffefrom other far-off regions.
-The remains of a factory, now used\xfffeas a playground for children and Pokémon.
-倒れて　空洞に　なった\xfffe樹洞も　通り抜けることが　できる
+The remains of a factory, now used as\xfffea playground for children and Pokémon.
+Filled with fallen, hollowed trees\xfffethat can be passed through.
 Though a popular tourist spot and\xfffeknown as a resort, it's a harsh desert.
 The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
 Many gathered goods are preserved\xfffeat a fixed temperature here.
 A cave where the repelling of\xfffeelectrified rocks causes them to float.
 Highly popular as a mine where\xfffehigh-quality ore can be extracted.
 The oldest tower in Isshu, though who\xfffebuilt it and when are a mystery.
-Its steep slopes make the final barrier\xfffebetween trainers and the Pokémon League.
+Its steep slopes make the final barrier\xfffebefore the Pokémon League.
 A massive hole which is said\xfffeto bring calamity when approached.
 An island that prays for a world where\xfffePokémon and people freely live together.
-小島に　ひっそり　たたずむ\xfffe秘密めいた　研究所
-染みこんだ　雨水が　わきあがり\xfffe地下に　水たまりを　つくりだした
+A secretive laboratory\xfffelying on a small island.
+Seeping rainwater has\xfffeformed puddles underground.
 A cave forgotten by people, where\xfffea legendary spirit was sealed away.
 A tall tower with a great bell\xfffesaid to purify the spirit.
 Wetlands where dents in the flat plain\xfffehave allowed puddles of water to form.
-かつては ひとが すんでいた むらで\xfffeいまも とうじの くうきが ながれる
+The same air flows through\xfffeas when former people lived here.
 A sea famous worldwide\xfffefor its sparkling waves.
-Though not particularly complicated, said\xfffeto be a mysterious and bewildering forest.
-トレーナーが　いないため　ゆっくり\xfffe景色を　楽しめる　海沿いの　小路
+Not particularly complicated, but\xfffeknown as mysterious and confusing.
+A calm route along the coast\xfffewith nice scenery and few trainers.
 A route with a calming air on\xfffewhich excited trainers try their might.
-A long route with many twists and turns,\xfffeowed to the abundance of grass and ponds.
-砂あらしのため　２つの都市を　つなぐ\xfffe舗装工事が　遅れている　道路
+A long route with many twists and turns,\xfffeowed to all the grass and ponds.
+Due to sandstorms, construction of\xfffethe route between cities is slow.
 A route with a busy atmosphere\xfffewhere performers gather.
 A route with thick, plentiful trees\xfffethat show nature's glory.
 It has thin log bridges to allow one to\xfffeproceed without going through tall grass.
 Pokémon lurk in the damp land,\xfffemuddy from numerous rainy days.
 A smooth, paved road\xfffewhere bike-lovers gather.
 Shopping Mall
-腕に覚えのあるものが　集い　競う\xfffeバッジチェックの門に　つながる道
+The route to the badge gates,\xfffewhere skilled trainers gather.
 A stream that goes around the\xffferoutes, filled with beautiful sights.
 Rolling, gentle hills make it\xfffea joy to simply walk along.
-海上を　貫く　砂浜が\xfffe名物となっている　水際の　道
+A route famous for its beach\xfffethat passes through the sea.
 A route shrouded in fog formed\xfffefrom the waterfall's splashing water.
-This route is a calm walk-through\xfffeto the very special Wonder Bridge.
-Many people visiting Raimon City\xfffestop-by at Route 16 to take rest.
+The rugged cliffs can be walked,\xfffebut the route is still rough.
+Many people visiting Raimon City\xfffeon foot stop to rest here.
 Currents caused by the terrain\xfffemake it impossible to advance freely.
 There are researches who point out\xfffeits former connection to Resort Desert.
 Isshu's oldest bridge, supported\xfffeby four main towers.
@@ -104,4 +104,4 @@ A town of steel, undaunted by\xfffethe subway running through.
 An old town where Isshu's\xfffepioneers first settled.
 A cutting-edge bridge designed\xfffeto withstand any attack.
 A place in the middle of Isshu\xfffethat houses a mysterious power.
-更なる　強さを求める　トレーナーが\xfffe危険を　顧みずに　はいりこむ
+Trainers looking for more strength\xfffecome regardless of the danger.

@@ -3,8 +3,8 @@ Are you a boy? Are you a girl?
 Turn on wireless functionality?
 Warning!
 Please turn on wireless communication\xfffefor maximum enjoyment of the game.\xfffePlease turn it off in places\xfffewith bans on wireless communication,\xfffesuch as airplanes and hospitals.\xfffeThis can be changed in-game\xfffein the Settings menu.
-Hiragana Mode
-Kanji Mode
+English
+Japanese
 Boy
 Girl
 Yes

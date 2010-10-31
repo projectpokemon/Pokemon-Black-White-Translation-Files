@@ -78,8 +78,8 @@ Battle Champ Ribbon
 Regional Champ Ribbon
 National Champ Ribbon
 World Champ Ribbon
-Ribbon awarded for beating the Hoenn Champion \xfffeand entering the Hall of Fame.
-Ribbon awarded for beating the Sinnoh Champion \xfffeand entering the Hall of Fame.
+Ribbon awarded for beating the Hoenn Champion\xfffeand entering the Hall of Fame.
+Ribbon awarded for beating the Sinnoh Champion\xfffeand entering the Hall of Fame.
 Hoenn Cool Contest\xfffeNormal Rank Winner!
 Hoenn Cool Contest\xfffeSuper Rank Winner!
 Hoenn Cool Contest\xfffeHyper Rank Winner!
@@ -149,15 +149,15 @@ A Ribbon awarded for winning\xfffe100 matches in a row.
 Pokémon League - Champion Ribbon.
 A Ribbon that proclaims love for\xfffePokémon.
 A commemorative Ribbon obtained\xfffein a Mystery Zone.
-ポケモンの イベントに\xfffeさんかした きねんリボン
-おたんじょうび きねん リボン
-とくべつな ひの とくべつな リボン
-とくべつな おもいでを きねんする リボン
-ねがいが かなうと いわれている リボン
-バトルたいかい ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeエリアたいかい ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeこくないたいかい ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeせかいたいかい ゆうしょうきねんリボン
+A commemorative Ribbon for\xfffeparticipating in a Pokémon event.
+A commemorative Ribbon\xfffefor your birthday.
+A special Ribbon\xfffefor a special day.
+A Ribbon commemorating\xfffea special memory.
+A Ribbon said to grant wishes.
+A commemorative Ribbon for\xfffechampionship in the Battle Tourney.
+A Ribbon awarded for winning the\xfffePokémon World Championship's regional tourney.
+A Ribbon awarded for winning the\xfffePokémon World Championship's national tourney.
+A Ribbon awarded for winning the\xfffePokémon World Championship's world tourney.
 League Ribbon\xf000ȁ\x0001\x0000
 Contest Ribbon\xf000ȁ\x0001\x0000
 Tower Ribbon\xf000ȁ\x0001\x0000

@@ -1,6 +1,6 @@
-What alphabet do you want to use?\xfffeEnglish or Kanji?\xf000븁\x0000
+What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
 English
-Kanji
+Japanese
 それでは ゲームで つかう もじは\xfffeひらがな・カタカナに します\xf000븁\x0000
 no data
 Please wait a moment...\xfffe

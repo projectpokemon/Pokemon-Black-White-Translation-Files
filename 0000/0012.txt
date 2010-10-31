@@ -43,12 +43,12 @@ Woods
 City
 Desert
 Savannah
-Rocky mountain
+Rocky Mountain
 Volcano
-Snowy mountain
+Snowy Mountain
 Cave
 Beach
-Sea floor
+Sea Floor
 River
 Sky
 Pokémon Center
@@ -68,12 +68,12 @@ Back
 Forward
 Next
 Party
-Box list
-Battle box
-Switch box
-Organize bag
-View status
-Held item
+Box List
+Battle Box
+Switch Box
+Organize Bag
+View Status
+Held Item
 Marking
 Release
 Take
@@ -87,9 +87,9 @@ Quit
 Change
 Quit
 Quit
-Change\xfffe Box
-Change\xfffe Wallpaper
-Store\xfffe Pokémon
+Change\xfffeBox
+Change\xfffeWallpaper
+Store\xfffePokemon
 To bag
 Hold
 Move
@@ -110,3 +110,4 @@ No.
 Moves
 Yes
 No
+

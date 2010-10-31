@@ -14,8 +14,8 @@ Link Battle Disconnects:
 Link Trades:
 No. of Pokémon Released:
 No. of Trainers Battled:
-すれちがった にんずう
-フィーリングチェック
+Chance-Upon Count:
+Feeling Checks:
 Charges Used:
 Participated in Appeal Shows:
 PokéShifter High Score:
@@ -27,8 +27,8 @@ Battle Tests:
 Cancel
 Touch Card to flip.
 Sign Card
-Want to sign \xfffeyour Trainer Card?
-Your current signature will be erased. \xfffeIs that OK?
+Want to sign\xfffeyour Trainer Card?
+Your current signature will be erased.\xfffeIs that OK?
 Hardy
 Lonely
 Brave
@@ -88,7 +88,7 @@ Leader: Iris
 Pokémon Type: Dragon\xfffeYou've beaten this leader!
 Trio Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 20 will obey.\xfffeReward: TM 83: Cheer Up
-You can also use HM 1: Cut now!
+You can also use HM01 Cut now!
 Normal Badge\xfffeRecieved at:\xf000ȁ\x0001\x0002 / \xf000ȁ\x0001\x0001 / \xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 30 will obey.\xfffeReward: TM 67: Get Even
 

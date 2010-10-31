@@ -1,7 +1,7 @@
-Let's dress up \xf000Ă\x0001\x0000!
-Is this costume OK?
-Please wait for the\xfffeother participants.
-\xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に にあう グッズです
-\xf000ı\x0001\x0000に にあう グッズを\xfffeせんとうに ならびかえました
-グッズの ならびの じゅんばんを\xfffeもとに もどしました
-List of wearable goods\xfffefor this Pokémon
+Dress up \xf000Ă\x0001\x0000\xfffewith accessories!
+Are these accessories okay?
+Waiting for other entrants\xfffeto finish accessorizing.
+An accessory suitable\xfffefor \xf000Ċ\x0001\x0000 \xf000ı\x0001\x0001.
+Accessories for \xf000ı\x0001\x0000\xfffehave been put in front.
+The order of accessories\xfffewas returned to normal.
+Select accessories from the list\xfffeand put them on your Pokémon.

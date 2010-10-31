@@ -331,9 +331,9 @@ The foe's \xf000Ă\x0001\x0000\xfffefell in love!
 \xf000ĉ\x0001\x0001 caused \xf000Ă\x0001\x0000 to\xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the wild \xf000Ă\x0001\x0000 to\xfffebecome infatuated!
 \xf000ĉ\x0001\x0001 caused the foe's \xf000Ă\x0001\x0000 to\xfffebecome infatuated!
-\xf000Ă\x0001\x0000 became infatuated\xfffewith \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 became infatuated\xfffewith \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 became infatuated\xfffewith \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 is infatuated\xfffewith \xf000Ă\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 is infatuated\xfffewith \xf000Ă\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 is infatuated\xfffewith \xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000\xfffeis immobilized by love!
 The wild \xf000Ă\x0001\x0000\xfffeis immobilized by love!
 The foe's \xf000Ă\x0001\x0000\xfffeis immobilized by love!
@@ -470,15 +470,15 @@ The foe's \xf000Ă\x0001\x0000\xfffe\xf000ć\x0001\x0001 won't take a hit from a
 \xf000Ă\x0001\x0000 is\xfffeimmune to attacks from the side!
 The wild \xf000Ă\x0001\x0000 is\xfffeimmune to attacks from the side!
 The foe's \xf000Ă\x0001\x0000 is\xfffeimmune to attacks from the side!
-\xf000Ă\x0001\x0000\xfffeabiseta a poison!
-The wild \xf000Ă\x0001\x0000\xfffeabiseta a poison!
-The foe's \xf000Ă\x0001\x0000\xfffeabiseta a poison!
+\xf000Ă\x0001\x0000\xfffegot covered in poison!
+The wild \xf000Ă\x0001\x0000\xfffegot covered in poison!
+The foe's \xf000Ă\x0001\x0000\xfffegot covered in poison!
 \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
 The wild \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
 The foe's \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
-\xf000Ă\x0001\x0000\xfffeillusion wore off!
-The wild \xf000Ă\x0001\x0000\xfffeillusion wore off!
-The foe's \xf000Ă\x0001\x0000\xfffeillusion wore off!
+\xf000Ă\x0001\x0000's\xfffeillusion wore off!
+The wild \xf000Ă\x0001\x0000's\xfffeillusion wore off!
+The foe's \xf000Ă\x0001\x0000's\xfffeillusion wore off!
 \xf000Ă\x0001\x0000\xffferaised its attack to its max!
 The wild \xf000Ă\x0001\x0000\xffferaised its attack to its max!
 The foe's \xf000Ă\x0001\x0000\xffferaised its attack to its max!
@@ -1081,12 +1081,12 @@ The foe's \xf000Ă\x0001\x0000\xfffechose Doom Desire as its destiny!
 \xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
 The wild \xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
 The foe's \xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
-\xf000Ă\x0001\x0000's ability\xfffemade it so you\xf000븀\x0000can no longer stay in the air!
-The wild \xf000Ă\x0001\x0000's ability\xfffemade it so you\xf000븀\x0000can no longer stay in the air!
-The foe's \xf000Ă\x0001\x0000's ability\xfffemade it so you\xf000븀\x0000can no longer stay in the air!
-\xf000Ă\x0001\x0000 can't use\xfffe\xf000븀\x0000\xf000ć\x0001\x0001because of gravity!
-The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000븀\x0000\xf000ć\x0001\x0001because of gravity!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000븀\x0000\xf000ć\x0001\x0001because of gravity!
+\xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!
+The wild \xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!
+The foe's \xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!
+\xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
+The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
+The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
 \xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001's type!
 The wild \xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001's type!
 The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001's type!
@@ -1151,9 +1151,9 @@ The wild \xf000Ă\x0001\x0000 is waiting for\xfffe\xf000Ă\x0001\x0001...
 The wild \xf000Ă\x0001\x0000 is waiting for the wild\xfffe\xf000Ă\x0001\x0001...
 The foe's \xf000Ă\x0001\x0000 is waiting for\xfffe\xf000Ă\x0001\x0001...
 The foe's \xf000Ă\x0001\x0000 is waiting for the foe's\xfffe\xf000Ă\x0001\x0001...
-\xf000Ă\x0001\x0000's\xfffegood breath!
-The wild \xf000Ă\x0001\x0000's\xfffegood breath!
-The foe's \xf000Ă\x0001\x0000's\xfffegood breath!
+\xf000Ă\x0001\x0000 is\xfffebreathing well!
+The wild \xf000Ă\x0001\x0000 is\xfffebreathing well!
+The foe's \xf000Ă\x0001\x0000 is\xfffebreathing well!
 \xf000Ă\x0001\x0000\xfffeis damaged by a sea of fire!
 The wild \xf000Ă\x0001\x0000\xfffeis damaged by a sea of fire!
 The foe's \xf000Ă\x0001\x0000\xfffeis damaged by a sea of fire!
