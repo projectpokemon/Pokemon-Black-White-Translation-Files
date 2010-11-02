@@ -361,9 +361,9 @@ The foe's \xf000Ă\x0001\x0000\xfffecan't become confused!
 \xf000Ă\x0001\x0000\xfffebecame confused due to fatigue!
 The wild \xf000Ă\x0001\x0000\xfffebecame confused due to fatigue!
 The foe's \xf000Ă\x0001\x0000\xfffebecame confused due to fatigue!
-\xf000Ă\x0001\x0000\xfffeflinched and couldn't move!
-The wild \xf000Ă\x0001\x0000\xfffeflinched and couldn't move!
-The foe's \xf000Ă\x0001\x0000\xfffeflinched and couldn't move!
+\xf000Ă\x0001\x0000 flinched!
+The wild \xf000Ă\x0001\x0000 flinched!
+The foe's \xf000Ă\x0001\x0000 flinched!
 \xf000Ă\x0001\x0000 can't concentrate\xfffeand won't listen!
 The wild \xf000Ă\x0001\x0000 can't concentrate\xfffeand won't listen!
 The foe's \xf000Ă\x0001\x0000 can't concentrate\xfffeand won't listen!
@@ -387,7 +387,7 @@ The wild \xf000Ă\x0001\x0000's\xfffeattack was a critical hit!
 The foe's \xf000Ă\x0001\x0000\xfffeattack was a critical hit!
 \xf000Ă\x0001\x0000's\xfffeHP was restored!
 The wild \xf000Ă\x0001\x0000's\xfffeHP was restored!
-The foe's \xf000Ă\x0001\x0000\xfffeHP was restored!
+The foe's \xf000Ă\x0001\x0000's\xfffeHP was restored!
 \xf000ć\x0001\x0001\xffferestored \xf000Ă\x0001\x0000's PP!
 \xf000ć\x0001\x0001\xffferestored the wild \xf000Ă\x0001\x0000's PP!
 \xf000ć\x0001\x0001\xffferestored the foe's \xf000Ă\x0001\x0000's PP!
@@ -431,12 +431,12 @@ The foe's \xf000Ă\x0001\x0000 raised the power\xfffeof its Fire-type moves!
 \xf000Ă\x0001\x0000\xfffeis hurt!
 The wild \xf000Ă\x0001\x0000\xfffeis hurt!
 The foe's \xf000Ă\x0001\x0000\xfffeis hurt!
-\xf000Ă\x0001\x0000\xfffescanned \xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000\xfffescanned \xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000\xfffescanned \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000\xfffeTrouble Ishita look!
-The wild \xf000Ă\x0001\x0000\xfffeTrouble Ishita look!
-The foe's \xf000Ă\x0001\x0000\xfffeTrouble Ishita look!
+\xf000Ă\x0001\x0000's Forewarn\xfffealerted it to \xf000ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000's Forewarn\xfffealerted it to \xf000ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000's Forewarn\xfffealerted it to \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000's Anticipation\xfffemade it shudder!
+The wild \xf000Ă\x0001\x0000's\xfffeAnticipation made it shudder!
+The foe's \xf000Ă\x0001\x0000's\xfffeAnticipation made it shudder!
 \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
 The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
 The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
@@ -515,27 +515,27 @@ The foe's \xf000Ă\x0001\x0000 braced\xfffeitself!
 \xf000Ă\x0001\x0000\xfffeendured the hit!
 The wild \xf000Ă\x0001\x0000\xfffeendured the hit!
 The foe's \xf000Ă\x0001\x0000\xfffeendured the hit!
-\xf000Ă\x0001\x0000's\xfffeprotected itself!
-The wild \xf000Ă\x0001\x0000's\xfffeprotected itself!
-The foe's \xf000Ă\x0001\x0000's\xfffeprotected itself!
+\xf000Ă\x0001\x0000\xfffeprotected itself!
+The wild \xf000Ă\x0001\x0000\xfffeprotected itself!
+The foe's \xf000Ă\x0001\x0000\xfffeprotected itself!
 \xf000Ă\x0001\x0000\xfffeprotected itself from a hit!
 The wild \xf000Ă\x0001\x0000\xfffeprotected itself from a hit!
 The foe's \xf000Ă\x0001\x0000\xfffeprotected itself from a hit!
 \xf000Ă\x0001\x0000\xfffeprotected itself!
 The wild \xf000Ă\x0001\x0000\xfffeprotected itself!
 The foe's \xf000Ă\x0001\x0000\xfffeprotected itself!
-\xf000Ă\x0001\x0000\xfffefell for the feint!
-The wild \xf000Ă\x0001\x0000\xfffefell for the feint!
-The foe's \xf000Ă\x0001\x0000\xfffefell for the feint!
-\xf000Ă\x0001\x0000\xfffeflew high into the air!
-The wild \xf000Ă\x0001\x0000\xfffeflew high into the air!
-The foe's \xf000Ă\x0001\x0000\xfffeflew high into the air!
-\xf000Ă\x0001\x0000's\xfffeanger has begun to rise!
-The wild \xf000Ă\x0001\x0000's\xfffeanger has begun to rise!
-The foe's \xf000Ă\x0001\x0000's\xfffeanger has begun to rise!
-\xf000Ă\x0001\x0000\xfffedove into the water!
-The wild \xf000Ă\x0001\x0000\xfffedove into the water!
-The foe's \xf000Ă\x0001\x0000\xfffedove into the water!
+\xf000Ă\x0001\x0000 fell for\xfffethe feint!
+The wild \xf000Ă\x0001\x0000 fell for\xfffethe feint!
+The foe's \xf000Ă\x0001\x0000 fell for\xfffethe feint!
+\xf000Ă\x0001\x0000 flew\xfffeup high!
+The wild \xf000Ă\x0001\x0000 flew\xfffeup high!
+The foe's \xf000Ă\x0001\x0000 flew\xfffeup high!
+\xf000Ă\x0001\x0000's rage\xfffeis building!
+The wild \xf000Ă\x0001\x0000's rage\xfffeis building!
+The foe's \xf000Ă\x0001\x0000's rage\xfffeis building!
+\xf000Ă\x0001\x0000 hid\xfffeunderwater!
+The wild \xf000Ă\x0001\x0000 hid\xfffeunderwater!
+The foe's \xf000Ă\x0001\x0000 hid\xfffeunderwater!
 \xf000Ă\x0001\x0000 burrowed its\xfffeway under the ground!
 The wild \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
 The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
@@ -543,8 +543,8 @@ The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
 The wild \xf000Ă\x0001\x0000 disappeared\xfffein the shadows!
 The foe's \xf000Ă\x0001\x0000 disappeared\xfffein the shadows!
 \xf000Ă\x0001\x0000 sprang up!
-The wild \xf000Ă\x0001\x0000\xfffesprang up!
-The foe's \xf000Ă\x0001\x0000\xfffesprang up!
+The wild \xf000Ă\x0001\x0000 sprang up!
+The foe's \xf000Ă\x0001\x0000 sprang up!
 \xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
 The wild \xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
 The foe's \xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
@@ -590,12 +590,12 @@ The foe's \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
 \xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
 The wild \xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
 The foe's \xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
-\xf000Ă\x0001\x0000\xfffe\xf000ć\x0001\x0001 was disabled!
+\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
 The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
 The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
-\xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
-The wild \xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
-The foe's \xf000Ă\x0001\x0000is a sad pal\xfffe\xf000ć\x0001\x0001has put out!
+\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffeis disabled!
+The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
+The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
 \xf000Ă\x0001\x0000 is no\xfffelonger disabled!
 The wild \xf000Ă\x0001\x0000 is no\xfffelonger disabled!
 The foe's \xf000Ă\x0001\x0000 is no\xfffelonger disabled!
@@ -701,9 +701,9 @@ The foe's \xf000Ă\x0001\x0000's Healing Wish\xfffehas arrived!
 \xf000Ă\x0001\x0000's\xfffeWish came true!
 The wild \xf000Ă\x0001\x0000's\xfffeWish came true!
 The foe's \xf000Ă\x0001\x0000's\xfffeWish came true!
-\xf000Ă\x0001\x0000\xfffecaused an Uproar!
-The wild \xf000Ă\x0001\x0000\xfffecaused an Uproar!
-The foe's \xf000Ă\x0001\x0000\xfffecaused an Uproar!
+\xf000Ă\x0001\x0000\xfffecaused an uproar!
+The wild \xf000Ă\x0001\x0000\xfffecaused an uproar!
+The foe's \xf000Ă\x0001\x0000\xfffecaused an uproar!
 The uproar woke up\xfffethe \xf000Ă\x0001\x0000!
 The uproar woke up\xfffethe wild \xf000Ă\x0001\x0000!
 The uproar woke up\xfffethe foe's \xf000Ă\x0001\x0000!
@@ -716,9 +716,9 @@ But the uproar kept\xfffethe foe's \xf000Ă\x0001\x0000 awake!
 \xf000Ă\x0001\x0000 is making\xfffean uproar!
 The wild \xf000Ă\x0001\x0000 is making\xfffean uproar!
 The foe's \xf000Ă\x0001\x0000 is making\xfffean uproar!
-\xf000Ă\x0001\x0000\xfffecalmed down!
-The wild \xf000Ă\x0001\x0000\xfffecalmed down!
-The foe's \xf000Ă\x0001\x0000\xfffecalmed down!
+\xf000Ă\x0001\x0000\xfffecalmed down.
+The wild \xf000Ă\x0001\x0000\xfffecalmed down.
+The foe's \xf000Ă\x0001\x0000\xfffecalmed down.
 \xf000Ă\x0001\x0000\xfffestockpiled \xf000Ȁ\x0001\x0001!
 The wild \xf000Ă\x0001\x0000\xfffestockpiled \xf000Ȁ\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000\xfffestockpiled \xf000Ȁ\x0001\x0001!
@@ -900,9 +900,9 @@ The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto a \xf000ď\x0001\x0001 type
 \xf000Ă\x0001\x0000's had its\xfffeenergy drained!
 The wild \xf000Ă\x0001\x0000's had its\xfffeenergy drained!
 The foe's \xf000Ă\x0001\x0000's had its\xfffeenergy drained!
-\xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
-The wild \xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
-The foe's \xf000Ă\x0001\x0000 was\xfffeslammed to the ground with force!
+\xf000Ă\x0001\x0000 kept going\xfffeand crashed!
+The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
+The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 \xf000Ă\x0001\x0000 is unable\xfffeto use \xf000ć\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 is unable\xfffeto use \xf000ć\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 is unable\xfffeto use \xf000ć\x0001\x0001!
@@ -1109,7 +1109,7 @@ Sparks also fell\xfffeon the foe's \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001\xfffewas burned off!
 The wild \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001\xfffewas burned off!
 The foe's \xf000Ă\x0001\x0000's held \xf000ĉ\x0001\x0001\xfffewas burned off!
-\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002 \xffefrom \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002 \xfffefrom \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000from \xf000Ă\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000from \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xf000븀\x0000from \xf000Ă\x0001\x0001!
@@ -1126,9 +1126,9 @@ The foe's \xf000Ă\x0001\x0001 took\xfffethe foe's \xf000Ă\x0001\x0000 up into 
 \xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
 The wild \xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
 The foe's \xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
-\xf000Ă\x0001\x0000 kept going\xfffeand crashed into the ground!
-The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed into the ground!
-The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed into the ground!
+\xf000Ă\x0001\x0000 kept going\xfffeand crashed!
+The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
+The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 \xf000Ă\x0001\x0000's\xfffeturn was postponed!
 The wild \xf000Ă\x0001\x0000's\xfffeturn was postponed!
 The foe's \xf000Ă\x0001\x0000's\xfffeturn was postponed!
