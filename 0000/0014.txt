@@ -7,32 +7,32 @@ Curvet
 Shizumi
 Kwan
 Muramasa
-Semi-Mal
+Semi
 Sailers
 Kevin
 Hearts
 Tutu
 Monmo
-Ume Chi
+Ume
 Pond
 Rupee
 Dollar
 Rooty
 Wong
-Peso
+Dulce
 Krone
 Real
 Nobunaga
-Hide Knob
-Yass Knob
-Free Knob
+Jamie
+Juan
+Jonathan
 Emanuel
 Dominica
 Monroe
 Sunray
-Gen Nai
-Ananda
-Serujibude
+Gen
+Andrew
+Sergi
 Mira
 Tanya
 Terissa
@@ -41,13 +41,13 @@ Abdul
 Jimujirou
 Aoyagi
 Francolin
-Grunt
+Erin
 Hutu
-Mura spider
+Jose
 Totsuka
-Nat's Amateur
+Frances
 Karellen
-Fall Na
+Felicia
 Hodzumin
 Tsurugi
 Dipuro
@@ -89,8 +89,8 @@ Shinemon
 Way
 Min
 Marukusu
-Elephant Machi
-Gen Singh
+David
+Binh
 Cloud
 Basileus
 Hoffmann
@@ -99,13 +99,13 @@ Yodo
 Gosaku
 Kocher
 Turtle
-Doi Car
+Doi
 Shintarou
-En Elephant
+Kaarosu
 Dione
 Nereid
 Akkun
-Kung cut
+Alpha
 Rohan
 Kuen
 Terumoto
@@ -114,7 +114,7 @@ Yuittoru
 Pantado
 Fritz
 Yohei
-Waka Bamboo
+Chase
 Tuvalu
 Cain
 Abel
@@ -131,13 +131,13 @@ Polina
 Leonard
 Lorenz
 Engawa
-Gizzard shad
+Gerard
 Sergio
 Felipe
 Bijaru
 Merrill
 Tapioca
-Diving beetle
+Brittany
 Duncan
 Morgan
 Kokomero
@@ -150,7 +150,7 @@ Xavier
 Jacob
 Joachim
 Celine
-High School
+Noe
 Marie
 Juzumaru
 Munechika
@@ -165,15 +165,15 @@ March
 Miki Wo
 Polka
 Antoku
-Human ibis
-Yuki Mura
-Uzi Masa
+Ibis
+Yuki
+Masa
 Hameed
 Ahmad
-ICHI pine
+Soneek
 Nayotake
 Bobujirou
-Bob Reed
+Bob
 Vadim
 Urey
 Belloy
@@ -200,7 +200,7 @@ Gekkou
 Izayoi
 Nejihiko
 Faust
-Bush shark
+Velocity
 Utsuke
 Futokoro
 Lotte
@@ -215,25 +215,25 @@ Longo
 Eun-Soo
 Harimao
 Enpi
-Heaven's blessing
-Earth's blessing
-Four kongs
+Carlos
+Jose
+Thomas
 Susutake
 Mouse
 Kamenozoki
 Terracotta
 Bough
 Bordeaux
-Cattle pine
-Pine Crane
-Sae Mon
+Beidy
+Meg
+Sae
 Nguyen
 Mooi
 Palm
 Ponta
 Donta
 Magobee
-Mal Singh
+Mal
 Yamauba
 Sinja
 Namanari
@@ -245,7 +245,7 @@ Wardha
 Haithem
 Konnyon
 Yellowtail
-Salmon roe
+Christine
 Georges
 Samuel
 Humphrey
@@ -274,21 +274,21 @@ Marion
 Dante
 Birgit
 Margaret
-In Bank
-Katsu cedar
+Amy
+Katsu
 Bob Nori
 Bobuemon
 Erik
 Oscar
 Thutmose
 Ramses
-Pine cold
+Zack
 Uneme
 Kotetsu
 Toushirou
 Saizuni
 Panaratto
-Elephant Man
+Billy
 Ieon
 Show
 Tsudzumi
@@ -306,9 +306,9 @@ Touko
 Touko
 Nobori
 Nobori
-Kudari
-Kudari
+Fudari
+Fudari
 Nobori
-Kudari
+Fudari
 Nobori
-Kudari
+Fudari
