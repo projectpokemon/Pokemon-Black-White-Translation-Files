@@ -558,9 +558,9 @@ A light gem.\xfffeIf held by a Pokémon,\xfffeit boosts Fly-type moves one time.
 A hypnotizing gem.\xfffeIf held by a Pokémon,\xfffeit boosts Psychic-type moves one time.
 A buggy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Bug-type moves one time.
 A gem hard as rock.\xfffeIf held by a Pokémon,\xfffeit boosts Rock-type moves one time.
-A black, creepy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dark-type moves one time.
-A very dragon-like gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dragon-type moves one time.
 A dark, scary gem.\xfffeIf held by a Pokémon,\xfffeit boosts Ghost-type moves one time.
+A very dragon-like gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dragon-type moves one time.
+A black, creepy gem.\xfffeIf held by a Pokémon,\xfffeit boosts Dark-type moves one time.
 A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves one time.
 A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves one time.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's HP EV a little.

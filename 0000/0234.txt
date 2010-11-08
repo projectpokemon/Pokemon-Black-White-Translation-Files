@@ -157,7 +157,7 @@ Wash Rotom
 Frost Rotom
 Fan Rotom
 Mow Rotom
-\xf000ā\x0001\x0000のすがた
+\xf000ā\x0001\x0000's Form
 Normal
 Sunny Form
 Rainy Form
@@ -173,9 +173,9 @@ Switch
 Cancel
 Cancel
 Return to list
-Give a nickname to \xfffethe caught \xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Shouro's PC!
+Give a nickname to\xfffethe caught \xf000ā\x0001\x0000?
+\xf000Ă\x0001\x0000 was sent to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
+\xf000Ă\x0001\x0000 was sent to\xfffe\xf000ċ\x0001\x0001 in Shorea's PC!
 Information
 Map
 Voice
@@ -186,7 +186,7 @@ Forms Seen:
 Different Forms:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
- 
+(Shiny)
 \xf000ā\x0001\x0000's location(s)
 Spring
 Summer

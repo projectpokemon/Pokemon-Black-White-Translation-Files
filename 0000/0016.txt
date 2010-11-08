@@ -217,9 +217,9 @@ The foe's \xf000Ă\x0001\x0000\xfffeavoided the attack!
 \xf000Ă\x0001\x0000\xfffeis unaffected!
 The wild \xf000Ă\x0001\x0000\xfffeis unaffected!
 The foe's \xf000Ă\x0001\x0000\xfffeis unaffected!
-\xf000Ă\x0001\x0000 increased the\xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased the wild\xfffe\xf000ĉ\x0001\x0001's Defense!
-\xf000Ă\x0001\x0000 increased the foe's\xfffe\xf000ĉ\x0001\x0001's Defense!
+The \xf000ĉ\x0001\x0001 increased\xfffe\xf000Ă\x0001\x0000's defenses!
+The \xf000ĉ\x0001\x0001 increased the wild\xfffe\xf000Ă\x0001\x0000's defenses!
+The \xf000ĉ\x0001\x0001 increased the foe's\xfffe\xf000Ă\x0001\x0000's defenses!
 \xf000Ă\x0001\x0000's\xfffeform changed!
 The wild \xf000Ă\x0001\x0000's\xfffeform changed!
 The foe's \xf000Ă\x0001\x0000\xfffeform changed!
@@ -437,9 +437,9 @@ The foe's \xf000Ă\x0001\x0000's Forewarn\xfffealerted it to \xf000ć\x0001\x000
 \xf000Ă\x0001\x0000's Anticipation\xfffemade it shudder!
 The wild \xf000Ă\x0001\x0000's\xfffeAnticipation made it shudder!
 The foe's \xf000Ă\x0001\x0000's\xfffeAnticipation made it shudder!
-\xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 is unusable!
+\xf000Ă\x0001\x0000 frisked its\xfffefoe and found one \xf000ĉ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 frisked its\xfffefoe and found one \xf000ĉ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 frisked its\xfffefoe and found one \xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000\xfffehas Mold Breaker!
 The wild \xf000Ă\x0001\x0000\xfffehas Mold Breaker!
 The foe's \xf000Ă\x0001\x0000\xfffehas Mold Breaker!
@@ -476,9 +476,9 @@ The foe's \xf000Ă\x0001\x0000\xfffegot covered in poison!
 \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
 The wild \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
 The foe's \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas consumed!
-\xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The wild \xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The foe's \xf000Ă\x0001\x0000's\xfffeillusion wore off!
+\xf000Ă\x0001\x0000's illusion\xfffewore off!
+The wild \xf000Ă\x0001\x0000's illusion\xfffewore off!
+The foe's \xf000Ă\x0001\x0000's illusion\xfffewore off!
 \xf000Ă\x0001\x0000\xffferaised its attack to its max!
 The wild \xf000Ă\x0001\x0000\xffferaised its attack to its max!
 The foe's \xf000Ă\x0001\x0000\xffferaised its attack to its max!
@@ -566,12 +566,12 @@ The foe's \xf000Ă\x0001\x0000\xfffeencore has died down!
 \xf000Ă\x0001\x0000's\xfffeability is no longer effective!
 The wild \xf000Ă\x0001\x0000's\xfffeability is no longer effective!
 The foe's \xf000Ă\x0001\x0000's\xfffeability is no longer effective!
-\xf000Ă\x0001\x0000\xfffefell for the taunt!
-The wild \xf000Ă\x0001\x0000\xfffefell for the taunt!
-The foe's \xf000Ă\x0001\x0000\xfffefell for the taunt!
-\xf000Ă\x0001\x0000 is unable to use\xfffe\xf000ć\x0001\x0001 because it is enraged!
-The wild \xf000Ă\x0001\x0000 is unable to use\xfffe\xf000ć\x0001\x0001 because it is enraged!
-The foe's \xf000Ă\x0001\x0000 is unable to use\xfffe\xf000ć\x0001\x0001 because it is enraged!
+\xf000Ă\x0001\x0000 fell for\xfffethe taunt!
+The wild \xf000Ă\x0001\x0000 fell for\xfffethe taunt!
+The foe's \xf000Ă\x0001\x0000 fell for\xfffethe taunt!
+\xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
+The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
+The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
 \xf000Ă\x0001\x0000's\xffferage has subsided!
 The wild \xf000Ă\x0001\x0000's\xffferage has subsided!
 The foe's \xf000Ă\x0001\x0000's\xffferage has subsided!
@@ -587,9 +587,9 @@ The foe's \xf000Ă\x0001\x0000’s status\xfffereturned to normal!
 \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
 The wild \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
 The foe's \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
-\xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
-The wild \xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
-The foe's \xf000Ă\x0001\x0000\xfffein the way\xf000븀\x0000\xf000ć\x0001\x0001has put out!
+\xf000Ă\x0001\x0000\xfffeis sealed from using \xf000ć\x0001\x0001!
+The wild \xf000Ă\x0001\x0000\xfffeis sealed from using \xf000ć\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000\xfffeis sealed from using \xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
 The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
 The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
@@ -614,9 +614,9 @@ The foe's \xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
 \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
 The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
 The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
-\xf000Ă\x0001\x0000\xfffeimproved its concentration!
-The wild \xf000Ă\x0001\x0000\xfffeimproved its concentration!
-The foe's \xf000Ă\x0001\x0000\xfffeimproved its concentration!
+\xf000Ă\x0001\x0000 is tightening\xfffeits focus!
+The wild \xf000Ă\x0001\x0000 is tightening\xfffeits focus!
+The foe's \xf000Ă\x0001\x0000 is tightening\xfffeits focus!
 \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x0001\x0002 stat changes!
 \xf000Ă\x0001\x0000 copied the wild\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x0001\x0002 stat changes!
 \xf000Ă\x0001\x0000 copied the foe's\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x0001\x0002 stat changes!
@@ -624,24 +624,24 @@ The wild \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x
 The wild \xf000Ă\x0001\x0000 copied\xfffethe wild \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000copied\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000  copied\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
-\xf000Ă\x0001\x0000 is trying\xfffeto take along!
-The wild \xf000Ă\x0001\x0000 is trying\xfffeto take along!
-The foe's \xf000Ă\x0001\x0000 is trying\xfffeto take along!
-\xf000Ă\x0001\x0000 is trying\xfffeto take the companion!
-The wild \xf000Ă\x0001\x0000 is trying\xfffeto take the companion!
-The foe's \xf000Ă\x0001\x0000 is trying\xfffeto take the companion!
+\xf000Ă\x0001\x0000 is trying\xfffeto take its foe with it!
+The wild \xf000Ă\x0001\x0000 is trying\xfffeto take its foe with it!
+The foe's \xf000Ă\x0001\x0000 is trying\xfffeto take its foe with it!
+\xf000Ă\x0001\x0000 took its\xfffefoe with it!
+The wild \xf000Ă\x0001\x0000 took its\xfffefoe with it!
+The foe's \xf000Ă\x0001\x0000 took its\xfffefoe with it!
 \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
 The wild \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
 The foe's \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xf000븀\x0000Reduced PP to 0!
-The wild \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xf000븀\x0000Reduced PP to 0!
-The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xf000븀\x0000Reduced PP to 0!
-\xf000Ă\x0001\x0000 went\xfffeto sleep!
-The wild \xf000Ă\x0001\x0000 went\xfffeto sleep!
-The foe's \xf000Ă\x0001\x0000 went\xfffeto sleep!
-It reduced the PP of\xfffe\xf000Ă\x0001\x0000\xfffe\xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
-It reduced the PP of the wild\xfffe\xf000Ă\x0001\x0000 \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
-It reduced the PP of the foe's\xfffe\xf000Ă\x0001\x0000 \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
+\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
+The wild \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
+The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
+\xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
+The wild \xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
+The foe's \xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
+It reduced the PP of\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
+It reduced the PP of the wild\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
+It reduced the PP of the foe's\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
 \xf000Ă\x0001\x0000 transformed into\xfffe\xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 transformed into\xfffethe wild \xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 transformed into\xfffeits partner \xf000Ă\x0001\x0001!
@@ -855,12 +855,12 @@ The foe's \xf000Ă\x0001\x0000\xfffetook severe damage!
 \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
 The wild \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
 The foe's \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
-\xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
-The wild \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
-The foe's \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
-\xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
+The wild \xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
+The foe's \xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
+\xf000Ă\x0001\x0000’s perish count\xfffefell to \xf000Ȁ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000’s perish count\xfffefell to \xf000Ȁ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000’s perish count\xfffefell to \xf000Ȁ\x0001\x0001!
 \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!
 The wild \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!
 The foe's \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!

@@ -3,7 +3,7 @@ Frontier Record
 Random Match Stats
 Cancel
 Exit
-My Video
+My Videos
 Other Videos
 Delete Videos
 \xf000봂\x0000\xf000Ā\x0001\x0000's Video
@@ -28,13 +28,13 @@ Unregistered
 My video
 Other videos
 あき
-Erase \xf000Ā\x0001\x0000's recording
-Search by ranking
-Send data
-さいしん３０けん
-くわしくさがす
-Search by number
-しせつでさがす
+Delete \xf000Ā\x0001\x0000's Records
+Search by Ranking
+Send Data
+Latest 30
+Detailed Search
+Search by Number
+Search by Facility
 Search by Pokémon
 Search by Facility
 Search by Pokémon
@@ -70,8 +70,8 @@ This Week’s Rankings
 Last Week’s Rankings
 Switch Rankings
 Switch Teams
-Team: Trainer type
-Team: Birth month
+Team: Trainer Type
+Team: Birth Month
 Team: Favorite Pokémon
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
@@ -85,24 +85,24 @@ Battle Frontier
 Save
 View Battle\xfffeVideo
 Video Battle
-Video Battle\xfffeさいしん３０けん
+Video Battle\xfffeLatest 30
 Top-Ranked Battle Videos\xfffeColosseum
 Top-Ranked Battle Videos\xfffeBattle Frontier
 Search for Battle Videos\xfffeいちらん
 
 Where would you like to save\xfffe\xf000Ā\x0001\x0000’s Battle Video?
 Overwrite save
-Is it OK to delete \xf000Ā\x0001\x0000’s Battle\xfffeVideo?
+Is it okay to delete\xfffe\xf000Ā\x0001\x0000’s Battle Video?
 View Battle Videos
 Send Battle Video
 Newest 30
 Search
-Search by Video NO.
+Search by Video No.
 Search by Facility
 Search by Pokémon
 Search Your Location
 Okay!
-Please enter the Video Number.
+Please enter the video number.
 Please choose the facility.
 Please choose the Pokémon.
 Please enter the search criteria.
@@ -123,7 +123,7 @@ There is no Battle Video to send.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
 Battle Points:
-すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
+Location\xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000Single Battle
 \xf000봂\x0000Double Battle
 \xf000봂\x0000Multi Battle

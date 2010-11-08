@@ -1,28 +1,28 @@
-ことばを えらんでね！
-たいせんまえの ことばを かんがえよう
-かったときの きめゼリフを かんがえよう
-まけたときの いいわけを かんがえよう
-はやっている ものは？
-ユニオンあいさつを かんがえよう
-これで いいですか？
-なにか ことばを いれてください！
-なにも しないで やめますか？
+Choose a word!
+Think up a pre-battle intro!
+Think up a cool winning line!
+Think up a losing excuse!
+What's trendy?
+Think up a Union greeting!
+Is this okay?
+Put in a word!
+Stop entering?
 Yes
 No
-グループ\xfffeモード
-あいうえお\xfffeモード
-つかう
-けってい
+Group\xfffeMode
+ABC\xfffeMode
+Use
+Confirm
 Quit
-へんしゅう
-あたらしく メッセージを ついかする
-えらぶ
-けす
+Edit
+Add New Message
+Choose
+Delete
 Quit
 メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください！
 メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください！
-ことばをいれる ばしょを\xfffeえらんで ください！
-グループモード：\xfffeグループの なかから\xfffeことばを えらんで ください！
-あいうえおモード：\xfffeもじを えらんでいって\xfffeことばを しぼりこんでください！
-あいうえおモード：\xfffeしぼりこんだ なかから\xfffeことばを えらんで ください！
-グループモード：\xfffeきめた ばしょに あてはまる\xfffeグループを えらんで ください
+Choose where to\xfffeplace the word!
+Group Mode:\xfffeChoose words\xfffefrom the category!
+ABC Mode:\xfffeChoose letters to\xfffenarrow down the words!
+ABC Mode:\xfffeChoose words from\xfffethe narrowed-down list!
+Group Mode:\xfffeChoose the\xfffeappropriate group!

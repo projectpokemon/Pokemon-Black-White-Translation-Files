@@ -506,7 +506,7 @@ Lookout PKM
 Precaution PKM
 Puppy PKM
 Loyal Dog PKM
-Lineancy PKM
+Leniency PKM
 Ill-Natured PKM
 Ruthless PKM
 Grass Monkey PKM
@@ -514,14 +514,14 @@ Thorn Monkey PKM
 High Temp PKM
 Sparks PKM
 Water Splash PKM
-High Water Throw PKM
+Water Pour PKM
 Dream Eater PKM
 Trance PKM
 Baby Pigeon PKM
 Pigeon PKM
 Pride PKM
 Electrification PKM
-Thunder and Lightning PKM
+Lightning PKM
 Mantle PKM
 Ore PKM
 High Pressure PKM
@@ -581,7 +581,7 @@ Amplification PKM
 Waterfowl PKM
 Swan PKM
 Fresh Snow PKM
-Ice and Snow PKM
+Snow PKM
 Blizzard PKM
 Seasonal PKM
 Seasonal PKM
@@ -644,7 +644,7 @@ Lightning Strike PKM
 White Yang PKM
 Black Yin PKM
 Fertility PKM
-Feelings PKM
+Boundary PKM
 Foal PKM
 Melody PKM
 Paleozoic PKM

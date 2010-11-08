@@ -1,8 +1,8 @@
-PGL
+ï»¿PGL
 GTS
 PDW
 Wi-Fi
-Guruguru
+Spin Trade
 Game Sync
 Colosseum
 Subway
@@ -11,16 +11,16 @@ Single Battle
 Infrared
 Double Battle
 Chat
-DS-to-DS connection
+Communication
 Friend Code
 Triple Battle
-Hi-Link
+High-Link
 Battle Video
 Voice Chat
-Poké-shifter
+PokÃ©Shifter
 Multi Battle
-Pokémon Musical
+PokÃ©mon Musical
 Union
-Pass-By Mode
+Chance-Upon
 Rotation
 Wireless

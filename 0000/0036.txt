@@ -1,6 +1,6 @@
-Congratulations on entering\xfffethe Hall of Fame!
+﻿Congratulations on entering\xfffethe Hall of Fame!
 The End
-Congratulations on clearing\xfffethe game!
-The game is being saved.\xfffeDo not turn off the power.
-\xf000Ā\x0001\x0000\xfffesaved the game!
+Congratulations on\xfffebeating the game!
+Saving...\xfffeDon't turn off the power.
+\xf000Ā\x0001\x0000 saved the game!
 The game could not be saved.

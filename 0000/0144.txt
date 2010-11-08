@@ -1,48 +1,48 @@
-こんにちは
-hello
-bonjour
-ciao
-hallo
-hola
+﻿Hello
+Hello
+Bonjour
+Ciao
+Hallo
+Hola
 안녕하세요
-コンニチハ
+Konnichiwa
 ……
-ありがとう
-いいよ
-いえ
-イエス
-いくぜ
-いくよ
-いくわよ
-いらっしゃい
-おっす
-おめでとう
-ください
-ゴメン
-ごめんなさい
-ごめんね
-さようなら
-サンキュー
-さんじょう
-しっけい
-しつれい
-じゃーね
-すみません
-それじゃ
-どうぞ
-どうも
-なんじゃ
-ノー
-ハーイ
+Thanks
+Okay
+No
 Yes
-はいはい
-バイバイ
-はじめまして
-またね
-もしもし
-やあ
-やだよ
-やっほー
-よう
-ようこそ
-よろしく
+Go!
+Let's Go
+Going
+Welcome
+Yo!
+Congrats!
+Please
+Sorry
+Very Sorry
+Um, Sorry
+Goodbye
+Thank You
+Spectacle
+Rude
+Brazen
+Smell Ya
+Excuse Me
+Well Then
+Here
+Thanks
+What
+Nope
+Yep
+Yes
+Yes, Yes
+Bye-Bye
+Hello
+See Ya
+Hello?
+Hi
+Ugh
+Yahoo
+Yo
+Welcome
+Regards
