@@ -1,5 +1,5 @@
-"Which Do You Play? Survey"
-"What Kinds of People? Survey"
+﻿"Which Do You Play? Survey"
+"What Kind of Person? Survey"
 "Favorite Pokémon Survey"
 "Everyone's Ideals Survey"
 "Favorite People Survey"

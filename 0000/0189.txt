@@ -1,4 +1,4 @@
-When a trainer meets eyes\xfffewith another trainer...\xf000븁\x0000There begins a Pokémon battle!\xf000븁\x0000
+﻿When a trainer meets eyes\xfffewith another trainer...\xf000븁\x0000There begins a Pokémon battle!\xf000븁\x0000
 What the?!\xfffeYou're that strong?!
 Go into the grass to fight\xfffeagainst wild Pokémon!\xf000븁\x0000But before that, you have to heal\xfffeyour Pokémon at a Pokémon Center.
 I just LOVE Pokémon battles!\xf000븁\x0000My lovey-dovey Pokémon\xfffeare gonna do their lovey-doviest!\xf000븁\x0000
@@ -160,7 +160,7 @@ I was going to overwhelm you\xfffewith a speedy fighting style, but...!\xf000븁
 I lost, but thinking back on it,\xfffeI still think I got stronger...
 Your fashion...\xfffeThere's no doubt, it's Kanoko Town-ish!\xf000븁\x0000
 Inconceivable! Shouldn't my\xfffesuperior fashion have overwhelmed you...?!
-You, too, should become a fan of\xfffethe dazzling Raimon's dazzling gym's\xf000븀\x0000dazzling leader, Ms. Camille!
+You, too, should become a fan of\xfffethe dazzling Raimon's dazzling gym's\xf000븀\x0000dazzling leader, Ms. Kamitsure!
 ...Ho now!\xfffeThat's how it'll be, huh?
 It's fine by me if ya wanna\xfffegive up anytime, y'know!
 Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
@@ -573,10 +573,10 @@ A beautiful fight...\xfffe...But is it art?
 Press two switches, light two\xfffelamps, open a gate!\xf000븀\x0000This too is art!
 I love the feeling of\xfffepassing through the honey walls...\xf000븀\x0000I've done it countless times!\xf000븁\x0000
 Inexplicible...\xfffeIt's like passing through honey!
-The honey walls...\xfffeWhat are they really made of?\xf000븁\x0000Don't you find it suspicious\xfffethat Mr. Arty refuses to tell?
+The honey walls...\xfffeWhat are they really made of?\xf000븁\x0000Don't you find it suspicious\xfffethat Mr. Arti refuses to tell?
 How about it? This gym...\xfffeIt has a certain je ne sais quoi...\xf000븀\x0000A mysterious kind of charm, yes?\xf000븁\x0000
 You, too, have\xfffemuch charm as a trainer!
-Personally, I think...\xfffethis gym is one of Mr. Arty's visions\xf000븀\x0000made into reality...\xf000븀\x0000And I can't get enough of it!
+Personally, I think...\xfffethis gym is one of Mr. Arti's visions\xf000븀\x0000made into reality...\xf000븀\x0000And I can't get enough of it!
 One who hides in the floor\xfffeshould not have to lose!
 I've been defeated by\xfffeyour peerlessly tough will!
 Hooo there, challenger!\xfffeHere comes the ooooold maaaaan!\xf000븁\x0000
@@ -1216,7 +1216,7 @@ My Pokémon\xfffewere sooooo cute!
 Pokémon listen to me\xfffeand fight for me!
 You... you were brought\xfffehere by someone's manipulation!\xf000븁\x0000Beat me and I'll\xfffetell you their secret!\xf000븁\x0000
 Pheh!\xfffeCan't believe I lost...
-Lord Getis is one of the Seven Sages\xfffein support of our king.\xf000븁\x0000And Lord Getis has\xfffethree of his own underlings...\xf000븀\x0000The Dark Trinity!
+Lord Geechisu is one of the Seven Sages\xfffein support of our king.\xf000븁\x0000And Lord Geechisu has\xfffethree of his own underlings...\xf000븀\x0000The Dark Trinity!
 If I win, I'm gonna\xffferelease your Pokémon!\xf000븁\x0000
 PLASMAAA!\xfffeRegret... ful!
 ...Why? Your Pokémon look\xfffeso happy beside you...
@@ -1350,15 +1350,15 @@ Is strength a matter of not being beaten?\xfffeOr is it all about winning?
 Your strength...\xfffeversus my strength, hm...
 Is strength a matter of not being beaten?\xfffeOr is it all about winning?
 ...Pokémon battles are fun,\xfffebut what is strength?!
-ローテーションバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
-ターンごとに てんかいが かわる\xfffeローテーションバトル！\xf000븀\x0000あなたに こなせるかしら？\xf000븁\x0000
-グルグル めが まわって\xfffeあたまも まわって……
-ぎゃくてんの ようそを ひめつつ\xfffeでも つよい トレーナーなら\xf000븀\x0000きちんと たいおう できるのが\xf000븀\x0000ローテーションバトルの だいごみ！
-トリプルバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
-かんがえに かんがえた\xfffe３びきの くみあわせ！\xf000븀\x0000あっとうてきな はかいりょくさ！\xf000븁\x0000
-ポジションを まちがえたか？\xfffeいや それいぜんの もんだいか？
-どの ポケモンを\xfffeまんなかに だすか……\xf000븀\x0000いまだに かんがえるんだよね
-わたしの！\xfffeスペシャルな エモンガが！？
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000븁\x0000Get three Pokémon ready!
+Rotate at the cost of a turn...\xfffeThat's a Rotation Battle!\xf000븀\x0000Can you handle it?\xf000븁\x0000
+My eyes are spinning!\xfffeAnd so's my head...
+There's an element of turnabout, but\xfffea strong trainer that can cope\xf000븀\x0000will excel in Rotation Battles!
+Triple Battles are a new kind of\xfffethree-Pokémon battle!\xf000븁\x0000Go get three Pokémon, please!
+Think and think again on\xfffehow to combine three Pokémon!\xf000븀\x0000It can be incredibly destructive!\xf000븁\x0000
+Were my positions wrong?\xfffeOr are there more problems than that?
+Which Pokémon\xfffegoes in the center...?\xf000븀\x0000I'm still thinking about it!
+My...!\xfffeMy special Emonga...?!
 Fishermen watch the flow of the water!\xfffeI'll try watching the flow of battle!\xf000븁\x0000
 The flow of battle...\xfffeIt's too much! I can't keep track!
 The current on Waterway 17\xfffeis intense!\xf000븁\x0000If you can't ride it well,\xfffeyou won't get where you want to!
@@ -1422,109 +1422,109 @@ Mita keshiki mo...\xfffeDeai shita hito mo...\xf000븀\x0000Waza wo tsukatta Pok
 Tu n'imagineras jamais le nombre de\xfffepays que j'ai visités, et le nombre\xf000븀\x0000de Dresseurs que j'ai combattus!\xf000븁\x0000
 Wah! Encore un formidable\xfffesouvenir de voyage!
 Quand j'aurai beaucoup, beaucoup\xfffevoyagé, je rentrerai à la maison,\xf000븁\x0000et je pourrai raconter tout\xfffeplein de choses à ma famille!
-ながれおちる たきの ちから……\xf000븁\x0000その エネルギーの すごさを\xfffeぼくとの しょうぶで かんじな！\xf000븁\x0000
-ぼくたちの こうげきを\xfffeものとも しないなんてっ！！
-きみの つよさを みとめ\xfffeこいつを プレゼントしよう！\xf000븁\x0000
-たきに うたれて\xfffeせいしんを きたえなおすか！
-おなじ じかんを すごし\xfffeこころが つうじあっている\xf000븀\x0000あたしたちに かてるかしら？\xf000븁\x0000
-あなたたちも しっかり\xfffeこころが つうじているのね！
-この きのみを みたら\xfffeあたしたちを おもいだしてね！\xf000븁\x0000
-レンジャーの しごとも たのしいけど\xfffeポケモンと ともに すごす\xf000븀\x0000その じかんが だいすき！\xf000븁\x0000なにがあっても はなれたりしないわ！
-きみ！\xfffeポケモンは じぶんで そだてる？\xf000븀\x0000それとも そだてやさんに まかせる？\xf000븁\x0000
-タマゴの ことばかり\xfffeかんがえていたよ……
-きみの だいじな ポケモンに\xfffeきのみを わけてあげなよ！\xf000븁\x0000
-３ばんどうろの そだてやさん！\xf000븁\x0000ポケモンを ２ひき あずけると\xf000븁\x0000なんと！ タマゴが！\xfffeみつかるかも しれないんだぜ！
-この うつくしい そうげんを\xfffeげんきに かけまわる……\xf000븀\x0000わたしの ポケモンを みてみて！\xf000븁\x0000
-さきほどまで あんなに\xfffeハツラツと していたのに！
-あなたの ポケモンにも\xfffeきのみを わけてあげて！\xf000븁\x0000
-げんきに はしりすぎちゃって\xfffeおつかれちゃん だったのね\xf000븀\x0000もう！ かわいいわね！！
-ピクニックの とちゅうで\xfffeしょうぶするのも ありだよねー！\xf000븁\x0000
-ハル『あなたの ポケモンたち\xfffeすごい なかよし だよねー！\xf000븁\x0000チカ『パートナーが なにをするのか\xfffeかんがえているうちに おわっちゃった
-あたし おもうんだけど\xfffeボールの なかの ポケモンに\xf000븁\x0000あなたの きもち\xfffeぜったい つたわってるよねー！
-ふたり そろって ピクニック！\xfffeあなた ポケモン ２ひき いないの？
-パーフェクトな コンビネーションで\xfffeあなたの ポケモンを きりきりまいよ\xf000븁\x0000
-パートナーが なにをするのか\xfffeかんがえているうちに おわっちゃった
-ダブルバトルで うまく たたかうには\xfffeおたがいが くりだす ポケモンが\xf000븀\x0000つかえる わざを しっておかないとねー
-あたしたち コンビで たたかうの\xfffeだから ２ひきは ポケモン いないと
-いま このあたりの ポケモンを\xfffeしらべて いましたが\xf000븀\x0000あなたにも きょうみが あります\xf000븁\x0000
-まあ……！ なんと\xfffeきょうみぶかい ポケモンだ！
-にている ポケモンでも\xfffeイッシュと それいがいの ちほうで\xf000븁\x0000べつの せいしつや がいけんを\xfffeもつように なるのですね！
-いま このあたりの ちけいを\xfffeしらべて いましたが\xf000븀\x0000あなたにも きょうみが あります\xf000븁\x0000
-まあ……！ なんと\xfffeきょうみぶかい トレーナーね！
-この ちけいの でこぼこ……\xfffeきふくは かわの ながれによるもの\xf000븀\x0000そう はんだん できますわ
-わたしが みるに げいじゅつとは\xfffeフィーリングと ロジック！\xf000븁\x0000そして ビューティフルな しょうぶも\xfffeフィーリングと ロジックだよ！\xf000븁\x0000
-そなたの つよさは\xfffeみえなかったか！？
-げいじゅつかは\xfffe２つの タイプに わかれる……\xf000븁\x0000みえるものを かく タイプと\xfffeみえないものを かく タイプだ！
-おれは すべてを あいする\xfffeすばらしい つりびと！\xf000븁\x0000そんな つりびとが すばらしい\xfffeポケモンで たたかうぞ！！\xf000븁\x0000
-まけちゃったが！\xfffeおれは すべてを あいしてやる！
-ヒウンシティから でる\xfffeロイヤルイッシュごうを つかって\xf000븀\x0000うみづりを してみたいぞ！
-おれさまの ポケモンたちに\xfffeあっとう されるなよ！\xf000븁\x0000
-あっとう されて\xfffeこえも でない……！
-つりざおが わるいのか\xfffeおれの うでが わるいのか……\xf000븀\x0000おなじ ポケモンばかり つれるぜ
-ムム！ できる かんじの\xfffeポケモントレーナー！\xf000븁\x0000おあいて すれば なにか\xfffeごくいが つかめるかも だ！\xf000븁\x0000
-うむ！ つよいやつは つよい\xfffeアンド よわいやつは よわい
-つりの ごくい ね……\xfffe「のんびり いそげ」じゃない？
-おまえさん！ どんな すごい\xfffeポケモンを つったか みせてよ！\xf000븁\x0000
-ほほー！\xfffeこりゃ たいした ポケモンだ！
-ひとが すごい ポケモンを つっても\xfffeちっとも うらやましく ないですよ\xf000븁\x0000だって じぶんの ポケモンが\xfffeじぶんにとって いちばん ですからね
-あたしたちの ポケモン\xfffeナイス コンビネーションだよー！\xf000븁\x0000
-エナ『もう しんじられない！ \xfffeどうして そんなに つよいの？\xf000븁\x0000リナ『さいこうの ちからが だせる\xfffeくみあわせ なのに なんでー！？
-ポケモンもね なかよし だとね\xfffeパワーが わいてくるんだよ！
-えー！ ポケモン １ぴきだけ？\xfffeそれじゃ しょうぶ できなーい！
-あたしたち ふたりの くみあわせは\xfffeさいこう！ ぜったいに まけないよ！\xf000븁\x0000
-うそー！\xfffeなんで こうなったのー
-とくせい プラスと マイナスって\xfffeさいこうの くみあわせ でしょ！
-えー！ ポケモン １ぴきだけ？\xfffeそれじゃ しょうぶ しないから！
-うつくしい けしきを みながら\xfffeこころ ときめく ポケモンしょうぶ！\xf000븁\x0000
-きみとの ポケモンしょうぶに\xfffeついつい みとれてしまっていた
-しずかな なみの おとが\xfffeなんじゅうにも かさなりあい\xf000븁\x0000ちょういちりゅうの オーケストラ……\xfffeそのように きこえないかね？
-ひたすらに すなはまの うえを\xfffeあるきつづける……\xf000븁\x0000どうだ！？ どことなく\xfffeすごさを かんじるだろう！\xf000븁\x0000
-ビーチ！！
-すなはまの うえを あるく……\xf000븁\x0000だって オレ\xfffeあしあとが だいすき なんだよ！
-あら？\xfffeステキな トレーナーさん\xf000븁\x0000わたくしの じまんの ポケモンを\xfffeごらんに なって？\xf000븁\x0000
-ウーン！\xfffeショッキング！！
-……おもいかえせば これまでの\xfffeいいときも わるいときも\xf000븀\x0000そばに ポケモンが いてくれたわ
-ハーイ！ たびの トレーナーさん\xfffeたのしい じかん すごさない？\xf000븁\x0000
-えっ？ もう おわり！？\xfffeやだー！ もっと ポケモン みたい
-ポケモンがね わざを だしてくれたり\xfffeこっちを むいて めがあうと\xf000븀\x0000むねが キュン！ ってしちゃうよね
-パラソル かたてに ビーチで\xfffeひとり たたずむ おんな……\xf000븀\x0000ねえ あなた あいてしてよ？\xf000븁\x0000
-しがいせんを カットできても\xfffeわざは カットできないのね……
-ビーチに パラソルは\xfffeひつようって きいたんだけど……\xf000븀\x0000もってるのは アタシだけ？
-なんだ！？ オレと たたかうのか？\xfffeいいけど おまえ つよいの？\xf000븁\x0000
-むぐぐぐ……\xfffeおまえ ポケモン つよいな！
-オレ ポケモンといると たのしい！\xf000븁\x0000ということはだぞ！\xfffeこれからも ずっと たのしいんだ！\xf000븀\x0000だって ずっと いっしょだからな！
-かつまで しょうぶを すれば\xfffeぜったいに まけない！\xf000븁\x0000
-しちてんばっとう！ ちがう！\xfffeななころびやおき だ！
-たちあがった かずだけ\xfffeこころは つよくなれる！\xf000븁\x0000だから まけた かずだけ\xfffeオレは かんしゃ するよ！
-トレーナーと ポケモンが\xfffeいっしょに いる いみ……\xf000븀\x0000あなたに わかるかしら？\xf000븁\x0000
-まけて かなしい きもちは\xfffeポケモンと はんぶんずつ……
-うれしいことは ２ばい\xfffeかなしいことは はんぶんずつ……\xf000븀\x0000それが ポケモンと いる いみよ
-つりの めいじん ともなると\xfffeいろいろな タイミングを\xf000븀\x0000ばっちし ぴったり あわせるぞ！\xf000븁\x0000
-ううむ！ いろいろと\xfffeタイミングが あわなかったか！
-おまえ！ すごいつりざおを\xfffeもっているとは すごいな！\xf000븁\x0000よし！ しっているだろうが\xfffeつかいかたを せつめいしてやる！\xf000븁\x0000まずは すいめんに むかって\xfffeすごいつりざおを つかう！\xf000븁\x0000つぎに きもちを しゅうちゅう！\xf000븁\x0000ポケモンが くいついたら\xfffe「！」と でるから そのときに\xf000븀\x0000すばやく つりざおを ひくのだ！
-はしの うえ！\xfffeたたかう トレーナー！\xf000븀\x0000なんか えになる！\xf000븁\x0000
-まけた わしが よわいんじゃない\xfffeかった きみが つよすぎるんだ！
-はしの うえ！\xfffeまけて たそがれる トレーナー！\xf000븀\x0000これはこれで えになる！
-かずかずの やまを のぼり\xfffeあしこしを きたえまくった\xf000븀\x0000わしの ポケモンたちだぜ！\xf000븁\x0000
-まけて こぼれる わしの なみだよ\xfffeたまって うみと なれい！
-ポケモンの わざ たきのぼりは\xfffeそのなのとおり たきを のぼる！\xf000븁\x0000……やまのぼり という わざはない
-いまから たちあう けれど\xfffeかたの ちからを ぬいてね\xf000븁\x0000だって じつりょくを だすには\xfffeリラックス してないとね\xf000븁\x0000
-しぜんたい！\xfffeあなた やるわね！
-できないことを しようとするから\xfffeぎこちなく なっちゃうの\xf000븁\x0000できることを かくじつに やれば\xfffeいつでも しぜんで いられるわ！
-せかいいちの わしの ポケモンを\xfffeいまから おひろめ しましょう！\xf000븁\x0000
-きみの ポケモンも かわいいが\xfffeわしの ポケモンは チャーミングだ！
-いいかい？ わしが わしの\xfffeポケモンを あいする きもちは\xf000븀\x0000せかいいち！ だれにも まけないよ
+The power of the running waterfall...\xf000븁\x0000Let us feel that energy's\xfffemagnificence in our battle!\xf000븁\x0000
+Our attacks\xfffecouldn't hold up!!
+I recognize your strength!\xfffeI give you this!\xf000븁\x0000
+I suppose I'll train my soul\xfffestanding under the waterfall!
+As we spend time together,\xfffewe understand each other's hearts...\xf000븀\x0000I wonder, can you defeat us?\xf000븁\x0000
+You, too, perfectly understand\xfffeeach other's hearts!
+When you look at this berry,\xffferemember us!\xf000븁\x0000
+My work as a Ranger is fun,\xfffebut I just love passing time\xf000븀\x0000with my Pokémon!\xf000븁\x0000Nothing will ever part us!
+You there!\xfffeDo you raise your own Pokémon?\xf000븀\x0000Or leave them to the daycare?\xf000븁\x0000
+I was only thinking\xfffeabout eggs...
+Share this berry\xfffewith your precious Pokémon!\xf000븁\x0000
+The daycare on Route 3!\xf000븁\x0000If you leave two Pokémon there...\xf000븁\x0000You might come back to find...\xfffeWhoa! An egg! How'd that happen!
+Look at this beautiful plain,\xfffewide open for a healthy run...\xf000븀\x0000Now look at my Pokémon!\xf000븁\x0000
+But I was feeling so vigorous\xfffeuntil a while ago!
+I'll share this berry\xfffewith your Pokémon as well!\xf000븁\x0000
+I vigorously ran so much,\xfffeit just wore me out...\xf000븀\x0000Don't you think that's cute?!
+Sometimes, you're on a picnic!\xfffeSometimes, you battle!\xf000븁\x0000
+Haru: Your Pokémon look like\xfffegreat friends to have!\xf000븁\x0000Chika: While I was thinking about what\xfffemy partner was doing, it was over...
+I was just thinking...\xfffeWhen you have Pokémon in balls...\xf000븁\x0000You absolutely have to\xfffeshow them your feelings!
+It's a picnic for two!\xfffeDon't you have two Pokémon?
+With our perfect combination,\xfffewe'll sweep you off your feet!\xf000븁\x0000
+While I was thinking about what\xfffemy partner was doing, it was over...
+To fight a Double Battle well,\xfffeyou have to know the moves\xf000븀\x0000your partner's Pokémon will use!
+We fight as a duo,\xfffeso you need two Pokémon!
+I was lookng into the\xfffePokémon around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
+Why...!\xfffeWhat deeply interesting Pokémon!
+In Isshu and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
+I was lookng into the\xfffeterrain around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
+Why...!\xfffeWhat a deeply interesting trainer!
+The ruggedness of this terrain...\xfffeI estimate this undulation is a result\xf000븀\x0000of the flow of a river.
+In art, I'm looking for two things:\xfffefeeling and logic!\xf000븁\x0000And a beautiful battle, too,\xfffewill have both feeling and logic!\xf000븁\x0000
+Could I even see\xfffethat strength...?!
+Artists can be classified\xfffeinto two types...\xf000븁\x0000Those who make the visible,\xfffeand those that make the invisible!
+I'm a fantastic fisherman\xfffewho loves everything!\xf000븁\x0000As such a fisherman, I must\xfffefight with fantastic Pokémon!!\xf000븁\x0000
+I lost!\xfffeI love you all!
+I want to set out on the\xfffeS.S. Royal Isshu from Hiun City\xf000븀\x0000and try some sea fishing!
+Don't get overwhelmed\xfffeby my Pokémon!\xf000븁\x0000
+I'm too overwhelmed\xfffeto speak...!
+Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having all the same Pokémon?
+Hmm! I feel you are\xfffea capable Pokémon trainer!\xf000븁\x0000If I battle you, perhaps I'll get\xfffethe gist of what you're like!\xf000븁\x0000
+Hm! Strong ones are strong...\xfffeand weak ones are weak!
+I guess the gist of fishermen is...\xfffe"Leisurely hurrying"?
+You! Show me what kinds\xfffeof awesome Pokémon you use!\xf000븁\x0000
+Hoho! Now those are\xfffesome first-class Pokémon!
+Even when people use great Pokémon,\xfffeI'm not the least bit envious!\xf000븁\x0000Because in my eyes,\xfffemy Pokémon are the best for me!
+Our Pokémon are\xfffea stellar combination!\xf000븁\x0000
+Ena: I don't believe it!\xfffeHow are you so strong?\xf000븁\x0000Lina: Why?! For real, we used\xfffeour ultimate power!
+When you're friends with Pokémon,\xfffepower just gushes forth!
+Whaaa?! Only one Pokémon?\xfffeWell, I can't fight, then!
+Our combination is the BEST!\xfffeWe won't lose, no sir!\xf000븁\x0000
+LIEEES!\xfffeWhy'd that happen?!
+The abilities Plus and Minus\xfffemake the ultimate combination!
+Whaaa?! Only one Pokémon?\xfffeWell, I won't fight, then!
+While I watch the beautiful scenery,\xfffemy heart flutters, I Pokémon battle!\xf000븁\x0000
+I was so fascinated by\xfffethe battle I had with you...
+The peaceful sound of the waves\xfffeoverlaps upon itself...\xf000븁\x0000Like a first-class orchestra...\xfffeDon't you hear it too?
+Walking on and on\xfffeacross a sandy beach...\xf000븁\x0000How is it?! Doesn't it\xfffejust feel wonderful?!\xf000븁\x0000
+BEACHED!!
+Walking on a sandy beach...\xf000븁\x0000Because I so love\xfffemy footsteps in the sand!
+Oh?\xfffeA marvelous trainer!\xf000븁\x0000Will you look at\xfffemy divine Pokémon?\xf000븁\x0000
+Woo!\xfffeSHOCKING!
+...Thinking back on it,\xfffein all my good and bad times...\xf000븀\x0000Pokémon have always been with me.
+Heeey there, traveling trainer!\xfffeLooking for a good time?\xf000븁\x0000
+Huh? Over already?!\xfffeNooooo! I wanted to play more Pokémon...
+When Pokémon use their moves\xfffeand look me in the eye,\xf000븀\x0000my heart just starts racing!
+A girl loitering on the beach,\xfffealone, carrying a parasol...\xf000븀\x0000Hey, will you fight me?\xf000븁\x0000
+It can block ultraviolet rays,\xfffebut it can't block attacks...
+I heard you needed a parasol\xfffefor the beach, but, uh...\xf000븀\x0000Am I the only one carrying one?
+What?! Battle ME?\xfffeAlright, but are you STRONG?\xf000븁\x0000
+Mghhhhh...\xfffeYour Pokémon definitely are!
+I enjoy being with Pokémon!\xf000븁\x0000That said!\xfffeI'll keep enjoying it still!\xf000븀\x0000We'll always be together!
+If you fight until you win,\xfffeyou can never lose!\xf000븁\x0000
+I'm writhing in agony! No!\xfffeI'm rolling in regret!
+Practice makes\xfffeyour heart grow stronger!\xf000븁\x0000So I'm at least grateful\xfffefor the practice!
+The reason trainers and\xfffePokémon are together...\xf000븀\x0000Do you know what it is?\xf000븁\x0000
+The sorrow of my loss\xfffeis split with my Pokémon...
+Our joy is doubled,\xfffeand our sorrow is halved...\xf000븀\x0000That's why we're with Pokémon.
+To be a fishing master,\xfffeyou need to perfectly bring together\xf000븀\x0000a number of different rhythms!\xf000븁\x0000
+Um! I didn't get my\xfffetiming quite right there!
+You! It's super that\xfffeyou have a Super Rod!\xf000븁\x0000Right! I'm sure you know,\xfffebut here's how to use it!\xf000븁\x0000First, face the water,\xfffeand use the Super Rod!\xf000븁\x0000Next, concentrate!\xf000븁\x0000When a Pokémon bites,\xfffea "!" will appear,\xf000븀\x0000so pull the Rod back fast!
+On a bridge!\xfffeTrainers fighting!\xf000븀\x0000It's a picture-perfect moment!\xf000븁\x0000
+I didn't lose because I was weak,\xfffeyou won because you're way too strong!
+On a bridge!\xfffeTrainer walking into the sunset!\xf000븀\x0000This is even more picture-perfect!
+Climbing many mountains,\xfffetoughening up their muscles...\xf000븀\x0000Those are my Pokémon!\xf000븁\x0000
+Oh! If you collected my tears,\xfffeI'd cry you a whole ocean!
+The move Waterfall, yes, indeed,\xfffelets you climb waterfalls!\xf000븁\x0000...But what about "Mountain"?
+So we'll have a match,\xfffebut don't be too harsh, okay?\xf000븁\x0000I can't relax if we're\xfffeputting in all our might!\xf000븁\x0000
+You're a natural!\xfffeNot bad!
+I was awkward because I was\xfffetrying to do things I couldn't...\xf000븁\x0000If you can do things reliably,\xfffethen you'll always be a natural!
+Time for my world's-best Pokémon\xfffeto make their debut!\xf000븁\x0000
+Your Pokémon are cute too,\xfffebut my Pokémon are CHARMING!
+Get it? My love for my Pokémon\xfffeis the best in the world!\xf000븀\x0000Nobody's gonna love them more!
 Se ripenso a quante montagne\xfffeho attraversato in lungo e in largo,\xf000븀\x0000mi viene tanta voglia di una lotta.\xf000븁\x0000
 vengono in mente altre lotte in\xfffecui ho perso proprio come adesso!
 La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffepuò accadere ancora di tutto!
-どうした ポケモントレーナー！\xf000븁\x0000たびに…… いや じんせいに\xfffeまよっているのか？ いいか？\xf000븀\x0000そんなとき たたかえば わかる！\xf000븁\x0000
-たたかいかたに\xfffeまよいが ない！
-つよい トレーナー！\xfffeこいつを うけとれ！\xf000븁\x0000
-たびは じんせい そのもの！\xfffeじんせいは まよって とうぜん！\xf000븁\x0000まよってこそ みつかる\xfffeしんじつも あるのさ！
-おーい ポケモン！\xfffeおーい ポケモーン！\xf000븀\x0000おーい あんたは トレーナー！？\xf000븁\x0000
-たくましい トレーナーに\xfffeたくましい ポケモン！ まけたわ
-あなたたちの たくましさに\xfffeけいいを ひょうして これを！\xf000븁\x0000
-ポケシフターで やってきた\xfffeべつの ちほうの ポケモンが\xf000븀\x0000にげだしていないか みているの
+What's wrong, Pokémon trainer?!\xf000븁\x0000Lost on your journey...\xfffeno, lost in life? Hm?\xf000븀\x0000Battle me so I can know!\xf000븁\x0000
+You're not lost at all\xfffewhen it comes to battling!
+Strong trainer!\xfffeTake this!\xf000븁\x0000
+Life itself is the journey!\xfffeAnd getting lost is only natural!\xf000븁\x0000You can even find the truth\xfffewhen you're lost!
+Heeey, Pokémon!\xfffeHeeey, Pokémooon!\xf000븀\x0000Heeey, are you a trainer?!\xf000븁\x0000
+Tough Pokémon for\xfffea tough trainer! I lose!
+I respect your toughness!\xfffeSo take this!\xf000븁\x0000
+I'm watching to see if any Pokémon\xfffePokéShifted from other regions\xf000븀\x0000try to run away!
 This place isn't in the guidebook...\xfffeI like to search places like that!\xf000븁\x0000
 Your strength...!\xfffeI want it in the guidebook!
 A journey of new discoveries!\xfffeThat's my theme.\xf000븁\x0000For example, see that big rock?\xfffeYou can push it with Strength!
@@ -1615,45 +1615,45 @@ If you listen closely, you hear\xfffePokémon cries, footsteps...\xf000븀\x0000
 I'm tired of always battling\xfffethe same people!\xf000븀\x0000I wanna challenge you!\xf000븁\x0000
 Whoa! I'm astonished!\xfffeThat move was INTENSE!
 The Pokémon Burmy!\xfffeIt changes form depending\xf000븀\x0000on where it fights!\xf000븀\x0000Isn't that cool? Isn't that cool?
-キャッ！！\xf000븁\x0000ちょっとー いきなり うしろから\xfffeおどろかさないでよっ！！\xf000븁\x0000
-もお まけちゃったじゃん\xfffeちょっと かなしーじゃん
-かべに いろいろ かいていたの\xf000븁\x0000あー ぜったいに みせないから！\xfffe……あたしだけの ヒミツだもん！
-どっちの ポケモンが\xfffeつよいか くらべよーぜ！\xf000븁\x0000
-まいった！\xfffeおまえの ポケモン すげー！
-たんぱんだと よく すりむくけど\xfffeぜんぜん へいき だよ！\xf000븁\x0000すりむいた ところは\xfffeポケモンが なめてくれるもん！
-ここは オレたちの あそびば！\xf000븁\x0000ランドロスさまが\xfffeみまもって くれるんだもん！\xf000븁\x0000
-わはは！ おまえの\xfffeポケモン たのしそうだな！
-ランドロスさま かあ……\xfffeやさしくて つよい ポケモンかな？
-ダイビングの わざが あれば\xfffeもぐったり しずんだり できるのだ！\xf000븁\x0000
-ぶくぶく\xfffe……しずみゆく オレ
-おまえの ポケモン\xfffeダイビングの わざは おぼえたか？\xf000븁\x0000ダイビングは いいぞお！ すごいぞお！\xfffeなんたって ダイビング だからな！
-とにかく およぐのが だいすきで\xfffeやせいの ポケモンと しか\xf000븀\x0000たたかったことが ないんですよ\xf000븁\x0000
-やはり ジムを めぐることで\xfffeつよくなって いくんだねえ！
-よし！ せかいかっこくの\xfffeポケモンジムに ちょうせんだ！\xf000븁\x0000みずタイプの ジムが あるのは\xfffeカントーとか ホウエンに シンオウか
-どんなときでも およいでいる\xfffeオレと オレの ポケモン！\xf000븀\x0000もちろん およぎながら しょうぶ！\xf000븁\x0000
-……まけたが およぎながら\xfffeたたかった オレ すごい！
-サザナミの うみの そこには\xfffeしんでんが しずんでいるってな！
-ポケモンと ポケモンが\xfffeわざを くりだす ようすは\xf000븀\x0000まさに アバンチュール！\xf000븁\x0000
-……アバンチュールは\xfffeもう おわったのね
-あたし バカンスしてるの\xfffeそう いちねんじゅう ずっとね……
-あら？ あなたも シロナさんの\xfffeみずぎすがたを みにきたの？\xf000븁\x0000
-あなたも ポケモンに のらずに\xfffeみずぎになれば いいのに！
-...It's rumored that when no one's around,\xfffeCynthia secretly goes swimming.\xf000븁\x0000Talk about an awesome rumor!\xfffeOr at least, supposedly-awesome.
-サザナミタウンの うみは\xfffeなみが おだやかで いいかんじ！\xf000븁\x0000
-あなたの たたかいかたは\xfffeあらあらしくて すごいかんじ！
-ぷかぷか ながされ いいかんじ！\xfffeポケモンと いっしょで いいかんじ！
-たっくさん どくしょを して\xfffeわかったのは よのなか まだまだ\xf000븀\x0000なぞ ばかりって ことです！\xf000븁\x0000
-どうしたら もっと ポケモンと\xfffeなかよくなれるのかも なぞ ですわ
-さいきん よんでいるのは\xfffeアララギはかせの ほん\xf000븁\x0000ポケモンの きげんって\xfffeいまだに なぞ なんだって
-ビレッジブリッジに ついて\xfffeけんきゅう しているけれど……\xf000븀\x0000いきぬきも だいじ よね！\xf000븁\x0000
-あなたと ポケモン！\xfffeみごとに ささえあっているわね！
-ビレッジブリッジは\xfffeかずおおくの レンガが ささえあい\xf000븀\x0000くずれないように している\xf000븁\x0000そうして ひゃくねん いじょうも\xfffeこの かたちを たもっているの
-ぼくは たびをして わかったよ\xfffeみんな ポケモンが だいすきって！\xf000븀\x0000きっと きみも そうなんだろ？\xf000븁\x0000
-まけたけれど\xfffeぼくたちの たびは まだつづく！
-ぼくたちは これからも あるく！\xfffeみちが つづくかぎり……\xf000븀\x0000ポケモンが いるかぎり ね！
-この あいさつは\xfffeあなたで ９９にんめ！\xf000븁\x0000ポケモン しよう！\xf000븁\x0000
-ありがとう！ これで あなたとは\xfffeもう ともだち だよね！
-せかいの どこででも\xfffeだれとでも ポケモン しよう！ で\xf000븀\x0000あいさつ できれば ステキよね！
+YAHHH!!\xf000븁\x0000D...! Don't sneak up on me\xfffefrom behind like that!!\xf000븁\x0000
+Man, I lost...\xfffeThat makes me a sad panda...
+I've been writing a bunch of\xfffestuff on the wall...\xf000븁\x0000Ah! Don't you DARE look!\xfffe...They're my secrets!
+Compare! Whose Pokémon\xfffeare stronger?!\xf000븁\x0000
+I give!\xfffeYour Pokémon are strooooong!
+I get scraped up lots in these shorts,\xfffebut I'm comfortable with that!\xf000븁\x0000I can get my Pokémon\xfffeto lick my scrapes!
+This is our playground!\xf000븁\x0000And the great Landlos\xfffewatches over us!\xf000븁\x0000
+Wahaha!\xfffeYour Pokémon look to be having fun!
+The great Landlos...\xfffeIs it a gentle and strong Pokémon?
+If you have the move Dive,\xfffeyou can dive down in the sea!\xf000븁\x0000
+Glub, glub...\xfffe...I'm sinking.
+Do your Pokémon know Dive?\xf000븁\x0000Dive is great! Wonderful!\xfffeDive all the time!
+As a happenstance of loving to swim,\xfffeI've fought countless wild Pokémon!\xf000븁\x0000
+And from beating the gyms,\xfffeone becomes very strong!
+Alright! I'm going to challenge\xfffeall the world's Pokémon gyms!\xf000븁\x0000There's water-type gyms\xfffein Kanto, Hoenn, and Sinnoh...
+Me and my Pokémon are\xfffeswimming all the time!\xf000븀\x0000So we battle while swimming, duh!\xf000븁\x0000
+...I lost, but you were really good\xfffeat battling while swimming!
+They say a temple's sunk down to\xfffethe bottom of Sazanami's bay!
+Pokémon and Pokémon\xfffefacing off with their moves...\xf000븀\x0000What an adventure!\xf000븁\x0000
+...So our hopping adventure\xfffeis over already...
+For me, vacation is year-round...\xfffeWhat fantastic things should I do?
+Oh? Did you come to see\xfffeCynthia in her swimsuit?\xf000븁\x0000
+Why don't you get off your Pokémon\xfffeand go swimming yourself, huh?
+...I hear that when no one's around,\xfffeCynthia secretly goes swimming.\xf000븁\x0000Talk about an awesome rumor!\xfffeOr at least, supposedly-awesome.
+The calming waves of Sazanami Town\xfffemake me feel wonderful!\xf000븁\x0000
+Your fighting style is\xfffemuch wilder, but still impessive!
+Floating on the waves feels great!\xfffeBeing with Pokémon feels great!
+After much study, I've learned that\xfffethe night is still full of mystery!\xf000븁\x0000
+Do I need to get along with my\xfffePokémon better? It is a mystery!
+I've been reading some of\xfffeProfessor Araragi's books lately.\xf000븁\x0000The origins of Pokémon\xfffeare still a mystery...
+I'm studying up on\xfffeVillage Bridge, but...\xf000븀\x0000It's important to take a breather!\xf000븁\x0000
+You and your Pokémon...\xfffeWhat admirable support you provide!
+Village Bridge is supported by\xfffecountless bricks so it won't collapse.\xf000븁\x0000And for a hundred years,\xfffeit's been kept that way!
+I've journeyed, and I know!\xfffeEveryone loves Pokémon!\xf000븀\x0000Surely you do, too?\xf000븁\x0000
+I lost,\xfffebut our adventure goes on!
+From here on, we will walk!\xfffeAs long as the roads go on...\xf000븀\x0000As long as there are Pokémon!
+You're the 99th person\xfffeI've given this greeting!\xf000븁\x0000Let's Pokémon!\xf000븁\x0000
+Thank you!\xfffeWe're already friends now!
+Wherever in the world you are,\xfffeyou can always battle Pokémon!\xf000븀\x0000So it's nice having a greeting!
 My moves don't got\xfffenearly enough power in 'em!
 My steps are all off!\xfffeBetter redo my lessons!
 Man, my footwork...!\xfffeIt's the worst!
@@ -1698,30 +1698,30 @@ So I see...\xfffeYou chose THAT move?!
 I-I'm still doing alright!\xfffeI'm just FINE, darnit!
 Awww... Just what am I\xfffesupposed to do at a time like this...?
 Thanks for being my opponent!\xfffeYeah! It worked out as a study session!
-トリプルバトルは\xfffeポケモン ３びきでの しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してね！
-どの ポケモンを だすか……\xf000븁\x0000そう！ たたかうまえの じゅんびが\xfffeトリプルバトルには だいじなの！\xf000븀\x0000さあ はじめましょう！\xf000븁\x0000
-いつでも しょうぶ できるように\xfffeじゅんびを しているのね……！
-ぐうぜんは じゅんびの できていない\xfffeひとを たすけないんですって
-ローテーションバトルは\xfffeポケモン ３びきでの しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してほしいな！
-どの ポケモンを だすか……\xf000븁\x0000そう！ たたかうまえの じゅんびが\xfffeローテーションバトルには だいじ！\xf000븀\x0000さあ はじめよう！\xf000븁\x0000
-いつでも しょうぶ できるように\xfffeじゅんびを しているんだな……！
-ぐうぜんは じゅんびの できていない\xfffeひとを たすけない というよ
-トリプルバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000３びきは たたかえる\xfffeポケモンが いないと できないよ
-トリプルバトルは\xfffe３ｖｓ３の ポケモンしょうぶ！\xf000븁\x0000バツグンの コンビネーション\xfffeあっとうてきな こうげきりょくで\xf000븀\x0000おしきらせて いただこう！\xf000븁\x0000
-なれない ルールで\xfffeかんがえすぎたか？
-３びきの バランス……\xfffeそれぞれの やくわり……\xf000븀\x0000まだまだ けんきゅう だな
-ローテーションバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000３びきは たたかえる\xfffeポケモンが いないと できないよ
-A Rotation Battle is a new battle\xffffewhere positions are always changing!\xf000븁\x0000I'll take advantage of you\xfffewhile you're still confused!\xf000븁\x0000
+Triple Battles are a new kind of\xfffethree-Pokémon battle!\xf000븁\x0000Go get three Pokémon, please!
+Which Pokémon to send out...?\xf000븁\x0000Yes! Pre-battle preparation\xfffeis key to Triple Battles!\xf000븀\x0000Now, let's begin!\xf000븁\x0000
+You're preparing to battle\xfffeall the time, I see...!
+There's no helping people\xfffewho aren't prepared for battle...
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000븁\x0000Go get three Pokémon ready!
+Which Pokémon to send out...?\xf000븁\x0000Yes! Pre-battle preparation\xfffeis key to Rotation Battles!\xf000븀\x0000Now, let's begin!\xf000븁\x0000
+You're preparing to battle\xfffeall the time, I see...!
+There's no helping people\xfffewho aren't prepared for battle...
+Triple Battles are a new kind of\xfffethree-Pokémon battle!\xf000븁\x0000You can't fight\xfffewithout three Pokémon!
+A Triple Battle is a\xfffethree-on-three Pokémon battle!\xf000븁\x0000I'll mop you up with my\xfffesuper-effective combinations!\xf000븁\x0000
 Was I overthinking the rules\xfffeI wasn't familiar with...?
 The balance of three...\xfffeIndividual duties...\xf000븀\x0000I still need to study!
-トリプルバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
-どう たたかえば こうかてきか\xfffeためさせて いただくわね！\xf000븁\x0000
-ひょっとして あなた\xfffeトリプルバトルの てんさい！？
-よければ おともだちとも\xfffeトリプルバトルを してみてね
-ローテーションバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
-どう たたかえば こうかてきか\xfffeためさせて いただくわね！\xf000븁\x0000
-ひょっとして あなた\xfffeローテーションバトルの てんさい！？
-よければ おともだちとも\xfffeローテーションバトルを してみてね
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000븁\x0000You can't fight\xfffewithout three Pokémon!
+A Rotation Battle is a new battle\xfffewhere positions are always changing!\xf000븁\x0000I'll take advantage of you\xfffewhile you're still confused!\xf000븁\x0000
+Was I overthinking the rules\xfffeI wasn't familiar with...?
+The balance of three...\xfffeIndividual duties...\xf000븀\x0000I still need to study!
+Triple Battles are a new kind of\xfffethree-Pokémon battle!\xf000븁\x0000Go get three Pokémon, please!
+How do you fight? What works?\xfffeLet me test you!\xf000븁\x0000
+Could... could you be\xfffesome kind of Triple Battle genius?!
+You should Triple Battle\xfffeall your friends, too!
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000븁\x0000Get three Pokémon ready!
+How do you fight? What works?\xfffeLet me test you!\xf000븁\x0000
+Could... could you be\xfffesome kind of Rotation Battle genius?!
+You should Rotation Battle\xfffeall your friends, too!
 You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
 So you're... the trainer\xfffeLord N was smitten with!\xf000븁\x0000
 How are you any different\xfffefrom all the other trainers?

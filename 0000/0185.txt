@@ -1,4 +1,4 @@
-Fly to where?
+﻿Fly to where?
 Dummy
 A small countryside town with\xfffea pleasant, portentious breeze.
 Pokémon Lab
@@ -10,9 +10,9 @@ Pokémon Center
 Trainer's School
 Makomo's Lab
 A town that continues to thrive\xfffewith nearly 100-year-old storehouses.
-Shippou Gym
+Shippo Gym
 Pokémon Center
-Shippou Museum
+Shippo Museum
 Cafe Soco
 A metropolis with skyscrapers\xfffethat seem to pierce the clouds.
 Hiun Gym

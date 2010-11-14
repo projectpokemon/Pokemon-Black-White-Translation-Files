@@ -1,4 +1,4 @@
-N/A
+﻿N/A
 Black
 White
 Boy
@@ -18,13 +18,13 @@ Cute
 Funny
 Pokabu
 Mijumaru
-Shita-ja
+Tsutarja
 Sea
 River
 Mountain
 Class
 Break
-School lunch
+Lunch
 Family
 Friends
 Self
@@ -36,30 +36,30 @@ Sweet
 Spicy
 Sour
 Bitter
-Interesting
+Funny
 Cool
 Nice
 Rich
-Battle
-Collect
-Story
+Battling
+Collecting
+Storyline
 Pokémon
-First Language
+Language
 Math
 Science
 Social Studies
-First Language
+Language
 Math
 Science
 Social Studies
 Trainer
-Pokémon Professor
-Team Plasma
+Professor
+Plasma Grunt
 Pokémon
 Play Outside
-Shop
-Read
-Game
+Go Shopping
+Read Books
+Play Games
 Sleep
 Pop
 Rock
@@ -72,7 +72,7 @@ Comedy
 Sports
 Anime
 Action
-SF
+Sci-Fi
 Love
 Suspense
 Comedy
@@ -100,7 +100,7 @@ Games
 Student
 Office Worker
 Creator
-Self-employed
+Self-Employed
 Govt. Official
 Housewife
 Artist

@@ -1,18 +1,18 @@
-High Link
+﻿High Link
     Live\xfffe   Caster
 Union Room
 \xf000ȁ\x0001\x0000
-Wireless infiltration
+Wireless Connection
 In
 No
 Yes
 No
 Back
-Would you like to record your \xfffeactivity up to this point?
+Would you like to record your\xfffeactivity up to this point?
 Saving...\xfffe Please wait a moment
-C Gear
+C-Gear
 In
 No
-High-link \xfffe Connect ...
-High-link \xfffe Guest: \xf000Ȁ\x0001\x0000
-High-link \xfffe Mission
+High-Link\xfffe Connect...
+High-Link\xfffe Guest: \xf000Ȁ\x0001\x0000
+High-Link\xfffe Mission

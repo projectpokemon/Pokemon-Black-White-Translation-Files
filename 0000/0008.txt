@@ -1,4 +1,4 @@
-Battle Videos
+﻿Battle Videos
 Frontier Record
 Random Match Stats
 Cancel
@@ -10,8 +10,8 @@ Delete Videos
 Empty
 \xf000ȃ\x0001\x0000
 Battle
-\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002 ★
 \xf000봂\x0000\xf000Ā\x0001\x0000's Profile
 Mute
 \xf000봂\x0000Birth month: \xf000ȁ\x0001\x0000
@@ -25,10 +25,10 @@ Unregistered
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000 \xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000's Video
-My video
-Other videos
+My Videos
+Other Videos
 あき
-Delete \xf000Ā\x0001\x0000's Records
+Delete \xf000Ā\x0001\x0000 Records
 Search by Ranking
 Send Data
 Latest 30
@@ -45,7 +45,7 @@ Send
 Choose a Pokémon
 \xf000Ā\x0001\x0000 Portraits\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-Photo
+Picture
 Send Box Data
 View Box Data
 Favorite
@@ -55,7 +55,7 @@ Suggested
 Fun
 Select
 Box
-View Photo
+Details
 ア
 カ
 サ
@@ -91,7 +91,7 @@ Top-Ranked Battle Videos\xfffeBattle Frontier
 Search for Battle Videos\xfffeいちらん
 
 Where would you like to save\xfffe\xf000Ā\x0001\x0000’s Battle Video?
-Overwrite save
+Overwrite
 Is it okay to delete\xfffe\xf000Ā\x0001\x0000’s Battle Video?
 View Battle Videos
 Send Battle Video
@@ -110,7 +110,7 @@ You haven’t set any search criteria.
 Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
-The Battle Video was sent!
+Battle Video sent!
 \xf000봂\x0000View Profile
 \xf000봂\x0000Close Profile
 Newest 30 Battle Videos
@@ -128,18 +128,18 @@ Location\xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000Double Battle
 \xf000봂\x0000Multi Battle
 \xf000봂\x0000Wi-Fi Battle
-\xf000봂\x0000Subway Battle
-\xf000봂\x0000Super Single-Train Battle
-\xf000봂\x0000Super Double-Train Battle
-\xf000봂\x0000Super Multi-Train Battle
+\xf000봂\x0000Battle Subway
+\xf000봂\x0000Super Single Train
+\xf000봂\x0000Super Double Train
+\xf000봂\x0000Super Multi Train
 Please choose your Battle Report.
 Wins:
 Total:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000 Battles
-Multi-Trainer
-Multi-Friend
+Multi with Trainer
+Multi with Friend
 Rank
 Rank
 \xf000봂\x0000Wi-Fi Train Report

@@ -1,4 +1,4 @@
-Teach which move\xfffeto \xf000Ă\x0001\x0000?
+﻿Teach which move\xfffeto \xf000Ă\x0001\x0000?
 Teach the move\xfffe\xf000ć\x0001\x0001?
 Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!

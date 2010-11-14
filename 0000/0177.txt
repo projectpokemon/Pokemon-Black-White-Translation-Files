@@ -1,4 +1,4 @@
-DIRECTOR
+﻿DIRECTOR
 JUNICHI  MASUDA
 2D  ART  DIRECTOR
 KEN  SUGIMORI
@@ -69,7 +69,7 @@ TOMOHIKO  OHKUBO
 JAMES  TURNER
 KEIKO  MORITSUGU
 ATSUKO  NISHIDA
-2D  DOT  GRAPHICS
+2D  PIXEL  GRAPHICS
 Lead
 HIRONOBU  YOSHIDA
 MOTOFUMI  FUJIWARA
@@ -117,8 +117,8 @@ MINAKO  ADACHI
 Interactive  Sound  System  Design
 SHOTA  KAGEYAMA
 GO  ICHINOSE
-Hilink , Route 10
-Soryu City , Kanawa Town
+High-Link , Route 10
+Souryuu City , Kanawa Town
 Ending Theme
 Village Bridge
 and More Music
@@ -129,6 +129,7 @@ Bicycle , Shift Factory
 Kagome Town
 and More Music
 All  Battle  Music
+
 HITOMI  SATO
 JUNICHI  MASUDA
 GAME  UI  SYSTEM  DESIGN
@@ -171,7 +172,7 @@ User  Interface  Main  Design
 TETSUJI  OHTA
 Map  Supervisor  &  Map  Set  Design
 SUGURU  NAKATSUI
-Chosa  Radar  &  Surechigai  Design
+Survey  Radar  &  Chance-Upon  Design
 SHIGERU  OHMORI
 Wi-Fi  Battle  System  Design
 TERUYUKI  SHIMOYAMADA

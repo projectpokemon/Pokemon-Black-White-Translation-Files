@@ -1,287 +1,287 @@
-ディレクター
-ますだ じゅんいち
-２Ｄ アート ディレクター
-すぎもり けん
-３Ｄ アート ディレクター
-うんの たかお
-プログラム ディレクター
-わたなべ てつや
-プランニング ディレクター
-かわちまる たけし
-シナリオ
-まつみや としのぶ
-つうしん プログラム
-リーダー
-おおの かつみ
-まつだ よしのり
-なぎはし とおる
-ありいずみ のぶひこ
-バトル プログラム
-リーダー
-そがべ ひさし
-たや まさお
-フィールド プログラム
-リーダー
-たまだ そうすけ
-かがや けいた
-いわさわ みゆき
-さいとう のぞむ
-たかはし ともや
-おばた としひろ
-ユーザーインターフェイス プログラム
-リーダー
-もり あきと
-なかむら ひろゆき
-かわだ こうじ
-ほさか げんや
-バトル システム プログラム
-たや まさお
-ポケモンジム メイン プログラム
-さいとう のぞむ
-レールシステム プログラム
-たかはし ともや
-３Ｄ グラフィック サポート プログラム
-いわさわ みゆき
-システム プログラム
-わたなべ てつや
-そがべ ひさし
-たまだ そうすけ
-おおの かつみ
-たや まさお
-ポケモン キャラクター ディレクター
-すぎもり けん
-ポケモン デザイン
-すぎもり けん
-うんの たかお
-ふじわら もとふみ
-よしだ ひろのぶ
-とやま けんきち
-ふちの ひろき
-おおむら ゆうすけ
-つるた さや
-リ ヒョンジョン
-いべ まな
-たのうえ れいこ
-きたかぜ ともひろ
-ふじわら まいこ
-みずたに めぐみ
-おおくぼ ともひこ
-ジェイムス ターナー
-もりつぐ けいこ
-にしだ あつこ
-２Ｄ グラフィック デザイン
-リーダー
-よしだ ひろのぶ
-ふじわら もとふみ
-とやま けんきち
-おおむら ゆうすけ
-つるた さや
-きたかぜ ともひろ
-みずたに めぐみ
-３Ｄ グラフィック デザイン
-リーダー
-ふちの ひろき
-リ ヒョンジョン
-いべ まな
-たのうえ れいこ
-ふじわら まいこ
-おおくぼ ともひこ
-ジェイムス ターナー
-３Ｄ グラフィック システム デザイン
-うんの たかお
-トレーナー メイン デザイン
-おおむら ゆうすけ
-バトル グラフィック デザイン
-よしだ ひろのぶ
-バトル エフェクト デザイン
-ふじわら もとふみ
-ＵＩ グラフィック メイン デザイン
-とやま けんきち
-デモ ムービー デザイン
-ジェイムス ターナー
-コンセプト イラストレーター
-もりつぐ けいこ
-ポケモン せってい ＆ ずかん テキスト
-まつしま けんじ
-おんがく
-リーダー
-かげやま しょうた
-いちのせ ごう
-さとう ひとみ
-ますだ じゅんいち
-あだち みなこ
-ポケモン ボイス
-いちのせ ごう
-サウンド エフェクト
-あだち みなこ
-インタラクティブ サウンド システム
-かげやま しょうた
-いちのせ ごう
-ハイリンク・１０ばんどうろ
-ソウリュウシティ・カナワタウン
-エンディングなど
-ビレッジブリッジなど
-さっきょく ＆ へんきょく
-さっきょく ＆ へんきょく
-かげやま しょうた
- いちのせ ごう
-じてんしゃ・カゴメタウン
-シフトファクトリーなど
-せんとう おんがく
-さっきょく ＆ へんきょく
-さっきょく
-さとう ひとみ
-ますだ じゅんいち
-ユーザーインターフェイス システム ゲームデザイン
-リーダー
-おおた てつじ
-しもやまだ てるゆき
-いわお かずまさ
-ひろ なかむら
-シナリオ ゲームデザイン
-リーダー
-まつみや としのぶ
-なかつい すぐる
-すぎなか かつのり
-ほずみ ゆきこ
-スクリプト ゲームデザイン
-リーダー
-さいとう まさふみ
-みずぐち まい
-すぎなか かつのり
-むらかみ なおと
-バトル ゲームデザイン
-リーダー
-もりもと しげき
-にしの こうじ
-とくしゅシステム ゲームデザイン
-リーダー
-おおもり しげる
-ほずみ ゆきこ
-なかむら あきら
-マップ ゲームデザイン
-リーダー
-なかつい すぐる
-たかはし ただし
-いわお かずまさ
-すぎなか かつのり
-おおもり しげる
-ほずみ ゆきこ
-むらかみ なおと
-そうさ メイン せっけい
-おおた てつじ
-マップ かんり ＆ メイン せっけい
-なかつい すぐる
-ちょうさレーダー＆すれちがい せっけい
-おおもり しげる
-Wi-Fi バトル システム せっけい
-しもやまだ てるゆき
-ポケモン ＆ トレーナー パラメータ デザイン
-にしの こうじ
-もりもと しげき
-いわお かずまさ
-しもやまだ てるゆき
-バトルサブウェイ パラメータ デザイン
-もりもと しげき
-おおた てつじ
-いわお かずまさ
-Wi-Fi サーバー かいはつ
-やまぐち たかひろ
-やまぐち りょう
-にわ かずとも
-たけうち たかあき
-いしかわ みきひろ
-れんどう Webサイト ディレクター
-かわちまる たけし
-れんどう Webサイト せっけい
-みずぐち まい
-たかはし まきこ
-おりかた たかし
-まつなが みつよ
-なかやま ともこ
-ベースメントファクトリープロダクション
-デバッグマネージメント
-たにかわ ゆうき
-ふるかわ しゅうへい
-たなか よしかず
-にしざわ ひとし
-ふくしま けいすけ
-なかじま もとき
-デバッグ
-マリオクラブ
-Ｂ ＆ Ｗ こうそう
-ますだ じゅんいち
-グラフィック スペシャルサンクス
-ながた だいすけ
-くにした りか
-にしはた なつみ
-たかはし ちひろ
-おおにし しんいち
-スペシャルサンクス
-とみなが けんじ
-もり ゆういちろう
-たじり よしお
-ささき ていこ
-えんどう えみ
-さとう あさみ
-はらぐち しほ
-ふかせ ながあき
-いとう ひろと
-おのうえ まさゆき
-いちらく かつひこ
-おおたに まよ
-かわもと ゆき
-はまの さちこ
-すなが はるか
-いとう けんじろう
-こむら ともたか
-ふくなが すすむ
-みやはら としお
-こが じろう
-すずき おさむ
-のもと がくじ
-かなやま みすず
-たきざわ みちこ
-かじわら あやこ
-つみた ゆういちろう
-ふじた おさむ
-そが まさゆき
-よこた ふみえ
-むらかわ てるき
-なかみち きみこ
-やまもと そういち
-いなげ とおる
-あくね ひろし
-こまい だいすけ
-むかい としお
-たかはら ちあき
-アートワーク
-いたに きよみ
-すぎやま やすこ
-すずき りゅういち
-なかみち さちこ
-グローバライズ
- きなし あきら
- なかお のりこ
- いちばやし ひろのり
-じょうほうかんり
-さくらい ゆうり
-よねだ とうや
-コーディネーター
-こほり しゅんすけ
-よしはら かずき
-あんどう かおり
-あらき ひであき
-プロデューサー
-ますだ じゅんいち
-やまがみ ひとし
-えがみ しゅうさく
-つる ひろあき
-エグゼクティブ プロデューサー
-たじり さとし
-いわた さとる
-いしはら つねかず
-かいはつ
-ゲームフリーク
-ポケットモンスターブラック
-ポケットモンスターホワイト
+﻿DIRECTOR
+JUNICHI  MASUDA
+2D  ART  DIRECTOR
+KEN  SUGIMORI
+3D  ART  DIRECTOR
+TAKAO  UNNO
+PROGRAM  DIRECTOR
+TETSUYA  WATANABE
+PLANNING  DIRECTOR
+TAKESHI  KAWACHIMARU
+SCENARIO
+TOSHINOBU  MATSUMIYA
+Wi-Fi ,  WIRELESS  and  IR  PROGRAMMING
+Lead
+KATSUMI  OHNO
+YOSHINORI  MATSUDA
+TORU  NAGIHASHI
+NOBUHIKO  ARIIZUMI
+BATTLE  PROGRAMMING
+Lead
+HISASHI  SOGABE
+MASAO  TAYA
+FIELD  PROGRAMMING
+Lead
+SOSUKE  TAMADA
+KEITA  KAGAYA
+MIYUKI  IWASAWA
+NOZOMU  SAITO
+TOMOYA  TAKAHASHI
+TOSHIHIRO  OBATA
+USER  INTERFACE  PROGRAMMING
+Lead
+AKITO  MORI
+HIROYUKI  NAKAMURA
+KOJI  KAWADA
+GENYA  HOSAKA
+Battle  System  Programming
+MASAO  TAYA
+GYM  Main  Programming
+NOZOMU  SAITO
+Rail  System  Programming
+TOMOYA  TAKAHASHI
+3D  Graphics  Support  Programming
+MIYUKI  IWASAWA
+SYSTEM  PROGRAMMING
+TETSUYA  WATANABE
+HISASHI  SOGABE
+SOSUKE  TAMADA
+KATSUMI  OHNO
+MASAO  TAYA
+DIRECTOR  OF  POKÉMON  CHARACTERS
+KEN  SUGIMORI
+POKÉMON  CHARACTERS  DESIGN
+KEN  SUGIMORI
+TAKAO  UNNO
+MOTOFUMI  FUJIWARA
+HIRONOBU  YOSHIDA
+KENKICHI  TOYAMA
+HIROKI  FUCHINO
+YUSUKE  OHMURA
+SAYA  TSURUTA
+LEE  HYUNJUNG
+MANA  IBE
+REIKO  TANOUE
+TOMOHIRO  KITAKAZE
+MAIKO  FUJIWARA
+MEGUMI  MIZUTANI
+TOMOHIKO  OHKUBO
+JAMES  TURNER
+KEIKO  MORITSUGU
+ATSUKO  NISHIDA
+2D  DOT  GRAPHICS
+Lead
+HIRONOBU  YOSHIDA
+MOTOFUMI  FUJIWARA
+KENKICHI  TOYAMA
+YUSUKE  OHMURA
+SAYA  TSURUTA
+TOMOHIRO  KITAKAZE
+MEGUMI  MIZUTANI
+3D  MAP  GRAPHICS
+Lead
+HIROKI  FUCHINO
+LEE  HYUNJUNG
+MANA  IBE
+REIKO  TANOUE
+MAIKO  FUJIWARA
+TOMOHIKO  OHKUBO
+JAMES  TURNER
+3D  Graphics  System  Design
+TAKAO  UNNO
+Trainer  Graphics  Main  Design
+YUSUKE  OHMURA
+Battle  Graphics  Design
+HIRONOBU  YOSHIDA
+Battle  Effect  Graphics  Design
+MOTOFUMI  FUJIWARA
+UI  Graphics  Main  Design
+KENKICHI  TOYAMA
+Digital  Movie  Main  Design
+JAMES  TURNER
+Concept  Illustration
+KEIKO  MORITSUGU
+POKÉMON  CONCEPT  &  POKÉDEX  TEXT
+KENJI  MATSUSHIMA
+MUSIC
+Lead
+SHOTA  KAGEYAMA
+GO  ICHINOSE
+HITOMI  SATO
+JUNICHI  MASUDA
+MINAKO  ADACHI
+POKÉMON  VOICE  DESIGN
+GO  ICHINOSE
+SOUND  EFFECTS
+MINAKO  ADACHI
+Interactive  Sound  System  Design
+SHOTA  KAGEYAMA
+GO  ICHINOSE
+High-Link , Route 10
+Souryuu City , Kanawa Town
+Ending Theme
+Village Bridge
+and More Music
+and More Music
+SHOTA  KAGEYAMA
+GO  ICHINOSE
+Bicycle , Shift Factory
+Kagome Town
+and More Music
+All  Battle  Music
+
+HITOMI  SATO
+JUNICHI  MASUDA
+GAME  UI  SYSTEM  DESIGN
+Lead
+TETSUJI  OHTA
+TERUYUKI  SHIMOYAMADA
+KAZUMASA  IWAO
+HIRO  NAKAMURA
+GAME  DIALOGUE  DESIGN
+Lead
+TOSHINOBU  MATSUMIYA
+SUGURU  NAKATSUI
+KATSUNORI  SUGINAKA
+YUKIKO  HOZUMI
+GAME  ACTION  SCRIPT  DESIGN
+Lead
+MASAFUMI  SAITO
+MAI  MIZUGUCHI
+KATSUNORI  SUGINAKA
+NAOTO  MURAKAMI
+GAME  BATTLE  SYSTEM  DESIGN
+Lead
+SHIGEKI  MORIMOTO
+KOJI  NISHINO
+GAME  DESIGN  OF  SPECIAL  ELEMENTS
+Lead
+SHIGERU  OHMORI
+YUKIKO  HOZUMI
+AKIRA  NAKAMURA
+GAME  MAP  DESIGN
+Lead
+SUGURU  NAKATSUI
+TADASHI  TAKAHASHI
+KAZUMASA  IWAO
+KATSUNORI  SUGINAKA
+SHIGERU  OHMORI
+YUKIKO  HOZUMI
+NAOTO  MURAKAMI
+User  Interface  Main  Design
+TETSUJI  OHTA
+Map  Supervisor  &  Map  Set  Design
+SUGURU  NAKATSUI
+Survey  Radar  &  Chance-Upon  Design
+SHIGERU  OHMORI
+Wi-Fi  Battle  System  Design
+TERUYUKI  SHIMOYAMADA
+POKÉMON  &  TRAINER  PARAMETER  DESIGN
+KOJI  NISHINO
+SHIGEKI  MORIMOTO
+KAZUMASA  IWAO
+TERUYUKI  SHIMOYAMADA
+BATTLE  SUBWAY  PARAMETER  DESIGN
+SHIGEKI  MORIMOTO
+TETSUJI  OHTA
+KAZUMASA  IWAO
+  Wi-Fi  SERVER  DEVELOPMENT
+TAKAHIRO  YAMAGUCHI
+RYO  YAMAGUCHI
+KAZUTOMO  NIWA
+TAKAAKI  TAKEUCHI
+MIKIHIRO  ISHIKAWA
+DIRECTOR  OF  LINKED  WEB  SITE
+TAKESHI  KAWACHIMARU
+LINKED  WEB  SITE  DESIGN
+MAI  MIZUGUCHI
+MAKIKO  TAKAHASHI
+TAKASHI  ORIKATA
+MITSUYO  MATSUNAGA
+TOMOKO  NAKAYAMA
+BASEMENT  FACTORY  PRODUCTIONS
+DEBUG  MANAGEMENT
+YUKI  TANIKAWA
+SHUHEI  FURUKAWA
+YOSHIKAZU  TANAKA
+HITOSHI  NISHIZAWA
+KEISUKE  FUKUSHIMA
+MOTOKI  NAKAJIMA
+DEBUG
+MARIO  CLUB
+B & W  PLOT
+JUNICHI  MASUDA
+GRAPHICS  SPECIAL  THANKS
+DAISUKE  NAGATA
+RIKA  KUNISHITA
+NATSUMI  NISHIHATA
+CHIHIRO  TAKAHASHI
+SHINICHI  OHNISHI
+SPECIAL  THANKS
+KENJI  TOMINAGA
+YUICHIRO  MORI
+YOSHIO  TAJIRI
+TEIKO  SASAKI
+EMI  ENDO
+ASAMI  SATO
+SHIHO  HARAGUCHI
+NAGAAKI  FUKASE
+HIROTO  ITO
+MASAYUKI  ONOUE
+KATSUHIKO  ICHIRAKU
+MAYO  OHTANI
+YUKI  KAWAMOTO
+SACHIKO  HAMANO
+HARUKA  SUNAGA
+KENJIRO  ITO
+TOMOTAKA  KOMURA
+SUSUMU  FUKUNAGA
+TOSHIO  MIYAHARA
+JIRO  KOGA
+OSAMU  SUZUKI
+GAKUJI  NOMOTO
+MISUZU  KANAYAMA
+MICHIKO  TAKIZAWA
+AYAKO  KAJIWARA
+YUICHIRO  TSUMITA
+OSAMU  FUJITA
+MASAYUKI  SOGA
+FUMIE  YOKOTA
+TERUKI  MURAKAWA
+KIMIKO  NAKAMICHI
+SOICHI  YAMAMOTO
+TOHRU  INAGE
+HIROSHI  AKUNE
+DAISUKE  KOMAI
+TOSHIO  MUKAI
+CHIAKI  TAKAHARA
+ART  WORK
+KIYOMI  ITANI
+YASUKO  SUGIYAMA
+RYUICHI  SUZUKI
+SACHIKO  NAKAMICHI
+GLOBALIZERS
+AKIRA  KINASHI
+NORIKO  NAKAO
+HIRONORI  ICHIBAYASHI
+INFORMATION  COORDINATORS
+YURI  SAKURAI
+TOYA  YONEDA
+COORDINATORS
+SHUNSUKE  KOHORI
+KAZUKI  YOSHIHARA
+KAORI  ANDO
+HIDEAKI  ARAKI
+PRODUCED  BY
+JUNICHI  MASUDA
+HITOSHI  YAMAGAMI
+SHUSAKU  EGAMI
+HIROAKI  TSURU
+EXECUTIVE  PRODUCERS
+SATOSHI  TAJIRI
+SATORU  IWATA
+TSUNEKAZU  ISHIHARA
+DEVELOPED BY
+GAME FREAK inc.
+POCKET  MONSTERS  BLACK  VERSION
+POCKET  MONSTERS  WHITE  VERSION

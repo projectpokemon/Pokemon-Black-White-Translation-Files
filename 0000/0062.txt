@@ -1,4 +1,4 @@
-Basic information
+﻿Basic information
 How to fight a battle?
 C-Gear information
 About the menu
@@ -8,7 +8,7 @@ About controls
 Saving your game
 Deleting your save
 Mystery Gift
-Battle tournament
+Battle Tournament
 Pokémon Global Link
 Game Sync
 Wi-Fi Settings
@@ -16,13 +16,13 @@ Microphone Test
 Pokémon
 The Pokémon PC
 Battle Box
-Trading Pokémon basics
-Trading Pokémon guide
-Single battle
-Double battle
-Triple battle
-Rotation battle
-Mirakurushuta
+Trading Pokémon Basics
+Trading Pokémon Guide
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Miracle Shooter
 Union Room
 Wi-Fi Club
 Global Terminal
@@ -31,16 +31,16 @@ C-Gear
 C-Gear Log
 C-Gear Building
 C-Gear Questionnaire
-C-Gear はじめる
-C-Gear ほうこく
+C-Gear Start
+C-Gear Reports
 IR (Infrared) Connection
 Game Sync
 High Link
-Deku Power
-Derudama
-The "Bag"
-The "Trainer card"
-The "Pokédex"
+Deru Power
+Deru Ball
+The Bag
+The Trainer Card
+The Pokédex
 Catching Pokémon
 Type matchup
 "Physical" "Normal" "Special"
@@ -59,10 +59,10 @@ Pokérus
 Canceling
 Hidden items
 Live Caster
-Gym badges
-Y-Button info
-Pokéshifter setup
-Pokéshifter minigames
+Gym Badges
+Y-Button Info
+PokéShifter Setup
+PokéShifter Minigames
 It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
 When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
 When you are in the main menu,\xfffeselect the 3rd option and press\xfffethe A Button to go to Mystery Gift.\xfffe・You can receive gifts via IR\xfffe・You can receive gifts via Wi-Fi\xfffe・You can receive gifts via Wireless\xfffe\xfffeTry this out and maybe something\xfffewill be added to your game!

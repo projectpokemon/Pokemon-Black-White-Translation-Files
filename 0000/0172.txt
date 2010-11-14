@@ -1,4 +1,4 @@
-...What? \xfffe\xf000Ă\x0001\x0000 is evolving!
-Hm?... \xfffe\xf000Ă\x0001\x0000 appears to have stopped evolving.
-Congratulations! \xf000Ă\x0001\x0000 evolved into \xfffe\xf000ā\x0001\x0001!
-Let it evolve? \xfffeYes: A Button No: B Button
+﻿...What?\xfffe\xf000Ă\x0001\x0000 is evolving!
+Hm?...\xfffe\xf000Ă\x0001\x0000 appears to have stopped evolving.
+Congratulations! \xf000Ă\x0001\x0000 evolved into\xfffe\xf000ā\x0001\x0001!
+Let it evolve?\xfffeYes: A Button No: B Button

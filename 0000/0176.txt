@@ -1,4 +1,4 @@
-\xf000Ā\x0001\x0000
+﻿\xf000Ā\x0001\x0000
 Cheren
 Bel
 Pod
@@ -13,9 +13,9 @@ Hachiku
 Iris
 Shaga
 Shikimi
-Gīma
+Giima
 Renbu
 Cattleya
 Adeku
 N
-Geechisu 
+Geechisu

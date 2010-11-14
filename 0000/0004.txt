@@ -1,3 +1,3 @@
-Delete all saved data?
-Once the data has been deleted,\xfffethere is no way to recover it.\xf000븁\x0000 Delete the saved data anyway?
+﻿Delete all saved data?
+Once the data has been deleted,\xfffethere is no way to recover it.\xf000븁\x0000Delete the saved data anyway?
 Deleting all data.\xfffeDon't turn off the power.

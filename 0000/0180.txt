@@ -1,9 +1,9 @@
-Health
+HP
 Attack
-Defence
+Defense
 Speed
-Special Attack
-Special Defense
+Sp. Attack
+Sp. Defense
 Accuracy
 Evasion
 Max HP

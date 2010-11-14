@@ -1,4 +1,4 @@
-▲
+﻿▲
 Pokédex
 Pokémon
 Bag
@@ -14,6 +14,6 @@ Chat
 トレーナーカードを せんたくしました
 レポートを せんたくしました
 せっていを せんたくしました
-ポケモンレポートに かきこんでいます
-ポケモンレポートに\xfffeしっかり かきのこした！
-Write the report during communication
+Now writing a Pokémon report.
+Pokémon report\xfffesuccessfully written!
+Can't write a report while communication.

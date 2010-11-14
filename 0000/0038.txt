@@ -1,12 +1,12 @@
-\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+﻿\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 
 
 ◇Trainer from Kanoko Town is victorious over Sanyou Gym Leaders Corn, Pod, and Dent!
-◇Trainer from Kanoko Town is victorious over Shippou Gym Leader Aloe!
+◇Trainer from Kanoko Town is victorious over Shippo Gym Leader Aloe!
 ◇Trainer from Kanoko Town is victorious over Hiun Gym Leader Arti!
 ◇Trainer from Kanoko Town is victorious over Raimon Gym Leader Kamitsure!
-◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Yakon!
-◇Trainer from Kanoko Town is victorious over Fukiyose Gym Leader Furou!
+◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Yacon!
+◇Trainer from Kanoko Town is victorious over Fukiyose Gym Leader Fuuro!
 ◇Trainer from Kanoko Town is victorious over Sekka Gym Leader Hachiku!
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Iris!
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Shaga!
@@ -22,19 +22,19 @@
 ◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
 ◇Lushgreen Park will warm your heart!
 ◇Many trainers visit the daycare next to the city.
-◇Study Pokémon from the basics at the Trainer's School!
+◇Study Pokemon from the basics at the Trainer's School!
 ◇From Sanyou City, you can smell the refreshing breeze of the forest!
 ◇The stairs leading into the gate prevent snow from piling in.
 ◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
-◇Shippou City has stone roads and warehouses!
+◇Shippo City has stone roads and warehouses!
 ◇The museum researches everything from bones to Pokémon!
-◇Shippou Gym is a museum that will test your might and wisdom!
+◇Shippo Gym is a museum that will test your might and wisdom!
 ◇Young artist turning dilapidated warehouse into a studio!
 ◇Tourists come just to see the warehouses and the museum!
 ◇You can also see the remains of the track that ran through town!
 ◇A town where appreciators of the fine arts gather!
 ◇The museum is themed around the comparison of civilization and nature!
-◇Many famous artists were born in Shippou City!
+◇Many famous artists were born in Shippo City!
 ◇The obscure specialty Hiun Ice is becoming majorly popular!
 ◇The ships taking off from Hiun City's piers have a variety of destinations!
 ◇Even compared against the bustle of Hiun City, the gym is still surprising...?
@@ -179,7 +179,7 @@
 
 
 
-Sunny
+Clear
 Snowy
 Rainy
 Sandstorm

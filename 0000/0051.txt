@@ -1,11 +1,11 @@
-すきなリズムで １０かい\xfffeしたがめんを タッチ してください
+﻿すきなリズムで １０かい\xfffeしたがめんを タッチ してください
 チェックが おわりました あいてと\xfffeせきがいせんつうしんを してください
 チェックちゅう です\xfffeつうしんを つづけてください
 せきがいせんつうしんが \xfffeつながりました！
 つうしんが きれました\xfffeせきがいせんを あわせてください
 Back
 Touch Start
-Rythm Check
+Rhythm Check
 no data
 no data
 no data

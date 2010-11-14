@@ -1,4 +1,4 @@
-None
+﻿None
 Master Ball
 Ultra Ball
 Great Ball
@@ -467,9 +467,9 @@ Vs. Recorder
 Gracidea
 Secret Key
 Apricorn Box
-UNOWN Report
+Unown Report
 Berry Pots
-Dowsing MCHN
+Dowsing Machine
 Blue Card
 SlowpokeTail
 Clear Bell
@@ -484,12 +484,12 @@ Silver Wing
 Rainbow Wing
 Mystery Egg
 Red Apricorn
-Ylw Apricorn
-Blu Apricorn
-Grn Apricorn
-Pnk Apricorn
-Wht Apricorn
-Blk Apricorn
+Yellow Apricorn
+Blue Apricorn
+Green Apricorn
+Pink Apricorn
+White Apricorn
+Black Apricorn
 Fast Ball
 Level Ball
 Lure Ball
@@ -573,11 +573,11 @@ Beautiful Wing
 Lid Fossil
 Wing Fossil
 Liberty Ticket
-Deru Ball
+Exit Ball
 Dream Ball
 Poké-Toy
 Goods Case
-Dragon Bone
+Dragon Skull
 FragrantMushroom
 Huge Gold Orb
 Round Pearl
@@ -589,7 +589,7 @@ Old Vase
 Old Bracelet
 Old Statue
 Old Crown
-Hiun Ice-cream
+Hiun Ice
 Dire Hit 2
 X Speed 2
 X Sp. Atk 2
@@ -621,7 +621,7 @@ TM94
 TM95
 Live Caster
 God Stone
-DeliveredGoods1
-DeliveredGoods2
-DeliveredGoods3
+Delivery1
+Delivery2
+Delivery3
 Live Caster

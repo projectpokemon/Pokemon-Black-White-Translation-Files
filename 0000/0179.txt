@@ -1,4 +1,4 @@
-Continue Game
+﻿Continue Game
 New Game
 Mystery Gift
 Wi-Fi Settings
@@ -18,19 +18,19 @@ Badges \xf000ȁ\x0001\x0000
 ほんたいの せっていにより\xfffeむせんつうしんが つかえません\xf000븁\x0000むせんつうしんを つかうには\xfffeほんたいせっていの むせんつうしんを\xf000븀\x0000オンにしてください （５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 ふしぎな おくりもの\xfffeしょかい じゅしん
-Power Warning!
-When the C-Gear is enabled, the\xfffeNintendo DS will continue to drain\xfffepower from the battery, which means\xfffethat your battery may run dry.\xfffe \xfffeThis may continue when the lid\xfffeof your Nintendo DS system is closed.
-Saving warning!
-There already is a saved game file.\xfffeIt is impossible to save.\xfffePlease refer to the Instruction\xfffeBooklet for more details.\xfffeWill you continue anyway?
+WARNING!
+Activating communications will give you\xfffemaximum enjoyment from the game.\xfffeCommunication is continuous,\xfffeso please turn it off in areas with\xffferestrictions on wireless communication,\xfffesuch as airplanes and hospitals.\xfffeThis can be changed from\xfffethe in-game C-Gear menu.
+WARNING!
+There is already a report written.\xfffeIf you start a new adventure,\xfffeyou will not be able to save!\xfffeDo you want to start regardless?
 A Button: Continue
 B Button: Back to menu
 Enable the C-Gear?\xfffePlease read the warning below.
-Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
-レポートの ないようが\xfffeきえてしまった！
-きえて しまった バトルビデオの\xfffeきろくが あります！
-C-Gear スキンデータが\xfffeきえてしまった！
-とくべつな バトルけんていの\xfffeデータが きえてしまった！
-ミュージカルの えんもくデータが\xfffeきえてしまった！
-ずかんの スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが きえてしまった！
-ふしぎな おくりものの\xfffeきろくが きえてしまった！
+Are you sure you want to\xfffedisable the C-Gear? You may enable it later.
+There is no report,\xfffeor it has been lost!
+きえて　しまった　バトルビデオの\xfffeきろくが　あります！
+C-Gear skin data\xfffehas been lost!
+Special battle certificate data\xfffehas been lost!
+Musical data\xfffehas been lost!
+Pokédex skin data\xfffehas been lost!
+Information on Hall of Fame\xfffePokémon has been lost!
+Information on\xfffeMystery Gifts has been lost!

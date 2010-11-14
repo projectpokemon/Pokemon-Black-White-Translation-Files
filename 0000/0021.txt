@@ -1,2 +1,2 @@
-When its strength is weakened,\xfffeuse a Poké Ball!
-Professor Araragi\xfffeused a Poké Ball!
+﻿When it's low on health,\xfffeuse a Pokéball!
+Professor Araragi\xfffeused a Pokéball!

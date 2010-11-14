@@ -1,7 +1,7 @@
-\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
+﻿\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
-Would you like to post\xfffethis time’s musical pictures in the musical hall?
+Would you like to post\xfffeyour pictures in the Musical Hall?
 Yes
 No
-Waiting for the choice of\xfffethe rest of the participants.
+Waiting for other participants\xfffeto make their selection.

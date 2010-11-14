@@ -1,4 +1,4 @@
-Confirm
+﻿Confirm
 Cancel
 L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
@@ -30,7 +30,7 @@ Yes
 No
 Your PC’s Mailbox is full.
 Mail was taken from the\xfffePokémon.
-\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001. \xf000븁\x0000However \xf000Ă\x0001\x0000 already\xfffeknows 4 moves. \xf000븁\x0000Should a move be deleted and be\xfffereplaced with \xf000ć\x0001\x0001?
 Yes
 No
 Stop trying to teach\xfffe\xf000ć\x0001\x0001?

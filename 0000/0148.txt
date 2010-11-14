@@ -1,4 +1,4 @@
-ï»¿PGL
+PGL
 GTS
 PDW
 Wi-Fi
@@ -17,9 +17,9 @@ Triple Battle
 High-Link
 Battle Video
 Voice Chat
-PokÃ©Shifter
+PokéShifter
 Multi Battle
-PokÃ©mon Musical
+Pokémon Musical
 Union
 Chance-Upon
 Rotation

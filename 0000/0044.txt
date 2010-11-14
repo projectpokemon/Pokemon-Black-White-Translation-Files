@@ -1,4 +1,4 @@
-What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
+﻿What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
 English
 Japanese
 それでは ゲームで つかう もじは\xfffeひらがな・カタカナに します\xf000븁\x0000
@@ -7,7 +7,7 @@ Please wait a moment...\xfffe
 Hi there!\xf000븁\x0000Welcome to the world of Pokémon!\xf000븁\x0000
 You can call me Araragi.\xf000븁\x0000But you'll hear people calling me\xfffethe Pokémon Professor.\xf000븁\x0000
 Right! This world is full of\xfffePocket Monsters...\xf000븁\x0000Well, usually called "Pokémon" for short!\xfffeAnd they're fantastic creatures!\xf000븁\x0000
-Pokémon possess miraculous power,\xfffecome in all shapes and sizes,\xf000븀\x0000live in all kinds of places...\xf000븁\x0000And we humans live\xfffetogether with them in peace!\xf000븁\x0000We're always there for each other,\xfffethe both of us.\xf000븁\x0000But joining forces to help each other\xfffecan often be a difficult task.\xf000븁\x0000And while it's their most popular role of all,\xfffemaking fellow Pokémon fight\xf000븀\x0000only binds them further.\xf000븁\x0000And that's why I study Pokémon.\xf000븁\x0000
+Pokémon possess miraculous power,\xfffecome in all shapes and sizes,\xf000븀\x0000live in all kinds of locales...\xf000븁\x0000And we humans live\xfffetogether with them in peace!\xf000븁\x0000We're always there for each other,\xfffethe both of us.\xf000븁\x0000But joining forces to help each other\xfffecan often be a difficult task.\xf000븁\x0000And while it's their most popular role of all,\xfffemaking fellow Pokémon fight\xf000븀\x0000only binds them further.\xf000븁\x0000And that's why I study Pokémon.\xf000븁\x0000
 Now, that's quite enough\xfffeabout me...\xf000븁\x0000Won't you tell me some about yourself?\xf000븁\x0000
 Are you a boy?\xfffeOr are you a girl?\xf000븁\x0000
 You're a boy, then?\xf000븁\x0000

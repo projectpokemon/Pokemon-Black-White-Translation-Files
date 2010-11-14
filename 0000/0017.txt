@@ -1,4 +1,4 @@
-●●
+﻿●●
 A wild \xf000ā\x0001\x0000 appeared!
 A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
 Oh! A \xf000ā\x0001\x0000 appeared!
@@ -7,7 +7,7 @@ A \xfffe\xf000ā\x0001\x0000 appeared\xfffein the dream!
 A \xf000ā\x0001\x0000 appeared!
 You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
 You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븁\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
+You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
 You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
 Go! \xf000Ă\x0001\x0000!
 Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
@@ -48,14 +48,14 @@ Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
 Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
 Player defeated\xfffe\xf000Ā\x0001\x0000!
 Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player lost to \xf000Ā\x0001\x0000!
+Player lost to\xfffe\xf000Ā\x0001\x0000!
 Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
 Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
 Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
 \xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped\xfffe$\xf000Ȅ\x0001\x0001 in panic...
-\xf000Ā\x0001\x0000 paid out\xfffe$\xf000Ȅ\x0001\x0001 to the winner...
-... ... ... ...\xf000븁\x0000\xf000Ā\x0001\x0000 blacked out!
+\xf000Ā\x0001\x0000 dropped\xfffe$\xf000Ȅ\x0001\x0001 in panic!
+\xf000Ā\x0001\x0000 paid out\xfffe$\xf000Ȅ\x0001\x0001 to the winner!
+... ... ... ...\xf000븁\x0000\xf000Ā\x0001\x0000 whited out!
 \xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
 \xf000Ā\x0001\x0000 picked up $\xf000Ȅ\x0001\x0001!
 \xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
@@ -71,8 +71,8 @@ What will \xf000Č\x0001\x0000 do?
 What will \xf000Ā\x0001\x0000 do?
 \xf000븉\x0001<But it failed!
 Got away safely!
-Can't escape!
 Couldn't run!
+Can't escape!
 The wild \xf000Ă\x0001\x0000\xffferan away!
 No! There’s no running\xfffefrom a Trainer battle!
 Do you want to give up?
