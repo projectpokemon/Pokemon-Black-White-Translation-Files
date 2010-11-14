@@ -467,9 +467,9 @@ Vs. Recorder
 Gracidea
 Secret Key
 Apricorn Box
-Unown Report
+UNOWN Report
 Berry Pots
-Dowsing Machine
+Dowsing MCHN
 Blue Card
 SlowpokeTail
 Clear Bell
@@ -484,12 +484,12 @@ Silver Wing
 Rainbow Wing
 Mystery Egg
 Red Apricorn
-Yellow Apricorn
-Blue Apricorn
-Green Apricorn
-Pink Apricorn
-White Apricorn
-Black Apricorn
+Ylw Apricorn
+Blu Apricorn
+Grn Apricorn
+Pnk Apricorn
+Wht Apricorn
+Blk Apricorn
 Fast Ball
 Level Ball
 Lure Ball

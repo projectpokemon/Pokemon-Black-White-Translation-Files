@@ -14,7 +14,7 @@ This box is full!
 Bag is full!
 \xf000ĉ\x0001\x0000 received!
 \xf000ĉ\x0001\x0000 is now being held!
-Select Pokemon!
+Select Pokémon!
 Move to what Box?
 Not holding anything
 ♂
@@ -44,12 +44,12 @@ Put to Bed
 Mail cannot be removed!
 Cannot hold \xf000ĉ\x0001\x0000!
 Has Mail!
-Pokemon will not fight!
+Pokémon will not fight!
 Mail cannot be removed!
 You can't hold mail here
 You can't choose an Egg!
 Make \xf000Ă\x0001\x0000 go to sleep?
-This Pokemon doesn't\xfffelook sleepy.
+This Pokémon doesn't\xfffelook sleepy.
 Continue Box operations?
 Battle Box has been locked.\xfffePokemon cannot be removed.
 Battle Box has been locked.\xfffeHeld item cannot be changed.

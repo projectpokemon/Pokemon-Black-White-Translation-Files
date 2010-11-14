@@ -10,8 +10,8 @@ Delete Videos
 Empty
 \xf000ȃ\x0001\x0000
 Battle
-\xf000봂\x0000No.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002
-\xf000봂\x0000No.：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000 Ȅ\x0001\x0002 ★
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
 \xf000봂\x0000\xf000Ā\x0001\x0000's Profile
 Mute
 \xf000봂\x0000Birth month: \xf000ȁ\x0001\x0000
@@ -28,7 +28,7 @@ Unregistered
 My Videos
 Other Videos
 あき
-Delete \xf000Ā\x0001\x0000 Records
+Delete \xf000Ā\x0001\x0000's Records
 Search by Ranking
 Send Data
 Latest 30

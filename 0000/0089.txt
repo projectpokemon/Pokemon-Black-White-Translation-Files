@@ -5,7 +5,7 @@ Distant Place
 Kanoko Town
 Karakusa Town
 Sanyou City
-Shippo City
+Shippou City
 Hiun City
 Raimon City
 Hodomoe City
@@ -106,7 +106,7 @@ Kagome Town
 Sazanami Town
 Karakusa Gate
 Sazanami Gate
-Shippo Gate
+Shippou Gate
 Hiun Gate
 Raimon Gate
 Souryuu Gate
