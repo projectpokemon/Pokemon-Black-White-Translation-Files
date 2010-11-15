@@ -1,8 +1,8 @@
-ＨＰ／ＰＰ
+HP/PP
 Restore
 Status
 Healers
-ＨＰ／ＰＰ
+HP/PP
 Restore
 Battle Items
 Poké Balls
@@ -20,13 +20,13 @@ Item used last
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Next
-ＨＰ／ＰＰ
+HP/PP
 Restore
 Status
 Healers
 Poké Balls
 Battle Items
-／
+/
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 Use
