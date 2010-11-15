@@ -20,7 +20,7 @@ Deselect
 ???
 ?????
 /
-\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 -
 --
 ---
@@ -39,7 +39,7 @@ Give
 \xf000Ȃ\x0001\x0000
 x
 Drink
-\xf000ȃ\x0001\x0000まい
+\xf000ȃ\x0001\x0000
 Close
 The \xf000ĉ\x0001\x0000 item is selected.
 You cannot write\xfffemail here!

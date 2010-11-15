@@ -12,7 +12,7 @@ PDW
 PGL
 PIC_ありかとう
 PIC_うれしい
-PIC_かんはれ！
+PIC_かんはれ!
 PIC_こめんね
 PIC_こんにちは
 PIC_さいこう

@@ -232,7 +232,7 @@ Western Sahara
 Yemen
 Zambia
 Zimbabwe
-\xf000Ĥ\x0001\x0000\xfffeのフロアに いどう しますか？
+\xf000Ĥ\x0001\x0000\xfffeのフロアに いどう しますか?
 Yes
 No
 \xf000Ȃ\x0001\x0002F

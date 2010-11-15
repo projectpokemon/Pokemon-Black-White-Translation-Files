@@ -1,48 +1,48 @@
-The wild Pokémon\xfffeis slightly easier to encounter\xfffethe effect lasts 3 minutes
-The wild Pokémon\xfffeis easier to encounter\xfffethe effect lasts 3 minutes
-The wild Pokémon\xfffeis very easier to encounter\xfffethe effect lasts 3 minutes
-The wild Pokémon\xfffewill be slightly difficult to encounter\xfffethe effect lasts 3 minutes
-The wild Pokémon\xfffewill be difficult to encounter\xfffethe effect lasts 3 minutes
-The wild Pokémon\xfffewill be very difficult to encounter\xfffethe effect lasts 3 minutes
-When walking with an egg\xfffeIt is slightly easier to hatch\xfffethe effect lasts 3 minutes
-When walking with an egg\xfffeIt is easier to hatch\xfffethe effect lasts 3 minutes
-When walking with an egg\xfffeIt is faster to hatch\xfffethe effect lasts 3 minutes
-When using a Pokémon\xfffethe happiness will increase slightly\xfffethe effect lasts 3 minutes
-When using a Pokémon\xfffethe happiness will increase faster\xfffethe effect lasts 3 minutes
-When using a pokemon\xfffethe happiness will increase very quickly\xfffethe effect lasts 3 minutes
-Friendly Discount\xfffeget a 10% discount at poke-marts\xfffethe effect lasts 3 minutes
-Friendly Discount\xfffeget a 25% discount at poke-marts\xfffethe effect lasts 3 minutes
-Friendly Discount\xfffeget a 50% discount at poke-marts\xfffethe effect lasts 3 minutes
-With this power\xfffethe Pokémon that are at the front of the party\xfffewill recover HP gradually
-With this power\xfffethe Pokémon that are at the front of the party\xfffewill recover more HP gradually
-With this power\xfffethe Pokémon that are at the front of the party\xfffewill recover even more HP gradually
-With this power\xfffethe Pokémon that are at the front of the party\xffferecover PP gradually
-With this power\xfffethe Pokémon that are at the front of the party\xffferecover more PP gradually
-With this power\xfffethe Pokémon that are at the front of the party\xffferecover even more PP gradually
-The exp gained from battles\xfffeincreases a little bit\xfffethe effect lasts 3 minutes
-The exp gained from battles\xfffeincreases by average\xfffethe effect lasts 3 minutes
-The exp gained from battles\xfffeincreases considerably\xfffethe effect lasts 3 minutes
-The exp gained from battles\xfffeis decreased a little\xfffethe effect lasts 3 minutes
-The exp gained from battles\xfffeis decreased less so\xfffethe effect lasts 3 minutes
-The exp gained from battles\xfffeis decreased much less\xfffethe effect lasts 3 minutes
-The money gained from battle\xfffeincreases a little bit\xfffethe effect lasts 3 minutes
-The money gained from battle\xfffeincreases by average\xfffethe effect lasts 3 minutes
-The money gained from battle\xfffeincreases considerably\xfffethe effect lasts 3 minutes
-The chance to capture Pokémon\xfffeincreases a little bit\xfffethe effect lasts 3 minutes
-The chance to capture Pokémon\xfffeincreases by average\xfffethe effect lasts 3 minutes
-The chance to capture Pokémon\xfffeincreases considerably\xfffethe effect lasts 3 minutes
-When walking with an egg\xfffexfffeIt is much easier to hatch\xfffe effect is 30 minutes
-Friendly Discount\xfffeget a 50% discount at poke-marts\xfffe effect is 30 minutes
-When using a pokemon\xfffethe happiness will increase very quickly\xfffethe effect lasts 30 minutes
-The exp gained from battles\xfffeis increased considerably\xfffethe effect last 30 minutes
-The money gained from battle\xfffeis increased considerably\xfffethe effect last 30 minutes
-The chance to capture Pokémon\xfffeis increased considerably\xfffethe effect last 30 minutes
-Upon receiving this power\xfffeall the Pokémon on hand\xfffeis completely recovered
-When walking with an egg\xfffeIt is much easier to hatch \xfffethe effect last 60 minutes
-Friendly Discount\xfffeget a 50% discount at poke-marts\xfffethe effect last 60 minutes
-When using a pokemon\xfffethe happiness will increase very quickly\xfffethe effect lasts 60 minutes
-The exp gained from battles\xfffeis increased considerably \xfffethe effect last 60 minutes
-The money gained from battle\xfffeis increased considerably \xfffethe effect last 60 minutes
-The chance to capture Pokémon \xfffeis increased considerably \xfffethe effect last 60 minutes
+Wild Pokémon\xfffeare slightly easier to encounter.\xfffeThis effect lasts 3 minutes.
+Wild Pokémon\xfffeare easier to encounter.\xfffeThis effect lasts 3 minutes.
+Wild Pokémon\xfffeare very easy to encounter.\xfffeThis effect lasts 3 minutes.
+Wild Pokémon\xfffeare slightly more difficult to encounter.\xfffeThis effect lasts 3 minutes.
+Wild Pokémon\xfffeare more difficult to encounter.\xfffeThis effect lasts 3 minutes.
+Wild Pokémon\xfffeare much more difficult to encounter.\xfffeThis effect lasts 3 minutes.
+When walking with an egg,\xfffeit will hatch a little faster.\xfffeThis effect lasts 3 minutes.
+When walking with an egg,\xfffeit will hatch faster.\xfffeThis effect lasts 3 minutes.
+When walking with an egg,\xfffeit will hatch much faster.\xfffeThis effect lasts 3 minutes.
+While using a Pokémon,\xfffeits happiness will increase slightly.\xfffeThis effect lasts 3 minutes.
+While using a Pokémon,\xfffeits happiness will increase faster.\xfffeThis effect lasts 3 minutes.
+While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 3 minutes.
+Friendly Discount\xfffeGet a 10% discount at Pok? Marts!\xfffeThis effect lasts 3 minutes.
+Friendly Discount\xfffeGet a 25% discount at Pok? Marts!\xfffeThis effect lasts 3 minutes.
+Friendly Discount\xfffeGet a 50% discount at Pok? Marts!\xfffeThis effect lasts 3 minutes.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover HP gradually.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover more HP gradually.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover even more HP gradually.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover PP gradually.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover more PP gradually.
+With this power\xfffethe Pokémon in the front of the party\xfffewill recover even more PP gradually.
+The EXP gained from battles\xfffeis increased a little.\xfffeThis effect lasts 3 minutes.
+The EXP gained from battles\xfffeis increased.\xfffeThis effect lasts 3 minutes.
+The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
+The EXP gained from battles\xfffeis decreased a little.\xfffeThis effect lasts 3 minutes.
+The EXP gained from battles\xfffeis decreased.\xfffeThis effect lasts 3 minutes.
+The EXP gained from battles\xfffeis decreased considerably.\xfffeThis effect lasts 3 minutes.
+The money gained from battle\xfffeis increased a little bit\xfffeThis effect lasts 3 minutes.
+The money gained from battle\xfffeis increased.\xfffeThis effect lasts 3 minutes.
+The money gained from battle\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
+The chance to capture Pokémon\xfffeis increased a little.\xfffeThis effect lasts 3 minutes.
+The chance to capture Pokémon\xfffeis increased.\xfffeThis effect lasts 3 minutes.
+The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
+When walking with an egg,\xfffeit will hatch more easily.\xfffeThis effect lasts 30 minutes.
+Friendly Discount\xfffeGet a 50% discount at Pok? Marts!\xfffeThis effect lasts 30 minutes.
+While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 30 minutes.
+The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
+The money gained from battle\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
+The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
+Upon receiving this power,\xfffeall Pokémon on hand\xfffeare completely recovered.
+When walking with an egg,\xfffeit will hatch much more easily.\xfffeThis effect last 60 minutes.
+Friendly Discount\xfffeGet a 50% discount at Pok? Marts!\xfffeThis effect last 60 minutes.
+While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 60 minutes.
+The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
+The money gained from battle\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
+The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
 Dummy
 Dummy

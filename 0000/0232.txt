@@ -35,16 +35,16 @@ There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: （\xf
 りようきやく に\xfffeどういする ひつようが あります\xfffeほんたいせっていで りようきやく に\xfffeどういして ください\xfffe（５０５９９）
 \xf000봂\x0000Nintendo Wi-Fi Connection
 \xf000봂\x0000Nintendo Wi-Fi Connection
-つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
-ほんとうに こうしん しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
+つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか?
+ほんとうに こうしん しても\xfffeよろしいですか?\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
 ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（５０６９９）
 あいてとの せつぞくが\xfffeせつだん されました
 つうしんエラーが はっせいしました\xfffeでんげんを きってください
 ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeきえた かのうせい が あります\xfffe\xfffeほんたい せっていの\xfffeインターネットの せってい で\xfffeせつぞくさきの せってい を\xfffeごかくにん ください
-Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
+Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか?
 この ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeセーブデータに\xfffeほぞん しました\xfffeこんごの Ｗｉ－Ｆｉコネクションへの\xfffeせつぞくは\xfffeこの ほんたいを\xfffeおつかい ください
 ほんたいと セーブデータの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeちがうため\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく できません
-セーブデータに ほぞん されている\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん しますか？\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで おつかいに なっていた\xfffeデータは うしなわれてしまいます
+セーブデータに ほぞん されている\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん しますか?\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで おつかいに なっていた\xfffeデータは うしなわれてしまいます
 No access point in range.\xfffePlease try again when closer to\xfffean access point.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 This Nintendo Wi-Fi Connection ID\xfffewas removed because it was\xfffeinactive for a long time. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 No access point in range.\xfffePlease try again when closer to\xfffean access point.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000

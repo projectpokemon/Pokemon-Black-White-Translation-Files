@@ -13,11 +13,11 @@ Scribble Mode
 REC
 Scribble
 ID \xf000Ȅ\x0001\x0000
-―／―
+―/―
 \xf000Ȁ\x0001\x0000/4
 Please choose a friend.
 Call friend
-さんかする
+Connected
 Calling friend!
 Calling friend.
 Calling friend..
@@ -37,7 +37,7 @@ No
 Stopped the Reader and disconnected.
 Your opponent has disconnected.
 All of the other members left.
-よびだしに しっぱいしました
-せつぞくに しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより しゃしんデータの\xfffeそうじゅしんが せいげん\xfffeされています\xfffeがぞうを だしたいときは\xfffeほんたいせっていで\xfffeせいげんを かいじょ してください
-あいての しゅうりょうを まっています
+Call Failed
+Connection Failed
+Parental Controls\xfffeせっていにより しゃしんデータの\xfffeそうじゅしんが せいげん\xfffeされています\xfffeがぞうを だしたいときは\xfffeほんたいせっていで\xfffeせいげんを かいじょ してください
+Waiting for friend

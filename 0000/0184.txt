@@ -8,7 +8,7 @@ M-May aye help yuu?!
 Oh! Ohhh!\xfffeYes we can?!
 Uh-uh-unbelievivable?!
 Youngster, if you're not prepared,\xfffeyou might be cryin' in a hurry!
-A youngster like you could beat\xfffeadults if your Pokémon were strong!
+Youngsters can beat adults\xfffeif their Pokémon are strong!
 Yeesh! You're still a youngster!\xfffeBut you're brutal in battle...!
 My heart's thumping is exciting me!\xfffeLet's Pokémon battle!
 Mwoohoohoo! Mwoohoohoo number two!\xfffeGlee! I won, I won!
@@ -681,124 +681,124 @@ I put my very soul\xfffeinto my Pokémon battles!
 WAAAUGH! AAAHHHHH!!\xfffeI won't do it anymore! I'M SORRYYYYY!
 おいは きばって どりょくしとうけん\xfffeつよか わけじゃなかぜ
 きさんは つよかトレーナーばい\xfffeただ オレが ラッキーなだけしゃ
-しょうぶん てんさい いわれる\xfffeオレも まけるこつの あっけんか！
-ひたすらに モテたくて はじめたけど\xfffeいつのまにか エリートに なってたよ
-もくひょうが あれば つよくなれる\xfffeひとなんて みな そんなもんでしょ
-エリートとして みとめられるように\xfffeなっても モテないまま だけどね
-この ものがたりの しゅじんこう……\xfffeほんとうは だれか おしえてやるよ！
-ものがたりの しゅじんこうは アタシ！\xfffeユーは エキストラに すぎないのさ！
-そりゃ とうぜん あなたさまですよ！\xfffe
-ワラワハ ツヨキモノ トシカ\xfffeポケモンハ シタクナイゾヨ
-タワムレニ ツキアワサレルトハ！\xfffeソウソウニ タチサルガヨイ！
-ホーッホッホッ！ ヨイデハナイカ！\xfffeワラワハ ナカナカ マンゾクジャ！
-たたかって たたかって えいえんに\xfffeたたかってたいのが エリートなの
-いくら たたかっても ものたりない\xfffeそれがホントの トレーナーでしょ？
-たたかう すがたが なじんでるのね\xfffeエリートトレーナーに なれるよ キミ
-きみの ひとみに ぜつぼうが みえる\xfffeさあ かかってくるがいい
-やはり じかんの むだだったか……\xfffeいちから しゅぎょう しなおすんだな
-ただの こどもと みくびったか\xfffeあるいは きみの じつりょくか
-なあ そこの チビっこ トレーナー\xfffeオレって たまんなく ダンディだろ？ 
-ダンディ そのものだな オレは\xfffeわれながら ウットリだぜ……
-よこがおに にじむ あいしゅう……\xfffeダンディすぎんのも こまりモンさ
+しょうぶん てんさい いわれる\xfffeオレも まけるこつの あっけんか!
+All I wanted was to be popular,\xfffebut I ended up becoming an Ace!
+You can get strong with a goal in mind!\xfffeThat's how it goes for everyone, right?
+Although people see me as an ace,\xfffeI'm still not very popular...
+Who's the protagonist of this story...?\xfffeSeriously, somebody tell me!
+The protagonist is ME!\xfffeYou're just a supporting character!
+Aha! Naturally, it would be you!
+I ONLY WANT TO USE\xfffePOWERFUL POKéMON
+AND I WAS JUST PLAYING!\xfffeNOW OUT OF MY SIGHT!
+HO HO HO! YOU ARE NOT BAD!\xfffeI AM RATHER PLEASED!
+Fight, fight, fight for all etenity...\xfffeThat's an Ace for you!
+No number of battles is enough!\xfffeIsn't that the mark of a true trainer?
+I'm familiar with your fighting form...\xfffeYou could be an Ace Trainer, too!
+I see despair in your eyes!\xfffeNow, have at you!
+Just a waste of time after all...\xfffeTrain again from the start!
+...Because I underestimated you?\xfffe...Or because of your sheer ability?
+Hey, shorty trainer!\xfffeAren't I such a dandy?
+As a dandy, I must say\xfffethat I was stunning...
+Grief ruins my face...\xfffeMaybe I'm too much of a dandy...
 Don't know the do-re-mi's of battle,\xfffeand you'll get beat like a brat!
 Beating amateurs is just too easy!\xfffe(W-whoa... t-that was a close one...)
 Huh? It's not "do-re-mi's," it's "ABC's"?\xfffeHa, haha... I knew that!
 Ooh! Cough, cough, I feel awful!\xfffePlease have pity on me!
 My feeling awful was a LIE!\xfffeA Veteran has crafty techniques!
 You're pretty sharp for seeing\xfffethrough my cunning ruse...
-ベテランならではの ポケモンのあじを\xfffeたっぷり ごちそうして あげるわ
-いかが？ ベテランの ポケモンは？\xfffeホロにがくて クセに なるでしょ？
-はいぼくだって じんせいの スパイス\xfffeあなた ピリッと してるじゃない
-あらぁ キミ かわいいわねぇ\xfffeやさしくしてあげるから おいで
-かわいいわねぇ ほんとうに……\xfffeまた あいたいわぁ まってるわ
-キミは しょうぶも かわいいわねぇ\xfffeまた あたしと あそびましょうねぇ
-あら アンタ まだ こどもじゃないの\xfffeダメでしょ？ こんなとこ きたら
-わるくはないけれど あおくさいわ\xfffeもっと けいけん つんでらっしゃい
-こどもだと おもったら アンタ……\xfffeウフフ…… たくましいじゃないの……
-ベテランなんて よんじゃ イヤ！\xfffeおんなごころは いつでもはなざかり
-こいも ポケモンも まだまだよ！\xfffeしょうがいげんえき なんだから！
-め かた こしは つらいけど\xfffeハートは とわに ミニスカートなの
-オレは さいきょうの バックパッカー\xfffeバックには たくさんの ポケモンが！
-ハハハッ せなかの バッグみたいに\xfffeビッグだろ？ オレさまって やつは！
-このバッグには まだまだポケモンが！\xfffeって あな あいてるじゃん これ
-オレは べつに じゆうが ほしくて\xfffeたびしてる わけでは ないんだよ
-おおきな にもつ かかえてるけど\xfffeそれ ほんとに ひつようなのかい？
-オレの バッグの なかには そらが\xfffeひろがってる つまり カラなのさ
-もうなんにちも なにも たべてないわ\xfffeあなたが おいしそうに みえてきた
-ああ もうだめ がまんできない\xfffeおねがい ちょっとだけ かませて
-ああ もうだめ あなたも ポケモンも\xfffeごちそうに しか みえない
-ダンナも あたしも おかねなくてさ\xfffeヒッチハイクで ハネムーンなのよ……
-しんこんそうそう こんな たび……\xfffeこのさきが おもいやられるわ……
-しかも ダンナと はぐれちゃうし……\xfffeったく どこ ほっつきあるいてんだか
-ちょっと！ ちょっと！ おきゃくさん！\xfffeイイこ いるからさ！ みてってよ！
-どーですか！ おきゃくさん！\xfffeウチじまんの かんばんポケモンよ！
-ちょっと こまるよ おきゃくさーん！\xfffeウチの こに てださないでよ もー
-ウエーターは よを しのぶ\xfffeせいかつの ための すがた！
-オフのひの ほんとうの オレは\xfffeエリートトレーナー なのだっ！
-せいかつが たいへんだからさ\xfffeずーっと よを しのんでるの
-あての ポケモン さいきょう じゃき\xfffeおまんにゃ まけるきが しやーせん
-そげん やわな ポケモンで\xfffeあてに かてると おもっちょうか？
-あーあ きっついのお\xfffeまけるのは くやしいぜよ
+As a Veteran, I'll show you\xfffea feast of flavorful Pokémon!
+How were my veteran Pokémon?\xfffeBittersweet, aren't they?
+Defeat is the spice of life\xfffeburning my tongue...
+Oh my, you're simply adorable!\xfffeCome here, I'll be gentle!
+Oh, truly delectable...\xfffeI'll be waiting for your return!
+You're delightful in battle, as well!\xfffeMay you play with me again!
+Huh? Aren't you still just a kid?\xfffeMaybe come back when you're older?
+No offense, but you SUCK!\xfffeGet in some more experience!
+And I thought you were just a kid...\xfffeHeehee... you're pretty strong...
+Stop calling me a "veteran"!\xfffeA woman's heart is always in bloom!
+All's fair in love and Pokémon!\xfffeYou need to suffer a casualty first!
+My eyes, shoulders, and hips all hurt,\xfffebut my heart is eternally Lass!
+I am the ULTIMATE BACKPACKER!\xfffeLookit the Pokémon I've got in here!
+HAHAHA! I'm just as big of a deal\xfffeas the bag on my back is big!
+I still have Pokémon in this bag!\xfffe...But there's a HOLE in it!
+Wanting to be free wasn't really\xfffemy reason for setting out!
+I carry a lot of luggage,\xfffebut do I really need all this?
+My bag is filled with sky...\xfffeThat is, it's empty!
+I haven't had a bite in days...\xfffeYou're looking pretty tasty...
+Ahhh, I can't help myself!\xfffeCan I nibble on you a little...?
+Ahhh, no more! You and your\xfffePokémon are looking like feasts...
+My husband and I are penniless,\xfffeso we're on a hitchhike honeymoon...
+A trip like this for newlyweds...\xfffeI worry a bit for our future...
+I got separated from my husband...\xfffeWhere's he off loitering now?
+Excuse me! Excuse me, customer!\xfffeI've got a good kid! Look at him!
+SOOO, customer?!\xfffeThat's my honor student Pokémon!
+Excuse me, customer?!\xfffePLEASE don't hurt my kid!
+Being a waiter is a way\xfffeto hide yourself from the world!
+On my off days,\xfffeI'm actually an Ace Trainer!
+Daily life is hard...\xfffeSo I'm always hiding myself...
+My Pokémon are the BESTEST!\xfffeI ain't gonna lose ta you!
+You think ya can beat me\xfffewith them pansy Pokémon?
+Ahhh! That was crazy!\xfffeLosin' sucks, mate!
 Don't you think a restaurant\xfffefor Pokémon would be fun?
 Wouldn't everyone delight in\xfffea full course for Pokémon?
 A restaurant FOR Pokémon!\xfffeNOT a Pokémon restaurant!
 PAGOOO!! PAGOOO!!
 PAGOOO!!
 PAGORAAAAAHHH!!
-ワシが キミの じんせいさんみゃく！\xfffeこえれるもんなら こえてみんかい！
-ハハ！ ワシという いただき までの\xfffeみちのりは まだまだ けわしいでぇ！
-とうとう とうちょう されたな！\xfffeここが ワシの さんちょうや！
-おれっちに まけたら つりの ごくい\xfffeかったら しんずいを おしえるぞな
-つりのごくい それは たとえるなら\xfffeいねむりのごとく ボケーとまつこと
-つりのしんずい それは ただひたすら\xfffeグイグイと ひくべし！ ひくべし！
-オイラは つねに おおものねらい！\xfffeザコだったら ひっこんで おくれよ！
-なかなかの ひきな キミ！\xfffeナイス ファイトだったぞ！
-おお！ なんという ビッグヒット！\xfffeうでも こころも ビリビリきたぜ！
-キミって なんだか おとなっぽいわ\xfffeおねえさん そういうこ すきよ
-それにしても おとなっぽいわね\xfffeじつは キミって もう おとな？
-しょうねんのこころを もった おとこ\xfffeなんて ただの あまえんぼ でしょ
+I'm your life's greatest mountain!\xfffeClimb me, you can climb 'em all!
+Haha! The road over me\xfffeis a long way off for you!
+The top at last!\xfffeYes, this is my summit!
+Lose, and I'll tell you fishing's basics.\xfffeWin, and know fishing's essence!
+The basics of fishing...?\xfffeJust wait without nodding off!
+The essence of fishing\xfffeis simply to pull hard! PULL!!
+I'm always going for the big fish!\xfffeIf you're just small fry, swim off!
+Well, good attempt!\xfffe'Twas a nice fight!
+Whoa! Talk about a biggun!\xfffeMy hands and my heart are shaking!
+Hm, you seem pretty mature...\xfffeI like kids like you!
+Still, undoubtedly mature!\xfffeHeck, are you an adult already?
+Men with the hearts of boys\xfffeare such spoiled brats!
 How much was this umbrella, you ask?\xfffeIt's just some cheap, disposable thing!
 Sure, I'm a Parasol Lady, but\xfffeI don't put all my money into them!
 Umbrellas are just ordinary, aren't they?\xfffeBut they're good in the rain!
-ポケモンやったら だれにも\xfffeしかられんで あばれられる！
+ポケモンやったら だれにも\xfffeしかられんで あばれられる!
 どこにも おこるヤツが おらん\xfffeせやから ポケモンは サイコーや
 あんさんも どエライ ケンカが\xfffeすきやね ワイら なかまやね
 If my online friends knew I looked\xfffelike this, they wouldn't mess with me!
 I won, but that was scary as heck...\xfffeThis place really isn't "for" me...
 Eeeee... I ought to just\xfffestay in my room on the PC...
-このマシンと ワシは いつも\xfffeどんなときも いっしょなのだ
-ワシが ワシらしく あるためには\xfffeこのマシンが ひつようなのだ
-まけて こころぼそい きもちを\xfffeバイクが ささえてくれるのだ
+I'm always with this machine!\xfffeAnytime, anywhere!
+I need this machine\xfffeso I can be like me!
+My motorcycle supports me\xfffewhen I'm forlorn with loss...
 I don't have money for gas!\xfffeGotta walk it along myself...
 A biker will keep on, even with\xfffea bike that doesn't work...
 Nooo! Mommyyy! Daddyyy!\xfffeBeing a biker's rough...
 Ahhh, I'm so hungry...\xfffeI can't show off... what to do?
 I want all-I-can-eat bread,\xfffeso I work at a bakery!
 Ahhh! I'm out of calories!\xfffeSomebody give me calories!
-よーし！！ やっちゃうわよー！\xfffeわたし はりきっちゃうわよー！！
-どーんっ！！
-おぼえてなさいよ！！
-かれいな ステップで まどわせるぜ\xfffeあっ ホイの ホイの ホーイッ！
-オレの ステップに むちゅうで\xfffeしゅうちゅう できなかったな！
-ホイ！ ホイ！ あ！ グギッ！\xfffeウギャーーーッ！！
+ALRIGHT!! Let's DO IT!!\xfffeI am SO PUMPED!!
+BAAANG!!
+I'LL REMEMBER THIS!!
+I'll lose you in my beautiful steps!\xfffeAh! Ho! Ho! Hoooh!
+I'm so entranced by my own steps\xfffethat I can't concentrate!
+Ho! Ho! Ah! Augh!\xfffeGYAAAAAGH!!
 Sorry to keep you waiting!\xfffeI'm everyone's idol, Clown Clown!
 Thank you verrrrry much!\xfffeClown Clown has left the building!
 This was Clown Clown!\xfffeThanks for all your support!
-じゃあ もしアンタが まけたら\xfffeわたしの メイドに なりなさい
-さあ たった いまから わたしが\xfffeアンタの ごしゅじんさまだから
-いつか アンタを わたしの\xfffeメイドに してやるからね
-あー もー おっかしいなー\xfffeなんか めっちゃ しんどいわー
-やっぱ なんか だるいわー\xfffeからだ グズグズ いっとるわー
-あー ほんま だるー あかんわー\xfffeウチ もう ウチ かえるわー
+Okay! If you lose,\xfffeyou must become my maid!
+Okay! At least for the moment,\xfffeI shall be your master!
+I'll make my maid someday,\xfffeI swear upon it...
+Aw... geez... this is weird...\xfffeI feel sooo tired...
+Man, I feel so sluggish...\xfffeMy body's all dilly-dallying...
+Aw... I've got no chance...\xfffeI gotta get back home...
 A CHILD LIKE YOU COULD NOT\xfffeUNDERSTAND THE BEAUTY I SEEK.
 A SLAVE TO BEAUTY LIKE MYSELF\xfffeIS NOT FIT FOR DEFEAT.
 ARE YOU THE TRUE FORM OF\xfffeTHE BEAUTY I SEEK TO ATTAIN?!
-すきなえを かき ポケモンと くらす\xfffeオレは よせいを まんきつしてるぜ 
-くやしい きもちも とし とりゃ\xfffeいい おもいでに かわるもんだぜ
-くろうだったら わかいうちに しろよ\xfffeとし くったら からだが もたねえぜ
-こどもは おひるねちゅうよ\xfffeその あいだに トップをねらうわ！
-あらやだ\xfffeもう こんな じかん！
-おひるねの あとは おやつの じかん\xfffeはやく ほいくえんに もどらないと
+I'm enjoying the years I have left\xfffepainting what I like with Pokémon!
+As years go on, hurtful feelings\xfffeget replaced with good memories...
+Deal with your troubles in youth!\xfffeWhen you're old, your body can't handle it...
+While the kids are having\xfffeafternoon naps, I aim for the top!
+Oh, geez!\xfffeThis late already?!
+It's snacktime after naptime!\xfffeGotta get back to the daycare!
 Goodbyes are just part of life!\xfffeSo enjoy the moment!
 We might never meet again,\xfffeso you should give your best!
 This is the path of a woman!\xfffeWould a greenhorn like you understand?
@@ -808,89 +808,89 @@ This is the path of a woman!\xfffeWould a greenhorn like you understand?
 I'VE COME FROM A DISTANT ISLAND\xfffePLEASE BE MY OPPONENT
 I HAVE WON
 I WAS INEXPERIENCED\xfffeSHALL I BE YOUR PUPIL?
-オイラが ポケモンに はまりすぎてて\xfffeうちの カカアが カンカン なのよぉ
-こんなに たのしいんだぜ ポケモンは\xfffeんなもん やめられるわけ ねえよなぁ
-かえりたくねえなぁ うちの カカアな\xfffeでんせつクラスに おっかねえんだもん
-へいぼんな ひびの うるおい……\xfffeぼくには ポケモンが かかせない
-ポケモンだけが ぼくの たいくつで\xfffeつまらない ひびを すくってくれる
-かがやいてる きみを みてると\xfffeドロドロに とけてしまいそうさ
-ああ オレにも キミみたいな ころが\xfffeあったよ ゆめや きぼうに もえてな
-ゆめや きぼうは たいせつさ\xfffeでも それだけではな……
-ゆめや きぼうだけじゃ ダメなんだ\xfffeだいじなのは…… いや やめておこう
-とにかく スカッとした しょうぶを\xfffeしたいんで そのへん イヨロシク！
-センキュー！ やっぱ しょうぶは\xfffeスカッとして たまんないねえ！
-オーケー オーケー わかったぜ！\xfffeこんかいは このへんに しとこうぜ
-ほじょりん ついてて いいじゃない\xfffeスピードでなくて いいじゃない
-じぶんなりで いいじゃない\xfffeいつかは ゴールに つくじゃない
-しょうぶに まけても いいじゃない\xfffeじてんしゃ あるから いいじゃない
+I'm so obsessed with Pokémon, She\xfffeWho Must Be Obeyed is getting furious...
+Pokémon is just so fun!\xfffeWhy would I stop?
+I don't wanna go home... I'm really not\xfffelooking forward to Her Majesty's lecture...
+On ordinary, sluggish days...\xfffeI never fail to fight Pokémon!
+Pokémon alone save me\xfffefrom the tedium of my days...
+Just looking at your radiance\xfffemakes my sluggishness melt away...
+Ah, I had such hopes and dreams\xfffewhen I was your age!
+Hopes and dreams are precious!\xfffeBut they're not all...
+You need more than hopes and dreams.\xfffeYou need to treasure... um, never mind.
+とにかく スカッとした しょうぶを\xfffeしたいんで そのへん イヨロシク!
+センキュー! やっぱ しょうぶは\xfffeスカッとして たまんないねえ!
+オーケー オーケー わかったぜ!\xfffeこんかいは このへんに しとこうぜ
+Training wheels are fine, right?\xfffeGoing slow is fine, right?
+I can do it myself, right?\xfffeI'll reach the goal someday, right?
+It's okay to lose, right?\xfffeBecause I have my bike, right?
 うちの ポケモンの わざば\xfffeあんたに みきれるわけが なか
 あんたは とろかやねー
 うちの スピードに ついてくるとは\xfffeあんたは なにもん やろか……
-オレ しんこん ホヤホヤなんですよ\xfffeしかも こどもが うまれるんです
-コッチのほうが いりよう なんですよ\xfffeごしゅうぎとか いただけないすか？
-いえに かえんないと マズいんだけど\xfffeどうにも ポケモンが たのしくて……
-ビジネスマンの そこぢから……\xfffeしかと めに やきつけて おくんだ
-これは いっぽん とられました\xfffeイヨッ！ せかいいちの うでまえ！
-かおでわらって こころでなく\xfffeそれが ビジネスマンです ニコニコ
+I'm a newlywed, feeling fresh!\xfffeAnd I've got a kid!
+We're kind of... in need.\xfffeHow about a congratulatory gift?
+I know we've got to buy a house,\xfffebut we can enjoy Pokémon anywhere...
+The hidden strength of a businessman...\xfffeshall be burnt into your vision!
+That's one down!\xfffeYes! Truly the world's most skilled!
+Smiling, but crying inside...\xfffeYep, that's a businessman! Grin!
 ポケモンしょうぶの きびしさ\xfffeおじさんが ポロリしちゃうぞ
 いかんなぁ きょうの おじさん\xfffeいささか サービス しまくりだわ
-おじさんの ポケモンを めと こころに\xfffeしっかり きざみつけて くれたかい？
-オレさまを だれだと おもってる？\xfffeてんかの おまわりさま だぞう！
-おまわりさまに さからうからだ！\xfffeオレさま えらいんだぞう！
-おまわりさまの オレさまに……\xfffeいつか たいほして やるぞう
-おはずかしい はなしだが わしも\xfffeわかいころは ヤンチャ したもんさ
-わかいくせに げんきが たりんな\xfffeワシが きたえて やろうか？
-ええのう ええのう わかいうちは\xfffeそのくらい ヤンチャで ええ
-キュッ！ キュッキュッキュッ……\xfffeんぁ？ あんだ？ しょうぶかい？
-しごとの とちゅう だっちゅうのに\xfffeおまえさんたら せっかちじゃのー
-あーあー せっかく ふいた ゆかを\xfffeこんなに よごしよってからに
-じんせいのレールは ２ほんしかない\xfffeすきか？ きらいか？ それだけだ
-ぼくは すき って レールを\xfffeえらんで いく とおまわりでもな 
-きらい って レールが じつは\xfffeゴールへの ちかみちだったりもするな
-ボクは でんしゃさ きめられた\xfffeレールのうえを ただ はしるのさ
-きみは とまることの ない えきさ\xfffeおたがい ただ すれちがうだけなのさ
-おなじ みちを いったり きたり\xfffeでんしゃは えらいと おもうのさ
+おじさんの ポケモンを めと こころに\xfffeしっかり きざみつけて くれたかい?
+Who the heck do you think I am?!\xfffeI am the the patroller of the heavens!
+You'd defy a policeman?\xfffeWho do you think YOU are?!
+Believe you me, you will be caught...\xfffeBy I who patrols the heavens!
+It's a little embarrassing,\xfffebut I used to be a naughty kid...
+For a youth, you lack energy!\xfffeShall I train you?
+Very well, very well...\xfffeBoys might as well be boys...
+Squeek! Mop-squeep-squeek...\xfffeNuh? What? Battle?
+Interrupting me during my work...\xfffeYou're impatient, you know that?
+Ahhh! You made a mess\xfffeof the floor I just cleaned!
+Life has only two rails!\xfffeLove or hate? That's all there is!
+As a policeman, I choose\xfffeto take the rail of love!
+The rail of hate is actually\xfffea bit of a shortcut...
+I am a train, simply heading forth\xfffealong the decided rails!
+You're a station I never stop at!\xfffeWe only pass each other by...
+I think trains are incredible for\xfffecoming and going on the same paths!
 おめさんは しごとが できンだな\xfffeそれに すげ つよんだス
 きたいどごしすぎて しまいだス\xfffeビジネスでは なくて よかっただな
 しごとと あそびどご りょうりつ\xfffeできるひとは ステキだス
-コドモノコロ カラ ズット\xfffeイッショノ ポケモン ナノヨ
-ワタシニ トッテ ポケモンハ\xfffeカゾクト カワラナイ ソンザイナノ
-モシモ ワタシニ コドモガ デキタラ\xfffeコノコタチヲ ユズロウト オモウ
-やあ！ ぼく どくたー だよ！\xfffeねえねえ ちゅうしゃ させて！
-さあ！ ちゅうしゃ させて！\xfffeだいじょうぶ！ すごく いたいよ！
-わあ きみ いいうで してるね！\xfffeだから さあ ちゅうしゃ させてよ！
-ゲホッ！ ゲホゲホッ！ あとなんにん\xfffeひとが すくえるのか オレは……
-ゲホッ！ もっと たくさんの ひとを\xfffeすくいたかったのに！ ゲホゲホッ！
-いしゃの ふようじょう とは……\xfffeゲホッ！ そろそろ げんかいだ……
-アナタ おちゅうしゃに するぅ？\xfffeそれとも て ん て き？
-おちゅうしゃも てんてきも なんて\xfffeアナタって よくばりさん ね！
-もー なんだか イヤな かんじ！\xfffeアンタは わたしの てんてきね！
-こういう しごと してるからかな\xfffeふしぎな たいけんも おおいのね
-なんでだか ゴーストの ポケモンには\xfffeやたら なつかれちゃうのよねえ
-あーあ まけちゃった…… ところでさ\xfffeキミの うしろに いる ひと だれ？
-そだてすぎたんだ…… このこたち……\xfffeもう ぼくの てには おえない……
-おしまいだ…… もう だれも\xfffeこのこたちを とめられない……
-やっと しずかに なった……\xfffeたすかったよ ありがとう……
-オマエの そだててる ポケモン\xfffeこのオレが ためしてやるよ！
-フン！ しょせん このていどかよ……\xfffeオレ きたい してたんだけどな……
-なんだよオイ！ スゲーなオマエ！！\xfffeなんて ポケモン そだててんだよ！
+I HAVE BEEN WITH POKéMON\xfffeSINCE I WAS A CHILD
+TO ME POKéMON ARE\xfffeNO DIFFERENT THAN FAMILY
+PERHAPS IF I HAD CHILDREN\xfffeI WOULD GIVE THEM THESE
+Hey! I'mma doctor!\xfffeHey-hey, time for an injection!
+Okay! Injection time!\xfffeIt's alright! It REALLY hurts!
+Wow, you're good!\xfffeSo, time for an injection!
+Cough! Hack-cough!\xfffeHow many more people can I save...?
+Cough! I wanted to save\xfffeso many more people! HACK!
+A doctor can't neglect his own...\xfffeHAAACK! I can't take it anymore...
+Do you want an injection?\xfffeOr maaaaaybe... an IV drip?
+Injection? IV drip?\xfffeGosh, you're so greedy!
+Ooh, I'm not feeling good!\xfffeYou're like poison IV to me!
+Working this job, I've had\xfffea ton of miraculous experiences!
+Why do I find myself so drawn\xfffeto ghost Pokémon, anyway?
+Awww, I lost... By the way,\xfffewho's that behind you?
+I've raised them too much... I can't...\xfffecarry these kids any longer...
+It's the end...\xfffeNo one can stop them now...
+They've finally calmed down...\xfffeThanks for the help...
+Test the Pokémon you've\xfffetrained against me!
+Hmph! That your best shot...?\xfffeI was hoping for better...
+Whoa, whoa! You're nuts!!\xfffeThat is some Pokémon training!
 わだすの トレーニングした じまんの\xfffeポケモンば みてくださってけろ
 このポケモンは わだすの じまんの\xfffeともだち だず たからもの なんだず
 おだぐさまは つよくてかっこええわね\xfffeんだげっと つぎは まけねえがらな
-アタクシは トップブリーダーだもの\xfffeどんなポケモンも てなずけられるわ
-どう？ アタクシの ポケモンは\xfffeとっても ちゅうじつ でしょう？
-なつきすぎて あまえんぼうね……\xfffeこのこたち しょうぶに むかないわ
-ムキキーッ！ だれがジェントルだー！\xfffeテメーいますぐ ぶったおしてやるー！
-ムキーッ！ ムキキーッ！ オレさまは\xfffeジェントルマン なんかじゃねー！
-ムキキーッ！ テメー おぼえてろー！\xfffeいつか ぶったおしてやるからなー！
-むかし アニキは おしえてくれた……\xfffeめ だっ！ めを ねらえっ！ と……
-アニキの いうことは ただしかった……\xfffeありがとな…… アニキ……
-ガキに まけちまったぜ アニキ……\xfffeアンタの いうことを きいてれば……
+I'm in the top percentage of breeders!\xfffeI'll tame any Pokémon you give me!
+So? My Pokémon are SO\xfffeloyal to me, aren't they?
+I must have pampered them too much...\xfffeThese guys aren't fit for battle...
+ムキキーッ! だれがジェントルだー!\xfffeテメーいますぐ ぶったおしてやるー!
+ムキーッ! ムキキーッ! オレさまは\xfffeジェントルマン なんかじゃねー!
+ムキキーッ! テメー おぼえてろー!\xfffeいつか ぶったおしてやるからなー!
+Long ago, my brother told me...\xfffe"The eyes! Aim for the eyes!"
+So brother was right...\xfffeThank you... brother...
+I lost to a brat, brother...\xfffeIf only I'd listened to you...
 としを とったところで ぜいたくは\xfffeやめられるはずも とまるはずもない
 こどもには こくかも しれませんが\xfffeうきよの さたは かねしだいですわ
 わかいころに おぼえた くせって\xfffeとしを とっても なおりませんの
-おそざきにして くるいざき！\xfffeさかせて みせます あでやかに！
-まって さいて さきほこれ！\xfffeおんなの しょうりの たいりんよ！ 
+おそざきにして くるいざき!\xfffeさかせて みせます あでやかに!
+まって さいて さきほこれ!\xfffeおんなの しょうりの たいりんよ!
 つぼみの ままで かれゆくよりも\xfffeひとはな さかせて ちりたいの
 Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
 No good! No good at all!\xfffeYou'll never be on top!
@@ -922,21 +922,21 @@ Bravo!!\xf000븁\x0000The victory you have achieved\xfffewith your impressive ab
 Welcome! I've been waiting!\xf000븁\x0000Let me introduce myself...\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Winning, winning, winning...\xfffeAnd what do you see ahead?\xf000븀\x0000What is your destination?\xf000븁\x0000Thinking it over,\xfffeyou realize something...\xf000븁\x0000Only winning means you don't know\xfffehow to handle not winning.\xf000븁\x0000So, once more,\xfffechallenge me with your best.\xf000븀\x0000Prepare for departure!!
 It seems I was victorious,\xfffebut you are skilled indeed!\xf000븁\x0000Tactics... reading your opponent...\xfffeYou possess fantastic skills.\xf000븁\x0000Yes! I would desire to\xfffechallenge you again anytime!\xf000븁\x0000Certainly! Certainly!\xfffeWe await your riding again!
 Bravo!!\xfffeSUPER bravo!!\xf000븁\x0000For such a fantastic\xfffePokémon trainer as you...\xf000븁\x0000Seeing you put in all your might\xfffehas made me very happy!\xf000븁\x0000Yes!\xfffeIn facing strong opponents,\xf000븀\x0000you become stronger yourself.\xf000븁\x0000Please, devote yourself further still,\xfffeand aim for higher destinations!!
-I'm Kudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000Now for a wonderful battle,\xfffefilled with varieties of Pokémon\xf000븀\x0000using a variety of moves...
-I'm Kudari.\xf000븁\x0000I beat you.\xf000븁\x0000But today's victory\xfffewas a stroke of luck.\xf000븁\x0000Change one part of a Double Battle,\xfffeand it all unfolds differently.\xf000븁\x0000Um.\xfffeDefeat twenty trainers\xf000븀\x0000and fight me again!
-I'm Kudari.\xf000븁\x0000You beat me.\xf000븁\x0000You're the strongest trainer\xfffeof all our recent challengers!\xf000븀\x0000An incredible trainer!\xf000븁\x0000Yes! It was fun!\xfffeIf you would, ride this train again,\xf000븀\x0000or ride another train!
-Remember me?\xfffeI'm Kudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000I'll be very serious this time.\xfffeSerious through and through.\xf000븁\x0000Pokémon battles must be serious\xfffeor else they're a bore.
-I'm Kudari.\xf000븁\x0000I beat you.\xfffeBut this isn't the end.\xf000븁\x0000I'm sure you'll come\xfffebefore me again.\xf000븁\x0000I'll wait for that to happen,\xfffethen beat you again.\xf000븁\x0000Because I am\xfffeSubway Master Kudari.
-I'm Kudari.\xf000븁\x0000I'm a Subway Master,\xfffebut you beat me again.\xf000븁\x0000But it was refreshing,\xfffeand extremely fun!\xf000븁\x0000Your desire to win,\xfffemy desire not to lose...\xf000븀\x0000They were both very real.\xf000븁\x0000When very real things collide,\xfffeit makes my heart pitter-patter!
-わたくし サブウェイマスターの\xfffeノボリ と もうします！\xf000븁\x0000かたがわに ひかえるは おなじく\xfffeサブウェイマスターの クダリです\xf000븁\x0000さて マルチバトル\xf000븁\x0000おたがいの じゃくてんを\xfffeカバーしあうのか\xf000븁\x0000はたまた あっとうてきな\xfffeこうげきりょくを みせるのか\xf000븁\x0000どのように たたかわれるのか\xfffeたのしみで ございますが\xf000븁\x0000あなたさまと パートナーとの\xfffeいきが ぴたりと あわないかぎり\xf000븀\x0000しょうりするのは むずかしいでしょう\xf000븁\x0000では クダリ\xfffeなにかございましたら どうぞ！
+I'm Fudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000Now for a wonderful battle,\xfffefilled with varieties of Pokémon\xf000븀\x0000using a variety of moves...
+I'm Fudari.\xf000븁\x0000I beat you.\xf000븁\x0000But today's victory\xfffewas a stroke of luck.\xf000븁\x0000Change one part of a Double Battle,\xfffeand it all unfolds differently.\xf000븁\x0000Um.\xfffeDefeat twenty trainers\xf000븀\x0000and fight me again!
+I'm Fudari.\xf000븁\x0000You beat me.\xf000븁\x0000You're the strongest trainer\xfffeof all our recent challengers!\xf000븀\x0000An incredible trainer!\xf000븁\x0000Yes! It was fun!\xfffeIf you would, ride this train again,\xf000븀\x0000or ride another train!
+Remember me?\xfffeI'm Fudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000I'll be very serious this time.\xfffeSerious through and through.\xf000븁\x0000Pokémon battles must be serious\xfffeor else they're a bore.
+I'm Fudari.\xf000븁\x0000I beat you.\xfffeBut this isn't the end.\xf000븁\x0000I'm sure you'll come\xfffebefore me again.\xf000븁\x0000I'll wait for that to happen,\xfffethen beat you again.\xf000븁\x0000Because I am\xfffeSubway Master Fudari.
+I'm Fudari.\xf000븁\x0000I'm a Subway Master,\xfffebut you beat me again.\xf000븁\x0000But it was refreshing,\xfffeand extremely fun!\xf000븁\x0000Your desire to win,\xfffemy desire not to lose...\xf000븀\x0000They were both very real.\xf000븁\x0000When very real things collide,\xfffeit makes my heart pitter-patter!
+わたくし サブウェイマスターの\xfffeノボリ と もうします!\xf000븁\x0000かたがわに ひかえるは おなじく\xfffeサブウェイマスターの クダリです\xf000븁\x0000さて マルチバトル\xf000븁\x0000おたがいの じゃくてんを\xfffeカバーしあうのか\xf000븁\x0000はたまた あっとうてきな\xfffeこうげきりょくを みせるのか\xf000븁\x0000どのように たたかわれるのか\xfffeたのしみで ございますが\xf000븁\x0000あなたさまと パートナーとの\xfffeいきが ぴたりと あわないかぎり\xf000븀\x0000しょうりするのは むずかしいでしょう\xf000븁\x0000では クダリ\xfffeなにかございましたら どうぞ!
 わたくし ノボリと クダリの\xfffe２りょう へんせい\xf000븁\x0000こんかいは しょうりに むかって\xfffeまいしん できた ようす\xf000븁\x0000ですが あなたさまの じつりょくも\xfffeさすがの ひとこと です
-ブラボー！！\xf000븁\x0000あなたさまに みせていただいたのは\xfffeトレーナーとしての きらめきです\xf000븁\x0000ですが ひとこと\xfffeいわせて いただきましょう！\xf000븁\x0000わたしたちに しょうり したのも\xfffeじんせいの つうかてん\xf000븁\x0000あなたさまなら\xfffeもっともっと うえを めざせましょう\xf000븁\x0000さらなる もくひょうに むかって\xfffeばくそう なさってくださいまし！
-ルールを まもって\xfffeあんぜん うんてん！\xf000븁\x0000ダイヤを まもって\xfffeみなさん スマイル！\xf000븁\x0000ゆびさし かくにん\xfffeじゅんび オッケー！\xf000븁\x0000めざすは しょうり！\xfffeしゅっぱつ しんこう！
-ぼく クダリ\xf000븁\x0000ノボリと いっしょに かてちゃった\xf000븁\x0000だけど つぎに たたかえば\xfffeどうなるか まったく わからない\xf000븁\x0000だから まっている\xfffeきみたちが ここに くることを！
-ぼく クダリ\xf000븁\x0000ノボリと いっしょに まけちゃった\xf000븁\x0000きみたちの コンビネーション\xfffeさいこう バツグン！\xf000븀\x0000ものすごーく つよい トレーナー！\xf000븁\x0000うん！ さいこうに おもしろかった！
-あらためまして あいさつを\xf000븁\x0000わたくし サブウェイマスターの\xfffeノボリ と もうします！\xf000븁\x0000さて いまさら\xfffeここまで いらした あなたさまに\xf000븀\x0000なにも いうことは ございません\xf000븁\x0000いままでに ない\xfffeしじょうさいこうの たたかいを\xf000븀\x0000さっそく はじめましょう！\xf000븁\x0000では クダリ\xfffeなにかございましたら どうぞ！
-わたくし ノボリと クダリの\xfffe２りょう へんせい\xf000븁\x0000こんかいは しょうりに むかって\xfffeまいしん できた ようす\xf000븁\x0000さて ここで おわりに するか\xfffeさいど いどまれるのか\xf000븁\x0000それは あなたさまの じゆう\xfffeですが わたくしから ひとこと\xf000븁\x0000じんせいに おわり というなの\xfffeしゅうちゃくてんは ないのです！
-ブラボー！！\xfffeほんきで ブラボー です！！\xf000븁\x0000あなたがたと ポケモンの\xfffeさいこうの コンビネーション\xf000븀\x0000ひじょうに すばらしいです\xf000븁\x0000そう！ じぶんと\xfffeじぶんいがいの くみあわせは\xf000븁\x0000ふだんなら だせない\xfffeエネルギーを うみだす\xf000븀\x0000さいこうの エンジン！\xf000븁\x0000よろしければ また あたらしい\xfffeくみあわせで わたくしどもに\xf000븀\x0000いどんでくださるよう おねがいします
-やること いうこと\xfffeいつでも おんなじ\xf000븁\x0000ルールを まもって\xfffeあんぜん うんてん！\xf000븁\x0000ダイヤを まもって\xfffeみなさん スマイル！\xf000븁\x0000ゆびさし かくにん\xfffeじゅんび オッケー！\xf000븁\x0000めざすは しょうり！\xfffeしゅっぱつ しんこう！
-ぼく クダリ\xf000븁\x0000かてちゃったけれど\xfffeあんまり なっとく していない\xf000븁\x0000だって きみたちから\xfffeあきらめない こころを かんじる\xf000븁\x0000だって きみたちは\xfffeもっともっと つよくなる！\xf000븁\x0000だから まっている\xfffeきみたちが ここに くることを！
-ぼく クダリ\xf000븁\x0000また きみたちに まけちゃった\xf000븁\x0000だけど なっとく\xfffeきみたち つよすぎる！\xf000븁\x0000きみじしんが もつ つよさ\xfffeポケモンへの しんらい\xf000븀\x0000つきぬ おうえん！\xf000븁\x0000うん！ さいこうに おもしろかった！\xfffeまた あそびに きてよ！
+ブラボー!!\xf000븁\x0000あなたさまに みせていただいたのは\xfffeトレーナーとしての きらめきです\xf000븁\x0000ですが ひとこと\xfffeいわせて いただきましょう!\xf000븁\x0000わたしたちに しょうり したのも\xfffeじんせいの つうかてん\xf000븁\x0000あなたさまなら\xfffeもっともっと うえを めざせましょう\xf000븁\x0000さらなる もくひょうに むかって\xfffeばくそう なさってくださいまし!
+ルールを まもって\xfffeあんぜん うんてん!\xf000븁\x0000ダイヤを まもって\xfffeみなさん スマイル!\xf000븁\x0000ゆびさし かくにん\xfffeじゅんび オッケー!\xf000븁\x0000めざすは しょうり!\xfffeしゅっぱつ しんこう!
+ぼく クダリ\xf000븁\x0000ノボリと いっしょに かてちゃった\xf000븁\x0000だけど つぎに たたかえば\xfffeどうなるか まったく わからない\xf000븁\x0000だから まっている\xfffeきみたちが ここに くることを!
+ぼく クダリ\xf000븁\x0000ノボリと いっしょに まけちゃった\xf000븁\x0000きみたちの コンビネーション\xfffeさいこう バツグン!\xf000븀\x0000ものすごーく つよい トレーナー!\xf000븁\x0000うん! さいこうに おもしろかった!
+あらためまして あいさつを\xf000븁\x0000わたくし サブウェイマスターの\xfffeノボリ と もうします!\xf000븁\x0000さて いまさら\xfffeここまで いらした あなたさまに\xf000븀\x0000なにも いうことは ございません\xf000븁\x0000いままでに ない\xfffeしじょうさいこうの たたかいを\xf000븀\x0000さっそく はじめましょう!\xf000븁\x0000では クダリ\xfffeなにかございましたら どうぞ!
+わたくし ノボリと クダリの\xfffe２りょう へんせい\xf000븁\x0000こんかいは しょうりに むかって\xfffeまいしん できた ようす\xf000븁\x0000さて ここで おわりに するか\xfffeさいど いどまれるのか\xf000븁\x0000それは あなたさまの じゆう\xfffeですが わたくしから ひとこと\xf000븁\x0000じんせいに おわり というなの\xfffeしゅうちゃくてんは ないのです!
+ブラボー!!\xfffeほんきで ブラボー です!!\xf000븁\x0000あなたがたと ポケモンの\xfffeさいこうの コンビネーション\xf000븀\x0000ひじょうに すばらしいです\xf000븁\x0000そう! じぶんと\xfffeじぶんいがいの くみあわせは\xf000븁\x0000ふだんなら だせない\xfffeエネルギーを うみだす\xf000븀\x0000さいこうの エンジン!\xf000븁\x0000よろしければ また あたらしい\xfffeくみあわせで わたくしどもに\xf000븀\x0000いどんでくださるよう おねがいします
+やること いうこと\xfffeいつでも おんなじ\xf000븁\x0000ルールを まもって\xfffeあんぜん うんてん!\xf000븁\x0000ダイヤを まもって\xfffeみなさん スマイル!\xf000븁\x0000ゆびさし かくにん\xfffeじゅんび オッケー!\xf000븁\x0000めざすは しょうり!\xfffeしゅっぱつ しんこう!
+ぼく クダリ\xf000븁\x0000かてちゃったけれど\xfffeあんまり なっとく していない\xf000븁\x0000だって きみたちから\xfffeあきらめない こころを かんじる\xf000븁\x0000だって きみたちは\xfffeもっともっと つよくなる!\xf000븁\x0000だから まっている\xfffeきみたちが ここに くることを!
+ぼく クダリ\xf000븁\x0000また きみたちに まけちゃった\xf000븁\x0000だけど なっとく\xfffeきみたち つよすぎる!\xf000븁\x0000きみじしんが もつ つよさ\xfffeポケモンへの しんらい\xf000븀\x0000つきぬ おうえん!\xf000븁\x0000うん! さいこうに おもしろかった!\xfffeまた あそびに きてよ!

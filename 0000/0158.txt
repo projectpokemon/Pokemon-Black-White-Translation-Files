@@ -4,7 +4,7 @@ L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
+/
 ♂
 ♀
 Choose a Pokémon.
@@ -63,10 +63,10 @@ No
 Recieved the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
 The Bag is full.
 The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
-さんかを やめますか？
+さんかを やめますか?
 Yes
 No
-ちょうせんを やめますか？
+ちょうせんを やめますか?
 Yes
 No
 \xf000Ă\x0001\x0000\xfffewoke up.
@@ -81,9 +81,9 @@ You're already surfing.
 You can't use that here.
 It won't have any effect.
 Two Pokémon are needed.
-\xf000Ă\x0001\x0000は\xfffeちょっと なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった！
-\xf000Ă\x0001\x0000は\xfffeさいこうに なついていてる！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった！
-\xf000Ă\x0001\x0000は\xfffeちょっと なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは もうさがらない！
+\xf000Ă\x0001\x0000は\xfffeちょっと なついた!\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった!
+\xf000Ă\x0001\x0000は\xfffeさいこうに なついていてる!\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった!
+\xf000Ă\x0001\x0000は\xfffeちょっと なついた!\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは もうさがらない!
 \xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
 Choose a Pokémon.
 Two Pokémon are needed.
@@ -99,10 +99,10 @@ No more than five Pokémon\xfffemay enter.
 Mail was transferred from\xfffethe Mailbox.
 This Pokémon is holding an item.\xfffeIt cannot hold Mail.
 This can't be used on\xfffethat Pokémon.
-ここを だっしゅつして\xfffe\xf000ą\x0001\x0000に もどる？
+ここを だっしゅつして\xfffe\xf000ą\x0001\x0000に Back?
 Yes
 No
-さいごに やすんだ\xfffe\xf000ą\x0001\x0000に もどる？
+さいごに やすんだ\xfffe\xf000ą\x0001\x0000に Back?
 Yes
 No
 Not enough HP...
@@ -162,7 +162,7 @@ This isn't the place for that!
 \xf000ĉ\x0001\x0001
 What will you do\xfffewith the Egg?
 Please select an Egg.
-ぐるぐるこうかんを\xfffeやめますか？
+ぐるぐるこうかんを\xfffeやめますか?
 Confirm
 \xf000ā\x0001\x0000 changed Form!
 \xf000Ă\x0001\x0000 cannot hold\xfffe\xf000ĉ\x0001\x0001.

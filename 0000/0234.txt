@@ -187,7 +187,7 @@ Different Forms:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 (Shiny)
-\xf000ā\x0001\x0000's location(s)
+\xf000ā\x0001\x0000's Location
 Spring
 Summer
 Autumn

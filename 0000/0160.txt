@@ -44,5 +44,5 @@ Friendship Power ＭＡＸ
 Experience Point Power ＭＡＸ
 Pocket Money Power ＭＡＸ
 Discount Power ＭＡＸ
-はっせいパワー ？
-はいふパワー ？
+はっせいパワー ?
+はいふパワー ?

@@ -33,9 +33,9 @@ Your foe’s weak!\xfffeGet ’em, \xf000Ă\x0001\x0000!
 Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の \xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を つかった！
-\xf000Ā\x0001\x0000が \xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を シュートした！！
-いまは ミラクルシューターを\xfffeつかうことが できない！
+\xf000Ď\x0001\x0000の \xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を つかった!
+\xf000Ā\x0001\x0000が \xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を シュートした!!
+いまは ミラクルシューターを\xfffeつかうことが できない!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!
@@ -96,9 +96,9 @@ The weather effect disappeared!
 The sandstorm blew wildly!
 The storm blew fiercely!
 It’s a one-hit KO!
-\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた！
-\xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない！
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか だせない！
+\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた!
+\xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない!
+\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか だせない!
 All stat changes were\xfffeeliminated!
 But nothing happened!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
@@ -136,8 +136,8 @@ Your team is no longer protected\xfffeby Safeguard!
 The foe is no longer protected\xfffeby Safeguard!
 Your team became\xfffeshrouded in mist!
 The foe’s team became\xfffeshrouded in mist!
-みかたを つつんでいた\xfffeしろいきりが なくなった！
-あいてを つつんでいた\xfffeしろいきりが なくなった！
+みかたを つつんでいた\xfffeしろいきりが なくなった!
+あいてを つつんでいた\xfffeしろいきりが なくなった!
 The tailwind blew from behind\xfffeyour team!
 The tailwind blew from behind\xfffethe foe!
 Your team’s tailwind petered out!
@@ -181,8 +181,8 @@ Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
 An area that removes the effect\xfffeof held items was created!
 Magic Room ceased, and\xfffehold items regained their effect!
 \xf000ĉ\x0001\x0000 increased\xfffe\xf000ć\x0001\x0001's power!
-せいげんじかんが なくなりました！\xfffeたいせんを しゅうりょう します！
-しょうぶの じかんが ながすぎるため\xfffeさいせいを ちゅうだん します！
+せいげんじかんが なくなりました!\xfffeたいせんを しゅうりょう します!
+しょうぶの じかんが ながすぎるため\xfffeさいせいを ちゅうだん します!
 Daruma mode activated!
 Daruma mode ceased!
 Two moves turned into one!\xfffeIt's a combination move!
@@ -195,6 +195,6 @@ Two moves turned into one!\xfffeIt's a combination move!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
 Reset Move!!
 But there's nowhere\xfffeto use this item!
-\xf000Č\x0001\x0000は フリーフォールで\xfffeじゆうに ならない！
+\xf000Č\x0001\x0000は フリーフォールで\xfffeじゆうに ならない!
 こうさんが えらばれました
 （\xf000Ȁ\x0001\x0000）のゆびをふる \xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002

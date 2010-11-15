@@ -19,8 +19,8 @@ Add New Message
 Choose
 Delete
 Quit
-メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください！
-メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください！
+メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください!
+メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください!
 Choose where to\xfffeplace the word!
 Group Mode:\xfffeChoose words\xfffefrom the category!
 ABC Mode:\xfffeChoose letters to\xfffenarrow down the words!
