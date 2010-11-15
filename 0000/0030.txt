@@ -1,4 +1,4 @@
-﻿Options
+Options
 Text Speed
 Battle Scene
 Battle Style

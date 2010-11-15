@@ -1,4 +1,4 @@
-﻿Do you want to save\xfffethis match in your VS Recorder?
+Do you want to save\xfffethis match in your VS Recorder?
 Yes
 No
 Data will be lost forever.\xfffeAre you sure?

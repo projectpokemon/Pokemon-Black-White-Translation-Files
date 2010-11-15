@@ -1,4 +1,4 @@
-﻿What will \xf000Ă\x0001\x0000 do?
+What will \xf000Ă\x0001\x0000 do?
 Please Mark
 Are you sure?
 \xf000Ă\x0001\x0000 released!

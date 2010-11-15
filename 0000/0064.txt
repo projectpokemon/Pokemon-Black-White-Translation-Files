@@ -1,4 +1,4 @@
-﻿ロードちゅう……\xfffeしばらく おまちください
+ロードちゅう……\xfffeしばらく おまちください
 ただしい ソフトが ささっていません\xfffeでんげんをきり ただしい ソフトを\xfffeさしてから てんそうマシンを\xfffeきどうしなおして ください
 Now writing a report.\xfffePlease don't turn off the power.
 Report written.

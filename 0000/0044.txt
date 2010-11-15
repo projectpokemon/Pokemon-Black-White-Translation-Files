@@ -1,4 +1,4 @@
-﻿What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
+What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
 English
 Japanese
 それでは ゲームで つかう もじは\xfffeひらがな・カタカナに します\xf000븁\x0000
