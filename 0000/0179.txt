@@ -25,7 +25,7 @@ There is already a report written.\xfffeIf you start a new adventure,\xfffeyou w
 A Button: Continue
 B Button: Back to menu
 Enable the C-Gear?\xfffePlease read the warning below.
-Are you sure you want to\xfffedisable the C-Gear? You may enable it later.
+Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
 There is no report,\xfffeor it has been lost!
 きえて　しまった　バトルビデオの\xfffeきろくが　あります!
 C-Gear skin data\xfffehas been lost!

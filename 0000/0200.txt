@@ -1,190 +1,190 @@
-あいさつ
-おえかき
-たいせん
-こうかん
+Greet
+Draw
+Battle
+Trade
 Quit
-ぐるぐる
-レコード
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000が\xfffeはなしかけて きました\xf000븂\x0001\x000f
-かいわが きれました
-\xf000Ā\x0001\x0000の\xfffeへんじを まっています\xf000븂\x0001\x000f
-かいわを やめました
-\xf000Ā\x0001\x0000が トレーナーカードを\xfffeみせて きました\xf000븁\x0000\xfffeこちらも トレーナーカードを\xfffeみせますか?
-\xf000Ĥ\x0001\x0003\xfffe\xf000ĥ\x0001\x0004\xf000븁\x0000\xfffeに すんでいる \xf000Ā\x0001\x0000の\xfffeトレーナーカードを みせてもらった\xf000븂\x0001<
-\xf000Ĥ\x0001\x0003\xfffeに すんでいる \xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを みせてもらった\xf000븂\x0001<
-\xf000ĥ\x0001\x0004\xfffeに すんでいる \xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを みせてもらった\xf000븂\x0001<
-\xf000Ā\x0001\x0000の\xfffeトレーナーカードを みせてもらった\xf000븂\x0001<
-あいての しゅうりょうを まっています
-おさそいを ことわりました
-\xf000Ā\x0001\x0000が おえかき に\xfffeさそってきました\xf000븁\x0000\xfffeいっしょに おえかき しますか?
-おえかきを はじめます!\xf000븂\x0001<
-おさそいを ことわりました
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeシングルバトルの レベル５０ルールで\xfffeたいせん しますか?
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeシングルバトルの せいげんなしで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeシングルバトルの フラットルールで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeダブルバトルの レベル５０ルールで\xfffeたいせん しますか?
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeダブルバトルの せいげんなしで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeダブルバトルの フラットルールで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeトリプルバトルの レベル５０ルールで\xfffeたいせん しますか?
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeトリプルバトルの せいげんなしで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeトリプルバトルの フラットルールで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeレベル５０ルールで\xf000븀\x0000\xfffeたいせん しますか?
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeせいげんなしで\xf000븀\x0000\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeローテーションバトルの\xfffeフラットルールで\xf000븀\x0000\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeマルチバトルの せいげんなしで\xfffeたいせん しますか?\xf000븁\x0000
-\xf000Ā\x0001\x0000が たいせんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeマルチバトルの フラットルールで\xfffeたいせん しますか?\xf000븁\x0000
-たいせんを\xfffeかいし します!\xf000븂\x0001<
-おさそいを\xfffeことわり ました
-\xf000Ā\x0001\x0000が こうかんを\xfffeもうしこんで きました\xf000븁\x0000\xfffeこうかん しますか?
-こうかんを\xfffeかいし します!\xf000븂\x0001<
-おさそいを\xfffeことわり ました
-こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです 
-\xf000Ā\x0001\x0000が レコードつうしんに\xfffeさそって きました\xf000븁\x0000\xfffeいっしょに レコードつうしんを\xfffeしますか?
-レコードつうしんを\xfffeかいし します!
-おさそいを\xfffeことわり ました
-\xf000Ā\x0001\x0000が ぐるぐるこうかん に\xfffeさそって きました\xf000븁\x0000\xfffeいっしょに ぐるぐるこうかん を\xfffeしますか?
-ぐるぐるこうかんを\xfffeかいし します!\xf000븂\x0001<
-おさそいを\xfffeことわり ました
-タマゴを もっていないので\xfffeおさそいを ことわり ました
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 です!\xfffeなにか するかい?
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 です!\xfffeなにか する?
-あ! ごめん\xfffeほかに ようじが あるから\xf000븀\x0000\xfffeまた こんどね
-あ! ごめん\xfffeほかにも ようじが あるから\xf000븀\x0000\xfffeまた こんどね
-なにを する?
-なにを する?
-……\xfffeいまは とりこみちゅうの ようだ
-……\xfffeいまは とりこみちゅうの ようだ
-\xf000Ā\x0001\x0000から\xfffeへんじが きませんでした……
-\xf000Ā\x0001\x0000から\xfffeへんじが きませんでした……
-わかった! じゃあ あいさつがわりに\xfffeトレーナーカードを みせてあげるよ
-じゃあ あいさつの かわりに\xfffeトレーナーカード みせてあげるね
-あれ!? トレーナーカードが\xfffeみあたらない なあ\xf000븁\x0000\xfffeごめん! またこんどね
-あれ!? トレーナーカード\xfffeどこ いったかな?……\xf000븁\x0000\xfffeごめん! またこんどね
-いま あいさつがわりに\xfffeトレーナーカードを みせてるんだ
-いま あいさつの かわりに\xfffeトレーナーカードを みせあってるの
-これからも\xfffeよろしく!
-これからも\xfffeよろしくね!
-ぼくと おえかき するのかい?\xfffeうん ちょっと まってて
-おえかき ね!\xfffeうん ちょっと まってて
-あっ またせたね!\xfffeそれじゃあ おえかき しようか!\xf000븂\x0001<
-あっ おまたせ!\xfffeそれじゃあ はじめましょう!\xf000븂\x0001<
-あっ ごめん!\xfffeおえかきは またこんど しよう
-あっ ごめんなさい!\xfffeおえかきは またこんど しようね
-\xf000Ā\x0001\x0000『いま ぼくたち\xfffeおえかき してたんだ!\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeおえかき するかい?
-\xf000Ā\x0001\x0000『いまね わたしたち\xfffeおえかき してたんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeおえかき しない?
-そうか\xfffeまた いつでも おいでよ!
-そう……\xfffeまた いつでも きてね!
-よーし ちょっと まってて!
-よーし ちょっと まってて!
-よし! じゃあ いっしょに\xfffeおえかき しようぜ!\xf000븂\x0001<
-おまたせ! じゃあ いっしょに\xfffeおえかき しましょう!\xf000븂\x0001<
-あっ ごめん!\xfffeやっぱり いま つごうがわるいんだ\xf000븀\x0000\xfffeまた こんど おえかき しような
-ごめん!\xfffeやっぱり いま つごうがわるいの\xf000븀\x0000\xfffeまた こんど おえかき しようね
-なるほど!\xfffeおえかきで しりとりか!
-うわー\xfffeすごい じょうずね!
-また へんなかお かいて\xfffeあんまり わらわせるなよ!
-あはは!\xfffeなに それ!
-わー うまいね!\xfffeまねして かいてみる!
-おえかき たのしい!\xfffeどんどん かくわよ!
-……ふんふん なに?\xfffeそれ ぼくの かおなの?
-あっ!\xfffeはみだしちゃった!
-たいせん だね!\xfffeよーし ちょっと まってて!
-たいせん ね!\xfffeよーし ちょっと まってて!
-またせたね!\xfffeそれじゃあ たいせん しようか!\xf000븂\x0001<
-おまたせ!\xfffeそれじゃあ はじめましょう!\xf000븂\x0001<
-ごめん! ちょっと ポケモンの\xfffeちょうしが わるい みたいなんだ\xf000븀\x0000\xfffeまた こんど たいせん しよう
-ごめんなさい!\xfffeちょっと ポケモンの ちょうしが\xf000븀\x0000\xfffeわるい みたいなの……\xf000븁\x0000\xfffeまた こんど\xfffeたいせん しようね!
-\xf000Ā\x0001\x0000『これから ぼくたち\xfffeマルチバトル するんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeマルチバトル するかい?
-\xf000Ā\x0001\x0000『これから わたしたち\xfffeマルチバトル するの\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeマルチバトル しない?
-そうか\xfffeまた いつでも おいでよ!
-そう……\xfffeまた いつでも きてね!
-よーし ちょっと まってて!
-よーし ちょっと まってて!
-またせたね! それじゃ いっしょに\xfffeマルチバトル しようぜ!\xf000븂\x0001<
-おまたせ! じゃあ いっしょに\xfffeマルチバトル しましょう!\xf000븂\x0001<
-あっ ごめん!\xfffeやっぱり いま つごうが わるいんだ\xf000븀\x0000\xfffeまた こんど よろしくね!
-あっ ごめんなさい!\xfffeまたこんど しようね
-おさそいを\xfffeことわり ました
-おさそいを\xfffeことわり ました
-おー!\xfffeなかなか てごわいな!
-その ポケモン\xfffeすごくよく そだてられてるね!
-ここで そんな わざを\xfffeだして くるなんて やるな!
-そうよ!\xfffeそこで このわざよ!!
-さすがだ!\xfffeそんな たたかいかたも あるのか!
-すごい!\xfffeそんな たたかいかたも あるのね!
-この ポケモンを\xfffeこんな ばめんで だしてくるとは!
-ポケモン いれかえの\xfffeタイミングが ぜつみょうね!
-こうかん だね!\xfffeよーし ちょっと まってて!
-こうかん ね!\xfffeよーし ちょっと まってて!
-またせたね!\xfffeそれじゃあ こうかん しようか!\xf000븂\x0001<
-おまたせ!\xfffeそれじゃあ はじめましょう!\xf000븂\x0001<
-ごめん!\xfffeこうかん できる ポケモンが\xf000븀\x0000\xfffeいま いないんだ\xf000븁\x0000\xfffeまた こんど こうかん しよう
-ごめんなさい!\xfffeこうかん できる ポケモンを\xf000븀\x0000\xfffeもって いないの……\xf000븁\x0000\xfffeまた こんど\xfffeこうかん しようね!
-やった!\xfffeこのポケモン ほしかったんだ!
-いまね ポケモンの\xfffeこうかんを してるの!
-さがしてた ポケモンを\xfffeやっと こうかんして もらったよ
-ほしい ポケモンが\xfffeやっと こうかんして もらえたわ!
-てもちが １ひき だと\xfffeこうかんは できないなぁ\xf000븁\x0000
-てもちが １ひき だと\xfffeこうかんは できないよ\xf000븁\x0000
-なにか したくなったら\xfffeまた こえを かけてくれよ
-なにか したくなったら\xfffeまた こえを かけてね!
-レコードつうしん だね!\xfffeよーし ちょっと まってて!
-レコードつうしん ね!\xfffeうん ちょっと まってて!
-またせたね!\xfffeレコードつうしん しようか!
-あっ おまたせ!\xfffeそれじゃあ はじめましょう!
-あっ ごめん!\xfffeやっぱり いま つごうが わるいんだ\xf000븀\x0000\xfffeまた こんど よろしくね!
-あっ ごめんなさい!\xfffeまたこんど しようね
-\xf000Ā\x0001\x0000『これから ぼくたち\xfffeレコードつうしん するんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeレコードつうしん するかい?
-\xf000Ā\x0001\x0000『いまね わたしたち\xfffeレコードつうしん してたんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeレコードつうしん しない?
-そうか\xfffeまた いつでも おいでよ!
-そう……\xfffeまた いつでも きてね!
-よし! じゃあ いっしょに\xfffeレコードつうしん しようぜ!
-おまたせ! じゃあ いっしょに\xfffeレコードつうしん しましょう!
-あっ ごめん!\xfffeやっぱり いま つごうが わるいんだ\xf000븀\x0000\xfffeまた こんど よろしくね!
-あっ ごめんなさい!\xfffeまたこんど しようね
-レコードまぜるの たのしいな!
-レコードまぜるの たのしいわ!
-どんどん まぜるぞ!
-どんどん まぜるわよ!
-まぜろ! まぜろ!
-まぜて! まぜて!
-きみも こんど まぜよー
-どんな ことが おきるのかしら!
-ぐるぐるこうかん だね!\xfffeよーし ちょっと まってて!
-ぐるぐるこうかん ね!\xfffeうん ちょっと まってて!
-うん いいよ!\xfffeぐるぐるこうかん しようか!\xf000븂\x0001<
-あっ おまたせ!\xfffeそれじゃあ はじめましょう!\xf000븂\x0001<
-あっ ごめん!\xfffeやっぱり いま つごうが わるいんだ\xf000븀\x0000\xfffeまた こんど よろしくね!
-あっ ごめんなさい!\xfffeまたこんど しようね
-ぐるぐるこうかん するには\xfffeタマゴが ひつよう だよ\xf000븁\x0000
-ぐるぐるこうかん するには\xfffeタマゴが ひつよう だよ\xf000븁\x0000
-\xf000Ā\x0001\x0000『これから ぼくたち\xfffeぐるぐるこうかん するんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeぐるぐるこうかん するかい?
-\xf000Ā\x0001\x0000『いまね わたしたち\xfffeぐるぐるこうかん してたんだ\xf000븁\x0000\xfffeそうだ! \xf000Ā\x0001\x0001も いっしょに\xfffeぐるぐるこうかん しない?
-そうか\xfffeまた いつでも おいでよ!
-そう……\xfffeまた いつでも きてね!
-よーし ちょっと まってて!
-よーし ちょっと まってて!
-よし! じゃあ いっしょに\xfffeぐるぐるこうかん しようぜ!\xf000븂\x0001<
-おまたせ! じゃあ いっしょに\xfffeぐるぐるこうかん しましょう!\xf000븂\x0001<
-あれ?\xfffeタマゴを もってない みたいだね\xf000븁\x0000\xfffeタマゴを もってきたら\xfffeまた おいでよ!
-あれ?\xfffeタマゴを もってないの?\xf000븁\x0000\xfffeタマゴを もってきたら\xfffeまた いっしょに やりましょう!
-あっ ごめん!\xfffeやっぱり いま つごうが わるいんだ\xf000븀\x0000\xfffeまた こんど よろしくね!
-あっ ごめんなさい!\xfffeまたこんど しようね
-てもちに こうかん できない\xfffeタマゴが あります
-てもちに こうかん できない\xfffeタマゴが あります
-てもちに こうかん できない\xfffeタマゴが あります\xf000븁\x0000
-てもちに こうかん できない\xfffeタマゴが あります\xf000븁\x0000
-ぐるぐるこうかん たのしいな!
-ぐるぐるこうかん してるのよ!
-それっ! そこで とまれー
-わっ! また うごいちゃった!
-ぼくの タマゴは すごいよ!
-あの タマゴが ほしいのになー
-やったぁ!\xfffeほしい タマゴを もらえたぞ!
-あそこで とまれば\xfffeきのみを もらえるのにー
-ユニオンルームへ ようこそ\xf000븁\x0000\xfffeなにか わからないことが ありましたら\xfffeおもうしつけ くださいませ!\xf000븁\x0000
-なにか ごようけんは\xfffeありますでしょうか?
-なにに ついて\xfffeききたい ですか?
+Spin Trade
+Record
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 came\xfffeto talk to you.\xf000븂\x0001\x000f
+The conversation was cut.
+Awaiting \xf000Ā\x0001\x0000's reply.\xf000븂\x0001\x000f
+The conversation ended.
+\xf000Ā\x0001\x0000 came to\xfffeshow you their Trainer Card.\xf000븁\x0000\xfffeShow your own Trainer Card?
+Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000Ĥ\x0001\x0003,\xf000븀\x0000\xf000ĥ\x0001\x0004!\xf000븂\x0001<
+Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000Ĥ\x0001\x0003!\xf000븂\x0001<
+Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000ĥ\x0001\x0004!\xf000븂\x0001<
+Saw \xf000Ā\x0001\x0000's Trainer Card.\xf000븂\x0001<
+Waiting for partner to finish.
+Declined the invitation.
+\xf000Ā\x0001\x0000 invited you\xfffeto draw a picture.\xf000븁\x0000\xfffeDraw a picture together?
+Drawing will begin!\xf000븂\x0001<
+Declined the invitation.
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith Level 50 rules?
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith no limits?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith flat rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Double Battle\xfffewith Level 50 rules?
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Double Battle\xfffewith no limits?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Double Battle\xfffewith flat rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith Level 50 rules?
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith no limits?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith flat rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith Level 50 rules?
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith no limits?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith flat rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Multi Battle\xfffewith no limits?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Multi Battle\xfffewith flat rules?\xf000븁\x0000
+The battle will begin!\xf000븂\x0001<
+Declined the invitation.
+\xf000Ā\x0001\x0000 proposed\xfffesome trading.\xf000븁\x0000\xfffeWill you trade?
+Trading will begin!\xf000븂\x0001<
+Declined the invitation.
+You must have two Pokémon\xfffeon hand for trading.
+\xf000Ā\x0001\x0000 invited you\xfffeto share records.\xf000븁\x0000\xfffeShare records together?
+Record sharing will begin!
+Declined the invitation.
+\xf000Ā\x0001\x0000 invited you\xfffeto a Spin Trade.\xf000븁\x0000\xfffeDo a Spin Trade together?
+Spin Trade will begin!\xf000븂\x0001<
+Declined the invitation.
+You don't have an egg,\xfffeso you declined the invitation.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeI'm \xf000Ā\x0001\x0000!\xfffeWhat'll we do?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeI'm \xf000Ā\x0001\x0000!\xfffeWhat will we do?
+Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
+Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
+What will you do?
+What will you do?
+...\xfffeThey look confused at the moment.
+...\xfffeThey look confused at the moment.
+\xf000Ā\x0001\x0000 wasn't\xfffeable to reply...
+\xf000Ā\x0001\x0000 wasn't\xfffeable to reply...
+Gotcha! Well, instead of a greeting,\xfffeI'll show you my Trainer Card!
+Well, in place of a greeting,\xfffelet me show you my Trainer Card!
+Huh?! I can't find\xfffemy Trainer Card...\xf000븁\x0000\xfffeSorry! Maybe later!
+Huh?! Where did my\xfffeTrainer Card get to...?\xf000븁\x0000\xfffeSorry! Maybe later!
+We're showing off our Trainer Cards\xfffeinstead of a greeting!
+We're showing our Trainer Cards\xfffein place of a greeting!
+Nice to meet you!
+Nice to meet you!
+Draw a picture with me?\xfffeOkay, hold on a second.
+Ah, drawing!\xfffeOkay, hold on a second.
+Oh, sorry I kept you!\xfffeOkay, let's start drawing!\xf000븂\x0001<
+Oh, sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
+Oh, sorry!\xfffeLet's draw some other time.
+Oh, I'm sorry!\xfffeWe'll do some drawing later.
+\xf000Ā\x0001\x0000: We're drawing\xffferight now!\xf000븁\x0000\xfffeHey! You wanna draw\xfffewith us too, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: We're drawing\xfffeat the moment!\xf000븁\x0000\xfffeAh! Do you want to\xfffedraw with us, \xf000Ā\x0001\x0001?
+Really?\xfffeCome anytime!
+I see...\xfffeCome again any time!
+Alright! Hold on a sec!
+All right, wait a second!
+Alright!\xfffeLet's draw together!\xf000븂\x0001<
+Sorry I kept you!\xfffeNow, let's draw together!\xf000븂\x0001<
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's draw some other time!
+Sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's draw something later!
+I see...!\xfffeYou're making a game out of this!
+Whoa!\xfffeYou're really good!
+If I draw any funny faces,\xfffedon't laugh at me!
+Ahaha!\xfffeWhat's that even supposed to BE?!
+Ooh, fancy!\xfffeI'll try to copy that!
+Drawing's fun!\xfffeLet's draw more!
+...What? Is that supposed\xfffeto be my face?
+Ah!\xfffeMy hand slipped!
+A battle!\xfffeAlright, hold on!
+Ah, a battle!\xfffeOkay, give me a second!
+Sorry I kept you!\xfffeOkay, let's start the battle!\xf000븂\x0001<
+Sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
+Sorry! My Pokémon\xfffearen't feeling very well...\xf000븀\x0000\xfffeLet's battle some other time!
+I'm sorry!My Pokémon\xfffearen't faring too well...\xf000븁\x0000\xfffeWe'll battle\xfffeanother time!
+\xf000Ā\x0001\x0000: We're having\xfffea Multi Battle now!\xf000븁\x0000\xfffeHey! You wanna Multi Battle\xfffewith us too, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: We're having\xfffea Multi Battle now!\xf000븁\x0000\xfffeAh! Do you want to\xfffeMulti Battle with us, \xf000Ā\x0001\x0001?
+Really?\xfffeCome anytime!
+I see...\xfffeCome again any time!
+Alright, hold on!
+Alright, give me a second!
+Sorry I kept you! Now let's\xfffeMulti Battle together!\xf000븂\x0001<
+Sorry about that! Okay, let's\xfffeMulti Battle together!\xf000븂\x0001<
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
+Oh, I'm sorry!\xfffeLet's do it later.
+Declined the invitation.
+Declined the invitation.
+Whoa!\xfffeYou're pretty resilient!
+You really raised\xfffethat Pokémon well!
+Not bad using\xfffea move like that now!
+Aha!\xfffeThat's the move!!
+Naturally!\xfffeSo you can fight like that!
+Amazing!\xfffeSo some fight this way!
+Sending out that Pokémon\xfffein this situation...?!
+The timing on your\xfffePokémon switching is top-notch!
+A trade!\xfffeAlright, hold on!
+Ah, a trade!\xfffeAlright, give me a second!
+Sorry I kept you!\xfffeOkay, let's start trading!\xf000븂\x0001<
+Sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
+Sorry!\xfffeI don't have any Pokémon\xf000븀\x0000\xfffeto trade right now...\xf000븁\x0000\xfffeWe can trade later!
+I'm sorry!\xfffeI don't have any Pokémon\xf000븀\x0000\xfffeI could trade with you...\xf000븁\x0000\xfffeLet's trade some other day!
+Yes!\xfffeI really wanted this Pokémon!
+I'm trading Pokémon right now!
+At last, I was traded\xfffethe Pokémon I was looking for!
+I was finally traded\xfffethe Pokémon I wanted!
+You can't trade with\xfffeonly one Pokémon on hand!\xf000븁\x0000
+You can't trade with\xfffeonly one Pokémon on hand...\xf000븁\x0000
+If you want anything,\xfffecome tell me about it!
+If you want anything,\xfffejust tell me!
+Record sharing!\xfffeAlright, hold on!
+Ah, record sharing!\xfffeOkay, give me a second!
+Sorry I kept you!\xfffeOkay, let's share records!
+Oh, sorry about that!\xfffeOkay, let's begin!
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
+Oh, I'm sorry!\xfffeLet's do it later.
+\xf000Ā\x0001\x0000: We're doing\xfffesome record sharing now!\xf000븁\x0000\xfffeHey! You wanna share\xffferecords with us too, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: We're sharing\xfffeour records now!\xf000븁\x0000\xfffeAh! Do you want to\xfffeshare records with us, \xf000Ā\x0001\x0001?
+Really?\xfffeCome anytime!
+I see...\xfffeCome again any time!
+Alright! Okay, let's\xfffeshare records together!
+Sorry about that! Now, let's\xfffeshare records together!
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
+Oh, I'm sorry!\xfffeLet's do it later.
+Mixing records is great!
+Mixing records is fun!
+Keep on mixing!
+Keep mixing!
+Mix it! Mix it!
+Mix! Mix!
+You mix next time!
+I wonder what'll happen!
+A Spin Trade!\xfffeAlright, hold on!
+Oh, a Spin Trade!\xfffeOkay, give me a second!
+Okay, I'm good!\xfffeOkay, let's Spin Trade!\xf000븂\x0001<
+Oh, sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
+Oh, I'm sorry!\xfffeLet's do it later.
+You need an egg\xfffeto do a Spin Trade!\xf000븁\x0000
+You need an egg\xfffeto do a Spin Trade!\xf000븁\x0000
+\xf000Ā\x0001\x0000: We're doing\xfffea Spin Trade now!\xf000븁\x0000\xfffeHey! You wanna do\xfffethe Spin Trade with us too, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: We're doing\xfffea Spin Trade now!\xf000븁\x0000\xfffeAh! Do you want to\xfffeSpin Trade with us, \xf000Ā\x0001\x0001?
+Really?\xfffeCome anytime!
+I see...\xfffeCome again any time!
+Alright, hold on!
+Alright, give me a second!
+Alright! Okay, let's\xfffeSpin Trade together!\xf000븂\x0001<
+Sorry about that! Now, let's\xfffeSpin Trade together!\xf000븂\x0001<
+Huh?\xfffeYou don't look to have an egg...\xf000븁\x0000\xfffeCome back later\xfffewhen you've got an egg!
+Huh?\xfffeYou don't have an egg?\xf000븁\x0000\xfffeWhen you get an egg,\xfffelet's do it then!
+Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
+Oh, I'm sorry!\xfffeLet's do it later.
+You have an egg on hand\xfffethat cannot be traded.
+You have an egg on hand\xfffethat cannot be traded.
+You have an egg on hand\xfffethat cannot be traded.\xf000븁\x0000
+You have an egg on hand\xfffethat cannot be traded.\xf000븁\x0000
+Spin Trading is a blast!
+Let's do the Spin Trade!
+Stop! Stop right there!
+Wah! It moved again!
+My egg is the best!
+I wanted that egg...
+Yes!\xfffeI got the end I wanted!
+I would've gotten a berry\xfffeif it had stopped there...
+Welcome to the Union Room!\xf000븁\x0000\xfffeIf you don't understand anything,\xfffeallow me to guide you!\xf000븁\x0000
+Do you have any\xfffebusiness with me?
+What do you want\xfffeto ask about?
 たいせんには ５しゅるいの\xfffeモードがあります\xf000븁\x0000\xfffeシングルバトルは たたかいの ばに\xfffeポケモンを １ひき だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeダブルバトルは たたかいの ばに\xfffeポケモンを ２ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeトリプルバトルは たたかいの ばに\xfffeポケモンを ３ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeローテーションバトルは\xfffeポケモンを まえに １ひき\xfffeうしろに ２ひき だしながら\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeマルチバトルは たたかいの ばに\xfffe４にんで ポケモンを\xf000븀\x0000\xfffe１ひきずつ だして\xf000븀\x0000\xfffe２たい２で たいせん します\xf000븁\x0000
 おたがいの ポケモンを\xfffeこうかんすることが できます\xf000븁\x0000\xfffeあたらしい ひととの であいが\xfffeめずらしい ポケモンとの\xf000븀\x0000\xfffeであいになるかも しれませんね!\xf000븁\x0000
 レコードつうしん では\xfffeじぶんの きろくを\xf000븀\x0000\xfffeみんなで こうかんすることが できます\xf000븁\x0000\xfffeきろくを こうかんすることで\xfffeいったい なにがおきるのか!?\xf000븁\x0000\xfffeそれは じぶんの めで\xfffeたしかめてみて ください!\xf000븁\x0000\xfffe５にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
@@ -196,7 +196,7 @@ Quit
 あなたって \xf000Ď\x0001\x0000に\xfffeみまちがえられた ことないですか?\xf000븁\x0000\xfffeなんとなく そんな\xfffeふんいきが するんですよねー\xf000븁\x0000
 こんにちは!\xf000븁\x0000\xfffeそうです!\xfffeあいさつが じゅうようなんです!\xf000븁\x0000\xfffeだれかが きたら\xfffeもっと アピール アピール!\xf000븁\x0000
 はじめまして!\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000 は\xfffeいいですよねー\xf000븀\x0000\xfffeわたしも だいすき なんです!\xf000븁\x0000\xfffeはじめて あったひとには\xfffeきちんと じこしょうかいを するのが\xf000븀\x0000\xfffeマナーですよ!\xf000븁\x0000\xfffeじぶんを しょうかい することで\xfffeあいてのことも わかって くるんです!\xf000븁\x0000
-へー \xf000Ĝ\x0001\x0000 トレーナー\xfffeなんですか!?\xf000븀\x0000\xfffeすごい ですねー\xf000븁\x0000\xfffeでも ごめんなさい!\xfffeわたし ポケモン もってないんです……\xf000븁\x0000\xfffeたいせんは するよりも\xfffeみてるほうが すきなので!\xf000븁\x0000
+へー \xf000Ĝ\x0001\x0000 トレーナー\xfffeなんですか!?\xf000븀\x0000\xfffeすごい ですねー\xf000븁\x0000\xfffeでも I'm sorry!\xfffeわたし ポケモン もってないんです……\xf000븁\x0000\xfffeたいせんは するよりも\xfffeみてるほうが すきなので!\xf000븁\x0000
 あ!\xfffeわたし \xf000Ĝ\x0001\x0000 ほしいです!\xf000븀\x0000\xfffeわたしのと こうかん してください\xf000븁\x0000\xfffe……\xf000븁\x0000\xfffeあ いまの うそです\xf000븁\x0000\xfffeわたし ほんとは ポケモン もって\xfffeないので こうかん できないんです……\xf000븁\x0000
 \xf000Ĝ\x0001\x0000が ほしいのは\xfffeわかりますが\xf000븁\x0000\xfffeこうかんを するときは\xfffeむりを いっちゃ だめですよ!\xf000븁\x0000\xfffeあいての ほしいポケモンの ことも\xfffeかんがえなきゃね!\xf000븁\x0000
 ユニオンルームへ ようこそ!\xf000븁\x0000\xfffeいまは わたししか いませんが\xfffeともだちと いっしょに はいって\xf000븀\x0000\xfffeいろいろと あそんで みてくださいね!\xf000븁\x0000\xfffeあと ひまだったら わたしにも\xfffeはなしかけて ください!\xf000븁\x0000\xfffeわたしも ひまなので……\xf000븁\x0000
@@ -205,7 +205,7 @@ Quit
 どうしたんですか?\xfffeなにか いやなこと あったんですか?\xf000븁\x0000\xfffeそういう ときは\xfffeひとりで いるよりも\xf000븀\x0000\xfffeともだちと いっぱい\xf000븀\x0000\xfffeあそんだほうが いいですよ!\xf000븁\x0000
 はーい!\xfffe\xf000Ĝ\x0001\x0000 したいです!\xf000븁\x0000\xfffe……したい ですけど\xfffeここを うごけないので\xf000븀\x0000\xfffeやっぱり できません\xf000븁\x0000\xfffeはぁ\xfffe\xf000Ĝ\x0001\x0000 したいなぁ\xf000븁\x0000
 はーい!\xfffeわたしも \xf000Ĝ\x0001\x0000します!\xf000븁\x0000\xfffeでも ここで みんなに せつめいを\xfffeしないと いけないんです……\xf000븁\x0000\xfffeなので みんなと あそんで\xfffeくださいね!\xf000븁\x0000
-\xf000Ĝ\x0001\x0000を\xfffeさそわれて しまった!\xf000븁\x0000\xfffe…… あ!\xfffeでも わたしは ここで せつめいを\xf000븀\x0000\xfffeしないと いけないので\xf000븁\x0000\xfffeすみませんが おさそいは\xfffeおことわりします ごめんなさい!\xf000븁\x0000
+\xf000Ĝ\x0001\x0000を\xfffeさそわれて しまった!\xf000븁\x0000\xfffe…… あ!\xfffeでも わたしは ここで せつめいを\xf000븀\x0000\xfffeしないと いけないので\xf000븁\x0000\xfffeすみませんが おさそいは\xfffeおことわりします I'm sorry!\xf000븁\x0000
 そうです!\xf000븁\x0000\xfffeときには つよきで ともだちを\xfffeさそうのも いいですよ!\xf000븁\x0000\xfffeでも \xf000Ĝ\x0001\x0000が したくて\xfffeわがままに ならないようにね!\xf000븁\x0000
 はい!\xfffeオーケー なのです!\xf000븁\x0000\xfffeだめな ことなんて ありません!\xf000븁\x0000\xfffeまえむきに かんがえて\xfffeいきましょう!\xf000븁\x0000
 だれにでも にがてな ことは\xfffeひとつは ありますよ\xf000븁\x0000\xfffeあなたも あいての いやがることを\xfffeむりに さそっては ダメですよ\xf000븁\x0000\xfffeちなみに わたしは\xfffe\xf000Ĝ\x0001\x0000は してみたいですけど!\xf000븁\x0000
@@ -214,75 +214,75 @@ Quit
 どこに\xfffeいるかって……\xf000븀\x0000\xfffeめのまえに いますね\xf000븁\x0000\xfffeあ!\xfffeもしかして にせもの!?\xf000븁\x0000\xfffeほんものは\xfffeべつに いるとか?\xf000븁\x0000\xfffe…… って\xfffeへんなこと いわないで くださいよ!\xf000븀\x0000\xfffeもうっ!\xf000븁\x0000
 \xf000Ĝ\x0001\x0000こうかん\xfffeしたいですよ ねえ!\xf000븀\x0000\xfffeわたしも したいですもん\xf000븁\x0000\xfffeでも わたしに はなしかけても\xfffeこうかんは できませんけどね\xf000븁\x0000
 \xf000Ĝ\x0001\x0000たいせんを\xfffeするんだったら\xf000븁\x0000\xfffeじぶんから はなしかけるぐらい\xfffeつよきで いかないと!\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000 たいせんを\xfffeするまえに まけちゃい ますよ!\xf000븁\x0000
-せつめい
-おはなしする
+Explain
+Talk
 Quit
-たいせん
-こうかん
-レコード
-ぐるぐる
-おえかき
-チャット
-Back
-\xf000Ā\x0001\x0000に はなしかけています
-あ! ごめん\xfffeほかに ようじが あるから\xf000븀\x0000\xfffeまた こんどね
-ともだち
-\xf000Ā\x0001\x0001のともだち
-\xf000Ā\x0001\x0002のともだち
-こんにちは!
+Battle
+Trade
+Record
+Spin Trade
+Draw
+Chat
+Return
+Talking to \xf000Ā\x0001\x0000.
+Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
+Friend
+\xf000Ā\x0001\x0001's Friend
+\xf000Ā\x0001\x0002's Friend
+Hello!
 Hello
 Bonjour
 Ciao
 Hallo
 Hola
-コンニチハ!
+Konnichiwa!
 안녕하세요
-ふたりで たいせん
-４にんで たいせん
+Battle With Two
+Battle With Four
 Quit
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-けってい
-ルールを みる
-Back
-レベル５０ルール
-せいげんなし
-フラットルール
-ミラクルシューター あり
-ミラクルシューター なし
-Back
-たいせんけいしき\xf000봅\x0001s：\xf000\xff00\x0001\x0002シングルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001s：\xf000\xff00\x0001\x0002ダブルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001s：\xf000\xff00\x0001\x0002トリプルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001s：\xf000\xff00\x0001\x0002ローテーションバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001s：マルチバトル
-たいせんルール\xf000봅\x0001s：\xf000\xff00\x0001\x0002せいげんなし\xf000\xff00\x0001\x0000
-たいせんルール\xf000봅\x0001s：\xf000\xff00\x0001\x0002フラットルール\xf000\xff00\x0001\x0000
-ミラクルシューター\xf000봅\x0001s：\xf000\xff00\x0001\x0002あり\xf000\xff00\x0001\x0000
-ミラクルシューター\xf000봅\x0001s：\xf000\xff00\x0001\x0002なし\xf000\xff00\x0001\x0000
-たいせんするには ポケモンが\xfffe２ひき いじょう ひつようです
-たいせんするには ポケモンが\xfffe３ひき いじょう ひつようです
-じょうけんを みたした ポケモンが\xfffe３ひき いじょう ひつようです
-じょうけんを みたした ポケモンが\xfffe４ひき いじょう ひつようです
-じょうけんを みたした ポケモンが\xfffe６ひき いじょう ひつようです
-たいせんするには ポケモンが\xfffe３ひき いじょう ひつようです
-サポートシューターを つかいますか?
-ミラクルシューター あり
-ミラクルシューター なし
-てもちか バトルボックスの\xfffeどれを つかうか えらんでください
-てもち
-バトルボックス
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Confirm
+View Rules
+Return
+Level 50 Rules
+No Limits
+Flat Rules
+With Miracle Shooter
+No Miracle Shooter
+Return
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Single Battle \xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Double Battle \xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Triple Battle \xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Rotation Battle \xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: Multi Battle
+Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 No Limits \xf000\xff00\x0001\x0000
+Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Flat Rules \xf000\xff00\x0001\x0000
+Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 On \xf000\xff00\x0001\x0000
+Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Off \xf000\xff00\x0001\x0000
+Two or more Pokémon\xfffeare required to battle.
+Three or more Pokémon\xfffeare required to battle.
+Three or more Pokémon that\xfffemeet conditions are required to battle.
+Four or more Pokémon that\xfffemeet conditions are required to battle.
+Six or more Pokémon that\xfffemeet conditions are required to battle.
+Three or more Pokémon\xfffeare required to battle.
+Use the Support Shooter?
+With Miracle Shooter
+No Miracle Shooter
+Choose to use Pokémon on-hand\xfffeor those in your Battle Box.
+On Hand
+Battle Box
 Quit
-じょうけんを みたしていないので\xfffeさんか できません
-しばらく おまちください\xfffeＢボタンで キャンセル
-それでは さんかする\xfffeポケモンを えらんでください\xf000븂\x0001<
-それでは さんかする ポケモンを\xfffe３ひき えらんでください\xf000븂\x0001<
-それでは さんかする ポケモンを\xfffe４ひき えらんでください\xf000븂\x0001<
-それでは さんかする ポケモンを\xfffe６ひき えらんでください\xf000븂\x0001<
-それでは さんかする ポケモンを\xfffe３ひきまで えらんでください\xf000븂\x0001<
-しばらく おまちください
+As it does not meet conditions,\xfffeIt cannot be entered.
+Please wait a moment.\xfffe(B to cancel)
+Now, please choose\xfffea Pokémon to use.\xf000븂\x0001<
+Now, please choose\xfffethree Pokémon to use.\xf000븂\x0001<
+Now, please choose\xfffefour Pokémon to use.\xf000븂\x0001<
+Now, please choose\xfffesix Pokémon to use.\xf000븂\x0001<
+Now, please choose\xfffeup to three Pokémon to use.\xf000븂\x0001<
+Please wait a moment.
 はなしかけています
 はなしかけられました\xfffeおやに へんじを かえしています
 やあ! なにする?
@@ -311,8 +311,8 @@ Quit
 なんでもない!バイバイ!
 あいての へんじを まっています
 はい どうぞ!
-ことわられました
-ことわりました
+You were refused.
+Refused.
 あいての へんじが ありませんでした
 あいての せんたくを まっています
 しらない あそびだから あそべないよ!
@@ -330,21 +330,21 @@ Quit
 おえかきって たのしい!
 みたこともない あそびをしている!
 そっか!バイバイ!
-たいしゅつ します\xfffeしばらく おまちください\xf000븂\x0001<
-しばらく おまちください\xfffeＢボタンで キャンセル
+Now leaving.\xfffePlease wait a moment.\xf000븂\x0001<
+Please wait a moment.\xfffe(B to cancel)
 たいせんを しゅうりょう しますが\xfffeよろしいですか?
-てもちのポケモン
-バトルボックス
-……\xfffeいまは とりこみちゅうの ようだ
-たいせん したいひと ジャンプして!
-こうかん したいひと ジャンプして!
-おえかき したいひと ジャンプして!
-ぐるぐるこうかん したいひと\xfffeジャンプして!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……ノーマルカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……ブロンズカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……カッパーカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……シルバーカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……ゴールドカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……ホワイトカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……ブラックカードだ!
-\xf000Ā\x0001\x0000の トレーナーカードを\xfffeみせてもらった!\xf000븁\x0000\xfffe……みたこともない カードだ!
+Pokémon On Hand
+Battle Box
+...\xfffeThey look confused at the moment.
+Jump to someone\xfffewho wants to battle!
+Jump to someone\xfffewho wants to trade!
+Jump to someone\xfffewho wants to draw!
+Jump to someone\xfffewho wants to Spin Trade!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Normal Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Bronze Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Copper Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Silver Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Gold Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a White Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Black Card!
+Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a card you've never even seen!
