@@ -1,4 +1,4 @@
-Name
+﻿Name
 Occupation
 Hobby
 Playtime
@@ -7,15 +7,15 @@ Playtime
 \xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
 Hometown
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-おれいをうけた かいすう\xfffeすれちがった にんずう
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
-\xf000Ȅ\x0001\x0001にん
+Thanks Received\xfffeChance-Upon Count
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
+\xf000Ȅ\x0001\x0001
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-すれちがったじかん ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-すれちがったじかん ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+Chanced Upon At: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 AM
+Chanced Upon At: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 PM
 Currently fighting\xfffea wild \xf000ā\x0001\x0000.
 Currently fighting\xfffea special Pokémon.
 Currently battling \xf000Ď\x0001\x0000's\xfffe\xf000Ā\x0001\x0001.
 Currently battling\xfffea gym leader.
 Currently battling\xfffea special trainer.
-\xf000ą\x0001\x0000を\xfffeいどうちゅう です
+Currently moving\xfffe\xf000ą\x0001\x0000.

@@ -1,7 +1,7 @@
-たいせん したいひとは\xfffeマークを タッチして!
+﻿たいせん したいひとは\xfffeマークを タッチして!
 こうかん したいひとは\xfffeマークを タッチして!
 おえかき したいひとは\xfffeマークを タッチして!
 ぐるぐるこうかん したいひとは\xfffeマークを タッチして!
-Friends
-People Playing
+Friend
+Playing People
 Joined the Union Room!

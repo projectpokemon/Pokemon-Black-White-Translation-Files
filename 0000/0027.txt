@@ -1,43 +1,43 @@
-X Button
+﻿X Button
 SELECT
 B Button
-Use Scribble Tool
-Cancel Image
-Stop Drawing
+Use Graffiti Tools
+Quit Picture
+Stop Graffiti
 Change Pen Size
-Paint Color
+Color Dropper
 Change Eraser
-Close Scribble Tool
+Close Graffiti Tools
 Stamp
 Scribble Mode
 REC
 Scribble
-ID \xf000Ȅ\x0001\x0000
+ＩＤ\xf000Ȅ\x0001\x0000
 ―/―
-\xf000Ȁ\x0001\x0000/4
-Please choose a friend.
-Call friend
-Connected
-Calling friend!
-Calling friend.
-Calling friend..
-Calling friend...
-Connecting!
-Connecting.
-Connecting..
-Connecting...
-Looking for friend!
-Looking for friend.
-Looking for friend..
-Looking for friend...
-Finish Livecasting?
-Is it OK to stop the Reader\xfffeand disconnect?
+\xf000Ȁ\x0001\x0000/４
+Choose a friend.
+Call Friend
+Enter
+Calling a friend!
+Calling a friend.
+Calling a friend..
+Calling a friend...
+Linking!
+Linking.
+Linking..
+Linking...
+Searching for friends!
+Searching for friends.
+Searching for friends..
+Searching for friends...
+Stop using the\xfffeLive Caster?
+If the leader quits, the group\xfffewill dissolve. Is that okay?
 Yes
 No
-Stopped the Reader and disconnected.
-Your opponent has disconnected.
-All of the other members left.
-Call Failed
-Connection Failed
-Parental Controls\xfffeせっていにより しゃしんデータの\xfffeそうじゅしんが せいげん\xfffeされています\xfffeがぞうを だしたいときは\xfffeほんたいせっていで\xfffeせいげんを かいじょ してください
-Waiting for friend
+The leader quit, so the\xfffegroup will dissolve.
+Your partner quit, so the\xfffegroup will dissolve.
+All members left,\xfffeso now quitting.
+There was an error in calling.
+There was an error in linking.
+Due to parental controls,\xfffethe transfer of photo data\xfffeis restricted.\xfffeIf you want to see images,\xffferemove the restrictions\xfffein the main settings.
+Waiting for your partner to finish.

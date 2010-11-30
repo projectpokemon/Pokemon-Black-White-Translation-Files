@@ -142,11 +142,11 @@ Multi with Trainer
 Multi with Friend
 Rank
 Rank
-\xf000봂\x0000Wi-Fi Train Report
-げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000 の レーティング
-\xf000봂\x0000レーティングモード せいせき
-\xf000봂\x0000Free-Mode Report
+\xf000봂\x0000Wi-Fi Train Results
+Current:
+\xf000봂\x0000\xf000Ā\x0001\x0000's Ratin
+\xf000봂\x0000Rating Mode Results
+\xf000봂\x0000Free Mode Results
 \xf000봃\x0001\x0000Win
 \xf000봃\x0001\x0000Lose
 \xf000봃\x0001\x0000Single

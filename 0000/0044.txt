@@ -1,7 +1,7 @@
-What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
+﻿What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
 English
 Japanese
-それでは ゲームで つかう もじは\xfffeひらがな・カタカナに します\xf000븁\x0000
+Then, you want to\xfffeplay in English?\xf000븁\x0000
 no data
 Please wait a moment...\xfffe
 Hi there!\xf000븁\x0000Welcome to the world of Pokémon!\xf000븁\x0000
@@ -27,7 +27,7 @@ And now, I've given the three of you\xfffea present containing your precious,\xf
 \xf000Ā\x0001\x0000!!\xf000븁\x0000From the moment you choose your Pokémon\xfffepartner for the journey ahead...\xf000븁\x0000That is when the tale of\xfffeyour own adventure begins!\xf000븁\x0000On this journey,\xfffeyou will meet countless Pokémon...\xf000븁\x0000And many people who think\xfffein different ways!\xf000븁\x0000Through all these meetings,\xfffeI deeply hope you find something\xf000븀\x0000that you alone can treasure...\xf000븁\x0000Right! As you come into contact\xfffewith people and Pokémon,\xf000븀\x0000you will mature as a person.\xf000븁\x0000And that is the greatest goal\xfffeof your adventure!\xf000븁\x0000So, let us be off!\xfffeInto the world of Pokémon!\xf000븁\x0000
 Hold on a second...!\xfffeI'm making some preparations here.
 Alright!\xfffeThat'll do 'er!\xf000븁\x0000
-Warning!\xfffeYou have another report written,\xfffeso on the journey you're about to start,\xfffeyou won't be able to save.\xfffeIs that okay?
+Warning!\xfffeYou have another save file,\xfffeso on the journey you're about to start,\xfffeyou won't be able to save.\xfffeIs that okay?
 Start adventure
 Return to menu
 Skip demo?

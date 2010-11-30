@@ -1,4 +1,4 @@
-―\xfffe―\xfffe―\xfffe―\xfffe―
+﻿―\xfffe―\xfffe―\xfffe―\xfffe―
 The foe is physically pounded with a\xfffelong tail or a foreleg, etc.
 The foe is attacked with a sharp chop.\xfffeIt has a high critical-hit ratio.
 The foe is slapped repeatedly, back and\xfffeforth, two to five times in a row.
@@ -20,7 +20,7 @@ The foe is blown away, to be replaced by\xfffeanother Pokémon in its party. In 
 The user soars, then strikes on the second\xfffeturn. It can also be used for flying to\xfffeany familiar town.
 A long body or tentacles are used to\xfffebind and squeeze the foe for two to\xfffefive turns.
 The foe is slammed with a long tail,\xfffevines, etc., to inflict damage.
-The foe is struck with slender, whip-like\xfffevines to inflict damage.
+The foe is struck with slender, whiplike\xfffevines to inflict damage.
 The foe is stomped with a big foot.\xfffeIt may also make the target flinch.
 The foe is quickly kicked twice in\xfffesuccession using both feet.
 The foe is attacked by a kick launched\xfffewith muscle-packed power.
@@ -36,7 +36,7 @@ The user drops onto the foe with its full\xfffebody weight. It may leave the foe
 A long body or vines are used to wrap and\xfffesqueeze the foe for two to five turns.
 A reckless, full-body charge attack for\xfffeslamming into the foe. It also damages the\xfffeuser a little.
 The user rampages and attacks for\xfffetwo to three turns. It then\xfffebecomes confused, however.
-A reckless, life-risking tackle.\xfffeIt also damages the user by\xfffea fairly large amount, however.
+A reckless, life- risking tackle.\xfffeIt also damages the user by\xfffea fairly large amount, however.
 The user wags its tail cutely, making\xfffethe foe less wary. The target's\xfffeDefense stat is lowered.
 The foe is stabbed with a poisonous\xfffebarb of some sort. It may also poison\xfffethe target.
 The foe is stabbed twice by a pair\xfffeof stingers. It may also poison\xfffethe target.
@@ -72,7 +72,7 @@ The foe is slugged with a punch thrown at\xfffemaximum power. It can also be use
 A nutrient-draining attack. The user’s ＨＰ is\xffferestored by half the damage taken\xfffeby the target.
 A nutrient-draining attack. The user’s ＨＰ is\xffferestored by half the damage taken\xfffeby the target.
 A seed is planted on the foe. It steals some\xfffeＨＰ from the foe to heal the user on\xfffeevery turn.
-The user’s body is forced to grow all at\xfffeonce. It raises the Atk and Sp. Atk stats.
+The user’s body is forced to grow all at\xfffeonce. It raises the Sp. Atk stat.
 Sharp-edged leaves are launched to\xfffeslash at the foe. It has a high critical-hit\xffferatio.
 A two-turn attack. The user gathers light,\xfffethen blasts a bundled beam on the second\xfffeturn.
 A cloud of poisonous dust is scattered on\xfffethe foe. It may poison the target.
@@ -112,13 +112,13 @@ The user withdraws its body into its hard\xfffeshell, raising its Defense stat.
 The user curls up to conceal weak spots and\xffferaise its Defense stat.
 The user throws up a sturdy wall that\xfffesharply raises its Defense stat.
 A wondrous wall of light is put up to\xfffesuppress damage from Sp. Atks for\xfffefive turns.
-The user creates a haze that eliminates\xfffeevery stat change among all the\xfffePokemon engaged in battle.
+The user creates a haze that eliminates\xfffeevery stat change among all the\xfffePokémon engaged in battle.
 A wondrous wall of light is put up to\xfffesuppress damage from physical\xfffeattacks for five turns.
 The user takes a deep breath and focuses\xfffeto raise the critical-hit ratio of its attacks.
 The user endures attacks for two turns,\xfffethen strikes back to cause double\xfffethe damage taken.
 The user waggles a finger and stimulates the\xfffebrain into randomly using nearly any\xfffemove.
 The user counters the foe by mimicking the\xfffemove last used by the foe.
-The user blows up to inflict damage on all\xfffePokemon in battle. The user faints\xfffeupon using this move.
+The user blows up to inflict damage on all\xfffePokémon in battle. The user faints\xfffeupon using this move.
 A large egg is hurled with maximum force at\xfffethe foe to inflict damage.
 The foe is licked with a long tongue, causing\xfffedamage. It may also paralyze the target.
 The foe is attacked with a discharge of\xfffefilthy gases. It may also poison the target.
@@ -151,7 +151,7 @@ The foe is attacked with an odd, hot energy\xfffewave. The attack varies in inte
 The user just flops and splashes around to\xfffeno effect at all...
 The user alters its cellular structure to\xfffeliquefy itself, sharply raising its\xfffeDefense stat.
 The foe is hammered with a large pincer.\xfffeThis move has a high critical-hit ratio.
-The user explodes to inflict damage on all\xfffePokemon in battle. The user faints\xfffeupon using this move.
+The user explodes to inflict damage on all\xfffePokémon in battle. The user faints\xfffeupon using this move.
 The foe is raked with sharp claws or scythes for two to five times\xfffein quick succession.
 The user throws the bone it holds.\xfffeThe bone loops to hit the foe twice, coming\xfffeand going.
 The user goes to sleep for two turns.\xfffeIt fully restores the user’s ＨＰ and heals\xfffeany status problem.
@@ -224,11 +224,11 @@ The user looses a ground-shaking quake\xfffeaffecting everyone in battle. Its\xf
 The foe is punched with the user’s full,\xfffeconcentrated power. It confuses the\xfffefoe if it hits.
 Using its tough and impressive horn, the\xfffeuser rams into the foe with no letup.
 The user exhales a mighty gust that inflicts\xfffedamage. It may also paralyze the\xfffetarget.
-The user switches places with a party\xfffePokemon in waiting, passing along\xfffeany stat changes.
+The user switches places with a party\xfffePokémon in waiting, passing along\xfffeany stat changes.
 The user compels the foe to keep using only\xfffethe move it last used for three to\xfffeseven turns.
 An attack move that inflicts double damage\xfffeif used on a foe that is switching\xfffeout of battle.
 A spin attack that can also eliminate such\xfffemoves as Bind, Wrap, Leech Seed, and\xfffeSpikes.
-A sweet scent that lowers the foe’s\xfffeevasiveness. It also lures wild\xfffePokemon if used in grass, etc.
+A sweet scent that lowers the foe’s\xfffeevasiveness. It also lures wild\xfffePokémon if used in grass, etc.
 The foe is slammed with a steel-hard tail.\xfffeIt may also lower the target’s Defense stat.
 The foe is raked with steel claws.\xfffeIt may also raise the user’s Attack stat.
 The user allows the foe to attack first.\xfffeIn return, this throw move is guaranteed\xfffenot to miss.
@@ -249,7 +249,7 @@ The user hurls a shadowy blob at the foe.\xfffeIt may also lower the foe’s Sp.
 Two turns after this move is used, the foe\xfffeis attacked with a hunk of psychic energy.
 The user hits with a punch that may lower\xfffethe target’s Defense. It can also smash\xfffecracked boulders.
 Traps the foe inside a whirlpool that lasts\xfffefor two to five turns. The user can pass\xfffethrough whirlpools.
-The user gets all the party Pokémon to\xfffeattack the foe. The more party\xfffePokemon, the more damage.
+The user gets all the party Pokémon to\xfffeattack the foe. The more party\xfffePokémon, the more damage.
 An attack that hits first and makes the\xfffetarget flinch. It only works the\xfffefirst turn the user is in battle.
 The user attacks in an uproar for two to\xfffefive turns. Over that time, no one can fall\xfffeasleep.
 The user charges up power, and\xffferaises both its Defense and Sp. Def.\xfffeThe move can be used three times.
@@ -367,7 +367,7 @@ The user pecks the foe. If the foe is\xfffeholding a Berry, the user plucks it\x
 The user whips up a turbulent whirlwind that\xfffeups the Speed of all party Pokémon\xfffefor three turns.
 The user applies pressure to stress\xfffepoints, sharply boosting one of its stats.
 The user retaliates against the foe that\xfffelast inflicted damage on it with\xfffemuch greater power.
-After making its attack, the user rushes\xfffeback to switch places with a party\xfffePokemon in waiting.
+After making its attack, the user rushes\xfffeback to switch places with a party\xfffePokémon in waiting.
 The user fights the foe up close without\xfffeguarding itself. It also cuts the\xfffeuser’s Defense and Sp. Def.
 If the user can use this attack after\xfffethe foe attacks, its power is doubled.
 If the foe has already taken some damage in the\xfffesame turn, this attack’s power is doubled.
@@ -433,8 +433,8 @@ A charging attack that may also leave the\xfffefoe confused. It can also be used
 It reduces the foe’s evasion stat.\xfffeIt also removes spikes, light screens, etc.
 The user creates a bizarre area in which\xfffeslower Pokémon get to move first for five turns.
 Comets are summoned down from the sky. The\xfffeattack’s recoil sharply reduces the\xfffeuser’s Sp. Atk stat.
-A flare of electricity is loosed to strike all\xfffePokemon in battle. It may also cause\xfffeparalysis.
-An inferno of scarlet flames washes over all\xfffePokemon in battle. It may also\xfffeinflict burns.
+A flare of electricity is loosed to strike all\xfffePokémon in battle. It may also cause\xfffeparalysis.
+An inferno of scarlet flames washes over all\xfffePokémon in battle. It may also\xfffeinflict burns.
 A storm of sharp leaves is whipped up. The\xfffeattack’s recoil sharply reduces the\xfffeuser’s Sp. Atk stat.
 The user violently whirls its vines or\xfffetentacles to harshly lash the foe.
 The user launches a huge boulder at the foe to attack.\xfffeIt must rest on the next turn, however.
@@ -471,12 +471,12 @@ It protects all its teammates from attacks\xfffefor one turn. May fail if used i
 With psychic abilities it adds together the\xfffeDefence and Sp. Def of it and the foe\xfffeand then divides them in half.
 With psychic abilities it adds together the\xfffeAttack and Sp. Atk of it and  the foe\xfffeand then divides them in half.
 It creates a mysterious atmosphere.\xfffeAll Pokémon have their defence and\xfffeSp. Atk switched for 5 Turns.
-It makes its mysterious brain waves real and\xfffeattacks the opponents. It deals Physical damage.
+It makes its mysterious brain waves real and\xfffeattacks the opponents.\xfffeIt deals Physical damage.
 It hurls a special poison. Its power doubles\xfffeif it hits an opponent with Poison status.
 It cuts off useless parts of its body.\xfffeIt sharply raises its speed and makes its\xfffeweight lighter.
 It sprinkles itself with a powder that\xfffecauses frustration to call attention\xfffeto self. All the foes attacks aim towards it.
 It elevates foe with its psychic abilities.\xfffeUps hit rate for 3 turns.
-It creates a strange atmosphere.\xfffeNo Pokemon’s items have an effect\xfffefor 5 turns.
+It creates a strange atmosphere.\xfffeNo Pokémon’s items have an effect\xfffefor 5 turns.
 It attacks by throwing rocks/bullets at\xfffea flying foe. The foe is knocked down\xfffeand falls to the ground.
 It strikes the foe with one mighty blow.\xfffeAlways result in a critical hit.
 If it hits it attacks the opponent with a\xfffebursting flame. The burst flame will\xfffefall onto those nearby the hit Pokémon.
@@ -547,7 +547,7 @@ It attacks all around it with a crimson flame.\xfffeIt may cause a burn.
 It shoots a Photon Blaster at the foe.\xfffeThe type of the move varies upon on the\xfffeheld Cassette.
 It makes the opponent listen to an ancient\xfffesong and appeals to its heart. It may\xfffecause the opponent to sleep.
 It slashes at the foe with its long horn.\xfffeThe mysterious power of the horn deals\xfffephysical damage.
-It blows a cold chill like being frozen over\xfffethe foe. The foe's speed is sharply lowered.
+It blows a cold chill like being frozen over\xfffethe foe. The foes speed is sharply lowered.
 It covers itself in extensive amounts of\xfffeelectricity and charges at the opponent.\xfffeIt may cause paralysis.
 It surrounds the opponent in a beautiful\xfffeand violent blue flame. It may cause a burn.
 It covers its wings in fire and flaps them.\xfffeIt raises your Sp. Atk.

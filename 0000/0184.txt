@@ -1,4 +1,4 @@
-Long time, no see? Or hello?\xfffeI don't remember, but hey there!
+﻿Long time, no see? Or hello?\xfffeI don't remember, but hey there!
 Yahoho! Yahohoy!\xfffeI won again!
 Toho... Tohohoy...\xfffeI lost again...
 Alright, let's rock!\xfffeI'll show you my power!
@@ -64,7 +64,7 @@ Oh, the battle was fanciful...\xfffeI got swept up in it too...
 What Pokémon do you prefer?\xfffeHey, go on and show me!
 Your Pokémon tastes are good...\xfffeToo bad about the training part!
 Your Pokémon tastes aren't great,\xfffebut you're a first-class trainer!
-Sorry if I tell any lies.\xfffeAhem! I am NOT a prestigous lady!
+Sorry if I tell any lies.\xfffeAhem! I am NOT a prestigious lady!
 When I pretend to be a lady,\xfffeI always get pampered!
 I'm actually just an underling,\xfffea businessman's daughter...
 Hohoho...
@@ -148,7 +148,7 @@ Your Pokémon are fantastic!\xfffeLET ME TOUCH THEM!!
 I'm not particularly good at battling,\xfffebut I'm just serving the Fan Club!
 I've protected the honor\xfffeof the Fan Club! Hoohoho!
 Long live the Fan Club!!\xfffeThe Fan Club is eternal!!
-I should be hiking! How did I\xfffend up on a train instead? HOW?
+I should be hiking! How did I\xfffeend up on a train instead? HOW?
 Well, either way, this is\xfffean interesting place, yes, yes!
 Ah, the mountains...!\xfffeThe mountains beckon, yes, yes!
 A "hiker?" How rude!\xfffeCall me an alpinist!
@@ -189,7 +189,7 @@ I'm a biker, but\xfffeI still lack friends.
 I'm a biker, but\xfffeI've not yet won.
 My Pokémon are healthy as bread!\xfffeThat's what I raised them on!
 If you ate my special bread,\xfffeyou'd feel good in a flash too!
-You're strong... have you\xfffebeen eating my special braead?
+You're strong... have you\xfffebeen eating my special bread?
 One, two, three, four loaves...\xfffeNope, still missing a loaf...
 Ahhh, I'm out a loaf of bread...\xfffeMy husband will scold me...
 Oh, curse ye, curse ye...\xfffeWhere did my bread get to...?
@@ -246,7 +246,7 @@ You're so CUTE when you lose!\xfffeI wanna go over and comfort you!
 Hnnngh! You're ADORABLE!\xfffeI wish I could lub you all I wanted!
 We've trained at crime scenes!\xfffeNow to show you our power!
 How are they?! My Pokémon!\xfffePowerful strong, aren't they?!
-A strange occurence! Why lose\xfffewhen we're too powerful to lose?
+A strange occurrence! Why lose\xfffewhen we're too powerful to lose?
 Oh! Y'look lively!\xfffeRighty then! Let's do it!
 Ohhh, yes! We did it!\xfffeHow're thems?! Good work, pal!
 Ohhh! Good one, young'n!\xfffeY'showed my pal what for!
@@ -559,7 +559,7 @@ I've got no experience...\xfffeI'm a doctor in name alone!
 You know people to administer medical\xfffetreatment are a necessity, don't you?
 Physicians need love!\xfffePlentiful, unconditional love!
 Medical treatment is practically love.\xfffeWould you be a doctor, too?
-I chose my professsion because\xfffeI wanted somebody to rely on me!
+I chose my profession because\xfffeI wanted somebody to rely on me!
 My work is difficult, but it\xfffemakes me happy to know I help!
 I'm glad to get my patients out of\xfffethe hospital, but a little sad, too...
 Adults have a WIDE variety of interests!\xfffeFor example, I'm nuts about uniforms!
@@ -610,7 +610,7 @@ I AM A GENIUS...\xfffeHOW COULD I LOSE TO SUCH A FOE...
 My life is nothing but research.\xfffeI've left my family, too!
 There's nothing wrong with giving\xfffeyour life for research, right?
 Devotion to some things\xfffesometimes leads to loneliness...
-Fyahaha...\xfffeHelp me out with an experient!
+Fyahaha...\xfffeHelp me out with an experiment!
 Fyahaha... Success!\xfffeThe experiment was a huge success!
 Ohyohyo... This won't work...\xfffeThe experiment was a failure...
 Go on, face my\xfffescience-powered Pokémon!
@@ -661,7 +661,7 @@ Ahh, my blood is boiling...\xfffeI wanna fight, too...
 Ah, wait! Trainer, there!\xfffeThou battlest I!
 Ah! I've struck thou down!
 Aiyaaa! Wait!\xfffeForgive me! Thou, forgiveth me!
-When living surrounded by nature,\xfffemany things become insignifcant...
+When living surrounded by nature,\xfffemany things become insignificant...
 Even my victory would mean\xfffelittle if I lived with Mother Nature...
 Even my loss would mean\xfffelittle to Mother Nature...
 As you can see, I'm a city boy!\xfffeAnd I yearn for rural life...
@@ -916,7 +916,7 @@ DUMMY
 DUMMY
 DUMMY
 DUMMY
-Thank you for riding\xfffethe Battle Subway today.\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Consider your next destination\xfffedependent on your ability!\xf000븁\x0000Do you fully understand\xfffeyour Pokémon?\xf000븁\x0000What kind of foes\xfffehave you gone through...?\xf000븁\x0000Victory or defeat...\xfffeTorward which are you headed...?\xf000븀\x0000Prepare for departure!!
+Thank you for riding\xfffethe Battle Subway today.\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Consider your next destination\xfffedependent on your ability!\xf000븁\x0000Do you fully understand\xfffeyour Pokémon?\xf000븁\x0000What kind of foes\xfffehave you gone through...?\xf000븁\x0000Victory or defeat...\xfffeToward which are you headed...?\xf000븀\x0000Prepare for departure!!
 ...Your battle was\xfffecertainly not lacking.\xf000븁\x0000But, if only by a little,\xfffeit seems I surpassed you.\xf000븁\x0000I would desire to challenge you\xfffeto a bout once more!\xf000븁\x0000Certainly! Certainly!\xfffeWe await your riding again!
 Bravo!!\xf000븁\x0000The victory you have achieved\xfffewith your impressive ability\xf000븀\x0000results in a splendid arrival!\xf000븁\x0000However,\xfffelife goes on still!\xf000븁\x0000When you decide your next destination,\xfffeyou must make your way there\xf000븀\x0000with all that you can muster!
 Welcome! I've been waiting!\xf000븁\x0000Let me introduce myself...\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Winning, winning, winning...\xfffeAnd what do you see ahead?\xf000븀\x0000What is your destination?\xf000븁\x0000Thinking it over,\xfffeyou realize something...\xf000븁\x0000Only winning means you don't know\xfffehow to handle not winning.\xf000븁\x0000So, once more,\xfffechallenge me with your best.\xf000븀\x0000Prepare for departure!!

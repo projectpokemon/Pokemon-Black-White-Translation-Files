@@ -1,4 +1,4 @@
-Greet
+﻿Greet
 Draw
 Battle
 Trade

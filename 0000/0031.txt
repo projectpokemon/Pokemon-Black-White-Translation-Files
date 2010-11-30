@@ -1,37 +1,37 @@
-\xf000Ā\x0001\x0000
+﻿\xf000Ā\x0001\x0000
 ID \xf000Ȅ\x0001\x0000
-Then\xf000Ȁ\x0001\x0000need people
-Until \xf000Ȁ\x0001\x0000にん まで
-Looking for a Multi-Battle!
-Looking for a Musical!
-Recruiting Battle Subway members!
+\xf000Ȁ\x0001\x0000 more needed
+Up to \xf000Ȁ\x0001\x0000 more
+Recruiting for a Multi Battle!
+Recruiting for a Musical!
+Recruiting for the Battle Subway!
 \xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-Waiting for participating members \xfffeB button: quit
-メンバーが そろったら\xfffeＡボタン：すすむ Ｂボタン：やめる
-\xf000Ā\x0001\x0000から れんらくあり!\xfffeメンバーに しますか?
-Is this member OK?
-Stop the Multi-Battle?
-Stop the Musical?
-Stop the Subway Battle?
-Is it OK to stop the Reader?
-If so, the Multi-Battle\xfffewill be interrupted.
-If so, the Musical\xfffewill be interrupted.
-If so, the Subway Battle\xfffewill be interrupted.
-つごうの わるくなってしまった\xfffeメンバーが います
-メンバーが いなくなりました\xfffeマルチバトルを ちゅうし します
-そのまま おまちください\xfffeＢボタン：やめる
-そのまま おまちください
-つごうが わるくなりました\xfffeマルチバトルを ちゅうし します\xf000븂\x0001<
-つごうが わるくなりました\xfffeミュージカルを ちゅうし します\xf000븂\x0001<
-つごうが わるくなりました\xfffeバトルサブウェイを ちゅうし します\xf000븂\x0001<
+Waiting for participating members.\xfffeB Button: Quit
+Are all members gathered?\xfffeA Button: Proceed, B Button: Quit
+Detected \xf000Ā\x0001\x0000!\xfffeMake them a member?
+Are these members okay?
+Quit Multi Battle?
+Quit Musical?
+Quit Battle Subway?
+If the leader quits, the group\xfffewill dissolve. Is that okay?
+Then the Multi Battle\xfffewill be suspended.
+Then the Musical\xfffewill be suspended.
+Then the Battle Subway\xfffewill be suspended.
+Some members are facing\xfffetechnical difficulties.
+All members left.\xfffeMulti Battle will be suspended.
+Please wait.\xfffeB Button: Quit
+Please wait.
+Conditions have worsened.\xfffeMulti Battle will be suspended.\xf000븂\x0001<
+Conditions have worsened.\xfffeMusical will be suspended.\xf000븂\x0001<
+Conditions have worsened.\xfffeBattle Subway will be suspended.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
 \xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jＩＤ：\xf000Ȅ\x0001\x0002
-Please choose a friend\xfffefor the Musical!
-Please choose a friend\xfffefor the Battle Subway!
-All participants have joined!\xfffePlease follow this way.
-\xf000Ā\x0001\x0000から ＮＧとの\xfffeへんじが きてしまいました…\xf000븂\x0001<
-\xf000Ā \x0001 \x0000 waiting for replies \xfffeB button: quit
-\xf000Ā\x0001\x0000から ＯＫとの\xfffeへんじが きました\xf000븂\x0001<
-Please wait \xfffeB button: quit
-メンバーから ぬけますか?
-つごうが わるいみたい…\xf000븂\x0001<
+Choose a friend\xfffefor the Musical.
+Choose a friend\xfffefor the Battle Subway.
+All members gathered!\xfffeRight this way, then!
+\xf000Ā\x0001\x0000 sent\xfffea reply of "no good"...\xf000븂\x0001<
+Waiting for \xf000Ā\x0001\x0000's reply.\xfffeB Button: Quit
+\xf000Ā\x0001\x0000 sent\xfffea reply of "OK."\xf000븂\x0001<
+Please wait.\xfffeB Button: Quit
+Remove member?
+Circumstances seem bad...\xf000븂\x0001<

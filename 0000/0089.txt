@@ -1,7 +1,7 @@
-－－－－－－－－－－
+﻿----------
 Mysterious Place
 Distant Place
-\xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
+\xf000Ā\x0001\x0000 \xf000ą\x0001\x0001
 Kanoko Town
 Karakusa Town
 Sanyou City
@@ -30,7 +30,7 @@ Route 15
 Route 16
 Waterway 17
 Route 18
-Dream Ruins
+Dream Lot
 Yaguruma Forest
 Resort Desert
 Ancient Castle

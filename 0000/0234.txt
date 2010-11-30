@@ -1,4 +1,4 @@
-No. Seen
+﻿No. Seen
 No. Caught
 JPN
 ENG
@@ -187,7 +187,7 @@ Different Forms:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 (Shiny)
-\xf000ā\x0001\x0000's Location
+\xf000ā\x0001\x0000's location
 Spring
 Summer
 Autumn

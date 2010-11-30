@@ -1,8 +1,8 @@
-Congratulations on entering the Hall of Fame!
+﻿Congrats, Hall-of-Famer!
 \xf000Ă\x0001\x0000
 Lv.
 \xf000Ȃ\x0001\x0000
-Congratulations on becoming the Champion!
+Congratulations, Champion!
 \xf000Ā\x0001\x0000
 ID No.\xf000Ȅ\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001

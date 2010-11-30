@@ -1,50 +1,50 @@
-GAME SYNC
+﻿Game Sync
 Wi-Fi Settings
 Back
-ここまでの かつやくを\xfffeポケモンレポートに かきこみますか?
+Save your progress thus far?
 Yes
 No
-ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
-Ｗｉ－Ｆｉせっていを おこないますか?\xfffe（Ｗｉ－Ｆｉつうしんを おこないます）
-ねかしつけている ところです\xfffeしばらく おまちください
-ゲームシンクが かんりょう しました
-ポケモンを\xfffeおこして よろしいですか?
-ポケモンを おこしています
-\xf000Ă\x0001\x0000が めをさました!
-しばらく おまちください
-\xf000Ă\x0001\x0000は\xfffeスヤスヤ ねむりはじめた!
-\xf000Ă\x0001\x0000が めをさました!
-ゲームシンクの エネルギーぎれです\xfffeじゅうでんまで １にち かかります
-まだ ゆめを みていないみたい
-ポケモンを おこしますか?
-ボックスに ねむらせる\xfffeポケモンが いません
-いまは ゆめを みているようだ
-ぜんかいの ゆめのカケラを\xfffeうけとっていません!\xf000븁\x0000ポケモンを おこして あたらしい\xfffeゆめのカケラが くると\xf000븁\x0000ぜんかいの ゆめのカケラは\xfffeきえてしまいます\xf000븁\x0000ポケモンを\xfffeおこしても よろしいですか?
-\xf000Ă\x0001\x0000は\xfffeレベルが\xf000ȁ\x0001\x0001アップしました
-Ｃギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました\xfffeずかんのスキンがかわりました
-Ｃギアのスキンがかわりました
-ミュージカルのえんもくがかわりました
-ずかんのスキンがかわりました
-Ｃギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました
-ミュージカルのえんもくがかわりました\xfffeずかんのスキンがかわりました
-Ｃギアのスキンがかわりました\xfffeずかんのスキンがかわりました
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０１）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０２）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０３）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０４）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０５）
-ごりようの サービスは\xfffeしゅうりょう いたしました\xfffe（エラーコード：１３２０６）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０７）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０８）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０９）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２１０）
-サーバーが こんざつ しています\xfffeせつぞく に しっぱいしました\xfffeじかんを おいて さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
-サーバーは げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
-ねかしつけた ポケモンのゆめを\xfffeインターネットで\xfffeあそぶことが できます!
-ポケモンのゆめを あそぶには\xfffeゲームシンクせっていが\xfffeひつようです
-ゲームシンクせっていに\xfffeついて くわしくは\xfffeせつめいしょを ごらんください
-\xf000Ă\x0001\x0000が めをさました!
-すでに べつの ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000レポートが かけません!\xf000븁\x0000くわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000ごらんください
-ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード は\xfffeゲームかいしじの タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが できます\xf000븁\x0000
-ポケモングローバルリンクの\xfffeホームページで せっていを\xfffeおこなうと よりゲームシンクを\xfffeおたのしみいただくことが できます\xfffehttp://www.pokemon-gl.com/\xfffeくわしくは とりあつかい\xfffeせつめいしょを ごらんください
-ボックスのなかが いっぱいです!\xf000븁\x0000ボックスの ポケモンを １ぴき\xfffeへらさないと おこすことができません
+Saving...\xfffeDon't turn off the power.
+Go to Wi-Fi Settings?\xfffe(Go to Wi-Fi connection)
+Now going to sleep.\xfffePlease wait a moment.
+Game Sync complete.
+Is it okay to\xfffewake the Pokémon?
+The Pokémon is awake.
+\xf000Ă\x0001\x0000 woke up!
+Please wait a moment.
+\xf000Ă\x0001\x0000\xfffeslept soundly!
+\xf000Ă\x0001\x0000 woke up!
+Out of Game Sync energy.\xfffeRecharing will take a day.
+You still can't\xfffesee their dreams.
+Wake up the Pokémon?
+There are no Pokémon\xfffesleeping in the box.
+It seems you can now\xfffesee their dreams.
+Last time's Dream Shards\xfffecouldn't be received!\xf000븁\x0000Waking the Pokémon will\xfffebring new Dream Shards.\xf000븁\x0000Last time's Dream Shards\xfffehave vanished.\xf000븁\x0000Is it okay to\xfffewake the Pokémon?
+\xf000Ă\x0001\x0000 leveled up\xfffeto Level \xf000ȁ\x0001\x0001.
+C-Gear skin changed.\xfffeMusical performance changed.\xfffePokédex skin changed.
+C-Gear skin changed.
+Musical performance changed.
+Pokédex skin changed.
+C-Gear skin changed.\xfffeMusical performance changed.
+Musical performance changed.\xfffePokédex skin changed.
+C-Gear skin changed.\xfffePokédex skin changed.
+A server error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13201)
+A server error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13202)
+A communication error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13203)
+A communication error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13204)
+A server error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13205)
+The server being used\xfffehas been terminated.\xfffe(Error Code: 13206)
+A communication error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13207)
+A server error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13208)
+A communication error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13209)
+A server error has occurred.\xfffePlease try again.\xfffeIf problems persist,\xfffeplease consult the\xfffeinstruction manual.\xfffe(Error Code: 13210)
+The server is congested.\xfffeThere was an error in linking.\xfffeGive it time,\xfffethen please try again.\xfffe(Error Code: 13211)
+The server is currently\xfffeunder maintenance.\xfffeDetails on the maintenance\xfffecan be found on the\xfffePokémon Global Link website.\xfffehttp://www.pokemon-gl.com/\xfffe(Error Code: 13212)
+Can't play in the\xfffesleeping Pokémon's\xfffedreams on the internet!
+To play in Pokémon's dreams,\xfffeyou must change the\xfffeGame Sync settings.
+For information on\xfffethe Game Sync settings,\xfffeconsult the instruction manual.
+\xf000Ă\x0001\x0000 woke up!
+There is already\xfffeanother save file written,\xf000븀\x0000so you could not save!\xf000븁\x0000For details,\xfffeplease consult the\xfffeinstruction manual.
+Game Sync ID code\xfffehas been issued.\xfffe\xfffeRe-check the above Game Sync ID\xfffewith the Game Sync settings\xfffeon the title screen menu\xfffewhen you start the game.\xf000븁\x0000
+By going to the Pokémon\xfffeGlobal Link homepage to\xfffechange settings, you can\xfffebetter enjoy Game Sync.\xfffehttp://www.pokemon-gl.com/\xfffeFor details, consult\xfffethe instruction manual.
+Your boxes are full!\xf000븁\x0000You can't wake a Pokémon until\xfffeyou take a Pokémon from the box.

@@ -1,48 +1,48 @@
-\xf000봂\x0000だれでも こうかん
-\xf000봂\x0000まちあわせ こうかん
-こうかんきぼう
+﻿\xf000봂\x0000Trade With Anyone
+\xf000봂\x0000Appointed Trade
+Trade Wish
 Level
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１からＬｖ．１００
+Level 1 to 49
+Level 50
+Level 51 to 100
 Any
 Cool
 Cute
 Scary
 Weird
 Any
-こうかんサーチ
-きぼうにそった こうかんあいてを\xfffeさがしています……
+Trade Search
+Looking for partners\xfffethat meet your needs...
 Cancel
-あいてのじょうほうを もらっています
-こうかんあいてが みつかりました!
+Getting information about partner.
+Found a trade partner!
 Search
-こうかんする あいてを\xfffeえらんで ください
-こうかんきぼう じょうけんをきめて\xfffeサーチを おしてください
-こうかんあいて
-どちらの こうかんを するか\xfffeえらんで ください
+Please choose a\xfffepartner to trade with.
+Decide your trade conditions\xfffeand hit Search.
+Trade Partner
+Which will you trade?\xfffePlease choose one.
 Desired Pokémon
 Send Pokémon
 Yes
 No
-まちあわせ
+Appointment
 \xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ＩＤ：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
-まだ まちあわせが\xfffeできる ひとは いません
-まちあわせあいての せんたく
-このひとと まちあわせしますか?
-こうかんあいての えらびかたを\xfffeきめてください
+There isn't yet anyone\xfffeto make an appointment with.
+Choose Appointment Partner
+Make an appointment with this person?
+Decide how to choose\xfffeyour trade partner.
 Quit
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-あいさつ
+Greet
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを あきらめますか?
-こうかんを かいしします!
-\xf000봃\x0001\x0001こうかんすう
-すんでいるばしょ
-Ｗｉ－Ｆｉコネクション から\xfffeせつだん しても よろしいですか?
-こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです
-みんなと まちあわせ
-いぜん ポケモンを こうかん\xfffeしたひとと まちあわせますか?
-さくじょします
-９９ついかします
+Give up on search?
+Trading begins!
+\xf000봃\x0001\x0001 Trade Count
+Location
+Disconnecting from Wi-Fi.\xfffeIs this okay?
+Tradiing requires at least\xfffetwo Pokémon on hand.
+Appointment with All
+Make appointment with\xfffeprevious trade partner?
+Delete
+Add 99

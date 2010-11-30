@@ -1,3 +1,3 @@
-Mic Test
+﻿Mic Test
 Face the microphone\xfffeand speak into it.\xfffeIf things work properly,\xfffethe Pokémon will start singing.
 \xf000봂\x0000Return

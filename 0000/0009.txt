@@ -1,8 +1,8 @@
-しょていの いちに ついて\xfffeたいせんを はじめてください
-Please wait.\xfffe(B to cancel)
-To join please choose\xfffe3 Pokémon\xf000븁\x0000
-To join please choose\xfffe4 Pokémon\xf000븁\x0000
-To join please choose\xfffe6 Pokémon\xf000븁\x0000
+﻿Begin the battle\xfffeat the proper location!
+Please wait a moment.\xfffe(B to cancel)
+Then please choose\xfffethree Pokémon to enter.\xf000븁\x0000
+Then please choose\xfffefour Pokémon to enter.\xf000븁\x0000
+Then please choose\xfffesix Pokémon to enter.\xf000븁\x0000
 Quit the game?\xfffeAre you sure?
 Quitting.\xfffePlease wait.
-\xf000Ā\x0001\x0000 showed you their\xfffeTrainer Case!
+Saw \xf000Ā\x0001\x0000's\xfffeTrainer Case!

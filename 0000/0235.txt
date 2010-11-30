@@ -1,4 +1,4 @@
-
+﻿
 For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
 When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
 After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
@@ -495,7 +495,7 @@ It is said to have emerged from an\xfffeegg in a place where there was\xfffenoth
 It produces infinite energy inside its\xfffebody. When it touches an ally, it shares\xfffethe energy.
 It bathes its tail in sunlight and\xfffeundergoes photosynthesis. If it runs out\xfffeof energy, its tail droops.
 It slips through shadows of overgrown\xfffeplants to avoid attacks. It skillfully\xfffewhips the enemy to counterattack.
-It raises its head high to intimidate\xfffeopponents. In only becomes serious when\xfffefighting a strong enemy.
+It raises its head high to intimidate\xfffeopponents. It only becomes serious when\xfffefighting a strong enemy.
 It snorts flames from its nostrils. When\xfffeit has a cold, this becomes black smoke\xfffeinstead of flames.
 A flame burns in its stomach, fueled by\xfffethe food it eats. When it’s angry, its\xfffefire power increases.
 It has a beard of flames. It possesses\xfffeboth power and speed and has learned\xfffegrappling techniques.
@@ -511,34 +511,34 @@ It charms people with cute ways and uses\xfffethe moment to steal their stuff. W
 It sneaks up without any indication.\xfffeBefore the opponent notices, it\xfffestealthily takes them down from behind.
 It shares the leaves on its head with\xfffeexhausted Pokémon. They have the effect\xfffeof curing fatigue.
 It attacks by slamming the opponent with\xfffeits spiked tail. A Pokémon with a violent\xfffetemperament.
-It lives in volcanic caves. The inside of\xfffeits head tassel burns at a temperature\xfffeof 300 degrees.
+It lives in volcanic caves. The\xfffehottest part of its head tassel burns\xfffeat a temperature of 300 degrees.
 A flame burns inside its body, and it\xfffescorches enemies by scattering sparks\xfffefrom its head and tail.
 It's weak in dry environments. It\xfffemoistens the tassel on its head with\xfffewater stored in its tail.
-It fires high-pressure water from its\xfffetail with the force to destroy\xfffea concrete wall.
-It eats the dreams of humans and Pokémon.\xfffeWhen it eats a fun dream, it spits out\xfffepink smoke.
+It fires high-pressure water from its\xfffetail with enough force to destroy\xfffea concrete wall.
+It eats the dreams of humans and\xfffePokémon. When it eats a fun dream,\xfffeit spits out pink smoke.
 It makes the dreams it ate appear. The\xfffesmoke that leaks from its forehead\xfffechanges the form of items created.
 A Pokémon that lives in towns. Since\xfffethey’re social, they gather in large\xfffegroups in parks and plazas.
 It’s said that the forests where\xfffeHatooboo live are peaceful regions\xfffefree of strife.
 The male has adornments on its head. It\xfffenever grows attached to any human other\xfffethan its trainer.
 It appears when thunderclouds cover\xfffethe sky. It catches thunder and stores\xfffethe electricity in its mane.
 It has a violent nature. When angered, it\xfffeshoots electricity from its mane in all\xfffedirections, so be careful.
-It was discovered inside a fissure after\xfffea great earthquake 100 years ago. It has\xfffean energy core inside its body.
-Energy that seeps out of its body clumps\xfffeup and turns into orange crystals.
+It was discovered inside a fissure after\xfffea great earthquake 100 years ago. It\xfffehas an energy core inside its body.
+Energy that seeps out of its body\xfffeclumps up and turns into\xfffeorange crystals.
 The orange crystals that grow from its\xfffebody absorb sunlight. The energy is\xfffeamplified and expelled through the mouth.
 It clings to cavern walls with suction\xfffefrom its nostrils and sleeps there. A\xfffeheart shape is left where it adhered.
 Anyone who bathes in the ultrasonic waves\xfffeit emits during courtship is put into a\xfffevery happy mood.
 It puts its claws together, spins its\xfffebody at high speed, and drills through\xfffethe earth at dizzying speeds.
 It makes its labyrinth-like den 100\xfffemeters below the surface. The dens were\xfffeexposed by subway tunnels.
-It has extraordinary hearing. It catches\xfffeinformation about its surroundings from\xfffefaint noises, just like a radar.
+It has extraordinary hearing. It gets\xfffeinformation about its surroundings from\xfffefaint noises, just like a radar.
 It always carries a plank of wood. This\xfffePokémon appears at construction sites\xfffeto help with building.
 It tones its body by shouldering steel\xfffebeams. It shows its toned muscles off to\xfffeits friends.
 It freely wields the concrete beams that\xfffeit uses as walking sticks, without\xfffetapping all of its strength.
-It vibrates its cheeks and emits sound\xfffewaves that are inaudible to humans. It\xfffecommunicates with thier rhythm.
+It vibrates its cheeks and emits sound\xfffewaves that are inaudible to humans. It\xfffecommunicates with these rhythms.
 It lives in the water and on land. It\xfffecatches prey by entangling it in its\xfffelong, sticky tongue.
 It makes the lumps on its fists vibrate\xfffeto double the power of its punches. It\xfffecan pulverize a boulder in one strike.
-It can throw opponents that are larger\xfffethan itself. It always makes packs with 5\xfffemembers.
+It can throw opponents that are larger\xfffethan itself. It always makes packs with\xfffefive members.
 The destructive power of its punches\xfffegrows when it puts on its belt and yells.\xfffeIt gets angry if you hinder its training.
-It cuts up leaves and sews them together\xfffewith sticky thread from its mouth.\xfffeA Pokémon that makes its own clothes.
+It cuts leaves and sews them together\xfffewith sticky thread from its mouth.\xfffeA Pokémon that makes its own clothes.
 It wraps its body in a leaf to ward off\xfffethe cold. It moves through the forest\xfffeeating nearby fallen leaves.
 It warms its eggs with the heat of\xfffefermenting fallen leaves. It makes\xfffeblankets for Kurumiru out of leaves.
 It feels out its surroundings with the\xfffeantennae on its head and tail. It has an\xfffeextremely brutal nature.
@@ -548,16 +548,16 @@ It goes wherever the wind takes it.\xfffeSince its body grows heavy in the rain,
 It appears riding a whirlwind. It’s a\xfffePokémon that enters houses through\xfffecracks and causes mischief.
 Since it prefers soil with an abundance\xfffeof moisture and nutrients, fields where\xfffeChurine lives produce excellent crops.
 The aroma of the flowers on its head has\xfffea relaxing effect. If you neglect to trim\xfffethem, they wither.
-Red and blue Basurao don’t get along,\xfffebut somehow a different colored individual\xfffegot mixed into the school.
-It moves by burrowing through the sand\xfffewith only its eyes and nose above ground.\xfffeA black membrane protects its eyes.
+Red and blue Basurao don’t get along,\xfffebut for some reason, different-colored\xfffeones tend get mixed into the schools.
+It moves by burrowing through the sand\xfffewith its eyes and nose above ground.\xfffeA black membrane protects its eyes.
 Since the special membrane around its\xfffeeyeballs perceives body heat, it can see\xfffeits surroundings even in the dark.
 It has eyes that can magnify things that\xfffeare far away, just like a pair of\xfffebinoculars.
 Since Darumakka’s droppings are hot,\xfffeancient people put them in their pockets\xfffeto warm their bodies.
 When it’s weakened in battle, it becomes\xfffemotionless like a rock. It’s honed its\xfffemind and battles with force of will.
 It lives in arid lands. When it moves its\xfffebody rhythmically, it plays a sound\xfffesimilar to maracas.
-It makes a hole in any rock that’s handy\xfffeand nests there. If the rock's destroyed,\xfffeit won’t rest until it finds a new one.
+It makes a hole in a suitable rock and\xfffenests there. If its rock is smashed,\xfffeit won’t rest until it finds a new one.
 It has the stamina to walk across arid\xfffeland for many days with a heavy rock on\xfffeits back.
-It immediately launches a Headbutt attack\xfffeat any enemy who locks eyes with it. It\xfffehas a very hard skull.
+It immediately launches a Headbutt\xfffeat any enemy who locks eyes with it. It\xfffehas a very hard skull.
 The one with the biggest crest is chosen\xfffeas the group’s leader. Its kicking\xfffeattacks demolish concrete blocks.
 The guardian deity of an ancient city. It\xfffeattacked invaders with psychic powers.
 It was born from the soul of a human\xfffeburied in an ancient tomb. It still has\xfffeits memories from long ago.
@@ -573,8 +573,8 @@ It has the power to bewitch many people\xfffeat once. It protects its habitat by
 A Pokémon obsessed with cleanliness. It\xfffeuses its tail as a broom to sweep the\xfffedust from its habitat.
 Its white fur feels luxurious. It never\xfffeattracts dust or static.
 It patiently observes Pokémon and\xfffeTrainers. It appears to be looking at\xfffesomething that only Gothimu can see.
-Starlight is the source of its power. At\xfffenight, it levitates rocks with psychic\xfffepower and maps the position of the stars.
-It has the ability to predict future\xfffeevents based on the star's movements. It\xfffecan also see its Trainer’s lifespan.
+Starlight is the source of its power. At\xfffenight, it levitates rocks with psychic\xfffepower and maps the stars' positions.
+It has the ability to predict future\xfffeevents based on the stars' movements.\xfffeIt can also see its Trainer’s lifespan.
 Its body is enveloped in a special\xfffeliquid, which enables it to live in any\xfffeenvironment.
 Its brain is split into two sections. It\xfffedisplays its full power when both brains\xfffeare thinking the same thing.
 It fights by manipulating arms that have\xfffea grip that can crush a boulder. A\xfffePokémon with a high IQ.
@@ -598,7 +598,7 @@ It builds traps from threads charged\xfffewith electricity. It slowly devours th
 It thrusts its spikes into cave walls and\xfffeaffixes itself. It absorbs minerals from\xfffethe rocks.
 It attaches itself to cave ceilings. When\xfffeprey passes beneath, it assaults them\xfffewith a barrage of iron spikes.
 The rotation of the two engaged bodies\xfffeproduces its life energy.
-It launches attacks by spinning the small\xfffegear at high speeds and firing it. The\xffferisk is that the gear won’t be recovered.
+It attacks by spinning the small gear at\xfffehigh speeds and firing it. This is risky,\xfffeas the gear might not be recovered.
 It rapidly spins the red gear at its core\xfffeto quickly charge energy.
 A Pokémon that lives in a group. It has\xfffeorgans that produce electricity, which it\xfffedischarges in a pinch.
 A Pokémon with a vigorous appetite. Once\xfffeit spots its prey, it chases it down,\xfffestuns it with electricity, and eats it.
@@ -611,13 +611,13 @@ If something is wrapped in Shandera’s\xfffeflame, its soul is sucked out and\x
 It marks its territory by scarring trees\xfffewith its fangs. Even if the fangs break,\xfffethey immediately grow back.
 It has fangs that can smash boulders.\xfffeThe fights of Onondo over territory\xfffeare extremely violent.
 It has sturdy, blade-like fangs that can\xfffeeven cut through an iron frame. It is\xfffecovered with hard armor.
-Mucus is always hanging from its nose. It\xfffesucks the mucus up and launches an\xfffeattack. The mucus is the attack's source.
+Mucus is always hanging from its nose.\xfffeIt sucks the mucus up and launches\xfffeit back out as an attack.
 It freezes its breath to make fangs and\xfffeclaws of ice. It lives in the cold lands\xfffeof the north.
 It was born inside a snow cloud. It\xfffecatches prey with the chains coming out\xfffeof its ice crystals.
 It evolves when it and Kaburumo are\xfffebathed in electric energy. The reason\xfffefor this is unknown.
 If it removes its heavy shell, it becomes\xfffenimble. It fights with the agility of a\xfffeninja.
-It burries itself in mud on the beach and\xfffewaits for prey. When it feels prey, it\xfffedischarges electricity and paralyzes it.
-It uses pretty, endless attacks. If body\xfffeand soul are unified, the techniques’\xfffespeed and intensity increases.
+It buries itself in mud on the beach and\xfffewaits for prey. When it feels prey, it\xfffedischarges electricity and paralyzes it.
+It uses pretty, endless attacks. If it\xfffeunifies body and soul, the techniques’\xfffespeed and intensity increase.
 It fights by slamming the enemy with the\xfffelong hair on its arms. It shakes its arms\xfffelike whips.
 It catches the prey running around its\xfffenarrow den with its sharp claws. The skin\xfffeon its face is as hard as stone.
 It’s thought that this Pokémon was born\xfffeof the science of a mythical ancient\xfffecivilization.
@@ -626,9 +626,9 @@ It fights at Kirikizan’s command. It\xfffeclings to its prey and ebbs away at 
 It hunts prey as a swarm, accompanied\xfffeby large numbers of Komatana.\xfffeKirikizan lands the finishing blow.
 It charges indiscriminately and lands\xfffeheadbutts. It has the destructive power\xfffeto derail a train.
 It indiscriminately challenges even\xfffestrong opponents to battle. It battles\xffferepeatedly to become strong.
-A fearless warrior of the sky. It’s said\xfffethat the more wounds it has,the more\xffferespect it gets from its comrades.
-If it finds a handy skeleton, it has the\xfffehabit of using it to protect its bottom.\xfffeIt chases after weak Pokémon.
-It surveys the ground from the sky,\xfffethen swoops down on weak prey. It has\xfffethe habit of wearing bones.
+A fearless warrior of the sky. It’s said\xfffethat the more wounds it has, the more\xffferespect it gets from its comrades.
+If it finds a handy skeleton, it has a\xfffehabit of using it to protect its bottom.\xfffeIt chases after weak Pokémon.
+It surveys the ground from the sky,\xfffethen swoops down on weak prey. It has\xfffea habit of wearing bones.
 It melts Aianto’s steel body with its\xfffefiery tongue, which burns at high\xfffetemperatures, and eats what’s inside.
 It burrows into mountains to make its\xfffenests. The complex tunnels are an\xfffeAianto-made labyrinth.
 Since it can’t see, it finds its way by\xfffetackling and biting its surroundings.\xfffeIt’s always covered in fresh bruises.

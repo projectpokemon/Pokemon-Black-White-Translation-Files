@@ -1,4 +1,4 @@
-When a trainer meets eyes\xfffewith another trainer...\xf000븁\x0000There begins a Pokémon battle!\xf000븁\x0000
+﻿When a trainer meets eyes\xfffewith another trainer...\xf000븁\x0000There begins a Pokémon battle!\xf000븁\x0000
 What the?!\xfffeYou're that strong?!
 Go into the grass to fight\xfffeagainst wild Pokémon!\xf000븁\x0000But before that, you have to heal\xfffeyour Pokémon at a Pokémon Center.
 I just LOVE Pokémon battles!\xf000븁\x0000My lovey-dovey Pokémon\xfffeare gonna do their lovey-doviest!\xf000븁\x0000
@@ -352,7 +352,7 @@ If not people nor Pokémon...\xfffebut only the world alone vanishes,\xf000븀\x
 I'm filled with an\xfffeindescribable energy!\xf000븁\x0000
 The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 The world has many kinds of\xfffeenergies flowing around in it.\xf000븀\x0000Like hopes, like dreams...
-...I still want to fight!\xfffeThat, the wandering spirits whipser!\xf000븁\x0000
+...I still want to fight!\xfffeThat, the wandering spirits whisper!\xf000븁\x0000
 Pant, pant...\xfffeAnd I want to calm down for a bit...
 The Tower of Heaven...\xfffeit's filled with various feelings,\xf000븀\x0000with particular reasons to desire life.
 When I do my practice,\xfffeI really feel I've become amazing!\xf000븀\x0000You know the feeling?\xf000븀\x0000So! Let's battle!\xf000븁\x0000
@@ -521,7 +521,7 @@ Dad works in the gym!\xfffeI'm training hard here!!\xf000븁\x0000
 I've fought Pokémon with dad,\xfffebut that was a pretty good battle!
 The old workers\xfffetransport Pokémon and cargo!\xf000븁\x0000In my comfy shorts,\xfffeI'll join forces with my Pokémon!\xf000븁\x0000
 Hmm! You seem to be\xfffeeven better friends with Pokémon!
-The Pokémon around the containers\xfffecame on ships from foreign contries...\xf000븁\x0000Or so I like to pretend!
+The Pokémon around the containers\xfffecame on ships from foreign countries...\xf000븁\x0000Or so I like to pretend!
 The taaaaall grass is waaaaay filled\xfffewith nuttin' but strong Pokémon!\xf000븁\x0000
 Hot dang!\xfffeWhat a trainer!!
 Fightin' with Pokémon in the tall grass\xfffemakes ya more 'n' more awesome!
@@ -538,7 +538,7 @@ I should have been elegant,\xfffebut I feel like I've slipped and tumbled!
 I've seen many trainers!\xf000븁\x0000The air I feel from tough trainers...\xfffeI feel from you as well!\xf000븁\x0000
 Truly!\xfffeJust as felt!
 Of course I feel your strength,\xfffealong with overflowing kindness...
-Could you be my most\xfffepowerful opponent in the vincinity?\xf000븁\x0000
+Could you be my most\xfffepowerful opponent in the vicinity?\xf000븁\x0000
 Your talent and your sense...\xfffeThey're both dazzling!
 I wonder, could the secret of\xfffeyour strength be your devotion?
 I am a waiter skilled\xfffein Pokémon battling!\xf000븁\x0000
@@ -572,7 +572,7 @@ Hiun Gym slowly unfolds!\xf000븁\x0000Just like a beautiful art piece,\xfffeor 
 A beautiful fight...\xfffe...But is it art?
 Press two switches, light two\xfffelamps, open a gate!\xf000븀\x0000This too is art!
 I love the feeling of\xfffepassing through the honey walls...\xf000븀\x0000I've done it countless times!\xf000븁\x0000
-Inexplicible...\xfffeIt's like passing through honey!
+Inexplicable...\xfffeIt's like passing through honey!
 The honey walls...\xfffeWhat are they really made of?\xf000븁\x0000Don't you find it suspicious\xfffethat Mr. Arti refuses to tell?
 How about it? This gym...\xfffeIt has a certain je ne sais quoi...\xf000븀\x0000A mysterious kind of charm, yes?\xf000븁\x0000
 You, too, have\xfffemuch charm as a trainer!
@@ -763,7 +763,7 @@ If neither of us had Pokémon,\xfffeI wouldn't be losing like this!
 What are you doing getting in our way\xfffewhen you don't know jack about our ideal?!
 I fight for the young king...\xfffeAnd that is all!\xf000븁\x0000
 My liege...\xfffeI can make no excuse.
-Nothing is changeless.\xfffeIsshu too shall be reborn.\xf000븀\x0000Why can't you SEE that?
+Nothing is changeless.\xfffeUnova too shall be reborn.\xf000븀\x0000Why can't you SEE that?
 The changing of the world\xfffewill be accompanied by pain!\xf000븁\x0000
 Ow-ow-ow...\xfffeBut I don't like pain!
 But if no one will change the world,\xfffewe must do our best to try!\xf000븁\x0000Yes! Can't you understand\xfffehow Lord N feels?!
@@ -1583,11 +1583,11 @@ Whenever anyone wins,\xfffeanother must lose.\xf000븁\x0000That is the essence 
 ...Strong as ever!\xfffeYou're making my heart leap!
 Last one! I'll shout out\xfffeall my remaining strength!
 ...Might this be the end?\xfffeI'll put my all into the next attack!
-There's no ultimate Pokémon.\xfffeNo best combination ever was...\xf000븁\x0000That's why continuous victory\xfffeis so difficult.\xf000븁\x0000But a heart that seeks strength\xfffewants to know what it is to be the strongest...\xf000븀\x0000I feel that is precious.\xf000븁\x0000And I respect you,\xfffefor you possess it.
+There's no ultimate Pokémon.\xfffeNo best combination ever was...\xf000븁\x0000That's why continuous victory\xfffeis so difficult.\xf000븁\x0000But a heart that seeks strength wants\xfffeto know what it is to be the strongest...\xf000븀\x0000I feel that is precious.\xf000븁\x0000And I respect you,\xfffefor you possess it.
 Here begins another wonderful diversion.\xfffeThis is my favorite part of all...
 At any time, I won't\xfffebe confused, and I won't clamor...
 For my Pokémon who fight with their\xfffebelief placed in me, I shall not give up!
-So far...\xfffeNo, so far and beyond...\xf000븁\x0000You'll prove to be a most elegant\xfffeand excellent trainer, you will.\xf000븁\x0000Your Pokémon carry such dignity\xfffethat it was a joy to face them.\xf000븀\x0000おあいてしていて　うれしかったわ
+So far...\xfffeNo, so far and beyond...\xf000븁\x0000You'll prove to be a most elegant\xfffeand excellent trainer, you will.\xf000븁\x0000Your Pokémon carry such dignity\xfffethat it was a joy to face them.
 ...You think you can\xfffestop us with that?!
 My final friend...\xfffeLend me your courage!
 Do you mean the world\xfffehas not chosen me, but you?!
@@ -1640,7 +1640,7 @@ Oh? Did you come to see\xfffeCynthia in her swimsuit?\xf000븁\x0000
 Why don't you get off your Pokémon\xfffeand go swimming yourself, huh?
 ...I hear that when no one's around,\xfffeCynthia secretly goes swimming.\xf000븁\x0000Talk about an awesome rumor!\xfffeOr at least, supposedly-awesome.
 The calming waves of Sazanami Town\xfffemake me feel wonderful!\xf000븁\x0000
-Your fighting style is\xfffemuch wilder, but still impessive!
+Your fighting style is\xfffemuch wilder, but still impressive!
 Floating on the waves feels great!\xfffeBeing with Pokémon feels great!
 After much study, I've learned that\xfffethe night is still full of mystery!\xf000븁\x0000
 Do I need to get along with my\xfffePokémon better? It is a mystery!
@@ -1658,7 +1658,7 @@ My moves don't got\xfffenearly enough power in 'em!
 My steps are all off!\xfffeBetter redo my lessons!
 Man, my footwork...!\xfffeIt's the worst!
 PLASMAAAAA!\xfffeI fell in the Ancient Castle...
-The strengh that brought down\xfffeLord N... I feel it in my bones! Ow!
+The strength that brought down\xfffeLord N... I feel it in my bones! Ow!
 So this is the trainer who protected\xfffeour world of coexisting with Pokémon...
 I'll hit you with everything\xfffeI've gained on this journey!
 ...My Pokémon and I will show you\xfffethe full extent of our power!

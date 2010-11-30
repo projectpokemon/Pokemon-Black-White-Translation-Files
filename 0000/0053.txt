@@ -1,4 +1,4 @@
--\xfffe-\xfffe-
+﻿-\xfffe-\xfffe-
 The best Ball with the ultimate level\xfffeof performance. It will catch any\xfffewild Pokémon without fail.
 An ultra-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a Great Ball.
 A good, high-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a standard Poké Ball.
@@ -132,7 +132,7 @@ A Cassette that if held by Genesect\xfffemakes Techno Buster become\xfffean Ice-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
--\xfffe-\xfffe-
+A very sweet chocolate.\xfffeIt restores the HP of one Pokémon\xfffeby 20 points.
 A brightly gleaming orb to be held by\xfffeDialga. It boosts the power of\xfffeDragon- and Steel-type moves.
 A beautifully glowing orb to be held by\xfffePalkia. It boosts the power of Dragon-\xfffeand Water-type moves.
 Stationery featuring a print of a\xffferefreshingly green field.\xfffeLet a Pokémon hold it for delivery.
@@ -391,7 +391,7 @@ It lightly attacks the opponent.\xfffeThe damage is larger when it is\xfffenot h
 It prevents the foe from using its\xfffeheld item. Its Trainer is also prevented\xfffefrom using items on it.
 The user explodes to inflict damage\xfffeon all Pokémon in battle.\xfffeThe user faints upon using this move.
 The user slashes with a sharp claw\xfffemade from shadows. It has a high\xfffecritical-hit ratio.
-Numerous coins are hurled\xfffeat the foe to inflict damage.\xfffeMoney is earned after battle.
+A stored attack. If the user can use\xfffethis attack after the foe attacks,\xfffeits power is doubled.
 It takes revenge for a fainted teammate.\xfffeIf a teammate is fainted that turn\xfffethe attacks power increases.
 The user charges at the foe using\xfffeevery bit of its power. The\xfffeuser must rest on the next turn.
 The user polishes its body to\xfffereduce drag. It can sharply raise\xfffethe Speed stat.
@@ -619,9 +619,9 @@ The form of Zekrom's destroyed body.\xfffeIf a hero appears holding\xfffeit, it 
 It covers itself in electricity\xfffeand crashes into the opponent.\xfffeIt also takes a little damage.
 The user hits with a punch that\xfffemay lower the target’s Defense.\xfffeIt can also smash cracked boulders.
 It yells at an opponent for a long time\xfffeand lowers their Special Attack stat.
-A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.
+A new model of transceiver\xfffethat supports video conversations\xfffebetween up to four people.
 A phantom stone.\xfffe\xfffe
 An important letter being\xfffedelivered by Wingull.\xfffe
 An important letter being\xfffedelivered by Wingull.\xfffe
 An important letter being\xfffedelivered by Wingull.\xfffe
-A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.
+A new model of transceiver\xfffethat supports video conversations\xfffebetween up to four people.

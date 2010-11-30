@@ -1,10 +1,10 @@
-●●
+﻿●●
 A wild \xf000ā\x0001\x0000 appeared!
 A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-Oh! A \xf000ā\x0001\x0000 appeared!
-A \xf000ā\x0001\x0000 appeared!
+Oh! \xf000ā\x0001\x0000 appeared!
+\xf000ā\x0001\x0000 appeared!
 A \xfffe\xf000ā\x0001\x0000 appeared\xfffein the dream!
-A \xf000ā\x0001\x0000 appeared!
+\xf000ā\x0001\x0000 appeared!
 You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
 You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
@@ -33,9 +33,9 @@ Your foe’s weak!\xfffeGet ’em, \xf000Ă\x0001\x0000!
 Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の \xf000Ā\x0001\x0001は\xfffe\xf000ĉ\x0001\x0002を つかった!
-\xf000Ā\x0001\x0000が \xf000Ă\x0001\x0001に\xfffe\xf000ĉ\x0001\x0002を シュートした!!
-いまは ミラクルシューターを\xfffeつかうことが できない!
+\xf000Ď\x0001\x0000's \xf000Ā\x0001\x0001\xfffeused a \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 shot a\xfffe\xf000ĉ\x0001\x0002 to \xf000Ă\x0001\x0001!!
+The Miracle Shooter\xfffecan't be used now!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!
@@ -96,9 +96,9 @@ The weather effect disappeared!
 The sandstorm blew wildly!
 The storm blew fiercely!
 It’s a one-hit KO!
-\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた!
-\xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない!
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか だせない!
+\xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001!
+Because of \xf000ĉ\x0001\x0000,\xfffeonly \xf000ć\x0001\x0001 can be used!
+\xf000Č\x0001\x0000 can only\xfffeuse \xf000ć\x0001\x0001!
 All stat changes were\xfffeeliminated!
 But nothing happened!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
@@ -136,10 +136,10 @@ Your team is no longer protected\xfffeby Safeguard!
 The foe is no longer protected\xfffeby Safeguard!
 Your team became\xfffeshrouded in mist!
 The foe’s team became\xfffeshrouded in mist!
-みかたを つつんでいた\xfffeしろいきりが なくなった!
-あいてを つつんでいた\xfffeしろいきりが なくなった!
-The tailwind blew from behind\xfffeyour team!
-The tailwind blew from behind\xfffethe foe!
+The mist around\xfffeyour team vanished!
+The mist around\xfffethe foe vanished!
+The tailwind blew from\xfffebehind your team!
+The tailwind blew from\xfffebehind the foe!
 Your team’s tailwind petered out!
 The foe’s tailwind petered out!
 The Lucky Chant shielded your team\xfffefrom critical hits!
@@ -181,8 +181,8 @@ Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
 An area that removes the effect\xfffeof held items was created!
 Magic Room ceased, and\xfffehold items regained their effect!
 \xf000ĉ\x0001\x0000 increased\xfffe\xf000ć\x0001\x0001's power!
-せいげんじかんが なくなりました!\xfffeたいせんを しゅうりょう します!
-しょうぶの じかんが ながすぎるため\xfffeさいせいを ちゅうだん します!
+The time limit ran out!\xfffeThe battle will be ended!
+The battle went on too long,\xfffeso playback will be suspended!
 Daruma mode activated!
 Daruma mode ceased!
 Two moves turned into one!\xfffeIt's a combination move!
@@ -195,6 +195,6 @@ Two moves turned into one!\xfffeIt's a combination move!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
 Reset Move!!
 But there's nowhere\xfffeto use this item!
-\xf000Č\x0001\x0000は フリーフォールで\xfffeじゆうに ならない!
-こうさんが えらばれました
-（\xf000Ȁ\x0001\x0000）のゆびをふる \xf000Ȃ\x0001\x0001：\xf000ć\x0001\x0002
+\xf000Č\x0001\x0000 can't act freely\xfffebecause of Freefall!
+Chose to give in.
+(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002

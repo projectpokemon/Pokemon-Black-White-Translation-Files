@@ -1,18 +1,18 @@
-\xf000Ă\x0001\x0000 fainted!
+﻿\xf000Ă\x0001\x0000 fainted!
 The wild \xf000Ă\x0001\x0000 fainted!
 The foe's \xf000Ă\x0001\x0000 fainted!
 \xf000Ă\x0001\x0000\xffferegained health!
 The wild \xf000Ă\x0001\x0000\xffferegained health!
 The foe's \xf000Ă\x0001\x0000\xffferegained health!
-It's super effective against \xf000Ă\x0001\x0000!
-It's super effective against the wild \xf000Ă\x0001\x0000!
-It's super effective against the foe's \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst the wild \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst the foe's \xf000Ă\x0001\x0000!
 It's super effective against\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the wild\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the foe's\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
-It's super effective against the wild\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
-It's super effective against the foe's\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
+It's super effective against\xfffethe wild\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
+It's super effective against\xfffethe foe's\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
+It's super effective against\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
+It's super effective against\xfffethe wild\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
+It's super effective against\xfffethe foe's\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001,\xf000븀\x0000and \xf000Ă\x0001\x0002!
 It's not very effective against\xfffe\xf000Ă\x0001\x0000...
 It's not very effective against\xfffethe wild \xf000Ă\x0001\x0000...
 It's not very effective against\xfffethe foe's \xf000Ă\x0001\x0000...
@@ -382,9 +382,9 @@ The foe's \xf000Ă\x0001\x0000\xfffewas hit with recoil!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001 was traced!
 The wild \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001 was traced!
 The foe's \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001 was traced!
-\xf000Ă\x0001\x0000's\xfffeattack was a critical hit!
-The wild \xf000Ă\x0001\x0000's\xfffeattack was a critical hit!
-The foe's \xf000Ă\x0001\x0000\xfffeattack was a critical hit!
+It's a critical hit\xfffeagainst \xf000Ă\x0001\x0000!
+It's a critical hit\xfffeagainst the wild \xf000Ă\x0001\x0000!
+It's a critical hit\xfffeagainst the foe's \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000's\xfffeHP was restored!
 The wild \xf000Ă\x0001\x0000's\xfffeHP was restored!
 The foe's \xf000Ă\x0001\x0000\xfffeHP was restored!

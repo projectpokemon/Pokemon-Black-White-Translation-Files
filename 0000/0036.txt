@@ -1,4 +1,4 @@
-Congratulations on entering\xfffethe Hall of Fame!
+﻿Congratulations on entering\xfffethe Hall of Fame!
 The End
 Congratulations on\xfffebeating the game!
 Saving...\xfffeDon't turn off the power.
